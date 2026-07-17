@@ -62,7 +62,7 @@
         },
         {
           "label": "C",
-          "text": "The ability to metastasize to distant sites"
+          "text": "The ability to metastasize"
         },
         {
           "label": "D",
@@ -288,7 +288,7 @@
         },
         {
           "label": "B",
-          "text": "The cancer cells have not breached the basement membrane and the lesion is pre-invasive"
+          "text": "The cancer cells have not breached the basement membrane"
         },
         {
           "label": "C",
@@ -1063,7 +1063,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is the first node in a regional lymphatic basin that receives lymph flow from the primary tumor"
+          "text": "It is the first node in a regional lymphatic basin"
         },
         {
           "label": "B",
@@ -1818,7 +1818,7 @@
         },
         {
           "label": "C",
-          "text": "Cells pass unchecked from G1 into S phase and proliferate"
+          "text": "Cells pass unchecked from G1 into S phase"
         },
         {
           "label": "D",
@@ -1856,7 +1856,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "MDM2 ubiquitinates p53, targeting it for proteasomal degradation"
+          "text": "MDM2 ubiquitinates p53"
         },
         {
           "label": "B",
@@ -1948,7 +1948,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It transcribes pro-apoptotic genes such as BAX, triggering the intrinsic (mitochondrial) pathway"
+          "text": "It transcribes pro-apoptotic genes such as BAX"
         },
         {
           "label": "B",
@@ -1994,7 +1994,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Beta-catenin accumulates and, with TCF/LEF, drives transcription of pro-proliferation genes"
+          "text": "Beta-catenin accumulates"
         },
         {
           "label": "B",
@@ -2361,7 +2361,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is an antibody that binds PD-1 on T cells, preventing interaction with PD-L1 on cancer cells"
+          "text": "It is an antibody that binds PD-1 on T cells"
         },
         {
           "label": "B",
@@ -2545,7 +2545,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The tumor cells lost expression of the target antigen, leaving nothing for the engineered T cells to recognize"
+          "text": "The tumor cells lost expression of the target antigen"
         },
         {
           "label": "B",
@@ -4754,7 +4754,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Longstanding inflammatory damage in the setting of chronic infection"
+          "text": "Longstanding inflammatory damage"
         },
         {
           "label": "B",
@@ -4847,7 +4847,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A substantial proportion of cases are cured following H. pylori eradication with antibiotics"
+          "text": "A substantial proportion of cases are cured following H. pylori eradication"
         },
         {
           "label": "B",
@@ -5078,7 +5078,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Stage 0 (carcinoma in situ), excellent prognosis and often curable by excision"
+          "text": "Stage 0 (carcinoma in situ), excellent prognosis"
         },
         {
           "label": "B",
@@ -5909,7 +5909,7 @@
         },
         {
           "label": "B",
-          "text": "Vascular endothelial growth factor (VEGF)"
+          "text": "Vascular endothelial growth factor"
         },
         {
           "label": "C",

@@ -606,7 +606,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Libman-Sacks nonbacterial verrucous endocarditis"
+          "text": "Libman-Sacks endocarditis"
         },
         {
           "label": "B",
@@ -652,7 +652,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Autoantibodies bind platelet glycoproteins, leading to splenic macrophage phagocytosis"
+          "text": "Autoantibodies bind platelet glycoproteins"
         },
         {
           "label": "B",
@@ -790,7 +790,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Anti-cyclic citrullinated peptide (anti-CCP)"
+          "text": "Anti-cyclic citrullinated peptide"
         },
         {
           "label": "B",
@@ -928,7 +928,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Type IV collagen of the basement membrane"
+          "text": "Type IV collagen"
         },
         {
           "label": "B",
@@ -1342,7 +1342,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Infectious (septic) arthritis with organisms present in the joint"
+          "text": "Infectious arthritis with organisms present in the joint"
         },
         {
           "label": "B",
@@ -2136,7 +2136,7 @@
         },
         {
           "label": "B",
-          "text": "Nonspecifically activating many T cells with massive cytokine release"
+          "text": "Nonspecifically activating many T cells"
         },
         {
           "label": "C",
@@ -2272,7 +2272,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Lysosomal trafficking regulator protein encoded by the LYST gene"
+          "text": "Lysosomal trafficking regulator protein"
         },
         {
           "label": "B",
@@ -2457,7 +2457,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "They activate enzymes that degrade mRNA and inhibit eIF-2 in the presence of double-stranded RNA"
+          "text": "They activate enzymes that degrade mRNA and inhibit eIF-2"
         },
         {
           "label": "B",
@@ -2831,7 +2831,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It prevents phagolysosome formation and halts acidification and reactive oxygen species production"
+          "text": "It prevents phagolysosome formation"
         },
         {
           "label": "B",
@@ -4317,7 +4317,7 @@
         },
         {
           "label": "C",
-          "text": "Absolute contraindication; the organ will not be used"
+          "text": "Absolute contraindication"
         },
         {
           "label": "D",
@@ -4815,7 +4815,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Bone marrow transplant tissue contains abundant donor T cells that attack recipient tissues"
+          "text": "Bone marrow transplant tissue contains abundant donor T cells"
         },
         {
           "label": "B",

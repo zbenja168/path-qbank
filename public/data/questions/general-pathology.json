@@ -1261,7 +1261,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibiting mitochondrial cytochrome oxidase and blocking oxidative phosphorylation"
+          "text": "Inhibiting mitochondrial cytochrome oxidase"
         },
         {
           "label": "B",
@@ -2105,7 +2105,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It blocks PD-1/PD-L1 interaction, restoring T-cell-mediated apoptosis of tumor cells"
+          "text": "It blocks PD-1/PD-L1 interaction"
         },
         {
           "label": "B",
@@ -2439,7 +2439,7 @@
         },
         {
           "label": "C",
-          "text": "Formalin-fixed paraffin embedded (FFPE) blocks"
+          "text": "Formalin-fixed paraffin embedded blocks"
         },
         {
           "label": "D",
@@ -2937,7 +2937,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased vascular permeability as endothelial cells contract and widen their junctions"
+          "text": "Increased vascular permeability"
         },
         {
           "label": "B",
@@ -3029,7 +3029,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Firm binding (adhesion) of leukocytes to the endothelium"
+          "text": "Firm binding of leukocytes to the endothelium"
         },
         {
           "label": "B",
@@ -3213,7 +3213,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Purulent (suppurative) inflammation"
+          "text": "Purulent inflammation"
         },
         {
           "label": "B",
@@ -3443,7 +3443,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Alveolar macrophages consume silica particles they cannot break down and remain stuck in a processing state"
+          "text": "Alveolar macrophages consume silica particles they cannot break down"
         },
         {
           "label": "B",
@@ -3719,7 +3719,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased resistance in the hepatic portal system causing portal hypertension"
+          "text": "Increased resistance in the hepatic portal system"
         },
         {
           "label": "B",
@@ -3769,7 +3769,7 @@
         },
         {
           "label": "B",
-          "text": "Rupture of the plaque's fibrous cap released lipids and mediators, triggering a clot that blocked the lumen"
+          "text": "Rupture of the plaque's fibrous cap released lipids and mediators, triggering a clot"
         },
         {
           "label": "C",
@@ -4041,7 +4041,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Prolonged compression compromising local blood flow and causing ischemic necrosis"
+          "text": "Prolonged compression compromising local blood flow"
         },
         {
           "label": "B",
@@ -4915,7 +4915,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased NADH relative to NAD, shifting metabolism away from fatty acid oxidation"
+          "text": "Increased NADH relative to NAD"
         },
         {
           "label": "B",
@@ -5329,7 +5329,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Mutation in the ryanodine receptor causing uncontrolled Ca2+ release"
+          "text": "Mutation in the ryanodine receptor"
         },
         {
           "label": "B",
@@ -5375,7 +5375,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ice-crystal formation and vascular injury freezing the tissue"
+          "text": "Ice-crystal formation and vascular injury"
         },
         {
           "label": "B",
@@ -5425,7 +5425,7 @@
         },
         {
           "label": "B",
-          "text": "Rapidly dividing hematopoietic progenitor cells in the marrow"
+          "text": "Hematopoietic progenitor cells in the marrow"
         },
         {
           "label": "C",
@@ -6009,7 +6009,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Case discussion (clinicopathologic correlation)"
+          "text": "Case discussion"
         },
         {
           "label": "B",
@@ -6926,7 +6926,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "An antibody forms against the heparin-platelet factor 4 complex, activating platelets"
+          "text": "An antibody forms against the heparin-platelet factor 4 complex"
         },
         {
           "label": "B",
@@ -6972,7 +6972,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "An arterial embolus originating from a mural thrombus in the heart"
+          "text": "An arterial embolus originating from a mural thrombus"
         },
         {
           "label": "B",
