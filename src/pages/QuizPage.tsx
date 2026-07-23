@@ -3,6 +3,7 @@ import { Question } from '../types/question';
 import { ProgressData, AnswerRecord, Session } from '../types/progress';
 import { QuestionCard } from '../components/Question/QuestionCard';
 import { useTimer } from '../hooks/useTimer';
+import { track } from '../utils/track';
 
 interface Props {
   questions: Question[];
@@ -42,6 +43,7 @@ export function QuizPage({
     };
 
     onRecordAnswer(currentQuestion.id, record);
+    track('question_answered');
     setSessionAnswers(prev => new Map(prev).set(currentQuestion.id, choiceLabel));
   }, [currentQuestion, timer, onRecordAnswer]);
 
@@ -64,6 +66,7 @@ export function QuizPage({
 
     if (answered.length > 0) {
       onRecordSession(session);
+      track('quiz_complete', { score: session.score, total: session.total });
     }
     onExit();
   }, [sessionAnswers, questions, sessionStart, selectedTopicIds, onRecordSession, onExit]);
@@ -85,7 +88,7 @@ export function QuizPage({
     <div className="min-h-screen bg-slate-900">
       <header className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
         <div className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
-          <h1 className="text-lg font-bold text-slate-100">CV QBank</h1>
+          <h1 className="text-lg font-bold text-slate-100">Pathology QBank</h1>
           <div className="flex items-center gap-4">
             <span className="text-sm text-slate-400">
               {sessionAnswers.size} answered
