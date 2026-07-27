@@ -10,12 +10,13 @@ interface Props {
   onRecordAnswer: (questionId: string, record: AnswerRecord) => void;
   onToggleBookmark: (questionId: string) => void;
   onBack: () => void;
+  initialMode?: ReviewMode;
 }
 
-type ReviewMode = 'bookmarked' | 'incorrect';
+export type ReviewMode = 'bookmarked' | 'incorrect';
 
-export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookmark, onBack }: Props) {
-  const [mode, setMode] = useState<ReviewMode>('bookmarked');
+export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookmark, onBack, initialMode = 'bookmarked' }: Props) {
+  const [mode, setMode] = useState<ReviewMode>(initialMode);
   const [currentIndex, setCurrentIndex] = useState(0);
   const timer = useTimer();
 

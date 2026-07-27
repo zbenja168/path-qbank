@@ -5,7 +5,7 @@ import { useQuestions } from './hooks/useQuestions';
 import { HomePage } from './pages/HomePage';
 import { QuizPage } from './pages/QuizPage';
 import { DashboardPage } from './pages/DashboardPage';
-import { ReviewPage } from './pages/ReviewPage';
+import { ReviewPage, type ReviewMode } from './pages/ReviewPage';
 import { BrandBadge } from './components/Brand';
 import { track } from './utils/track';
 import { Tier } from './utils/questionLoader';
@@ -42,7 +42,9 @@ function AppShell() {
     setPage('dashboard');
   }, [loadAllQuestions, allCategoryIds, tier]);
 
-  const handleGoToReview = useCallback(async () => {
+  const [reviewMode, setReviewMode] = useState<ReviewMode>('bookmarked');
+  const handleGoToReview = useCallback(async (mode: ReviewMode = 'bookmarked') => {
+    setReviewMode(mode);
     if (allCategoryIds.length > 0) {
       await loadAllQuestions(allCategoryIds, tier);
     }
@@ -55,6 +57,7 @@ function AppShell() {
       const hash = window.location.hash.slice(1);
       if (hash === '/dashboard') handleGoToDashboard();
       else if (hash === '/review') handleGoToReview();
+      else if (hash === '/missed') handleGoToReview('incorrect');
       else setPage('home');
     };
     window.addEventListener('hashchange', handleHash);
@@ -120,6 +123,7 @@ function AppShell() {
     case 'review':
       return (
         <ReviewPage
+          initialMode={reviewMode}
           questions={questions}
           progress={progress}
           onRecordAnswer={recordAnswer}
