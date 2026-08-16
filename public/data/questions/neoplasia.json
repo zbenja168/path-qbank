@@ -104,7 +104,7 @@
         },
         {
           "label": "B",
-          "text": "A benign tumor can compress vital structures despite being unable to metastasize"
+          "text": "A benign tumor can compress vital structures"
         },
         {
           "label": "C",
@@ -338,7 +338,7 @@
         },
         {
           "label": "C",
-          "text": "Tumor A is well-differentiated and tends to carry a better prognosis than Tumor B"
+          "text": "Tumor A is well-differentiated and tends to carry a better prognosis"
         },
         {
           "label": "D",
@@ -701,7 +701,7 @@
         },
         {
           "label": "B",
-          "text": "Portal venous blood from the colon drains into the liver as the first downstream organ"
+          "text": "Portal venous blood from the colon drains into the liver"
         },
         {
           "label": "C",
@@ -793,7 +793,7 @@
         },
         {
           "label": "B",
-          "text": "Hematogenous spread through the bloodstream"
+          "text": "Hematogenous spread"
         },
         {
           "label": "C",
@@ -1018,7 +1018,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is a low-shear system that lacks the tight junctions and basement membrane of blood vessels"
+          "text": "It lacks the tight junctions and basement membrane of blood vessels"
         },
         {
           "label": "B",
@@ -1722,7 +1722,7 @@
         },
         {
           "label": "B",
-          "text": "A germline RB1 mutation is present in all retinal cells, so only one additional hit is needed"
+          "text": "A germline RB1 mutation is present in all retinal cells"
         },
         {
           "label": "C",
@@ -3050,7 +3050,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "At least three relatives with colorectal or endometrial cancer across two successive generations, with one diagnosed before age 50"
+          "text": "At least three relatives with colorectal or endometrial cancer across two successive generations"
         },
         {
           "label": "B",
@@ -3279,7 +3279,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Homologous recombination, because it uses a homologous chromosome as a template and is accurate"
+          "text": "Homologous recombination, because it uses a homologous chromosome as a template"
         },
         {
           "label": "B",
@@ -3605,7 +3605,7 @@
         },
         {
           "label": "B",
-          "text": "Antibodies against presynaptic calcium channels on motor neurons"
+          "text": "Antibodies against presynaptic calcium channels"
         },
         {
           "label": "C",
@@ -5354,7 +5354,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "90% of patients with this cancer are alive 5 years after diagnosis"
+          "text": "90% of patients are alive 5 years after diagnosis"
         },
         {
           "label": "B",
