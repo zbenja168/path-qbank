@@ -54,7 +54,7 @@ export function QuestionCard({
   };
 
   return (
-    <div className="max-w-4xl mx-auto">
+    <div data-part="card" className="max-w-4xl mx-auto">
       {/* Header */}
       <div data-part="card-meta" className="flex items-center justify-between mb-6">
         <div className="flex items-center gap-3">
@@ -105,7 +105,11 @@ export function QuestionCard({
       </div>
 
       {/* Choices */}
-      <div data-part="choices" className="space-y-3 mb-6">
+      <div
+        data-part="choices"
+        data-last={question.choices[question.choices.length - 1]?.label}
+        className="space-y-3 mb-6"
+      >
         {question.choices.map(choice => (
           <button
             key={choice.label}
