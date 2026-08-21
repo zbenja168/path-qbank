@@ -5,6 +5,7 @@ import { TopicStat } from '../hooks/useTopicProgress';
 import { ProgressData } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
 import { BrandCard } from '../components/Brand';
+import { ProgressSummary } from '../components/ProgressSummary';
 import type { ReviewMode } from './ReviewPage';
 import { Tier } from '../utils/questionLoader';
 import { EntitlementStatus } from '../utils/entitlement';
@@ -67,13 +68,8 @@ export function HomePage({
             <h1 className="text-xl font-bold text-slate-100">Pathology QBank</h1>
             <p className="text-sm text-slate-400">Pathology Question Bank</p>
           </div>
-          <a
-            href="https://zbenja168.github.io/Resp_QBank/"
-            className="text-xs px-3 py-1.5 rounded-lg border border-slate-600 text-slate-400 hover:text-teal-400 hover:border-teal-600 transition-colors"
-          >
-            Resp QBank &rarr;
-          </a>
-          <div className="flex items-center gap-3">
+          {/* One action group; the cross-link used to float alone. */}
+          <div className="flex items-center gap-2 flex-wrap justify-end">
             {stats.total > 0 && (
               <button
                 onClick={onGoToDashboard}
@@ -99,6 +95,12 @@ export function HomePage({
                 Bookmarked ({bookmarkCount})
               </button>
             )}
+            <a
+              href="https://zbenja168.github.io/Resp_QBank/"
+              className="text-xs px-3 py-2 rounded-lg text-slate-500 hover:text-teal-400 transition-colors"
+            >
+              Resp QBank &rarr;
+            </a>
           </div>
         </div>
       </header>
@@ -199,35 +201,15 @@ export function HomePage({
           </div>
         )}
 
-        {/* Stats summary */}
-        {!locked && stats.total > 0 && (<>
-          <div className="grid grid-cols-3 gap-4 mb-8">
-            <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
-              <div className="text-2xl font-bold text-slate-200">{stats.total}</div>
-              <div className="text-sm text-slate-400">Answered</div>
-            </div>
-            <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
-              <div className="text-2xl font-bold text-green-400">{stats.percentage}%</div>
-              <div className="text-sm text-slate-400">Correct</div>
-            </div>
-            <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
-              <div className="text-2xl font-bold text-slate-200">{(topics?.totalQuestions ?? 0) - stats.total}</div>
-              <div className="text-sm text-slate-400">Remaining</div>
-            </div>
-          </div>
-          <div className="text-right">
-            <button
-              onClick={() => {
-                if (window.confirm('Clear all progress? This cannot be undone.')) {
-                  onClearProgress();
-                }
-              }}
-              className="text-sm text-red-400 hover:text-red-300 transition-colors"
-            >
-              Reset Progress
-            </button>
-          </div>
-        </>)}
+        {/* Where you are in the bank */}
+        {!locked && stats.total > 0 && (
+          <ProgressSummary
+            answered={stats.total}
+            correct={Math.round(stats.total * stats.percentage / 100)}
+            total={topics?.totalQuestions ?? stats.total}
+            onReset={onClearProgress}
+          />
+        )}
 
         {!locked && topics && (<>
         {/* Filter controls */}
@@ -255,7 +237,7 @@ export function HomePage({
         </div>
 
         {/* Start button */}
-        <div className="sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-4 pb-6">
+        <div className="sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-6 pb-6 -mx-4 px-4">
           <button
             onClick={onStartQuiz}
             disabled={selectedCount === 0}
