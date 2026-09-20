@@ -13874,11 +13874,11 @@
     },
     {
       "id": "pa24-001",
-      "stem": "A 29-year-old man has long-standing abdominal pain, diarrhea, and weight loss. Endoscopic biopsies are obtained. A duodenal biopsy shows a normal villous height-to-crypt ratio of 3:1. A biopsy of the sigmoid colon shows collections of neutrophils within colonic crypts and a nodular aggregation of histiocytes. Which of the following is the most likely diagnosis?",
+      "stem": "A 29-year-old man has a 2-year history of crampy abdominal pain, diarrhea, and a 7-kg weight loss. Endoscopy with biopsies is performed. The duodenal mucosa shows a villous height-to-crypt ratio of 3:1. A sigmoid colon biopsy shows neutrophils packed within colonic crypts and a nodular aggregate of histiocytes. Which of the following is the most likely diagnosis?",
       "choices": [
         {
           "label": "A",
-          "text": "Campylobacter jejuni infection"
+          "text": "Campylobacter jejuni enterocolitis"
         },
         {
           "label": "B",
@@ -13886,11 +13886,11 @@
         },
         {
           "label": "C",
-          "text": "Clostridioides difficile infection"
+          "text": "Clostridium difficile colitis"
         },
         {
           "label": "D",
-          "text": "Crohn's disease"
+          "text": "Crohn disease"
         },
         {
           "label": "E",
@@ -13899,197 +13899,151 @@
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "A nodular aggregate of histiocytes (non-caseating granuloma) in the bowel wall is the classic clue for Crohn's disease.",
-        "whyCorrect": "Crohn's disease is an inflammatory bowel disease that classically features nodular aggregates of histiocytes, i.e., non-caseating granulomas, and can affect any segment of the GI tract. The normal duodenal villous architecture argues against a malabsorptive enteropathy and points to a transmural granulomatous IBD.",
+        "summary": "A nodular aggregate of histiocytes is a non-caseating granuloma, the histologic hallmark of Crohn disease.",
+        "whyCorrect": "Non-caseating granulomas, seen as nodular aggregates of histiocytes, are the histologic hallmark of Crohn disease. Active disease also shows acute and chronic inflammation with crypt abscesses, which are aggregates of neutrophils within the tube-like colonic glands, and distortion of the crypts. The duodenal villous height-to-crypt ratio of 3:1 is normal, so a small-bowel enteropathy does not explain the picture.",
         "whyWrongByChoice": {
-          "A": "Campylobacter jejuni causes an acute invasive enterocolitis but does not produce granulomatous inflammation.",
-          "B": "Celiac disease produces duodenal villous atrophy with a reduced villous-to-crypt ratio; here the ratio is a normal 3:1.",
-          "C": "Clostridioides difficile causes pseudomembranous colitis without granulomas.",
-          "E": "Ulcerative colitis characteristically lacks granulomas and is limited to continuous mucosal disease of the colon and rectum."
+          "A": "Campylobacter jejuni causes invasive, often bloody diarrhea with fever, but it does not feature granulomatous inflammation.",
+          "B": "Celiac disease produces marked villous atrophy and flattening; a villous height-to-crypt ratio of 3:1 is normal.",
+          "C": "Clostridium difficile toxins damage the mucosa and produce pseudomembranes rather than granulomatous inflammation.",
+          "E": "Ulcerative colitis also produces crypt abscesses, ulceration, and architectural distortion, but it characteristically lacks granulomas."
         }
       },
-      "difficulty": "medium",
+      "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "Crohn's disease",
-        "IBD",
-        "granuloma"
+        "crohn disease",
+        "granuloma",
+        "inflammatory bowel disease"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea"
     },
     {
       "id": "pa24-002",
-      "stem": "A 24-year-old woman develops migratory joint pain, red and light-sensitive eyes, and painful urination about two weeks after an episode of bloody diarrhea. Which of the following pathogens was most likely responsible for her preceding gastrointestinal illness?",
+      "stem": "A 34-year-old woman has 6 months of diarrhea, bloating, and fatigue that worsen after meals containing wheat. Duodenal biopsy shows blunted villi with a dense intraepithelial CD8+ T-cell infiltrate and enterocyte damage. Gliadin is thought to trigger release of a cytokine that stimulates these CD8+ T cells. Which cytokine is responsible for that early step?",
       "choices": [
         {
           "label": "A",
-          "text": "Campylobacter jejuni"
+          "text": "Interferon-gamma"
         },
         {
           "label": "B",
-          "text": "Cytomegalovirus"
+          "text": "Interleukin-10"
         },
         {
           "label": "C",
-          "text": "Escherichia coli O157:H7"
+          "text": "Interleukin-15"
         },
         {
           "label": "D",
-          "text": "Giardia lamblia"
+          "text": "Interleukin-4"
         },
         {
           "label": "E",
-          "text": "Herpes simplex virus"
+          "text": "Tumor necrosis factor-alpha"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "Reactive arthritis (arthritis, conjunctivitis, urethritis) after diarrhea is a classic sequela of Campylobacter jejuni.",
-        "whyCorrect": "Campylobacter jejuni infection is an important trigger of reactive arthritis, an immune-mediated triad of joint pain, conjunctivitis (light sensitivity), and urethritis (painful urination) that follows the enteric infection.",
+        "summary": "In celiac disease, gliadin triggers IL-15 release, which stimulates CD8+ T cells and injures enterocytes.",
+        "whyCorrect": "Gliadin, a constituent of the grain protein gluten, can trigger release of IL-15 in susceptible patients. IL-15 stimulates CD8+ T cells, and the resulting inflammation damages enterocytes. That damage allows more gliadin to reach the lamina propria, where gliadin-derived peptides engage HLA-DQ2 or HLA-DQ8 class II molecules and recruit CD4+ T cells for further injury.",
         "whyWrongByChoice": {
-          "B": "Cytomegalovirus can involve the eye and GI tract in immunocompromised hosts, but post-infectious reactive arthritis would be highly unusual.",
-          "C": "Escherichia coli O157:H7 causes bloody diarrhea and may trigger hemolytic uremic syndrome, not reactive arthritis.",
-          "D": "Giardia lamblia causes malabsorption with greasy stools and is not associated with reactive arthritis.",
-          "E": "Herpes simplex virus can cause mucosal ulceration but does not classically produce reactive arthritis."
+          "A": "Interferon-gamma activates macrophages, but the gliadin-triggered cytokine that stimulates CD8+ T cells in this enteropathy is IL-15.",
+          "B": "Interleukin-10 is an anti-inflammatory cytokine and would not drive the CD8+ T-cell activation that injures enterocytes here.",
+          "D": "Interleukin-4 drives B-cell responses and class switching; it is not the cytokine released by gliadin to stimulate CD8+ T cells.",
+          "E": "Tumor necrosis factor-alpha is a general mediator of inflammation, not the specific gliadin-triggered stimulus for CD8+ T cells."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "Campylobacter",
-        "reactive arthritis",
-        "infectious diarrhea"
+        "celiac disease",
+        "gliadin",
+        "cytokine"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea"
     },
     {
       "id": "pa24-003",
-      "stem": "A 27-year-old man has several months of bloody diarrhea and tenesmus. Colonoscopy shows continuous mucosal inflammation extending proximally from the rectum without intervening areas of normal mucosa. Biopsies show crypt abscesses limited to the mucosa and superficial submucosa, without granulomas. Which of the following is the most likely diagnosis?",
+      "stem": "A 22-year-old woman has chronic diarrhea and iron deficiency. Duodenal biopsy shows villous atrophy, and her symptoms and histology resolve on a gluten-free diet. Her younger brother is now being evaluated, and HLA typing is ordered. Which pair of alleles is most strongly associated with her condition?",
       "choices": [
         {
           "label": "A",
-          "text": "Celiac disease"
+          "text": "HLA-DQ2 and HLA-DQ8"
         },
         {
           "label": "B",
-          "text": "Crohn's disease"
+          "text": "HLA-DR2 and HLA-DR3"
         },
         {
           "label": "C",
-          "text": "Cytomegalovirus colitis"
+          "text": "HLA-A3 and HLA-B8"
         },
         {
           "label": "D",
-          "text": "Giardiasis"
+          "text": "HLA-DR4 and HLA-DR1"
         },
         {
           "label": "E",
-          "text": "Ulcerative colitis"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Continuous colonic inflammation limited to the mucosa/superficial submucosa without granulomas is ulcerative colitis.",
-        "whyCorrect": "Ulcerative colitis is limited to the colon and rectum and shows continuous involvement of the mucosa and superficial submucosa, typically with crypt abscesses and without granulomas.",
-        "whyWrongByChoice": {
-          "A": "Celiac disease affects the small bowel with villous atrophy, not the colon with continuous mucosal colitis.",
-          "B": "Crohn's disease produces skip lesions, transmural inflammation, and non-caseating granulomas rather than continuous superficial disease.",
-          "C": "CMV colitis occurs in immunocompromised patients and shows owl's eye viral inclusions, not this pattern.",
-          "D": "Giardiasis is a small-bowel protozoal infection causing malabsorption, not a chronic continuous colitis."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "ulcerative colitis",
-        "IBD",
-        "crypt abscess"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-004",
-      "stem": "A 35-year-old woman has chronic diarrhea, bloating, and iron-deficiency anemia that improve when she removes wheat, barley, and rye from her diet. Duodenal biopsy shows flattened villi with crypt hyperplasia and increased intraepithelial lymphocytes. Which of the following best explains the intestinal injury?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "An immune response to gliadin"
-        },
-        {
-          "label": "B",
-          "text": "Bacterial invasion of the colonic mucosa"
-        },
-        {
-          "label": "C",
-          "text": "Non-caseating granulomatous inflammation"
-        },
-        {
-          "label": "D",
-          "text": "Owl's eye viral inclusions in endothelial cells"
-        },
-        {
-          "label": "E",
-          "text": "Protozoal colonization of the small-bowel lumen"
+          "text": "HLA-B27 and HLA-B7"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Celiac disease results from an immune response to gliadin (a gluten protein) that damages the duodenal mucosa.",
-        "whyCorrect": "Celiac disease results from intestinal inflammation triggered by an immune response to gliadin, a constituent of the grain protein gluten, producing tissue damage and duodenal villous atrophy; symptoms resolve with gluten avoidance.",
+        "summary": "Celiac disease is associated with the MHC class II alleles HLA-DQ2 and HLA-DQ8.",
+        "whyCorrect": "Once gliadin reaches the lamina propria, gliadin-derived peptides are presented by HLA-DQ2 or HLA-DQ8 MHC class II molecules. That presentation stimulates CD4+ T cells, generating the additional inflammation and tissue damage that produce villous atrophy.",
         "whyWrongByChoice": {
-          "B": "Bacterial mucosal invasion describes infectious colitis, not the gluten-driven small-bowel enteropathy shown here.",
-          "C": "Granulomatous inflammation is characteristic of Crohn's disease, not celiac disease.",
-          "D": "Owl's eye inclusions are seen in cytomegalovirus infection.",
-          "E": "Luminal protozoal colonization describes giardiasis, which does not cause immune villous atrophy responsive to gluten withdrawal."
+          "B": "HLA-DR2 is associated with Goodpasture syndrome and systemic lupus erythematosus rather than gluten-sensitive enteropathy.",
+          "C": "Neither allele is among the class II molecules that present gliadin peptides to CD4+ T cells in this disease.",
+          "D": "HLA-DR4 is associated with rheumatoid arthritis and has no role in presenting gliadin peptides.",
+          "E": "HLA-B27 is the allele linked to reactive arthritis, inflammatory bowel disease-associated arthritis, and ankylosing spondylitis."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
         "celiac disease",
-        "gliadin",
-        "villous atrophy"
+        "HLA",
+        "MHC class II"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea"
     },
     {
-      "id": "pa24-005",
-      "stem": "A 40-year-old man with biopsy-proven celiac disease develops an intensely itchy, grouped vesicular rash over the extensor surfaces of his elbows and knees. Skin biopsy with immunofluorescence shows granular IgA deposits at the dermal papillae. Which of the following is the most likely diagnosis?",
+      "id": "pa24-004",
+      "stem": "A 31-year-old man with biopsy-proven celiac disease develops intensely itchy, grouped blisters over both elbows, the upper back, and the buttocks. Skin biopsy shows separation of the epithelium from the basement membrane. The IgA antibodies responsible are directed against dietary gluten but cross-react with a connective tissue protein that anchors the epidermal basement membrane. Which protein is that target?",
       "choices": [
         {
           "label": "A",
-          "text": "Anterior uveitis with eye pain"
+          "text": "Desmoglein 3"
         },
         {
           "label": "B",
-          "text": "Dermatitis herpetiformis"
+          "text": "Laminin 332"
         },
         {
           "label": "C",
-          "text": "Erythema nodosum of the shins"
+          "text": "Plectin"
         },
         {
           "label": "D",
-          "text": "Psoriasis with silvery scale"
+          "text": "Reticulin"
         },
         {
           "label": "E",
-          "text": "Pyoderma gangrenosum of the leg"
+          "text": "Type VII collagen"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Dermatitis herpetiformis is an IgA-mediated blistering skin disease associated with celiac disease.",
-        "whyCorrect": "Dermatitis herpetiformis is a blistering, IgA-mediated condition seen in association with celiac disease when the patient develops IgA antibodies that cross-react with reticulin, a connective tissue protein; it typically involves extensor surfaces and shows granular IgA deposits.",
+        "summary": "Dermatitis herpetiformis results from IgA antibodies to gluten that cross-react with reticulin in the skin.",
+        "whyCorrect": "In dermatitis herpetiformis, patients develop IgA antibodies to dietary gluten that cross-react with reticulin, a connective tissue protein important in anchoring the epidermal basement membrane. The IgA-mediated damage produces subepidermal blisters, classically on extensor surfaces as well as the upper back and buttocks.",
         "whyWrongByChoice": {
-          "A": "Uveitis is an intraocular inflammatory manifestation, not a skin disease.",
-          "C": "Erythema nodosum presents as tender subcutaneous nodules on the shins, not pruritic extensor vesicles with IgA deposition.",
-          "D": "Psoriasis produces well-demarcated silvery-scaled plaques and lacks papillary IgA deposits.",
-          "E": "Pyoderma gangrenosum forms rapidly enlarging ulcers with undermined borders, not grouped vesicles."
+          "A": "Desmoglein 3 is an intercellular desmosomal protein, not the basement membrane anchoring protein targeted in this celiac-associated blistering disease.",
+          "B": "Laminin 332 resides in the lamina lucida and is not the cross-reactive target of the gluten-directed IgA.",
+          "C": "Plectin is a hemidesmosomal linker protein and is unrelated to the IgA cross-reactivity described here.",
+          "E": "Type VII collagen forms anchoring fibrils but is not the reticulin target implicated in dermatitis herpetiformis."
         }
       },
       "difficulty": "medium",
@@ -14097,6 +14051,52 @@
       "tags": [
         "dermatitis herpetiformis",
         "celiac disease",
+        "IgA"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-005",
+      "stem": "A 28-year-old woman with chronic diarrhea and duodenal villous flattening develops grouped erythematous vesicles over the extensor surfaces of both elbows. Perilesional skin is submitted for direct immunofluorescence. Which finding is most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granular IgA at the tips of the dermal papillae"
+        },
+        {
+          "label": "B",
+          "text": "Granular IgM around the follicular openings"
+        },
+        {
+          "label": "C",
+          "text": "Intercellular IgG in a net-like epidermal pattern"
+        },
+        {
+          "label": "D",
+          "text": "Linear IgA along the epidermal basement membrane"
+        },
+        {
+          "label": "E",
+          "text": "Linear IgG along the dermoepidermal junction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dermatitis herpetiformis shows granular IgA deposits at the tips of the dermal papillae.",
+        "whyCorrect": "Dermatitis herpetiformis is an IgA-mediated condition associated with celiac disease. Microscopically there is separation of the epithelium from the basement membrane, producing a subepidermal blister, and immunofluorescence demonstrates granular IgA deposits at the tips of the dermal papillae.",
+        "whyWrongByChoice": {
+          "B": "Granular IgM at follicular openings is not the described finding; the immunoglobulin class in this disease is IgA.",
+          "C": "An intercellular net-like pattern reflects antibodies against desmosomal proteins, not the papillary-tip deposits seen here.",
+          "D": "The deposits in dermatitis herpetiformis are granular and confined to the papillary tips rather than a continuous linear band.",
+          "E": "A linear IgG band is not the pattern of this IgA-mediated disease, in which the deposits are granular and of IgA class."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dermatitis herpetiformis",
+        "immunofluorescence",
         "IgA"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
@@ -14104,823 +14104,41 @@
     },
     {
       "id": "pa24-006",
-      "stem": "A 44-year-old man with AIDS and a CD4 count of 30 cells/microliter has fever, abdominal pain, and watery diarrhea. Colonoscopy shows mucosal ulcers, and biopsy reveals enlarged cells containing large intranuclear inclusions with a surrounding clear halo (owl's eye appearance). Which of the following is the most likely cause?",
+      "stem": "A 27-year-old woman has chronic diarrhea, fatigue, and weight loss, and groups of erythematous blisters over both elbows. Duodenal biopsy shows flattening of the villi with loss of the normal finger-like projections. Which of the following is the cornerstone of her management?",
       "choices": [
         {
           "label": "A",
-          "text": "Campylobacter jejuni"
+          "text": "Lifelong avoidance of dietary gluten"
         },
         {
           "label": "B",
-          "text": "Celiac disease"
+          "text": "Lifelong avoidance of dietary lactose"
         },
         {
           "label": "C",
-          "text": "Cytomegalovirus"
+          "text": "Long-term oral metronidazole therapy"
         },
         {
           "label": "D",
-          "text": "Escherichia coli O157:H7"
+          "text": "Long-term systemic corticosteroid therapy"
         },
         {
           "label": "E",
-          "text": "Giardia lamblia"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Owl's eye intranuclear inclusions in an immunocompromised patient with colitis indicate cytomegalovirus.",
-        "whyCorrect": "Cytomegalovirus causes colitis in immunocompromised patients, and its viral cytopathic effect produces characteristic owl's eye intranuclear inclusions that are an important clue to an infectious etiology.",
-        "whyWrongByChoice": {
-          "A": "Campylobacter jejuni produces acute invasive enterocolitis without viral inclusion bodies.",
-          "B": "Celiac disease is a non-infectious gluten enteropathy of the small bowel and does not produce inclusions.",
-          "D": "Escherichia coli O157:H7 causes bloody diarrhea and hemolytic uremic syndrome, not owl's eye inclusions.",
-          "E": "Giardia lamblia is a luminal protozoan causing malabsorption, not intranuclear inclusions."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "cytomegalovirus",
-        "owl's eye",
-        "immunocompromised"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-007",
-      "stem": "A 52-year-old man who received a kidney transplant has odynophagia and diarrhea. Endoscopic biopsy of an esophageal ulcer edge shows epithelial cells with multinucleation, nuclear molding, and margination of chromatin. Which of the following pathogens is most consistent with these findings?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Campylobacter jejuni"
-        },
-        {
-          "label": "B",
-          "text": "Cytomegalovirus"
-        },
-        {
-          "label": "C",
-          "text": "Giardia lamblia"
-        },
-        {
-          "label": "D",
-          "text": "Herpes simplex virus"
-        },
-        {
-          "label": "E",
-          "text": "Salmonella species"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Multinucleation, nuclear molding, and chromatin margination are the cytopathic hallmarks of herpes simplex virus.",
-        "whyCorrect": "Herpes simplex virus infection produces multinucleation, nuclear molding, and chromatin margination, and these viral cytopathic changes are an important clue to an infectious etiology, particularly in immunocompromised patients.",
-        "whyWrongByChoice": {
-          "A": "Campylobacter jejuni is a bacterium and does not cause viral cytopathic changes.",
-          "B": "Cytomegalovirus produces single large owl's eye intranuclear inclusions rather than multinucleation with molding.",
-          "C": "Giardia lamblia is a protozoan causing luminal small-bowel infection, not nuclear cytopathic effects.",
-          "E": "Salmonella species cause invasive enterocolitis without these nuclear inclusion features."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "herpes simplex virus",
-        "cytopathic effect",
-        "immunocompromised"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-008",
-      "stem": "A 6-year-old girl develops bloody diarrhea several days after eating an undercooked hamburger. Over the next week she becomes pale and lethargic with decreasing urine output. Laboratory studies show anemia with schistocytes, thrombocytopenia, and rising creatinine. Infection with which of the following organisms most likely triggered this complication?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Campylobacter jejuni enteritis"
-        },
-        {
-          "label": "B",
-          "text": "Cytomegalovirus colitis"
-        },
-        {
-          "label": "C",
-          "text": "Escherichia coli O157:H7"
-        },
-        {
-          "label": "D",
-          "text": "Giardia lamblia infection"
-        },
-        {
-          "label": "E",
-          "text": "Herpes simplex virus type 1"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "E. coli O157:H7 causes bloody diarrhea and can trigger hemolytic uremic syndrome.",
-        "whyCorrect": "Escherichia coli O157:H7 is an important cause of bloody diarrhea (dysentery) and may trigger hemolytic uremic syndrome, the triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury described here.",
-        "whyWrongByChoice": {
-          "A": "Campylobacter jejuni is associated with reactive arthritis and Guillain-Barre syndrome, not hemolytic uremic syndrome.",
-          "B": "Cytomegalovirus causes colitis in immunocompromised patients, not post-diarrheal hemolytic uremic syndrome.",
-          "D": "Giardia lamblia causes malabsorptive, greasy diarrhea without hematologic or renal complications.",
-          "E": "Herpes simplex virus causes mucosal ulceration, not hemolytic uremic syndrome."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "E. coli O157:H7",
-        "hemolytic uremic syndrome",
-        "infectious diarrhea"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-009",
-      "stem": "A 30-year-old man returns from a two-week backcountry camping trip where he drank from a mountain stream. He now has two weeks of bloating, foul-smelling greasy stools that float, and weight loss. Stool studies suggest malabsorption. Which of the following organisms is the most likely cause?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Campylobacter jejuni"
-        },
-        {
-          "label": "B",
-          "text": "Cytomegalovirus"
-        },
-        {
-          "label": "C",
-          "text": "Escherichia coli O157:H7"
-        },
-        {
-          "label": "D",
-          "text": "Giardia lamblia"
-        },
-        {
-          "label": "E",
-          "text": "Shigella species"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Greasy, foul-smelling malabsorptive stools after drinking untreated water suggest Giardia lamblia.",
-        "whyCorrect": "Giardia lamblia infections result in malabsorption and greasy stools; the organism colonizes the small bowel and is classically acquired from contaminated freshwater sources.",
-        "whyWrongByChoice": {
-          "A": "Campylobacter jejuni causes an acute invasive, often bloody enterocolitis rather than chronic steatorrhea.",
-          "B": "Cytomegalovirus colitis occurs in immunocompromised hosts, not in a healthy camper with malabsorption.",
-          "C": "Escherichia coli O157:H7 causes acute bloody diarrhea and hemolytic uremic syndrome, not greasy malabsorptive stools.",
-          "E": "Shigella species cause an acute invasive dysentery with bloody, mucoid stools, not malabsorption."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "Giardia",
-        "malabsorption",
-        "steatorrhea"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-010",
-      "stem": "A 32-year-old man develops rapidly progressive, symmetric ascending weakness and areflexia about three weeks after a self-limited diarrheal illness. Cerebrospinal fluid shows elevated protein with a normal cell count. A preceding infection with which of the following organisms is most classically associated with this neurologic syndrome?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Campylobacter jejuni"
-        },
-        {
-          "label": "B",
-          "text": "Cytomegalovirus"
-        },
-        {
-          "label": "C",
-          "text": "Giardia lamblia"
-        },
-        {
-          "label": "D",
-          "text": "Herpes simplex virus"
-        },
-        {
-          "label": "E",
-          "text": "Ulcerative colitis"
+          "text": "Surgical resection of the affected bowel"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Guillain-Barre syndrome after diarrhea is a classic sequela of Campylobacter jejuni infection.",
-        "whyCorrect": "An important potential consequence of Campylobacter jejuni infection is Guillain-Barre syndrome (along with reactive arthritis); the post-infectious immune response produces ascending paralysis with albuminocytologic dissociation in the cerebrospinal fluid.",
+        "summary": "Avoidance of gluten is the mainstay of treatment for celiac disease and its associated dermatitis herpetiformis.",
+        "whyCorrect": "This patient has celiac disease, in which an immune response to gliadin produces duodenal villous atrophy and malabsorption, with dermatitis herpetiformis as a blistering extraintestinal manifestation. Because gliadin is the trigger, avoidance of dietary gluten is the cornerstone of treatment.",
         "whyWrongByChoice": {
-          "B": "Cytomegalovirus causes colitis in immunocompromised hosts and is not the classic diarrheal trigger of Guillain-Barre syndrome in this vignette.",
-          "C": "Giardia lamblia causes malabsorption, not a post-infectious demyelinating polyneuropathy.",
-          "D": "Herpes simplex virus causes mucosal ulceration, not this ascending paralysis after enteritis.",
-          "E": "Ulcerative colitis is a non-infectious inflammatory bowel disease and does not trigger Guillain-Barre syndrome."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "Campylobacter",
-        "Guillain-Barre syndrome",
-        "infectious diarrhea"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-011",
-      "stem": "A 26-year-old woman with a several-year history of ulcerative colitis develops fatigue, pruritus, and jaundice. Laboratory studies show a markedly elevated alkaline phosphatase, and cholangiography shows a beaded pattern of intrahepatic and extrahepatic bile ducts. Which of the following extraintestinal manifestations of inflammatory bowel disease is most likely present?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Ankylosing spondylitis of the spine"
-        },
-        {
-          "label": "B",
-          "text": "Anterior uveitis of the eye"
-        },
-        {
-          "label": "C",
-          "text": "Erythema nodosum on the shins"
-        },
-        {
-          "label": "D",
-          "text": "Migratory peripheral polyarthritis"
-        },
-        {
-          "label": "E",
-          "text": "Primary sclerosing cholangitis"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Cholestasis with a beaded bile-duct pattern in an IBD patient indicates primary sclerosing cholangitis.",
-        "whyCorrect": "Both Crohn's disease and ulcerative colitis are associated with extraintestinal manifestations, including primary sclerosing cholangitis; it produces cholestatic liver disease with inflammation and fibrosis of the bile ducts, giving a beaded (strictured) appearance on cholangiography, and is most strongly linked with ulcerative colitis.",
-        "whyWrongByChoice": {
-          "A": "Ankylosing spondylitis is an axial inflammatory arthritis and would not cause cholestatic jaundice or beaded bile ducts.",
-          "B": "Uveitis is an ocular manifestation and does not explain the hepatobiliary findings.",
-          "C": "Erythema nodosum is a skin manifestation of tender shin nodules, not a biliary disease.",
-          "D": "Migratory polyarthritis affects peripheral joints, not the biliary tree."
+          "B": "Lactose is not the trigger in this disease; the inflammation is driven by gliadin, a constituent of the grain protein gluten.",
+          "C": "Metronidazole targets infectious causes of diarrhea and does nothing for an immune response directed against a dietary protein.",
+          "D": "Systemic steroids are not the mainstay here, because withdrawing the inciting dietary antigen reverses the enteropathy.",
+          "E": "Resection is not indicated, since the villous atrophy is an immune response to a dietary antigen rather than a focal lesion."
         }
       },
       "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "extraintestinal manifestations",
-        "primary sclerosing cholangitis",
-        "ulcerative colitis"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-012",
-      "stem": "A pathologist compares two resected bowel specimens from patients with inflammatory bowel disease. Specimen 1 shows patchy segments of thickened bowel wall with intervening normal areas, deep fissuring ulcers extending through all layers, and non-caseating granulomas. Specimen 2 shows continuous ulceration confined to the mucosa of the colon. Which of the following best characterizes Specimen 1?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Celiac disease with flattening of the duodenal villi"
-        },
-        {
-          "label": "B",
-          "text": "Crohn's disease with transmural, skip-lesion inflammation"
-        },
-        {
-          "label": "C",
-          "text": "Cytomegalovirus colitis with owl's eye viral inclusions"
-        },
-        {
-          "label": "D",
-          "text": "Giardiasis with trophozoites in the small-bowel lumen"
-        },
-        {
-          "label": "E",
-          "text": "Ulcerative colitis with continuous, mucosa-limited inflammation"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Skip lesions, transmural inflammation, and non-caseating granulomas define Crohn's disease.",
-        "whyCorrect": "Crohn's disease can affect any portion of the GI tract and is characterized by skip lesions, non-caseating granulomas, and transmural inflammation, exactly the pattern in Specimen 1.",
-        "whyWrongByChoice": {
-          "A": "Celiac disease affects the small-bowel mucosa with villous atrophy, not transmural granulomatous colonic disease.",
-          "C": "CMV colitis is an infectious process marked by owl's eye viral inclusions, not skip lesions and granulomas.",
-          "D": "Giardiasis is a luminal small-bowel protozoal infection and does not cause transmural granulomatous inflammation.",
-          "E": "Ulcerative colitis, shown in Specimen 2, is continuous and limited to the mucosa/superficial submucosa without granulomas."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Crohn's disease",
-        "ulcerative colitis",
-        "IBD comparison"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-013",
-      "stem": "A gastroenterologist explains to a medical student that inflammatory bowel disease is a group of gastrointestinal disorders of complex pathogenesis. Which of the following pairs represents the two major disorders in this group?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Celiac disease and dermatitis herpetiformis"
-        },
-        {
-          "label": "B",
-          "text": "Celiac disease and giardiasis"
-        },
-        {
-          "label": "C",
-          "text": "Crohn's disease and Clostridioides difficile colitis"
-        },
-        {
-          "label": "D",
-          "text": "Crohn's disease and ulcerative colitis"
-        },
-        {
-          "label": "E",
-          "text": "Ulcerative colitis and celiac disease"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "The two major inflammatory bowel disorders are Crohn's disease and ulcerative colitis.",
-        "whyCorrect": "Inflammatory bowel disease (IBD) is a group of gastrointestinal disorders with contributions from immune regulation, host-microbe interactions, and genetic susceptibility, and its two major forms are Crohn's disease and ulcerative colitis.",
-        "whyWrongByChoice": {
-          "A": "Celiac disease is a gluten-triggered enteropathy and dermatitis herpetiformis is its associated IgA-mediated skin disease; neither is classified as IBD.",
-          "B": "Giardiasis is a protozoal infection producing malabsorption, and celiac disease is not an IBD.",
-          "C": "Clostridioides difficile colitis is an infectious enterocolitis, not an immune-related inflammatory bowel disease.",
-          "E": "Ulcerative colitis is an IBD, but celiac disease is an immune response to dietary gliadin, not an inflammatory bowel disease."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "IBD",
-        "Crohn's disease",
-        "ulcerative colitis"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-014",
-      "stem": "A 22-year-old woman is diagnosed with Crohn's disease. Her older brother was diagnosed with the same condition at age 19, and she asks why two siblings would develop the disease. Which of the following contributors to the pathogenesis of inflammatory bowel disease best accounts for this family clustering?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Exposure to dietary gliadin"
-        },
-        {
-          "label": "B",
-          "text": "Genetic susceptibility"
-        },
-        {
-          "label": "C",
-          "text": "IgA antibodies cross-reacting with reticulin"
-        },
-        {
-          "label": "D",
-          "text": "Ingestion of contaminated freshwater"
-        },
-        {
-          "label": "E",
-          "text": "Viral cytopathic effect in mucosal cells"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Genetic susceptibility is one of the recognized contributors to the complex pathogenesis of IBD.",
-        "whyCorrect": "Inflammatory bowel disease has a complex pathogenesis that includes contributions from immune regulation, host-microbe interactions, and genetic susceptibility; clustering of Crohn's disease in siblings reflects the genetic component.",
-        "whyWrongByChoice": {
-          "A": "An immune response to gliadin is the trigger of celiac disease, not Crohn's disease.",
-          "C": "IgA antibodies that cross-react with reticulin underlie dermatitis herpetiformis in celiac disease, not familial IBD.",
-          "D": "Contaminated freshwater is the classic source of Giardia lamblia infection, an infectious rather than immune-related cause of diarrhea.",
-          "E": "Viral cytopathic effects (owl's eye inclusions, multinucleation) indicate cytomegalovirus or herpes simplex virus infection, not IBD."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "IBD",
-        "pathogenesis",
-        "genetic susceptibility"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-015",
-      "stem": "A 31-year-old man with chronic abdominal pain and diarrhea undergoes colonoscopy, which shows ulcerated segments in the terminal ileum and the ascending colon separated by normal-appearing mucosa. Which of the following additional histologic features is most likely to be present in the diseased segments?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Continuous involvement beginning at the rectal margin"
-        },
-        {
-          "label": "B",
-          "text": "Flattening of the duodenal villi with crypt hyperplasia"
-        },
-        {
-          "label": "C",
-          "text": "Inflammation confined to the mucosa and submucosa"
-        },
-        {
-          "label": "D",
-          "text": "Inflammation extending through the full bowel wall"
-        },
-        {
-          "label": "E",
-          "text": "Owl's eye intranuclear viral inclusion bodies"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Skip lesions in the ileum and colon indicate Crohn's disease, which produces transmural inflammation.",
-        "whyCorrect": "Crohn's disease can affect any portion of the GI tract and is characterized by skip lesions, non-caseating granulomas, and transmural inflammation; discontinuous ileal and colonic disease therefore predicts inflammation through the full thickness of the wall.",
-        "whyWrongByChoice": {
-          "A": "Continuous involvement is characteristic of ulcerative colitis; the skip pattern here argues against it.",
-          "B": "Duodenal villous flattening (villous atrophy) is the lesion of celiac disease, not Crohn's disease.",
-          "C": "Inflammation limited to the mucosa and superficial submucosa is the pattern of ulcerative colitis, not Crohn's disease.",
-          "E": "Owl's eye inclusions are the cytopathic hallmark of cytomegalovirus infection in immunocompromised patients."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Crohn's disease",
-        "transmural inflammation",
-        "skip lesions"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-016",
-      "stem": "A pathologist examines a total colectomy specimen from a 34-year-old woman with long-standing ulcerative colitis. Which of the following best describes the expected depth of inflammatory involvement of the bowel wall?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Deep submucosa and muscularis propria"
-        },
-        {
-          "label": "B",
-          "text": "Full thickness of the wall"
-        },
-        {
-          "label": "C",
-          "text": "Mucosa and superficial submucosa"
-        },
-        {
-          "label": "D",
-          "text": "Muscularis propria only"
-        },
-        {
-          "label": "E",
-          "text": "Serosa only"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Ulcerative colitis involves the mucosa and superficial submucosa.",
-        "whyCorrect": "Ulcerative colitis is limited to the colon and rectum and shows continuous involvement of the mucosa and superficial submucosa, in contrast to the transmural inflammation of Crohn's disease.",
-        "whyWrongByChoice": {
-          "A": "Ulcerative colitis stays superficial; it does not target the deep submucosa and muscularis propria.",
-          "B": "Full-thickness (transmural) inflammation characterizes Crohn's disease, not ulcerative colitis.",
-          "D": "The muscularis propria is not the primary site of injury in ulcerative colitis.",
-          "E": "Isolated serosal inflammation is not the pattern of ulcerative colitis, which is a mucosal disease."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "ulcerative colitis",
-        "depth of inflammation",
-        "IBD"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-017",
-      "stem": "A 25-year-old man with a known inflammatory bowel disease develops painful swallowing. Endoscopy shows esophageal ulcers, and biopsy reveals non-caseating granulomas with no viral inclusions. Which of the following is the most likely underlying diagnosis?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Celiac disease"
-        },
-        {
-          "label": "B",
-          "text": "Crohn's disease"
-        },
-        {
-          "label": "C",
-          "text": "Cytomegalovirus esophagitis"
-        },
-        {
-          "label": "D",
-          "text": "Herpes simplex virus esophagitis"
-        },
-        {
-          "label": "E",
-          "text": "Ulcerative colitis"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Granulomatous disease in the esophagus of an IBD patient points to Crohn's disease, which can involve any portion of the GI tract.",
-        "whyCorrect": "Crohn's disease can affect any portion of the GI tract, including the esophagus, and is characterized by non-caseating granulomas, so an IBD patient with granulomatous esophageal ulcers most likely has Crohn's disease.",
-        "whyWrongByChoice": {
-          "A": "Celiac disease causes duodenal villous atrophy from an immune response to gliadin; it is not an IBD and does not produce granulomas.",
-          "C": "Cytomegalovirus produces owl's eye intranuclear inclusions rather than granulomas.",
-          "D": "Herpes simplex virus produces multinucleation, nuclear molding, and chromatin margination, not granulomas; no viral inclusions were seen.",
-          "E": "Ulcerative colitis is limited to the colon and rectum and does not form granulomas, so esophageal granulomas exclude it."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Crohn's disease",
-        "esophagus",
-        "granuloma"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-018",
-      "stem": "A 28-year-old man with Crohn's disease reports one year of low back pain and morning stiffness that improves with activity. Imaging shows inflammatory changes of the sacroiliac joints and spine. Which of the following extraintestinal manifestations of inflammatory bowel disease is most likely?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Ankylosing spondylitis"
-        },
-        {
-          "label": "B",
-          "text": "Dermatitis herpetiformis"
-        },
-        {
-          "label": "C",
-          "text": "Migratory polyarthritis"
-        },
-        {
-          "label": "D",
-          "text": "Primary sclerosing cholangitis"
-        },
-        {
-          "label": "E",
-          "text": "Uveitis"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Inflammatory axial back pain with sacroiliitis in an IBD patient is ankylosing spondylitis.",
-        "whyCorrect": "Both Crohn's disease and ulcerative colitis are known for extraintestinal manifestations including ankylosing spondylitis, an inflammatory disease of the spine and sacroiliac joints that produces chronic back pain and stiffness.",
-        "whyWrongByChoice": {
-          "B": "Dermatitis herpetiformis is an IgA-mediated skin disease associated with celiac disease, not IBD.",
-          "C": "Migratory polyarthritis affects peripheral joints that change over time, not the sacroiliac joints and spine.",
-          "D": "Primary sclerosing cholangitis is a biliary manifestation and does not cause back pain or sacroiliitis.",
-          "E": "Uveitis is an ocular manifestation of IBD."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "extraintestinal manifestations",
-        "ankylosing spondylitis",
-        "Crohn's disease"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-019",
-      "stem": "A 30-year-old woman with ulcerative colitis develops pain, redness, and light sensitivity in her left eye. She has had no recent diarrheal infection, joint symptoms, or urinary complaints. Which of the following is the most likely diagnosis?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Conjunctivitis of reactive arthritis"
-        },
-        {
-          "label": "B",
-          "text": "Cytomegalovirus retinitis"
-        },
-        {
-          "label": "C",
-          "text": "Guillain-Barre syndrome"
-        },
-        {
-          "label": "D",
-          "text": "Herpes simplex keratitis"
-        },
-        {
-          "label": "E",
-          "text": "Uveitis"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Uveitis is an extraintestinal ocular manifestation of inflammatory bowel disease.",
-        "whyCorrect": "Both Crohn's disease and ulcerative colitis are associated with extraintestinal manifestations, and uveitis is the characteristic ocular manifestation; a painful, red, photophobic eye in a patient with ulcerative colitis fits this diagnosis.",
-        "whyWrongByChoice": {
-          "A": "The conjunctivitis of reactive arthritis follows an enteric infection such as Campylobacter jejuni and occurs with joint pain and painful urination, none of which is present.",
-          "B": "Cytomegalovirus disease occurs in immunocompromised patients and is not the eye manifestation of ulcerative colitis.",
-          "C": "Guillain-Barre syndrome is a post-Campylobacter neurologic syndrome, not an eye condition.",
-          "D": "Herpes simplex virus causes mucosal disease with characteristic cytopathic changes; it is not an extraintestinal manifestation of IBD."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "extraintestinal manifestations",
-        "uveitis",
-        "ulcerative colitis"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-020",
-      "stem": "A 36-year-old man with Crohn's disease reports six weeks of joint pain that began in the right knee, resolved, then appeared in the left ankle, and now involves the right wrist. He has had no recent infectious diarrhea, eye symptoms, or painful urination. Which of the following best explains his joint symptoms?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Ankylosing spondylitis"
-        },
-        {
-          "label": "B",
-          "text": "Dermatitis herpetiformis"
-        },
-        {
-          "label": "C",
-          "text": "Guillain-Barre syndrome"
-        },
-        {
-          "label": "D",
-          "text": "Migratory polyarthritis of inflammatory bowel disease"
-        },
-        {
-          "label": "E",
-          "text": "Reactive arthritis after Campylobacter jejuni infection"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Joint pain that moves from one peripheral joint to another in an IBD patient is migratory polyarthritis, an extraintestinal manifestation.",
-        "whyCorrect": "Both Crohn's disease and ulcerative colitis are known for extraintestinal manifestations that include migratory polyarthritis; the shifting involvement of knee, ankle, and wrist without an antecedent enteric infection fits this manifestation.",
-        "whyWrongByChoice": {
-          "A": "Ankylosing spondylitis involves the spine and sacroiliac joints rather than migrating peripheral joints.",
-          "B": "Dermatitis herpetiformis is a blistering skin disease associated with celiac disease and does not cause arthritis.",
-          "C": "Guillain-Barre syndrome is a neurologic complication of Campylobacter infection, not an arthritis.",
-          "E": "Reactive arthritis is an immune-mediated triad of joint pain, conjunctivitis, and urethritis that follows Campylobacter jejuni infection; there was no preceding infection, eye symptom, or painful urination."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "extraintestinal manifestations",
-        "migratory polyarthritis",
-        "Crohn's disease"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-021",
-      "stem": "A physician reviews the systemic conditions that can accompany immune-related causes of diarrhea. Which of the following is associated with celiac disease rather than with inflammatory bowel disease?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Ankylosing spondylitis"
-        },
-        {
-          "label": "B",
-          "text": "Dermatitis herpetiformis"
-        },
-        {
-          "label": "C",
-          "text": "Migratory polyarthritis"
-        },
-        {
-          "label": "D",
-          "text": "Primary sclerosing cholangitis"
-        },
-        {
-          "label": "E",
-          "text": "Uveitis"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Dermatitis herpetiformis is the IgA-mediated skin condition associated with celiac disease; the other listed conditions are extraintestinal manifestations of IBD.",
-        "whyCorrect": "Dermatitis herpetiformis is an IgA-mediated blistering disease seen in association with celiac disease when the patient develops IgA antibodies that cross-react with reticulin, whereas primary sclerosing cholangitis, ankylosing spondylitis, migratory polyarthritis, and uveitis are the extraintestinal manifestations of Crohn's disease and ulcerative colitis.",
-        "whyWrongByChoice": {
-          "A": "Ankylosing spondylitis is an extraintestinal manifestation of Crohn's disease and ulcerative colitis.",
-          "C": "Migratory polyarthritis is an extraintestinal manifestation of IBD.",
-          "D": "Primary sclerosing cholangitis is an extraintestinal manifestation of IBD.",
-          "E": "Uveitis is an extraintestinal manifestation of IBD."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "celiac disease",
-        "dermatitis herpetiformis",
-        "extraintestinal manifestations"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-022",
-      "stem": "A 38-year-old woman with celiac disease develops an intensely pruritic blistering eruption. Skin biopsy confirms dermatitis herpetiformis. The IgA antibodies responsible for her skin disease cross-react with which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Colonic crypt neutrophils"
-        },
-        {
-          "label": "B",
-          "text": "Gliadin"
-        },
-        {
-          "label": "C",
-          "text": "Histiocytes within granulomas"
-        },
-        {
-          "label": "D",
-          "text": "Intestinal villous epithelium"
-        },
-        {
-          "label": "E",
-          "text": "Reticulin"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Dermatitis herpetiformis arises when celiac patients develop IgA antibodies that cross-react with reticulin, a connective tissue protein.",
-        "whyCorrect": "Dermatitis herpetiformis, a blistering disease, may be seen in association with celiac disease if the patient develops IgA antibodies that cross-react with reticulin, an important connective tissue protein.",
-        "whyWrongByChoice": {
-          "A": "Neutrophil collections in colonic crypts are a feature of inflammatory bowel disease, not the target of the antibodies in dermatitis herpetiformis.",
-          "B": "Gliadin, a constituent of gluten, is the dietary trigger of the intestinal immune response in celiac disease; the skin disease is explained by cross-reactivity with reticulin.",
-          "C": "Granuloma histiocytes are a feature of Crohn's disease and are unrelated to dermatitis herpetiformis.",
-          "D": "The villous epithelium is damaged in celiac disease, but the skin lesions of dermatitis herpetiformis are attributed to antibodies cross-reacting with reticulin."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "dermatitis herpetiformis",
-        "reticulin",
-        "IgA"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-023",
-      "stem": "A 27-year-old woman with chronic diarrhea and bloating has a duodenal biopsy showing villous atrophy, and celiac disease is diagnosed. Which of the following is the mainstay of treatment?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Antiviral therapy"
-        },
-        {
-          "label": "B",
-          "text": "Avoidance of dairy products"
-        },
-        {
-          "label": "C",
-          "text": "Avoidance of dietary gluten"
-        },
-        {
-          "label": "D",
-          "text": "Oral antibiotic therapy"
-        },
-        {
-          "label": "E",
-          "text": "Surgical resection of the duodenum"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Avoidance of dietary gluten is the mainstay of celiac disease treatment.",
-        "whyCorrect": "Celiac disease results from an immune response to gliadin, a constituent of the grain protein gluten, so removing gluten from the diet removes the trigger and is the mainstay of treatment.",
-        "whyWrongByChoice": {
-          "A": "Antiviral therapy is relevant to cytomegalovirus or herpes simplex virus disease in immunocompromised patients, not celiac disease.",
-          "B": "Dairy avoidance does not address the gliadin-driven immune injury of celiac disease.",
-          "D": "Antibiotics treat bacterial enterocolitis; celiac disease is an immune reaction to a dietary protein, not an infection.",
-          "E": "Celiac disease is treated by dietary gluten avoidance, not by resecting the duodenum."
-        }
-      },
-      "difficulty": "easy",
       "imageRef": null,
       "tags": [
         "celiac disease",
@@ -14931,526 +14149,250 @@
       "topicName": "Immune-related and Infectious Causes of Diarrhea"
     },
     {
-      "id": "pa24-024",
-      "stem": "A 33-year-old man has chronic diarrhea, weight loss, and bloating that worsen after eating bread and pasta. Celiac disease is suspected. Endoscopic biopsy of which of the following sites is most likely to demonstrate the characteristic villous atrophy?",
+      "id": "pa24-007",
+      "stem": "A 40-year-old woman has several months of diarrhea, bloating, and fatigue. Serologic evaluation supports gluten-sensitive enteropathy, and duodenal biopsies are obtained. Which histologic finding is most expected?",
       "choices": [
         {
           "label": "A",
-          "text": "Cecum"
+          "text": "Non-caseating granulomas in the lamina propria"
         },
         {
           "label": "B",
-          "text": "Duodenum"
+          "text": "Owl's eye intranuclear viral inclusions"
         },
         {
           "label": "C",
-          "text": "Esophagus"
+          "text": "Pseudomembranes of fibrin and neutrophils"
         },
         {
           "label": "D",
-          "text": "Rectum"
+          "text": "Transmural inflammation with fissuring ulcers"
         },
         {
           "label": "E",
-          "text": "Sigmoid colon"
+          "text": "Villous atrophy with flattening of the mucosa"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Celiac disease produces duodenal villous atrophy.",
-        "whyCorrect": "Celiac disease results from intestinal inflammation triggered by an immune response to gliadin, resulting in tissue damage and duodenal villous atrophy; the duodenum is therefore the site to biopsy.",
+        "summary": "Celiac disease produces marked duodenal villous atrophy in place of the normal villous height-to-crypt ratio of at least 3:1.",
+        "whyCorrect": "Adult patients with celiac disease present with diarrhea, bloating, and fatigue. The ongoing gliadin-driven inflammation destroys enterocytes, and the normal finger-like duodenal villi are replaced by a flattened mucosa. Instead of a normal villous height-to-crypt ratio of at least 3:1, marked villous atrophy is seen.",
         "whyWrongByChoice": {
-          "A": "The cecum is colonic and not the site of celiac villous atrophy.",
-          "C": "The esophagus has no villi and is not the site of celiac injury.",
-          "D": "The rectum is involved in ulcerative colitis; it has no villi to become atrophic.",
-          "E": "The sigmoid colon is a site of ulcerative colitis or Crohn's colitis, not celiac villous atrophy."
+          "A": "Nodular histiocyte aggregates are the hallmark of Crohn disease and are not part of the celiac disease biopsy.",
+          "B": "Large intranuclear inclusions indicate cytomegalovirus infection, typically in immunosuppressed patients.",
+          "C": "Adherent fibrinopurulent membranes reflect toxin-mediated injury from Clostridium difficile rather than gluten sensitivity.",
+          "D": "Inflammation through the full thickness of the bowel wall is a feature of Crohn disease, not of a gliadin-driven enteropathy."
         }
       },
-      "difficulty": "easy",
+      "difficulty": "medium",
       "imageRef": null,
       "tags": [
         "celiac disease",
-        "duodenum",
-        "villous atrophy"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-025",
-      "stem": "A 40-year-old woman with chronic diarrhea and weight loss undergoes upper and lower endoscopy. The duodenal biopsy report states a villous height-to-crypt ratio of 3:1. Which of the following is the most accurate interpretation of this duodenal finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Crypt abscesses consistent with ulcerative colitis"
-        },
-        {
-          "label": "B",
-          "text": "Cytopathic changes consistent with cytomegalovirus"
-        },
-        {
-          "label": "C",
-          "text": "Granulomatous inflammation consistent with Crohn's disease"
-        },
-        {
-          "label": "D",
-          "text": "Normal villous architecture arguing against celiac disease"
-        },
-        {
-          "label": "E",
-          "text": "Villous atrophy consistent with celiac disease"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "A duodenal villous height-to-crypt ratio of 3:1 is normal and argues against celiac disease.",
-        "whyCorrect": "Celiac disease causes villous atrophy and flattening with a reduced villous height-to-crypt ratio; a 3:1 ratio indicates normal villous height, so this biopsy does not support celiac disease and the diarrhea must be explained by another process.",
-        "whyWrongByChoice": {
-          "A": "Crypt abscesses are collections of neutrophils in colonic crypts; a villous ratio is a small-bowel measurement and says nothing about crypt abscesses.",
-          "B": "Cytomegalovirus is recognized by owl's eye inclusions, not by villous architecture.",
-          "C": "Granulomas are nodular aggregates of histiocytes; a normal villous ratio does not indicate granulomatous inflammation.",
-          "E": "Villous atrophy would lower the villous height-to-crypt ratio; 3:1 is normal, not atrophic."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "celiac disease",
-        "villous-to-crypt ratio",
+        "villous atrophy",
         "histology"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea"
     },
     {
-      "id": "pa24-026",
-      "stem": "A 29-year-old woman with celiac disease has bulky, foul-smelling stools and has lost weight despite a normal appetite. Which of the following histologic changes best accounts for her malabsorption?",
+      "id": "pa24-008",
+      "stem": "A 24-year-old man is diagnosed with Crohn disease after presenting with chronic diarrhea, right lower quadrant pain, and weight loss. Although this disorder can involve any portion of the gastrointestinal tract from the mouth to the anus, which region is most commonly affected?",
       "choices": [
         {
           "label": "A",
-          "text": "Crypt abscesses in the colon"
+          "text": "Esophagus and gastric cardia"
         },
         {
           "label": "B",
-          "text": "Non-caseating granulomas in the ileum"
+          "text": "Gastric antrum and duodenum"
         },
         {
           "label": "C",
-          "text": "Owl's eye inclusions in the colon"
+          "text": "Jejunum and proximal ileum"
         },
         {
           "label": "D",
-          "text": "Transmural inflammation of the colon"
+          "text": "Rectum and sigmoid colon"
         },
         {
           "label": "E",
-          "text": "Villous atrophy of the duodenum"
+          "text": "Terminal ileum and cecum"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Duodenal villous atrophy in celiac disease results in malabsorption.",
-        "whyCorrect": "In celiac disease, the immune response to gliadin causes tissue damage and duodenal villous atrophy, which results in malabsorption and the associated steatorrhea and weight loss.",
+        "summary": "Crohn disease can involve any part of the gut but most commonly affects the terminal ileum, ileocecal valve, and cecum.",
+        "whyCorrect": "Crohn disease may affect any portion of the gastrointestinal tract, including the mouth and anus, but it most commonly involves the terminal ileum, the ileocecal valve, and the cecum. This distribution explains the right lower quadrant pain and is one of the features that distinguishes it from ulcerative colitis.",
         "whyWrongByChoice": {
-          "A": "Crypt abscesses are a colonic feature of inflammatory bowel disease and do not cause small-bowel malabsorption.",
-          "B": "Non-caseating granulomas are a feature of Crohn's disease, not celiac disease.",
-          "C": "Owl's eye inclusions indicate cytomegalovirus infection in immunocompromised patients.",
-          "D": "Transmural colonic inflammation characterizes Crohn's disease and is not the lesion of celiac disease."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "celiac disease",
-        "malabsorption",
-        "villous atrophy"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-027",
-      "stem": "A 24-year-old man returns from a hiking trip with two weeks of bloating and greasy, foul-smelling stools. Stool examination identifies Giardia lamblia. The clinical picture of this infection most closely resembles which of the following immune-related causes of diarrhea?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Celiac disease"
-        },
-        {
-          "label": "B",
-          "text": "Crohn's disease"
-        },
-        {
-          "label": "C",
-          "text": "Dermatitis herpetiformis"
-        },
-        {
-          "label": "D",
-          "text": "Reactive arthritis"
-        },
-        {
-          "label": "E",
-          "text": "Ulcerative colitis"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Both Giardia lamblia infection and celiac disease present with malabsorption and greasy stools.",
-        "whyCorrect": "Giardia lamblia infections result in malabsorption and greasy stools, and celiac disease likewise produces malabsorption through duodenal villous atrophy; the two therefore overlap clinically even though one is infectious and the other immune-mediated.",
-        "whyWrongByChoice": {
-          "B": "Crohn's disease is a transmural granulomatous inflammatory bowel disease rather than a primarily malabsorptive steatorrheal illness.",
-          "C": "Dermatitis herpetiformis is a blistering skin disease, not a diarrheal presentation.",
-          "D": "Reactive arthritis is a post-infectious triad of joint pain, conjunctivitis, and urethritis, not a malabsorptive diarrhea.",
-          "E": "Ulcerative colitis is a continuous mucosal colitis of the colon and rectum, not a malabsorptive small-bowel process."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "Giardia",
-        "celiac disease",
-        "malabsorption"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-028",
-      "stem": "A public health student is classifying causes of diarrhea as immune-related or infectious. Which of the following is an infectious cause of enterocolitis?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Celiac disease"
-        },
-        {
-          "label": "B",
-          "text": "Crohn's disease"
-        },
-        {
-          "label": "C",
-          "text": "Dermatitis herpetiformis"
-        },
-        {
-          "label": "D",
-          "text": "Shigella species"
-        },
-        {
-          "label": "E",
-          "text": "Ulcerative colitis"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Shigella is one of the bacterial pathogens that cause infectious enterocolitis.",
-        "whyCorrect": "Infectious enterocolitis can result in diarrhea and can be caused by many pathogens including Escherichia coli, Salmonella, Shigella, Campylobacter, and cytomegalovirus in immunocompromised patients.",
-        "whyWrongByChoice": {
-          "A": "Celiac disease is an immune response to dietary gliadin, not an infection.",
-          "B": "Crohn's disease is an inflammatory bowel disease of complex immune, microbial, and genetic pathogenesis, not an infection.",
-          "C": "Dermatitis herpetiformis is an IgA-mediated skin disease associated with celiac disease.",
-          "E": "Ulcerative colitis is an immune-related inflammatory bowel disease."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "infectious enterocolitis",
-        "Shigella",
-        "classification"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-029",
-      "stem": "A 26-year-old man develops pain in several joints and red, light-sensitive eyes three weeks after a diarrheal illness caused by Campylobacter jejuni. Which of the following additional symptoms would complete the classic triad of his post-infectious syndrome?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Ascending weakness"
-        },
-        {
-          "label": "B",
-          "text": "Greasy, foul-smelling stools"
-        },
-        {
-          "label": "C",
-          "text": "Jaundice"
-        },
-        {
-          "label": "D",
-          "text": "Painful urination"
-        },
-        {
-          "label": "E",
-          "text": "Pruritic vesicular rash"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Reactive arthritis after Campylobacter infection is the triad of joint pain, conjunctivitis, and urethritis.",
-        "whyCorrect": "Campylobacter jejuni infections are associated with reactive arthritis, an immune-mediated triad of joint pain, conjunctivitis (producing light sensitivity), and urethritis (producing painful urination).",
-        "whyWrongByChoice": {
-          "A": "Ascending weakness describes Guillain-Barre syndrome, a separate consequence of Campylobacter infection, not part of the reactive arthritis triad.",
-          "B": "Greasy stools indicate malabsorption, as in Giardia lamblia infection or celiac disease.",
-          "C": "Jaundice suggests hepatobiliary disease such as primary sclerosing cholangitis in IBD, not reactive arthritis.",
-          "E": "A pruritic vesicular rash describes dermatitis herpetiformis, which is associated with celiac disease."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Campylobacter",
-        "reactive arthritis",
-        "triad"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-030",
-      "stem": "A 31-year-old woman develops knee and ankle pain, conjunctivitis, and dysuria two weeks after recovering from Campylobacter jejuni enteritis. Aspiration of the knee yields sterile fluid. Which of the following best explains the pathogenesis of her joint disease?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Direct bacterial invasion and replication within the synovium"
-        },
-        {
-          "label": "B",
-          "text": "IgA antibodies cross-reacting with reticulin in the dermis"
-        },
-        {
-          "label": "C",
-          "text": "Immune-mediated reaction following the enteric infection"
-        },
-        {
-          "label": "D",
-          "text": "Non-caseating granulomatous inflammation of the joint synovium"
-        },
-        {
-          "label": "E",
-          "text": "Viral cytopathic injury of the synovial lining cells"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Reactive arthritis is an immune-mediated post-infectious syndrome rather than a joint infection.",
-        "whyCorrect": "Campylobacter jejuni infections are associated with reactive arthritis, an immune-mediated triad of joint pain, conjunctivitis, and urethritis that develops after the enteric infection; the sterile joint fluid supports an immune rather than directly infectious process.",
-        "whyWrongByChoice": {
-          "A": "Direct bacterial invasion would produce an infected joint with organisms in the fluid, which is not the mechanism of reactive arthritis.",
-          "B": "IgA antibodies cross-reacting with reticulin explain dermatitis herpetiformis in celiac disease.",
-          "D": "Non-caseating granulomas are the hallmark of Crohn's disease, not reactive arthritis.",
-          "E": "Viral cytopathic changes such as owl's eye inclusions or nuclear molding belong to cytomegalovirus and herpes simplex virus disease, not reactive arthritis."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "Campylobacter",
-        "reactive arthritis",
-        "immune-mediated"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-031",
-      "stem": "A 7-year-old boy develops bloody diarrhea four days after eating an undercooked hamburger at a picnic. Stool culture grows Escherichia coli O157:H7. Over the following week, which of the following complications should be most closely monitored for?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Dermatitis herpetiformis"
-        },
-        {
-          "label": "B",
-          "text": "Guillain-Barre syndrome"
-        },
-        {
-          "label": "C",
-          "text": "Hemolytic uremic syndrome"
-        },
-        {
-          "label": "D",
-          "text": "Primary sclerosing cholangitis"
-        },
-        {
-          "label": "E",
-          "text": "Reactive arthritis"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Escherichia coli O157:H7 dysentery may be followed by hemolytic uremic syndrome.",
-        "whyCorrect": "Escherichia coli O157:H7 is an important cause of bloody diarrhea (dysentery) and may trigger hemolytic uremic syndrome, so a child with confirmed infection should be watched for this complication.",
-        "whyWrongByChoice": {
-          "A": "Dermatitis herpetiformis is the skin disease associated with celiac disease.",
-          "B": "Guillain-Barre syndrome follows Campylobacter jejuni infection.",
-          "D": "Primary sclerosing cholangitis is an extraintestinal manifestation of inflammatory bowel disease.",
-          "E": "Reactive arthritis is a post-infectious complication of Campylobacter jejuni, not E. coli O157:H7."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "E. coli O157:H7",
-        "hemolytic uremic syndrome",
-        "complication"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-032",
-      "stem": "A 48-year-old man with long-standing ulcerative colitis treated with immunosuppressive therapy develops worsening bloody diarrhea and fever. Colonic biopsy shows enlarged cells containing large intranuclear inclusions surrounded by a clear halo. Which of the following is the most appropriate interpretation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Flare of ulcerative colitis with crypt abscesses"
-        },
-        {
-          "label": "B",
-          "text": "Herpes simplex virus colitis"
-        },
-        {
-          "label": "C",
-          "text": "Superimposed Campylobacter jejuni infection"
-        },
-        {
-          "label": "D",
-          "text": "Superimposed cytomegalovirus infection"
-        },
-        {
-          "label": "E",
-          "text": "Transformation to Crohn's disease"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Owl's eye inclusions in an immunosuppressed IBD patient are a clue to a superimposed cytomegalovirus infection rather than a simple disease flare.",
-        "whyCorrect": "Cytomegalovirus causes colitis in immunocompromised patients, and viral cytopathic inclusions such as owl's eye inclusions are an important clue to an infectious etiology in immunocompromised patients with gastrointestinal disease; this patient's immunosuppression makes CMV colitis the correct interpretation of the inclusions.",
-        "whyWrongByChoice": {
-          "A": "An ulcerative colitis flare would show crypt abscesses and mucosal inflammation without viral inclusions; the inclusions indicate infection.",
-          "B": "Herpes simplex virus produces multinucleation, nuclear molding, and chromatin margination rather than a single large intranuclear inclusion with a halo.",
-          "C": "Campylobacter jejuni is a bacterial pathogen and does not produce intranuclear viral inclusions.",
-          "E": "Crohn's disease is recognized by skip lesions, transmural inflammation, and non-caseating granulomas, none of which is described."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cytomegalovirus",
-        "immunocompromised",
-        "ulcerative colitis"
-      ],
-      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
-    },
-    {
-      "id": "pa24-033",
-      "stem": "Cytomegalovirus is listed among the causes of infectious enterocolitis. In which of the following patient groups does cytomegalovirus characteristically cause diarrheal disease?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Children who eat undercooked ground beef"
-        },
-        {
-          "label": "B",
-          "text": "Hikers who drink untreated stream water"
-        },
-        {
-          "label": "C",
-          "text": "Hospitalized patients receiving antibiotics"
-        },
-        {
-          "label": "D",
-          "text": "Immunocompromised patients"
-        },
-        {
-          "label": "E",
-          "text": "Patients who consume wheat, barley, and rye"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Cytomegalovirus causes enterocolitis in immunocompromised patients.",
-        "whyCorrect": "Infectious enterocolitis can be caused by many pathogens, and cytomegalovirus is specifically a cause in immunocompromised patients, in whom its owl's eye inclusions serve as a clue to an infectious etiology.",
-        "whyWrongByChoice": {
-          "A": "Undercooked beef is the classic source of Escherichia coli O157:H7 infection.",
-          "B": "Untreated freshwater exposure is the classic setting for Giardia lamblia infection.",
-          "C": "Antibiotic exposure is the setting for Clostridioides difficile infection, a bacterial enterocolitis.",
-          "E": "Wheat, barley, and rye contain gluten, the trigger of celiac disease, not a viral infection."
+          "A": "Esophageal and cardia involvement is possible given the full gastrointestinal range of the disease but is not the usual site.",
+          "B": "Gastroduodenal involvement can occur in Crohn disease but is far less common than ileocecal disease.",
+          "C": "Proximal small-bowel disease occurs but is not the classic distribution that defines this disorder.",
+          "D": "Rectal and distal colonic disease with continuous proximal extension is the pattern of ulcerative colitis."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "cytomegalovirus",
-        "immunocompromised",
-        "infectious enterocolitis"
+        "crohn disease",
+        "distribution",
+        "terminal ileum"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea"
     },
     {
-      "id": "pa24-034",
-      "stem": "A pathologist reviews an esophageal ulcer biopsy from a bone marrow transplant recipient and identifies a single enlarged cell with a large intranuclear inclusion and a surrounding clear halo, consistent with cytomegalovirus. Which of the following findings, if present instead, would indicate herpes simplex virus?",
+      "id": "pa24-009",
+      "stem": "A 26-year-old man with Crohn disease develops feculent drainage from a perianal opening and, several months later, obstructive symptoms from a narrowed segment of terminal ileum. At operation, the serosa of the involved bowel is erythematous. Which feature of his disease best explains these complications?",
       "choices": [
         {
           "label": "A",
-          "text": "Collections of neutrophils within epithelial crypts"
+          "text": "Continuous involvement of the colonic mucosa"
         },
         {
           "label": "B",
-          "text": "Flattened villi with a reduced villous-to-crypt ratio"
+          "text": "Inflammation spanning the entire bowel wall"
         },
         {
           "label": "C",
-          "text": "Multinucleated cells with nuclear molding and margination"
+          "text": "Superficial ulceration limited to the mucosa"
         },
         {
           "label": "D",
-          "text": "Nodular aggregates of histiocytes in the lamina propria"
+          "text": "Toxin-mediated injury of surface enterocytes"
         },
         {
           "label": "E",
-          "text": "Transmural inflammation with intervening skip areas"
+          "text": "Villous atrophy from an immune response to gliadin"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "Herpes simplex virus is recognized by multinucleation, nuclear molding, and chromatin margination, in contrast to the single owl's eye inclusion of cytomegalovirus.",
-        "whyCorrect": "Viral cytopathic inclusions are important clues to an infectious etiology in immunocompromised patients: cytomegalovirus produces owl's eye inclusions, whereas herpes simplex virus produces multinucleation, nuclear molding, and chromatin margination.",
+        "summary": "Transmural inflammation in Crohn disease produces strictures, fistula tracts, perforations, and serositis.",
+        "whyCorrect": "The inflammation of Crohn disease is transmural, meaning it involves the entire thickness of the bowel wall. As a result, patients may develop strictures, which are areas of pathologic narrowing, fistula tracts, which are abnormal connections between organs, and even perforations. Because the process reaches the serosa, erythematous serositis is seen.",
         "whyWrongByChoice": {
-          "A": "Neutrophils in crypts (crypt abscesses) are a feature of inflammatory bowel disease.",
-          "B": "Flattened villi indicate the villous atrophy of celiac disease.",
-          "D": "Non-caseating granulomas are a feature of Crohn's disease, not a viral cytopathic effect.",
-          "E": "Transmural inflammation with skip lesions characterizes Crohn's disease."
+          "A": "Continuous mucosal involvement describes ulcerative colitis, which does not typically produce fistulas or strictures.",
+          "C": "Disease confined to the mucosa and superficial submucosa is the pattern of ulcerative colitis and spares the deeper wall.",
+          "D": "Toxin-mediated surface injury produces pseudomembranes, not the deep tracts and fibrotic narrowing described here.",
+          "E": "An immune response to gliadin flattens duodenal villi and causes malabsorption rather than fistulas and strictures."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "herpes simplex virus",
-        "cytomegalovirus",
-        "cytopathic effect"
+        "crohn disease",
+        "transmural inflammation",
+        "fistula"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea"
     },
     {
-      "id": "pa24-035",
-      "stem": "A pathology report on a colonic biopsy from a patient with chronic diarrhea describes a nodular aggregation of histiocytes within the bowel wall. Which of the following terms best describes this finding?",
+      "id": "pa24-010",
+      "stem": "A colectomy specimen from a 38-year-old woman shows red, granular mucosa extending continuously from the rectum to the splenic flexure, with inflammatory pseudopolyps and a sharp demarcation from uninvolved mucosa. Histology shows crypt abscesses and inflammation limited to the mucosa and superficial submucosa. Which additional gross finding is most expected?",
       "choices": [
         {
           "label": "A",
-          "text": "Duodenal villous atrophy"
+          "text": "A fibrotic stricture of the terminal ileum"
         },
         {
           "label": "B",
-          "text": "Gross skip lesion of bowel"
+          "text": "A normal-appearing serosal surface"
         },
         {
           "label": "C",
-          "text": "Neutrophilic crypt abscess"
+          "text": "Erythematous serositis of the bowel"
+        },
+        {
+          "label": "D",
+          "text": "Free perforation with fecal peritonitis"
+        },
+        {
+          "label": "E",
+          "text": "Multiple enteroenteric fistula tracts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because ulcerative colitis spares the deeper wall, the serosal surface appears normal.",
+        "whyCorrect": "In ulcerative colitis the inflammation is limited to the mucosa and superficial submucosa rather than being transmural. As a consequence, strictures, perforations, and fistulas would be unusual, and the serosal surface appears normal, in direct contrast to Crohn disease.",
+        "whyWrongByChoice": {
+          "A": "This disorder is limited to the colon and rectum, and fibrotic narrowing of the ileum is not part of its picture.",
+          "C": "Serosal inflammation indicates that disease has reached the outer wall, which is characteristic of Crohn disease instead.",
+          "D": "Perforation follows transmural injury and would be unusual in a process confined to the mucosa and superficial submucosa.",
+          "E": "Abnormal connections between bowel loops require inflammation through the full wall thickness, which this disease lacks."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ulcerative colitis",
+        "serosa",
+        "gross pathology"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-011",
+      "stem": "A resected ileal segment from a 33-year-old man with Crohn disease has a gross mucosal surface that resembles cobblestones. Which of the following best explains this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circumferential fibrous scars contracting the bowel into rings"
+        },
+        {
+          "label": "B",
+          "text": "Continuous mucosal inflammation extending from the rectum"
+        },
+        {
+          "label": "C",
+          "text": "Diseased mucosa separated by intervening uninvolved mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Regenerating islands of mucosa left by confluent ulceration"
+        },
+        {
+          "label": "E",
+          "text": "Submucosal lymphoid follicles enlarged by chronic antigen load"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cobblestone appearance of Crohn disease comes from diseased mucosa alternating with intervening uninvolved mucosa.",
+        "whyCorrect": "Crohn disease classically presents as skip lesions, areas of disease separated by uninvolved mucosa. Grossly this produces a surface resembling cobblestones, because diseased mucosa is interrupted by intervening non-involved mucosa. Aphthous ulcers in the bowel may also coalesce into linear, rake-like ulcers.",
+        "whyWrongByChoice": {
+          "A": "Fibrous narrowing produces a stricture, a separate complication of transmural inflammation, rather than a cobblestone surface.",
+          "B": "Continuous inflammation spreading proximally from the rectum characterizes ulcerative colitis, which does not cobblestone.",
+          "D": "Islands of regenerating mucosa describe inflammatory pseudopolyps, a non-specific finding seen in both forms of the disease.",
+          "E": "Enlarged submucosal lymphoid aggregates are not the basis of the cobblestone pattern described in this disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "crohn disease",
+        "skip lesions",
+        "cobblestoning"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-012",
+      "stem": "A colonic biopsy from a 30-year-old patient with active inflammatory bowel disease shows aggregates of neutrophils filling the tube-like glands of the colon, with distortion of those glands. What is this finding called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aphthous ulcer"
+        },
+        {
+          "label": "B",
+          "text": "Crypt abscess"
+        },
+        {
+          "label": "C",
+          "text": "Inflammatory pseudopolyp"
         },
         {
           "label": "D",
@@ -15458,72 +14400,1130 @@
         },
         {
           "label": "E",
-          "text": "Owl's eye viral inclusion"
+          "text": "Owl's eye inclusion"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "A nodular aggregate of histiocytes is a non-caseating granuloma, the classic histologic feature of Crohn's disease.",
-        "whyCorrect": "Crohn's disease classically features nodular aggregates of histiocytes, which are non-caseating granulomas; recognizing this description is key to distinguishing Crohn's disease from ulcerative colitis, which lacks granulomas.",
+        "summary": "A crypt abscess is an aggregate of neutrophils within a colonic crypt, a marker of active inflammatory bowel disease.",
+        "whyCorrect": "Crypt abscesses are aggregates of neutrophils within colonic crypts, the tube-like glands of the colon, and they mark active disease. As a result of the inflammation the crypts also become distorted. Crypt abscesses are seen in both Crohn disease and ulcerative colitis.",
         "whyWrongByChoice": {
-          "A": "Villous atrophy is the flattening of duodenal villi in celiac disease.",
-          "B": "A skip lesion describes the gross distribution of Crohn's disease (diseased segments separated by normal bowel), not a microscopic histiocyte aggregate.",
-          "C": "A crypt abscess is a collection of neutrophils within a colonic crypt, not an aggregate of histiocytes.",
-          "E": "An owl's eye inclusion is an intranuclear viral inclusion of cytomegalovirus."
+          "A": "An aphthous ulcer is a shallow surface ulceration of mucosa, seen in the mouth and the bowel in Crohn disease.",
+          "C": "A pseudopolyp is a gross projection of inflamed or regenerating mucosa rather than a collection of neutrophils in a gland.",
+          "D": "A nodular aggregate of histiocytes, not neutrophils within glands, defines the granuloma characteristic of Crohn disease.",
+          "E": "An owl's eye inclusion is a large intranuclear viral inclusion of cytomegalovirus infection, not a neutrophil aggregate."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "granuloma",
-        "histiocytes",
-        "Crohn's disease"
+        "crypt abscess",
+        "inflammatory bowel disease",
+        "histology"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea"
     },
     {
-      "id": "pa24-036",
-      "stem": "A 29-year-old woman is being evaluated for chronic bloody diarrhea, and ulcerative colitis is the leading diagnosis. Inflammatory involvement of which of the following sites would argue most strongly against this diagnosis?",
+      "id": "pa24-013",
+      "stem": "Two patients with chronic diarrhea undergo colonoscopy with biopsy: one is ultimately diagnosed with Crohn disease and the other with ulcerative colitis. Which of the following findings would be expected in both patients?",
       "choices": [
         {
           "label": "A",
-          "text": "Cecum"
+          "text": "Crypt abscesses with architectural distortion"
         },
         {
           "label": "B",
-          "text": "Jejunum"
+          "text": "Fistula tracts between adjacent bowel loops"
         },
         {
           "label": "C",
-          "text": "Rectum"
+          "text": "Involvement of the terminal ileum and cecum"
         },
         {
           "label": "D",
-          "text": "Sigmoid colon"
+          "text": "Non-caseating granulomas within the bowel wall"
         },
         {
           "label": "E",
-          "text": "Transverse colon"
+          "text": "Transmural inflammation with fissuring ulcers"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Ulcerative colitis is limited to the colon and rectum, so small-bowel involvement argues against it.",
-        "whyCorrect": "Ulcerative colitis is limited to the colon and rectum with continuous involvement of the mucosa and superficial submucosa; disease in the jejunum, a segment of small bowel, would instead suggest Crohn's disease, which can affect any portion of the GI tract.",
+        "summary": "Crypt abscesses, mucosal ulceration, pseudopolyps, and crypt distortion are common to both forms of inflammatory bowel disease.",
+        "whyCorrect": "Both ulcerative colitis and Crohn disease show acute and chronic inflammation, crypt abscesses, mucosal ulcerations, inflammatory pseudopolyps, and colonic architectural distortion. The key differences lie elsewhere: granulomas and transmural inflammation belong to Crohn disease, while ulcerative colitis is continuous and superficial.",
         "whyWrongByChoice": {
-          "A": "The cecum is colonic and can be involved in extensive ulcerative colitis.",
-          "C": "The rectum is a characteristic site of ulcerative colitis.",
-          "D": "The sigmoid colon is part of the colon and is commonly involved in ulcerative colitis.",
-          "E": "The transverse colon lies within the colonic extent of ulcerative colitis."
+          "B": "Abnormal connections between organs follow transmural inflammation and would be unusual in ulcerative colitis.",
+          "C": "Ulcerative colitis is limited to the colon and rectum, so ileocecal involvement is not shared between the two disorders.",
+          "D": "Granulomas are the histologic hallmark of Crohn disease, and their absence is a key feature of ulcerative colitis.",
+          "E": "Inflammation through the full bowel wall is a defining feature of Crohn disease and does not occur in ulcerative colitis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "inflammatory bowel disease",
+        "crohn versus ulcerative colitis",
+        "crypt abscess"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-014",
+      "stem": "A 24-year-old man with chronic diarrhea and abdominal pain also has recurrent shallow, painful ulcerations on his lips, buccal mucosa, and tongue, which he calls canker sores. These oral lesions are best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aphthous ulcers"
+        },
+        {
+          "label": "B",
+          "text": "Chancres"
+        },
+        {
+          "label": "C",
+          "text": "Gummas"
+        },
+        {
+          "label": "D",
+          "text": "Mucoceles"
+        },
+        {
+          "label": "E",
+          "text": "Pseudomembranes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aphthous ulcers of the oral mucosa, commonly called canker sores, may be a manifestation of Crohn disease.",
+        "whyCorrect": "Because Crohn disease can affect any portion of the gastrointestinal tract, including the mouth and anus, patients may present with aphthous ulcers of the oral cavity. These are shallow, painful ulcerations occurring on the lips, cheeks, or tongue, and in the mouth an aphthous ulcer may be called a canker sore. Similar ulcers in the bowel can coalesce into linear, rake-like lesions.",
+        "whyWrongByChoice": {
+          "B": "A chancre is the painless ulcer of primary syphilis, whereas these lesions are painful and recurrent.",
+          "C": "A gumma is the granulomatous lesion of tertiary syphilis and is not the shallow mucosal ulcer described here.",
+          "D": "A mucocele is a mucus-filled cystic swelling of a salivary duct rather than a shallow painful ulceration.",
+          "E": "A pseudomembrane is an adherent fibrinopurulent plaque of toxin-mediated colitis, not a shallow painful oral ulceration."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "crohn disease",
+        "aphthous ulcer",
+        "oral manifestation"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-015",
+      "stem": "A pathologist describes a colonic biopsy from a patient with inflammatory bowel disease as showing ulceration with surrounding inflammation. Which histologic feature defines an ulcer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of the surface epithelial layer"
+        },
+        {
+          "label": "B",
+          "text": "Aggregation of histiocytes into a nodular collection"
+        },
+        {
+          "label": "C",
+          "text": "Full-thickness necrosis of the muscularis propria"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils filling the lumen of a colonic crypt"
+        },
+        {
+          "label": "E",
+          "text": "Separation of epithelium from its basement membrane"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ulceration is defined histologically by loss of the surface epithelium, usually with accompanying inflammation.",
+        "whyCorrect": "Ulceration refers to the lack of surface epithelium at a site of injury, and it is often accompanied by inflammation as the tissue responds to the damage. Both Crohn disease and ulcerative colitis feature mucosal ulcerations.",
+        "whyWrongByChoice": {
+          "B": "A nodular collection of histiocytes is a granuloma, a separate finding that is the hallmark of Crohn disease.",
+          "C": "Necrosis through the muscle layer describes a far deeper injury than the surface epithelial loss that defines an ulcer.",
+          "D": "Neutrophils within a colonic gland constitute a crypt abscess, which marks active disease but is not an ulcer.",
+          "E": "Epithelial separation from the basement membrane describes a blister, such as the subepidermal blister of dermatitis herpetiformis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ulcer",
+        "histology",
+        "inflammatory bowel disease"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-016",
+      "stem": "A 30-year-old man has an 8-year history of continuous colitis extending proximally from the rectum. He now reports pruritus and jaundice, and laboratory studies show a cholestatic pattern. Cholangiography demonstrates irregular strictures and dilations of the bile ducts. Which extraintestinal manifestation does he most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ankylosing spondylitis"
+        },
+        {
+          "label": "B",
+          "text": "Anterior uveitis"
+        },
+        {
+          "label": "C",
+          "text": "Migratory polyarthritis"
+        },
+        {
+          "label": "D",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Pyoderma gangrenosum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Primary sclerosing cholangitis is an inflammatory disease of the bile ducts especially associated with ulcerative colitis.",
+        "whyCorrect": "Both major forms of inflammatory bowel disease have extraintestinal manifestations. Primary sclerosing cholangitis is an inflammatory disease of the bile ducts that is especially associated with ulcerative colitis, and it produces cholestasis with the beaded duct irregularity seen on cholangiography.",
+        "whyWrongByChoice": {
+          "A": "This destructive condition of cartilage and joints affects the axial skeleton and would not produce cholestatic liver disease.",
+          "B": "Inflammation of a portion of the eye is another extraintestinal manifestation but has no relationship to bile duct strictures.",
+          "C": "Joint pain that moves from one area to another is a recognized manifestation but does not explain the biliary findings.",
+          "E": "These painful, raised, ulcerative skin lesions are an extraintestinal manifestation but do not involve the biliary tree."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
         "ulcerative colitis",
-        "distribution",
-        "Crohn's disease"
+        "primary sclerosing cholangitis",
+        "extraintestinal manifestation"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-017",
+      "stem": "A 41-year-old woman with a 6-year history of ulcerative colitis develops a painful, raised lesion on her left shin that rapidly ulcerates and has a violaceous, undermined border. Wound cultures are sterile. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aphthous ulceration"
+        },
+        {
+          "label": "B",
+          "text": "Dermatitis herpetiformis"
+        },
+        {
+          "label": "C",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "D",
+          "text": "Necrotizing fasciitis"
+        },
+        {
+          "label": "E",
+          "text": "Pyoderma gangrenosum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pyoderma gangrenosum is a painful, raised, ulcerative skin lesion particularly associated with ulcerative colitis.",
+        "whyCorrect": "Skin involvement is a recognized extraintestinal manifestation of inflammatory bowel disease. Pyoderma gangrenosum presents as painful, raised, ulcerative skin lesions and is especially associated with ulcerative colitis, although it is a non-specific finding that may be encountered in inflammatory bowel disease generally.",
+        "whyWrongByChoice": {
+          "A": "These shallow painful ulcerations occur on mucosal surfaces such as the lips, cheeks, and tongue rather than on the shin.",
+          "B": "This IgA-mediated blistering condition is tied to celiac disease and favors extensor surfaces, the upper back, and buttocks.",
+          "C": "These tender subcutaneous nodules occur in both forms of inflammatory bowel disease but do not ulcerate in this fashion.",
+          "D": "A fulminant soft tissue infection would yield positive cultures and systemic toxicity rather than a sterile ulcer."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyoderma gangrenosum",
+        "ulcerative colitis",
+        "skin"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-018",
+      "stem": "A 25-year-old woman with Crohn disease develops tender red nodules on both anterior shins. Three weeks earlier she had a febrile, bloody diarrheal illness after eating undercooked poultry. Which statement about this skin finding is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is specific for exposure to Clostridium difficile toxin"
+        },
+        {
+          "label": "B",
+          "text": "It may follow either Crohn disease or Campylobacter infection"
+        },
+        {
+          "label": "C",
+          "text": "It occurs in ulcerative colitis but not in Crohn disease"
+        },
+        {
+          "label": "D",
+          "text": "It reflects granulomatous inflammation of the bile ducts"
+        },
+        {
+          "label": "E",
+          "text": "It results from IgA antibodies cross-reacting with reticulin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Erythema nodosum is seen in both Crohn disease and ulcerative colitis and may also follow Campylobacter infection.",
+        "whyCorrect": "Erythema nodosum is one of the skin manifestations of inflammatory bowel disease and, unlike pyoderma gangrenosum, is seen in both Crohn disease and ulcerative colitis. Campylobacter infections may also result in erythema nodosum, so either the underlying bowel disease or the recent enteritis could account for the nodules.",
+        "whyWrongByChoice": {
+          "A": "Clostridium difficile causes toxin-mediated pseudomembranous colitis and is not the characteristic trigger for these nodules.",
+          "C": "Erythema nodosum is not restricted to one form of the disease; it is seen in both Crohn disease and ulcerative colitis.",
+          "D": "Bile duct inflammation describes primary sclerosing cholangitis, a separate extraintestinal manifestation of bowel disease.",
+          "E": "IgA cross-reactivity with reticulin produces the subepidermal blisters of dermatitis herpetiformis, not tender shin nodules."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "erythema nodosum",
+        "campylobacter",
+        "extraintestinal manifestation"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-019",
+      "stem": "A 28-year-old man with ulcerative colitis reports a year of low back stiffness that is worst in the morning and improves with activity. Imaging shows fusion of both sacroiliac joints. Which extraintestinal manifestation of inflammatory bowel disease does he have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ankylosing spondylitis"
+        },
+        {
+          "label": "B",
+          "text": "Migratory polyarthritis"
+        },
+        {
+          "label": "C",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "D",
+          "text": "Reactive arthritis"
+        },
+        {
+          "label": "E",
+          "text": "Uveitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ankylosing spondylitis, a destructive condition of cartilage and joints, is an extraintestinal manifestation of inflammatory bowel disease.",
+        "whyCorrect": "Ankylosing spondylitis is a destructive condition of cartilage and joints and is among the extraintestinal manifestations of both Crohn disease and ulcerative colitis. Its sacroiliac involvement with inflammatory back pain matches this presentation, and it shares the HLA-B27 association seen with inflammatory bowel disease-associated arthritis.",
+        "whyWrongByChoice": {
+          "B": "This manifestation is joint pain that moves from one area to another rather than a fixed, fusing axial arthropathy.",
+          "C": "This is an inflammatory disease of the bile ducts and would present with cholestasis rather than sacroiliac fusion.",
+          "D": "This disorder is a post-infectious triad of arthritis, urethritis, and conjunctivitis, and no preceding infection is described.",
+          "E": "This is inflammation of a portion of the eye and does not account for back stiffness or sacroiliac joint changes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ankylosing spondylitis",
+        "inflammatory bowel disease",
+        "HLA-B27"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-020",
+      "stem": "A 33-year-old woman with Crohn disease develops a red, painful right eye with photophobia and blurred vision. Slit-lamp examination shows cells and flare in the anterior chamber. Which of the following best identifies this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conjunctivitis, as seen in reactive arthritis"
+        },
+        {
+          "label": "B",
+          "text": "Erythema nodosum involving the eyelid"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex keratoconjunctivitis"
+        },
+        {
+          "label": "D",
+          "text": "Scleral icterus from biliary obstruction"
+        },
+        {
+          "label": "E",
+          "text": "Uveitis, inflammation of part of the eye"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Uveitis, inflammation of a portion of the eye, is a recognized extraintestinal manifestation of inflammatory bowel disease.",
+        "whyCorrect": "Uveitis is listed among the extraintestinal manifestations of both Crohn disease and ulcerative colitis, alongside primary sclerosing cholangitis, ankylosing spondylitis, migratory polyarthritis, and skin involvement. Anterior chamber cells and flare indicate intraocular inflammation rather than a surface process.",
+        "whyWrongByChoice": {
+          "A": "Conjunctival inflammation is part of the post-infectious reactive arthritis triad and does not produce anterior chamber cells.",
+          "B": "Erythema nodosum produces tender nodules on the shins and is not an eyelid or intraocular process.",
+          "C": "Herpetic eye disease affects the cornea and conjunctiva and is not the listed extraintestinal manifestation of bowel disease.",
+          "D": "Yellowing of the sclera reflects hyperbilirubinemia from cholestatic liver disease rather than intraocular inflammation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "uveitis",
+        "inflammatory bowel disease",
+        "extraintestinal manifestation"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-021",
+      "stem": "A 35-year-old woman with chronic diarrhea has colonic biopsies showing granulomatous inflammation. Before Crohn disease is accepted as the diagnosis, infectious and systemic causes of granulomas are considered. Which of the following characteristically produces granulomatous inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridium difficile infection"
+        },
+        {
+          "label": "B",
+          "text": "Enterohemorrhagic Escherichia coli infection"
+        },
+        {
+          "label": "C",
+          "text": "Giardia lamblia infection"
+        },
+        {
+          "label": "D",
+          "text": "Histoplasma capsulatum infection"
+        },
+        {
+          "label": "E",
+          "text": "Norovirus infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fungal infections such as Histoplasma capsulatum, along with tuberculosis, tertiary syphilis, and sarcoidosis, feature granulomatous inflammation.",
+        "whyCorrect": "Granulomatous inflammation is characteristic of Mycobacterium tuberculosis infection, in which the granulomas caseate, of many fungal infections such as Histoplasma capsulatum, of Treponema pallidum in the form of tertiary syphilitic gummas, and of sarcoidosis, a disease of unknown etiology. These must be excluded before granulomas are attributed to Crohn disease.",
+        "whyWrongByChoice": {
+          "A": "This organism produces toxins that damage the gastrointestinal tract and form pseudomembranes, but it does not cause granulomas.",
+          "B": "This organism causes bloody diarrhea through toxin production and does not generate granulomatous inflammation.",
+          "C": "This protozoan damages the small-bowel brush border and causes malabsorption without granuloma formation.",
+          "E": "This virus causes a self-limited gastroenteritis and is not associated with granulomatous inflammation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "granuloma",
+        "histoplasma",
+        "differential diagnosis"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-022",
+      "stem": "A 68-year-old man develops copious watery diarrhea 5 days after finishing a course of clindamycin. Colonoscopy shows adherent yellow-white plaques scattered over the colonic mucosa. Which mechanism best explains the mucosal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Destruction of the duodenal and jejunal brush border"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation with histiocyte aggregates"
+        },
+        {
+          "label": "C",
+          "text": "Immune cross-reaction between gliadin and enterocytes"
+        },
+        {
+          "label": "D",
+          "text": "Invasion of the lamina propria with mesenteric node spread"
+        },
+        {
+          "label": "E",
+          "text": "Toxin-mediated damage that produces pseudomembranes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Clostridium difficile produces toxins that damage the gastrointestinal tract and form pseudomembranes.",
+        "whyCorrect": "Clostridium difficile is the cause of pseudomembranous colitis. It produces toxins that damage the gastrointestinal system, and the resulting injury generates the adherent plaques seen at colonoscopy. It does not cause granulomatous inflammation.",
+        "whyWrongByChoice": {
+          "A": "Brush border destruction describes Giardia infection, which produces greasy malabsorptive stools without pseudomembranes.",
+          "B": "Nodular histiocyte aggregates are the hallmark of Crohn disease and are not produced by this toxin-mediated colitis.",
+          "C": "Cross-reaction with a dietary grain protein describes celiac disease, which injures the duodenum rather than forming plaques.",
+          "D": "Mucosal invasion with proliferation in the lamina propria and mesenteric nodes describes Campylobacter, which causes fever and dysentery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clostridium difficile",
+        "pseudomembranous colitis",
+        "toxin"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-023",
+      "stem": "A 22-year-old man returns from international travel with fever, abdominal cramps, and bloody diarrhea. Stool culture grows a curved, gram-negative rod, and stool microscopy shows abundant leukocytes. Which of the following best explains his fever?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A toxin absorbed from contaminated water without mucosal invasion"
+        },
+        {
+          "label": "B",
+          "text": "Loss of the brush border of the duodenum and jejunum"
+        },
+        {
+          "label": "C",
+          "text": "Preformed toxin released from food held at room temperature"
+        },
+        {
+          "label": "D",
+          "text": "Proliferation within the lamina propria and mesenteric lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "Shearing of red blood cells across glomerular microthrombi"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Campylobacter jejuni invades the mucosa, and fever results from proliferation in the lamina propria and mesenteric lymph nodes.",
+        "whyCorrect": "Campylobacter jejuni is a common cause of traveler's diarrhea and food poisoning, acting through toxin production and other virulence factors. Bloody diarrhea, or dysentery, appears when the organism invades the mucosa, and fever results from bacterial proliferation within the lamina propria and the mesenteric lymph nodes.",
+        "whyWrongByChoice": {
+          "A": "Toxin action without mucosal invasion describes enterotoxigenic E. coli, which causes watery rather than bloody diarrhea.",
+          "B": "Brush border loss causes malabsorption with fatty stools and would not produce fever with bloody diarrhea.",
+          "C": "Preformed toxin ingestion produces abrupt vomiting and diarrhea without the invasive, febrile, bloody picture described.",
+          "E": "Red cell shearing across microthrombi is the mechanism of hemolytic uremic syndrome, a complication of Shiga-like toxin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "campylobacter jejuni",
+        "dysentery",
+        "traveler's diarrhea"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-024",
+      "stem": "Three weeks after a diarrheal illness caused by Campylobacter jejuni, a 24-year-old man who carries the HLA-B27 allele develops joint pain, painful urination, and red, light-sensitive eyes. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ankylosing spondylitis"
+        },
+        {
+          "label": "B",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "C",
+          "text": "Guillain-Barre syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Migratory polyarthritis"
+        },
+        {
+          "label": "E",
+          "text": "Reactive arthritis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Reactive arthritis is the post-infectious triad of arthritis, urethritis, and conjunctivitis.",
+        "whyCorrect": "Reactive arthritis is a classic triad of arthritis, urethritis, and conjunctivitis that arises from the immune response to infections such as Campylobacter, Salmonella, and Chlamydia trachomatis, particularly in patients carrying HLA-B27. Joint pain, painful urination, and light-sensitive eyes correspond to the three components.",
+        "whyWrongByChoice": {
+          "A": "This destructive condition of cartilage and joints affects the axial skeleton and does not include urethritis and conjunctivitis.",
+          "B": "This is a skin finding of tender nodules and does not explain arthritis, urethritis, or conjunctivitis.",
+          "C": "This post-Campylobacter complication produces paralysis from demyelination rather than a triad of joint, urinary, and eye findings.",
+          "D": "This is joint pain that moves from one area to another and does not account for the urinary and ocular symptoms."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "reactive arthritis",
+        "campylobacter jejuni",
+        "HLA-B27"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-025",
+      "stem": "A 27-year-old man develops arthritis, urethritis, and conjunctivitis several weeks after an episode of Campylobacter enteritis. Which genetic factor most increases susceptibility to this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-DQ2 allele"
+        },
+        {
+          "label": "B",
+          "text": "HLA-DR2 allele"
+        },
+        {
+          "label": "C",
+          "text": "HLA-DR4 allele"
+        },
+        {
+          "label": "D",
+          "text": "HLA-DQ8 allele"
+        },
+        {
+          "label": "E",
+          "text": "HLA-B27 allele"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Reactive arthritis after enteric infection occurs particularly in patients with the HLA-B27 allele.",
+        "whyCorrect": "Patients with the HLA-B27 genotype may develop reactive arthritis as a result of Campylobacter infection. The same allele is associated with inflammatory bowel disease-associated arthritis and ankylosing spondylitis.",
+        "whyWrongByChoice": {
+          "A": "This class II allele presents gliadin peptides and is associated with celiac disease rather than post-infectious arthritis.",
+          "B": "This allele is associated with Goodpasture syndrome and systemic lupus erythematosus.",
+          "C": "This allele is associated with rheumatoid arthritis, a chronic symmetric polyarthritis rather than a post-infectious triad.",
+          "D": "This is the other class II allele associated with celiac disease and has no role in reactive arthritis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA-B27",
+        "reactive arthritis",
+        "campylobacter jejuni"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-026",
+      "stem": "Two weeks after a self-limited Campylobacter jejuni diarrheal illness, a 30-year-old man develops symmetric ascending weakness of the legs with loss of deep tendon reflexes. Nerve conduction studies show demyelination. Which mechanism best explains his paralysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies to lipopolysaccharide cross-react with neural gangliosides"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies to acetylcholine receptors block neuromuscular transmission"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial exotoxin blocks acetylcholine release at the motor endplate"
+        },
+        {
+          "label": "D",
+          "text": "Direct viral invasion and destruction of anterior horn motor neurons"
+        },
+        {
+          "label": "E",
+          "text": "Immune complexes deposit within the endoneurial microvasculature"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Guillain-Barre syndrome after Campylobacter reflects molecular mimicry between bacterial lipopolysaccharide and neural gangliosides.",
+        "whyCorrect": "Guillain-Barre syndrome, also called acute inflammatory demyelinating polyneuropathy, results from molecular mimicry to infectious antigens in predisposed individuals. After Campylobacter jejuni infection, antibodies against lipopolysaccharide cross-react with gangliosides of the nervous system, causing demyelination, or loss of the insulating myelin coat surrounding axons, and paralysis follows from impaired nerve signaling.",
+        "whyWrongByChoice": {
+          "B": "Antibodies against the acetylcholine receptor cause fatigable weakness without the demyelination seen here.",
+          "C": "Toxin-mediated blockade of acetylcholine release describes botulism, which is not the post-Campylobacter complication described.",
+          "D": "Destruction of anterior horn cells by a virus is a different mechanism and would not produce demyelination on nerve conduction studies.",
+          "E": "Immune complex deposition in vessels is not the described mechanism of this post-infectious demyelinating polyneuropathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "guillain-barre syndrome",
+        "molecular mimicry",
+        "campylobacter jejuni"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-027",
+      "stem": "A 30-year-old man develops ascending paralysis from acute inflammatory demyelinating polyneuropathy following Campylobacter enteritis. Which pair of interventions most directly targets the self-reacting antibodies responsible for his deficits?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ganciclovir and reduction of immunosuppression"
+        },
+        {
+          "label": "B",
+          "text": "Gluten withdrawal and oral iron replacement"
+        },
+        {
+          "label": "C",
+          "text": "Oral azithromycin and intravenous fluid resuscitation"
+        },
+        {
+          "label": "D",
+          "text": "Oral metronidazole and fecal microbiota transfer"
+        },
+        {
+          "label": "E",
+          "text": "Plasmapheresis and intravenous immunoglobulin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Plasmapheresis removes the self-reacting antibodies of Guillain-Barre syndrome, and IVIG neutralizes their effects.",
+        "whyCorrect": "Plasmapheresis is a method of removing self-reacting antibodies, and administration of intravenous immunoglobulin is a strategy for neutralizing the effects of those antibodies. Both are possible interventions in Guillain-Barre syndrome, in which antibodies raised against bacterial lipopolysaccharide cross-react with neural gangliosides.",
+        "whyWrongByChoice": {
+          "A": "Antiviral therapy and lowering immunosuppression address viral colitis in immunosuppressed patients, not this neuropathy.",
+          "B": "Removing a dietary antigen and replacing iron addresses celiac disease and its malabsorption, not an antibody-mediated neuropathy.",
+          "C": "Antibiotics and fluids address the enteric infection itself and do nothing about antibodies already cross-reacting with nerve.",
+          "D": "These measures target Clostridium difficile colitis and have no role in a post-infectious demyelinating polyneuropathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "guillain-barre syndrome",
+        "plasmapheresis",
+        "IVIG"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-028",
+      "stem": "A 45-year-old woman with Guillain-Barre syndrome after Campylobacter infection is admitted to the intensive care unit with progressive weakness. Her family asks about the expected course. Which statement is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Demyelination spares the respiratory muscles in nearly all cases"
+        },
+        {
+          "label": "B",
+          "text": "Recovery is immediate once antibiotics eradicate the organism"
+        },
+        {
+          "label": "C",
+          "text": "The axons are transected and are unable to remyelinate at all"
+        },
+        {
+          "label": "D",
+          "text": "The deficit is permanent and progresses to a spastic paralysis"
+        },
+        {
+          "label": "E",
+          "text": "The disease usually resolves, but respiratory failure can be fatal"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Guillain-Barre syndrome is generally self-resolving, but respiratory failure can cause death and some patients need weeks of intensive care.",
+        "whyCorrect": "Although the disease is self-resolving, death from respiratory failure can occur, and some patients spend weeks in the intensive care unit. The paralysis arises from demyelination with impaired nerve signaling rather than permanent structural loss, which is why recovery is the rule when patients are supported through the acute illness.",
+        "whyWrongByChoice": {
+          "A": "Respiratory involvement is precisely the danger, and it is the cause of death when this illness proves fatal.",
+          "B": "Eradicating the organism does not reverse antibodies that are already cross-reacting with neural gangliosides.",
+          "C": "The lesion is loss of the insulating myelin coat rather than transection of the underlying axons.",
+          "D": "The weakness of this demyelinating polyneuropathy is typically transient rather than permanent and spastic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "guillain-barre syndrome",
+        "respiratory failure",
+        "prognosis"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-029",
+      "stem": "A 26-year-old woman develops abrupt watery, non-bloody diarrhea 2 days into a trip abroad, after drinking untreated local water. The stools are watery rather than greasy or foul-smelling, she is afebrile, and stool studies show no blood and no leukocytes; the mucosa is not invaded. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Enterohemorrhagic Escherichia coli O157:H7"
+        },
+        {
+          "label": "D",
+          "text": "Enterotoxigenic Escherichia coli"
+        },
+        {
+          "label": "E",
+          "text": "Giardia lamblia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Enterotoxigenic E. coli causes traveler's diarrhea through toxins, without invading the mucosa.",
+        "whyCorrect": "Enterotoxigenic E. coli is a common cause of traveler's diarrhea. It does not actively invade the mucosa; instead it releases toxins, and disease follows ingestion of contaminated food or water. The absence of blood, fever, and fecal leukocytes fits a non-invasive, toxin-mediated illness.",
+        "whyWrongByChoice": {
+          "A": "This organism invades the mucosa and proliferates in the lamina propria and mesenteric nodes, producing fever and dysentery.",
+          "B": "This virus causes colitis in immunosuppressed patients rather than an acute watery illness in a healthy traveler.",
+          "C": "This strain is an important cause of bloody diarrhea through toxin production, and the stools here contain no blood.",
+          "E": "This protozoan damages the small-bowel brush border and produces fatty, greasy, foul-smelling stools from malabsorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "enterotoxigenic e coli",
+        "traveler's diarrhea",
+        "toxin"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-030",
+      "stem": "A 7-year-old boy develops bloody diarrhea 3 days after eating an undercooked hamburger. Stool culture grows Escherichia coli O157:H7. His parents ask why he is not being given an antibiotic. Which of the following is the best explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Killing the bacteria releases toxin and raises hemolytic uremic syndrome risk"
+        },
+        {
+          "label": "B",
+          "text": "They are inactivated by gastric acid before reaching the colonic mucosa"
+        },
+        {
+          "label": "C",
+          "text": "They cannot reach an organism that proliferates within mesenteric lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "They select for Clostridium difficile overgrowth and pseudomembranous colitis"
+        },
+        {
+          "label": "E",
+          "text": "They worsen the malabsorption that follows destruction of the brush border"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Antibiotics are avoided in enterohemorrhagic E. coli because killing the organism can release more toxin and precipitate hemolytic uremic syndrome.",
+        "whyCorrect": "Enterohemorrhagic E. coli, particularly the O157:H7 strain, causes bloody diarrhea through toxin production. Antibiotics are not recommended because killing the bacteria could release even more toxin and increase the risk of hemolytic uremic syndrome.",
+        "whyWrongByChoice": {
+          "B": "These agents are not rendered ineffective by gastric acid; the issue is the consequence of killing the organism.",
+          "C": "This strain acts through toxin rather than by proliferating in mesenteric lymph nodes, so access is not the problem.",
+          "D": "Antibiotic-associated Clostridium difficile colitis is a real concern in general, but it is not the reason antibiotics are withheld here.",
+          "E": "Malabsorption from brush border loss is the mechanism of Giardia infection and is unrelated to this toxin-mediated illness."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "enterohemorrhagic e coli",
+        "O157:H7",
+        "hemolytic uremic syndrome"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-031",
+      "stem": "Five days after the onset of bloody diarrhea caused by Escherichia coli O157:H7, a 6-year-old girl has pallor, decreased urine output, and a serum creatinine of 2.8 mg/dL. The peripheral blood smear shows fragmented red blood cells. Which mechanism best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies to lipopolysaccharide cross-react with gangliosides of nerves"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation of glomeruli obstructs the capillary tufts"
+        },
+        {
+          "label": "C",
+          "text": "Loss of the intestinal brush border leads to malabsorption and greasy stools"
+        },
+        {
+          "label": "D",
+          "text": "Shiga-like toxin injures endothelium, forming microthrombi that shear cells"
+        },
+        {
+          "label": "E",
+          "text": "Toxin-induced mucosal necrosis produces an adherent fibrinous pseudomembrane"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In hemolytic uremic syndrome, Shiga-like toxin damages endothelium, producing microthrombi that shear red cells and cause kidney failure.",
+        "whyCorrect": "Hemolytic uremic syndrome is a microangiopathic hemolytic anemia. In E. coli O157:H7 infection, the Shiga-like toxin damages endothelium, including that of the glomeruli, leading to thrombosis from platelet activation and aggregation. Red cells are sheared into schistocytes as they pass through the microthrombi, and kidney failure follows.",
+        "whyWrongByChoice": {
+          "A": "Cross-reaction with neural gangliosides produces Guillain-Barre syndrome after Campylobacter, not anemia with renal failure.",
+          "B": "Granulomatous inflammation is not the mechanism of renal failure following this toxin-mediated infection.",
+          "C": "Brush border destruction causes fatty malabsorptive stools and has no bearing on hemolysis or renal injury.",
+          "E": "An adherent fibrinopurulent membrane is the lesion of Clostridium difficile colitis and does not cause red cell fragmentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemolytic uremic syndrome",
+        "shiga-like toxin",
+        "endothelium"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-032",
+      "stem": "A peripheral blood smear from a 5-year-old with hemolytic uremic syndrome shows numerous fragmented red blood cells, described as schistocytes. This process is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic anemia from failure of marrow stem cells"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hemolytic anemia from warm IgG antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency anemia from chronic occult blood loss"
+        },
+        {
+          "label": "D",
+          "text": "Megaloblastic anemia from impaired nuclear DNA synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Microangiopathic hemolytic anemia from intravascular shearing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Schistocytes indicate microangiopathic hemolytic anemia, in which red cells are sheared by microthrombi within vessels.",
+        "whyCorrect": "Hemolytic uremic syndrome is a microangiopathic hemolytic anemia, meaning red blood cells are sheared into schistocytes as they pass through microthrombi formed within vessels. The thrombi follow toxin-mediated endothelial damage with platelet activation and aggregation.",
+        "whyWrongByChoice": {
+          "A": "Marrow failure produces pancytopenia with a hypocellular marrow and does not generate fragmented red cells.",
+          "B": "Antibody-mediated red cell destruction produces spherocytes rather than the mechanical fragmentation described here.",
+          "C": "Chronic blood loss produces small, pale red cells rather than the sheared fragments of an intravascular process.",
+          "D": "Impaired DNA synthesis produces large oval red cells and hypersegmented neutrophils, not fragmented cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "schistocyte",
+        "microangiopathic hemolytic anemia",
+        "hemolytic uremic syndrome"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-033",
+      "stem": "A 30-year-old hiker who drank from an unfiltered mountain stream has 3 weeks of bloating and fatty, greasy, foul-smelling stools that float. He has no fever and no blood in the stool. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Clostridium difficile"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli O157:H7"
+        },
+        {
+          "label": "E",
+          "text": "Giardia lamblia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Giardia lamblia, acquired from contaminated unfiltered water, damages the small-bowel brush border and causes malabsorptive fatty stools.",
+        "whyCorrect": "Giardia lamblia, also known as Giardia duodenalis, is a flagellated protozoan commonly present in contaminated, unfiltered water. It damages the brush border of the duodenum and jejunum, an important component of nutrient absorption, so fatty, greasy, foul-smelling stools result from malabsorption.",
+        "whyWrongByChoice": {
+          "A": "This organism causes febrile, often bloody diarrhea from mucosal invasion rather than a malabsorptive fatty stool.",
+          "B": "This organism produces pseudomembranous colitis after antibiotic exposure, with watery rather than greasy stools.",
+          "C": "This virus causes colitis in immunosuppressed patients and is not a cause of malabsorption in a healthy hiker.",
+          "D": "This strain causes bloody diarrhea through toxin production and may be complicated by hemolytic uremic syndrome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "giardia lamblia",
+        "malabsorption",
+        "waterborne"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-034",
+      "stem": "Stool examination in a 28-year-old with several weeks of bloating and greasy stools shows flagellated organisms whose trophozoite form has been likened to a stingray or a falling leaf, along with oval cysts. Which mechanism best explains this patient's diarrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It damages the brush border of the duodenum and jejunum"
+        },
+        {
+          "label": "B",
+          "text": "It elaborates a toxin that produces adherent colonic pseudomembranes"
+        },
+        {
+          "label": "C",
+          "text": "It forms large intranuclear inclusions within colonic endothelium"
+        },
+        {
+          "label": "D",
+          "text": "It invades the mucosa and proliferates in mesenteric lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "It triggers IgA antibodies that cross-react with dermal reticulin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Giardia exists as cysts and flagellated trophozoites and causes malabsorption by damaging the duodenal and jejunal brush border.",
+        "whyCorrect": "Giardia lamblia demonstrates both cyst and trophozoite forms, the trophozoite resembling a stingray or a falling leaf, and both can be identified in stool samples. The organism damages the brush border of the duodenum and jejunum, and because the brush border is an important component of nutrient absorption, malabsorption with fatty, greasy, foul-smelling stools results.",
+        "whyWrongByChoice": {
+          "B": "Adherent fibrinopurulent plaques are the lesion of Clostridium difficile colitis, a toxin-mediated disease of the colon.",
+          "C": "Large intranuclear inclusions indicate cytomegalovirus colitis, typically encountered in immunosuppressed patients.",
+          "D": "Mucosal invasion with spread to mesenteric nodes describes Campylobacter jejuni, which produces fever and bloody diarrhea.",
+          "E": "IgA cross-reactivity with reticulin produces dermatitis herpetiformis in celiac disease, not a protozoal malabsorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "giardia lamblia",
+        "trophozoite",
+        "brush border"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-035",
+      "stem": "A 44-year-old woman with ulcerative colitis taking immunomodulating therapy has worsening diarrhea despite escalation of her usual regimen. Colonic biopsies show numerous enlarged cells containing large intranuclear inclusions surrounded by a clear halo, resembling an owl's eye. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenovirus gastroenteritis"
+        },
+        {
+          "label": "B",
+          "text": "Clostridium difficile colitis"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus colitis"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus colitis"
+        },
+        {
+          "label": "E",
+          "text": "Norovirus gastroenteritis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Owl's eye intranuclear inclusions in a colonic biopsy indicate cytomegalovirus colitis, which is common in patients with ulcerative colitis.",
+        "whyCorrect": "Cytomegalovirus is a double-stranded DNA virus of the human herpesvirus family that can affect the colon, and such infection is commonly seen in patients with ulcerative colitis. Identification of numerous viral inclusions described as resembling an owl's eye is an indication for antiviral treatment in such patients.",
+        "whyWrongByChoice": {
+          "A": "This virus is listed among the ordinary viral causes of infectious diarrhea and does not produce these inclusions.",
+          "B": "This organism produces toxin-mediated pseudomembranes rather than viral cytopathic changes within cell nuclei.",
+          "D": "The cytopathic changes of this virus are multinucleation, nuclear molding, and chromatin margination, not owl's eye inclusions.",
+          "E": "This virus causes a self-limited gastroenteritis without the characteristic intranuclear inclusion bodies described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytomegalovirus",
+        "owl's eye inclusion",
+        "immunosuppression"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+    },
+    {
+      "id": "pa24-036",
+      "stem": "A 39-year-old man on immunosuppression after renal transplantation has bloody diarrhea. Colonoscopy shows ulceration and necrosis that closely mimic inflammatory bowel disease. Biopsy shows multinucleation, nuclei conforming to one another, and a dark rim of chromatin at the nuclear edge. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridium difficile colitis"
+        },
+        {
+          "label": "B",
+          "text": "Crohn disease with granulomas"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus colitis"
+        },
+        {
+          "label": "D",
+          "text": "Giardia lamblia infection"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus colitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Multinucleation, nuclear molding, and chromatin margination are the classic cytopathic changes of herpes simplex virus colitis.",
+        "whyCorrect": "Herpes simplex virus colitis may be seen in immunocompromised patients, and treatment should be started to prevent morbidity and mortality. Ulcerations and necrosis occur that can mimic inflammatory bowel disease. The classic viral cytopathic changes are chromatin margination, seen as a dark purple rim at the edge of the nucleus, nuclear molding in which nuclei conform to one another, and multinucleation.",
+        "whyWrongByChoice": {
+          "A": "This organism causes toxin-mediated pseudomembranous colitis without changes within the nuclei of infected cells.",
+          "B": "This diagnosis rests on nodular histiocyte aggregates and transmural inflammation, not on viral cytopathic nuclear changes.",
+          "C": "This infection is identified by numerous large intranuclear inclusions resembling an owl's eye rather than molded multinucleated cells.",
+          "D": "This protozoan damages the small-bowel brush border and causes malabsorption rather than colonic ulceration and necrosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "herpes simplex virus",
+        "viral cytopathic change",
+        "immunosuppression"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea"
