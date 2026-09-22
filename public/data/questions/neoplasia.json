@@ -2000,7 +2000,7 @@
         },
         {
           "label": "E",
-          "text": "Seeding through the subarachnoid space"
+          "text": "Seeding through the cerebrospinal fluid"
         }
       ],
       "correctAnswer": "E",
@@ -2167,33 +2167,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is a node selected at random from the axilla for biopsy"
-        },
-        {
-          "label": "B",
           "text": "It is a node that filters hematogenously spread tumor emboli"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "It is the contralateral supraclavicular node"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "It is the first node in a regional lymphatic basin"
+        },
+        {
+          "label": "D",
+          "text": "It is the first node the surgeon encounters on entering the axilla"
         },
         {
           "label": "E",
           "text": "It is the most distal node in the lymphatic chain draining the tumor"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "The sentinel node is the first node in a regional basin receiving lymph from the tumor.",
         "whyCorrect": "In breast cancer, axillary lymph node assessment guides prognosis and therapy. To avoid the morbidity of a full dissection, the surgeon biopsies the sentinel lymph node, defined as the first node in a regional lymphatic basin that receives lymph flow from the primary tumor and is thus the likely first site of spread.",
         "whyWrongByChoice": {
-          "A": "It is not selected at random; it is specifically identified as the first draining node via tracer uptake.",
-          "B": "The sentinel node concept is based on lymphatic drainage, not on filtering hematogenous tumor emboli.",
-          "C": "A contralateral supraclavicular node is not the first regional draining node and is not the sentinel node of an axillary basin.",
+          "A": "The sentinel node concept is based on lymphatic drainage, not on filtering hematogenous tumor emboli.",
+          "B": "A contralateral supraclavicular node is not the first regional draining node and is not the sentinel node of an axillary basin.",
+          "D": "The sentinel node is defined by tracer uptake and lymphatic drainage, not by which node the surgeon happens to encounter first.",
           "E": "The sentinel node is the first, most proximal node receiving drainage, not the most distal node in the chain."
         }
       },
@@ -3003,7 +3003,7 @@
     },
     {
       "id": "pa27-030",
-      "stem": "A histologic section of an axillary lymph node removed from a woman with breast carcinoma shows aggregates of tumor cells within the substance of the node and a dilated lymphatic channel containing tumor cells. Which of the following pathways of metastasis do these findings demonstrate?",
+      "stem": "A histologic section of an axillary lymph node removed from a woman with breast carcinoma shows aggregates of tumor cells within the substance of the node and a dilated subcapsular sinus containing tumor cells. Which of the following pathways of metastasis do these findings demonstrate?",
       "choices": [
         {
           "label": "A",
@@ -3054,7 +3054,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It assesses for metastasis while avoiding the morbidity of a full dissection"
+          "text": "It assesses for metastasis with much less surgical morbidity"
         },
         {
           "label": "B",
@@ -3201,7 +3201,7 @@
         },
         {
           "label": "C",
-          "text": "It is an open space into which shed tumor cells can implant"
+          "text": "It is an open space in which shed tumor cells can settle and grow"
         },
         {
           "label": "D",
@@ -3939,7 +3939,7 @@
     },
     {
       "id": "pa28-014",
-      "stem": "A 61-year-old woman who has never used tobacco presents with cough, shortness of breath, and hemoptysis. Imaging reveals a lung mass, and biopsy shows lung adenocarcinoma. Which of the following features most clearly distinguishes this tumor from squamous cell carcinoma and small cell carcinoma of the lung?",
+      "stem": "A 61-year-old woman with no history of tobacco use presents with cough, shortness of breath, and hemoptysis. Imaging reveals a lung mass, and biopsy shows lung adenocarcinoma. Which of the following features most clearly distinguishes this tumor from squamous cell carcinoma and small cell carcinoma of the lung?",
       "choices": [
         {
           "label": "A",
@@ -3986,7 +3986,7 @@
     },
     {
       "id": "pa28-015",
-      "stem": "A biopsy of a peripheral lung mass shows neoplastic epithelial cells that in some areas form solid, invasive nests and in adjacent areas line the pre-existing alveolar septa. Which of the following histologic growth patterns is characteristic of the most likely diagnosis?",
+      "stem": "A biopsy of a peripheral lung mass shows neoplastic epithelial cells that in some areas form solid, invasive nests and in adjacent areas spread as a single layer along the delicate pre-existing septa of the surrounding lung. Which of the following histologic growth patterns is characteristic of the most likely diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -4973,7 +4973,7 @@
     },
     {
       "id": "pa28-036",
-      "stem": "A lymph node biopsy shows a diffuse proliferation of medium-sized B-cells with scattered pale macrophages containing ingested debris, producing a starry sky appearance. In non-neoplastic tissue, the macrophages responsible for this pattern are normally found in which of the following locations?",
+      "stem": "A biopsy of a rapidly enlarging abdominal mass shows a diffuse proliferation of medium-sized B-cells with scattered pale macrophages containing ingested debris, producing a starry sky appearance. In non-neoplastic tissue, the macrophages responsible for this pattern are normally found in which of the following locations?",
       "choices": [
         {
           "label": "A",
@@ -5036,14 +5036,14 @@
         },
         {
           "label": "D",
-          "text": "The mutation acts in a dominant-negative fashion"
+          "text": "The intact wild-type allele preserves near-normal protein function"
         },
         {
           "label": "E",
-          "text": "The remaining wild-type allele preserves near-normal protein function"
+          "text": "The mutation acts in a dominant-negative fashion"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "By the two-hit (Knudson) hypothesis, one intact tumor suppressor allele is usually enough to maintain normal function.",
         "whyCorrect": "In most cases the functionally intact tumor suppressor allele compensates for the mutant allele, resulting in relatively normal cellular function. The cell is now vulnerable to a 'second hit' that knocks out the remaining allele, at which point uncontrolled proliferation can occur.",
@@ -5051,7 +5051,7 @@
           "A": "Only one allele is mutated in the germline; the second hit occurs later as a somatic mutation, so germline biallelic mutation is not required.",
           "B": "Epigenetic changes silence gene expression; they do not repair a mutated allele.",
           "C": "Loss of function of a tumor suppressor is not the same as activation of a proto-oncogene into an oncogene.",
-          "D": "Tumor suppressors are typically lost through the two-hit loss-of-function model; a single mutant allele does not poison the wild-type product here."
+          "E": "Tumor suppressors are typically lost through the two-hit loss-of-function model; a single mutant allele does not poison the wild-type product here."
         }
       },
       "difficulty": "medium",
@@ -7108,7 +7108,7 @@
         },
         {
           "label": "D",
-          "text": "Checkpoint blockade"
+          "text": "Immune checkpoint blockade"
         },
         {
           "label": "E",
@@ -7323,7 +7323,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "CTLA-4 binding of B7 molecules"
+          "text": "CTLA-4 binding of B7 on the antigen-presenting cell"
         },
         {
           "label": "B",
@@ -7381,7 +7381,7 @@
         },
         {
           "label": "D",
-          "text": "MHC class I molecules on the target cell"
+          "text": "MHC class I molecules displaying antigen on the target cell"
         },
         {
           "label": "E",
@@ -7603,29 +7603,29 @@
         },
         {
           "label": "B",
-          "text": "Cytotoxic granules"
-        },
-        {
-          "label": "C",
           "text": "Glycocalyx matrix"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "PD-L2 ligand"
+        },
+        {
+          "label": "D",
+          "text": "Perforin and granzymes"
         },
         {
           "label": "E",
           "text": "TGF-beta cytokine"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Once PD-1 inhibition is removed, the activated CTL kills the tumor cell by releasing cytotoxic granules.",
         "whyCorrect": "In tumor tissue, PD-1 on the CTL engaged by PD-1 ligand on the tumor cell keeps the CTL inhibited. When anti-PD-1 or anti-PD-1 ligand antibodies block this interaction, the activated CD8+ CTL releases cytotoxic granules, leading to killing of the tumor cell.",
         "whyWrongByChoice": {
           "A": "B7 molecules are co-stimulatory ligands on antigen-presenting cells, not effector molecules released by CTLs.",
-          "C": "Glycocalyx is extracellular matrix secreted by tumor cells to mask antigens; T cells do not release it.",
-          "D": "PD-L2 is a tumor cell-surface ligand that inhibits T cells; it is not released by the CTL to kill targets.",
+          "B": "Glycocalyx is extracellular matrix secreted by tumor cells to mask antigens; T cells do not release it.",
+          "C": "PD-L2 is a tumor cell-surface ligand that inhibits T cells; it is not released by the CTL to kill targets.",
           "E": "TGF-beta is an immunosuppressive cytokine secreted by tumor cells, not the CTL's killing mechanism."
         }
       },
@@ -7661,7 +7661,7 @@
         },
         {
           "label": "E",
-          "text": "TGF-beta suppression of immune lineages"
+          "text": "TGF-beta suppression of multiple leukocyte lineages"
         }
       ],
       "correctAnswer": "E",
@@ -7883,7 +7883,7 @@
         },
         {
           "label": "C",
-          "text": "Donor T cells selected to recognize the tumor's MHC class I"
+          "text": "Donor T cells selected to recognize antigen on the tumor's MHC class I"
         },
         {
           "label": "D",
@@ -8101,7 +8101,7 @@
     },
     {
       "id": "pa30-032",
-      "stem": "The immune response is regulated by a class of molecules that includes TGF-beta. Which of the following best describes cytokines?",
+      "stem": "The immune response is regulated by a class of mediators that includes TGF-beta. Which of the following best describes cytokines?",
       "choices": [
         {
           "label": "A",
@@ -8201,11 +8201,11 @@
         },
         {
           "label": "B",
-          "text": "Expression of the death ligand FasL"
+          "text": "Expression of MHC class I and II molecules"
         },
         {
           "label": "C",
-          "text": "Expression of MHC class I and II molecules"
+          "text": "Expression of the death ligand FasL"
         },
         {
           "label": "D",
@@ -8221,8 +8221,8 @@
         "summary": "Only an APC that provides the co-stimulatory Signal 2 activates the T cell; antigen alone yields anergy or apoptosis.",
         "whyCorrect": "T cell activation requires antigen recognition plus a co-stimulatory signal from the APC. An immature or unactivated APC presenting antigen without the co-stimulatory molecule produces unresponsive (anergic) or apoptotic T cells, whereas an APC displaying the co-stimulatory molecule generates activated T cells.",
         "whyWrongByChoice": {
-          "B": "FasL on tumor cells induces T cell apoptosis via Fas; it is not the APC feature that determines activation.",
-          "C": "MHC presentation supplies Signal 1, which is present in both outcomes; it does not decide activation versus anergy.",
+          "B": "MHC presentation supplies Signal 1, which is present in both outcomes; it does not decide activation versus anergy.",
+          "C": "FasL on tumor cells induces T cell apoptosis via Fas; it is not the APC feature that determines activation.",
           "D": "PD-1 is an inhibitory receptor on T cells, not a property of the antigen-presenting cell.",
           "E": "TGF-beta is secreted by tumor cells as an immunosuppressant and is not the APC property governing co-stimulation."
         }
@@ -8247,7 +8247,7 @@
         },
         {
           "label": "B",
-          "text": "Engagement of inhibitory T cell checkpoints"
+          "text": "Engagement of inhibitory T cell receptors such as PD-1"
         },
         {
           "label": "C",
@@ -8652,7 +8652,7 @@
     },
     {
       "id": "pa31-008",
-      "stem": "A 7-year-old child has short stature, absent thumbs and other skeletal abnormalities, and progressive pancytopenia. Cultured cells show marked chromosomal breakage when exposed to DNA cross-linking agents, and the condition is inherited in an autosomal recessive manner. A defect in which of the following repair processes best explains this disorder?",
+      "stem": "A 7-year-old child has short stature, absent thumbs and other skeletal abnormalities, and progressive pancytopenia. Cultured cells show marked chromosomal breakage when exposed to diepoxybutane, and the condition is inherited in an autosomal recessive manner. A defect in which of the following repair processes best explains this disorder?",
       "choices": [
         {
           "label": "A",
@@ -8836,7 +8836,7 @@
     },
     {
       "id": "pa31-012",
-      "stem": "A cell in late S/G2 phase sustains a double-strand DNA break and has an intact homologous chromosome available. It repairs the break by reconnecting the complementary strands without the loss of any nucleotide sequence. Which of the following repair mechanisms was used, and why is it favored over the alternative?",
+      "stem": "A cell in late S/G2 phase sustains a double-strand DNA break and has an intact, undamaged copy of the same sequence available. It repairs the break by reconnecting the complementary strands without the loss of any nucleotide sequence. Which of the following repair mechanisms was used, and why is it favored over the alternative?",
       "choices": [
         {
           "label": "A",
@@ -9024,7 +9024,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Apoptosis; assessments occur especially before and after S phase"
+          "text": "Apoptosis; assessments occur before and after S phase"
         },
         {
           "label": "B",
@@ -9112,7 +9112,7 @@
     },
     {
       "id": "pa31-018",
-      "stem": "A researcher compares DNA repair pathways by the size of the segment each removes. One pathway is described as a remove-and-replace mechanism that recognizes a broad range of helix-distorting single-strand lesions and excises a stretch of nucleotides containing the lesion rather than a single base. Which of the following pathways is being described?",
+      "stem": "A researcher compares DNA repair pathways by the size of the segment each removes. One pathway is described as a remove-and-replace mechanism that recognizes a broad range of helix-distorting single-strand lesions and excises a stretch of the damaged strand containing the lesion rather than a single base. Which of the following pathways is being described?",
       "choices": [
         {
           "label": "A",
@@ -9359,7 +9359,7 @@
         },
         {
           "label": "D",
-          "text": "Sporadic loss of mismatch repair, seen in 10-15% of sporadic colon cancers"
+          "text": "Somatic loss of mismatch repair confined to the tumor"
         },
         {
           "label": "E",
@@ -9435,7 +9435,7 @@
     },
     {
       "id": "pa31-025",
-      "stem": "A pathology resident reads an older report that describes a patient's condition as hereditary nonpolyposis colorectal cancer (HNPCC). Which of the following is the current name for this syndrome?",
+      "stem": "A pathology resident reads an older report that describes a patient's condition as hereditary nonpolyposis colorectal cancer (HNPCC). Which of the following is the current name for this condition?",
       "choices": [
         {
           "label": "A",
@@ -9573,7 +9573,7 @@
     },
     {
       "id": "pa31-028",
-      "stem": "A leukemia cell line is found to carry a fusion of segments from two different chromosomes. Analysis shows that both chromosomes had sustained double-strand breaks at about the same time and that the broken ends were joined to each other rather than to their original partners. Which of the following repair mechanisms most likely produced this rearrangement?",
+      "stem": "A leukemia cell line is found to carry a fusion of segments from two different chromosomes. Analysis shows that both chromosomes had sustained double-strand breaks at about the same time and that the broken ends were ligated to each other rather than to their original partners. Which of the following repair mechanisms most likely produced this rearrangement?",
       "choices": [
         {
           "label": "A",
@@ -9728,7 +9728,7 @@
         },
         {
           "label": "D",
-          "text": "Microsatellite instability in her tumor"
+          "text": "Microsatellite instability in her breast tumor"
         },
         {
           "label": "E",
@@ -10449,7 +10449,7 @@
     },
     {
       "id": "pa32-011",
-      "stem": "A 70-year-old man is noted to have the abrupt appearance of numerous gray-brown, flat-topped, velvety, stuck-on-appearing skin lesions across his trunk over a few weeks. Work-up is initiated for an underlying malignancy. This sign is most commonly associated with which cancer, and which secreted factor is thought to drive the lesions?",
+      "stem": "A 70-year-old man is noted to have the abrupt appearance of numerous gray-brown, flat-topped, velvety, stuck-on-appearing skin lesions across his trunk over a few weeks. Work-up is initiated for an underlying malignancy. This sign is most commonly associated with which cancer, and which secreted mediator is thought to drive the lesions?",
       "choices": [
         {
           "label": "A",
@@ -11377,7 +11377,7 @@
         },
         {
           "label": "B",
-          "text": "Fluid restriction with pharmacologic correction of the serum sodium"
+          "text": "Fluid restriction with pharmacologic correction of the hyponatremia"
         },
         {
           "label": "C",
@@ -11511,33 +11511,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Association with obesity and diabetes rather than malignancy"
-        },
-        {
-          "label": "B",
           "text": "Ectopic secretion of an ACTH-like substance"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Growth factor secretion by an occult gastric adenocarcinoma"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Immune cross-reactivity against keratinocyte epitopes"
+        },
+        {
+          "label": "D",
+          "text": "Insulin resistance rather than an underlying malignancy"
         },
         {
           "label": "E",
           "text": "Transforming growth factor alpha secretion by a GI tumor"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Most cases of acanthosis nigricans are associated with obesity or diabetes; only about 20% are related to an underlying tumor.",
         "whyCorrect": "Acanthosis nigricans is thickened, black or brown, velvety hyperpigmentation most commonly on the neck and axilla. Most cases are associated with conditions such as obesity or diabetes. An estimated 20% of cases are related to an underlying tumor, most commonly gastric adenocarcinoma, but in an obese adolescent with diabetes the non-paraneoplastic association is far more likely.",
         "whyWrongByChoice": {
-          "B": "Ectopic ACTH secretion causes Cushing syndrome with buffalo hump and moon facies, not velvety hyperpigmentation.",
-          "C": "Growth factor secretion by gastric adenocarcinoma is the proposed mechanism of paraneoplastic acanthosis nigricans, which accounts for only about 20% of cases and would be unlikely in an obese diabetic teenager.",
-          "D": "Immune cross-reactivity is the mechanism of paraneoplastic neurologic syndromes, not of acanthosis nigricans.",
+          "A": "Ectopic ACTH secretion causes Cushing syndrome with buffalo hump and moon facies, not velvety hyperpigmentation.",
+          "B": "Growth factor secretion by gastric adenocarcinoma is the proposed mechanism of paraneoplastic acanthosis nigricans, which accounts for only about 20% of cases and would be unlikely in an obese diabetic teenager.",
+          "C": "Immune cross-reactivity is the mechanism of paraneoplastic neurologic syndromes, not of acanthosis nigricans.",
           "E": "TGF-alpha secretion by gastrointestinal tumors is the mechanism proposed for the sign of Leser-Trelat (seborrheic keratoses), not acanthosis nigricans."
         }
       },
@@ -11599,7 +11599,7 @@
     },
     {
       "id": "pa32-036",
-      "stem": "A 69-year-old woman with lung adenocarcinoma has digital clubbing, bilateral knee effusions, and pain in her wrists and ankles. Radiographs of the tibiae and fibulae show new bone formation along the shafts. Which of the following best describes the underlying skeletal process?",
+      "stem": "A 69-year-old woman with lung adenocarcinoma has digital clubbing, bilateral knee effusions, and pain in her wrists and ankles. Radiographs of the tibiae and fibulae show a smooth layer of new bone along the shafts. Which of the following best describes the underlying skeletal process?",
       "choices": [
         {
           "label": "A",
@@ -11875,7 +11875,7 @@
     },
     {
       "id": "pa33-006",
-      "stem": "A 58-year-old man who worked for years manufacturing polyvinyl chloride products presents with right upper quadrant pain. Imaging reveals a vascular hepatic tumor, and biopsy confirms a malignant tumor of endothelial origin in the liver. Occupational exposure to which of the following is most likely responsible?",
+      "stem": "A 58-year-old man who worked for years manufacturing PVC pipe presents with right upper quadrant pain. Imaging reveals a vascular hepatic tumor, and biopsy confirms a malignant tumor of endothelial origin in the liver. Occupational exposure to which of the following is most likely responsible?",
       "choices": [
         {
           "label": "A",
@@ -12528,7 +12528,7 @@
         },
         {
           "label": "B",
-          "text": "Increased awareness of colorectal cancer screening aided by national campaigns"
+          "text": "Increased uptake of screening colonoscopy aided by national campaigns"
         },
         {
           "label": "C",
@@ -12616,7 +12616,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Adenoma, a precursor lesion removed before progression to adenocarcinoma"
+          "text": "Adenoma, a benign precursor of invasive adenocarcinoma"
         },
         {
           "label": "B",
@@ -13356,7 +13356,7 @@
         },
         {
           "label": "B",
-          "text": "Chronic inflammation of the gastric mucosa"
+          "text": "Chronic mucosal inflammation"
         },
         {
           "label": "C",
@@ -13499,7 +13499,7 @@
         },
         {
           "label": "C",
-          "text": "Continuous activation of vascular endothelial growth factor"
+          "text": "Continuous activation of VEGF-driven angiogenesis"
         },
         {
           "label": "D",
@@ -13723,7 +13723,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A substantial proportion of cases are cured following H. pylori eradication"
+          "text": "A substantial proportion of cases are cured by antibiotic eradication of the infection"
         },
         {
           "label": "B",
@@ -14661,29 +14661,29 @@
         },
         {
           "label": "B",
-          "text": "It drives T-cell proliferation and inhibits apoptosis"
-        },
-        {
-          "label": "C",
           "text": "It inactivates Rb to remove the G1-to-S checkpoint"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "It induces pro-inflammatory cytokine release from the host"
+        },
+        {
+          "label": "D",
+          "text": "It promotes clonal expansion of T cells and inhibits apoptosis"
         },
         {
           "label": "E",
           "text": "It upregulates VEGF to promote angiogenesis"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "HTLV-1 transformation is linked to Tax, which stimulates viral transcription and T-cell proliferation pathways, and HBZ, which drives T-cell proliferation and inhibits apoptosis.",
         "whyCorrect": "Though the exact mechanism of HTLV-1 tumorigenesis is unknown, neoplastic transformation is thought to be related to two viral proteins. Tax stimulates transcription of viral RNA and activates pathways related to T-cell proliferation (the protein described in the stem). HBZ drives T-cell proliferation and inhibits apoptosis.",
         "whyWrongByChoice": {
           "A": "CD21 binding is how EBV enters B lymphocytes; HTLV-1 targets CD4+ T cells.",
-          "C": "Rb inactivation is the action of the HPV E7 oncoprotein, not an HTLV-1 protein.",
-          "D": "Induction of pro-inflammatory cytokines describes CagA-expressing H. pylori strains in the stomach.",
+          "B": "Rb inactivation is the action of the HPV E7 oncoprotein, not an HTLV-1 protein.",
+          "C": "Induction of pro-inflammatory cytokines describes CagA-expressing H. pylori strains in the stomach.",
           "E": "VEGF upregulation and angiogenesis is the mechanism of HHV-8 in Kaposi sarcoma."
         }
       },
@@ -14891,7 +14891,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Atrophic gastritis"
+          "text": "Gastric atrophy"
         },
         {
           "label": "B",
@@ -15165,7 +15165,7 @@
     },
     {
       "id": "pa35-005",
-      "stem": "A 55-year-old man with diffuse large B-cell lymphoma completes chemotherapy. Follow-up PET/CT and physical examination show no detectable tumor. His oncologist emphasizes that this does not necessarily mean he is cured. Which of the following best describes his current status?",
+      "stem": "A 55-year-old man with diffuse large B-cell lymphoma finishes chemotherapy. Follow-up PET/CT and physical examination show no detectable tumor. His oncologist emphasizes that this does not necessarily mean he is cured. Which of the following best describes his current status?",
       "choices": [
         {
           "label": "A",
@@ -15631,7 +15631,7 @@
         },
         {
           "label": "B",
-          "text": "They halt the cycle and trigger apoptosis in damaged cells"
+          "text": "They halt division and trigger apoptosis in damaged cells"
         },
         {
           "label": "C",
@@ -15900,7 +15900,7 @@
     },
     {
       "id": "pa36-009",
-      "stem": "A patient with metastatic colorectal cancer receives a monoclonal antibody intended to cut off the tumor's blood supply. The drug binds a circulating growth factor, inhibiting the abnormal blood vessel proliferation that accompanies tumor growth. Which of the following is the molecular target of this agent?",
+      "stem": "A patient with metastatic colorectal cancer receives a monoclonal antibody intended to cut off the tumor's blood supply. The drug binds a circulating protein that drives the abnormal blood vessel proliferation supporting the tumor. Which of the following is the molecular target of this agent?",
       "choices": [
         {
           "label": "A",
@@ -16268,7 +16268,7 @@
     },
     {
       "id": "pa36-017",
-      "stem": "During mitosis, a surveillance mechanism confirms that all chromosomes are attached to the spindle before the cell is allowed to trigger anaphase and proceed to cytokinesis. Which of the following cell cycle checkpoints performs this function?",
+      "stem": "During mitosis, a surveillance mechanism confirms that all chromosomes are attached to the spindle before the cell is allowed to separate its sister chromatids and proceed to cytokinesis. Which of the following cell cycle checkpoints performs this function?",
       "choices": [
         {
           "label": "A",
@@ -16360,7 +16360,7 @@
     },
     {
       "id": "pa36-019",
-      "stem": "A tumor is found to have loss-of-function mutations in both Rb and p53. Based on the roles of these proteins in the cell cycle, which of the following control points is most directly compromised in these cancer cells?",
+      "stem": "A tumor is found to have loss-of-function mutations in both Rb and p53. Based on the roles of these proteins in the cell cycle, which of the following is most directly compromised in these cancer cells?",
       "choices": [
         {
           "label": "A",
@@ -16883,7 +16883,7 @@
         },
         {
           "label": "D",
-          "text": "Chimeric antigen receptors"
+          "text": "Chimeric antigen receptors on engineered immune cells"
         },
         {
           "label": "E",

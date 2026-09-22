@@ -660,7 +660,7 @@
         },
         {
           "label": "C",
-          "text": "Inhibition of ciliary activity"
+          "text": "Inhibition of ciliary activity in the respiratory mucosa"
         },
         {
           "label": "D",
@@ -978,7 +978,7 @@
         },
         {
           "label": "B",
-          "text": "Direct erosion through the wall of an adjacent artery"
+          "text": "Direct erosion from the lymph node into an adjacent artery"
         },
         {
           "label": "C",
@@ -999,7 +999,7 @@
         "whyCorrect": "Infectious agents spread beyond the initial site using lymphatics, blood vessels, and peripheral nerves. Bloodborne dissemination is common and efficient, and such pathogens may pass through the lymphatics to the lymph nodes before gaining access to the blood, which explains regional lymphadenopathy preceding bacteremia.",
         "whyWrongByChoice": {
           "A": "Urethral adherence and ascent describe urogenital infection, not spread from a skin wound.",
-          "B": "Direct arterial erosion is not the described route of dissemination and would not explain the intervening lymph node involvement.",
+          "B": "Organisms in a draining node do not erode directly into an adjacent artery; entry into the blood occurs by lymphatic drainage into the venous system.",
           "C": "Alveolar phagocytosis is a respiratory defense, unrelated to spread from a hand wound.",
           "E": "Retrograde axonal transport is how certain viruses reach the CNS, and it does not produce lymphadenopathy or bacteremia."
         }
@@ -1400,7 +1400,7 @@
         },
         {
           "label": "D",
-          "text": "Foreign material such as talc"
+          "text": "Insoluble talc particles"
         },
         {
           "label": "E",
@@ -1798,7 +1798,7 @@
     },
     {
       "id": "pa16-004",
-      "stem": "A 31-year-old woman with systemic lupus erythematosus develops pleuritic chest pain and glomerular injury. Her disease is understood to result from antigen-antibody complexes that deposit in tissues and activate complement, driving widespread inflammation. This process is an example of which of the following hypersensitivity reactions?",
+      "stem": "A 31-year-old woman with systemic lupus erythematosus develops pleuritic chest pain and glomerular injury. Her disease is understood to result from antigen-antibody aggregates that deposit in tissues and activate complement, driving widespread inflammation. This process is an example of which of the following hypersensitivity reactions?",
       "choices": [
         {
           "label": "A",
@@ -1982,7 +1982,7 @@
     },
     {
       "id": "pa16-008",
-      "stem": "A 58-year-old man with rheumatoid arthritis has a firm subcutaneous nodule on the extensor surface of his forearm near the elbow. Biopsy shows a central zone of fibrinoid necrosis surrounded by a rim of activated macrophages, lymphocytes, and plasma cells. Which of the following is the most likely diagnosis?",
+      "stem": "A 58-year-old man with a symmetric inflammatory polyarthritis of the hands and wrists and a positive anti-CCP antibody has a firm subcutaneous nodule on the extensor surface of his forearm near the elbow. Biopsy shows a central zone of fibrinoid necrosis surrounded by a rim of activated macrophages, lymphocytes, and plasma cells. Which of the following is the most likely diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -1990,7 +1990,7 @@
         },
         {
           "label": "B",
-          "text": "Gouty tophus"
+          "text": "Gouty tophaceous nodule"
         },
         {
           "label": "C",
@@ -2011,7 +2011,7 @@
         "whyCorrect": "Rheumatoid nodules are an infrequent manifestation of RA that occur in subcutaneous tissue of the forearm, elbow, occiput, and lumbosacral area. Microscopically they show a central zone of fibrinoid necrosis surrounded by a rim of activated macrophages, lymphocytes, and plasma cells.",
         "whyWrongByChoice": {
           "A": "The Goodpasture pulmonary lesion is intra-alveolar hemorrhage with hemosiderin-laden macrophages, not a subcutaneous nodule.",
-          "B": "A gouty tophus contains urate crystals, not a central zone of fibrinoid necrosis with palisading macrophages.",
+          "B": "A gouty tophaceous nodule contains urate crystals, not a central zone of fibrinoid necrosis with palisading macrophages.",
           "C": "Henoch-Schonlein lesions are palpable purpura from IgA immune complexes, not fibrinoid-necrosis nodules.",
           "D": "Libman-Sacks vegetations are sterile warty deposits on heart valves, not subcutaneous nodules."
         }
@@ -2312,29 +2312,29 @@
         },
         {
           "label": "B",
-          "text": "Hemosiderin-laden macrophages in the dermis"
+          "text": "Granular IgG deposits at the basement membrane zone"
         },
         {
           "label": "C",
-          "text": "IgA deposits in the mesangium"
+          "text": "Hemosiderin-laden macrophages in the dermis"
         },
         {
           "label": "D",
-          "text": "IgG deposits along the dermoepidermal junction"
+          "text": "IgA deposits in the mesangium"
         },
         {
           "label": "E",
           "text": "Necrotizing granulomas with giant cells"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Skin involvement in SLE shows basal-layer liquefactive degeneration on H&E and IgG deposits along the dermoepidermal junction on immunofluorescence.",
         "whyCorrect": "In SLE involving the skin, an H&E stained section shows liquefactive degeneration of the basal layer of the epidermis and edema at the dermoepidermal junction, while immunofluorescence stained for IgG reveals deposits of IgG along the dermoepidermal junction, reflecting immune-complex deposition.",
         "whyWrongByChoice": {
           "A": "Central fibrinoid necrosis rimmed by palisaded macrophages describes a rheumatoid nodule of rheumatoid arthritis.",
-          "B": "Hemosiderin-laden macrophages reflect previous hemorrhage in the lungs of Goodpasture syndrome.",
-          "C": "Mesangial IgA deposition is the renal immunofluorescence finding of Henoch-Schonlein purpura, not a skin finding in lupus.",
+          "C": "Hemosiderin-laden macrophages reflect previous hemorrhage in the lungs of Goodpasture syndrome.",
+          "D": "Mesangial IgA deposition is the renal immunofluorescence finding of Henoch-Schonlein purpura, not a skin finding in lupus.",
           "E": "Necrotizing granulomas with multinucleated giant cells are seen in granulomatosis with polyangiitis, not in lupus skin."
         }
       },
@@ -3102,7 +3102,7 @@
         },
         {
           "label": "D",
-          "text": "IgM rheumatoid factor in capillary loops"
+          "text": "IgM rheumatoid factor in the mesangium"
         },
         {
           "label": "E",
@@ -3366,11 +3366,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Aortic root dilation"
+          "text": "Mitral stenosis"
         },
         {
           "label": "B",
-          "text": "Mitral stenosis"
+          "text": "Mitral valve prolapse"
         },
         {
           "label": "C",
@@ -3385,12 +3385,12 @@
           "text": "Ventricular septal defect"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Chronic rheumatic heart disease scars the mitral valve, producing mitral stenosis as an important long-term consequence.",
         "whyCorrect": "In rheumatic heart disease the acute endocardial inflammation and vegetations (verrucae) evolve over time into fibrosis, diffuse thickening of the valve leaflets, and fusion of the tendinous cords. This scarring narrows the mitral orifice, and mitral stenosis is described as an important long-term consequence.",
         "whyWrongByChoice": {
-          "A": "Aortic root dilation is not a described consequence of rheumatic valve scarring, which classically involves the mitral valve.",
+          "B": "Mitral valve prolapse results from myxomatous degeneration of the leaflets and produces a mid-systolic click, not the mid-diastolic murmur of rheumatic scarring.",
           "C": "An atrial septal defect is a congenital shunt, not a result of chronic rheumatic leaflet and chordae scarring.",
           "D": "Tricuspid atresia is a congenital malformation, not an acquired consequence of rheumatic fibrosis.",
           "E": "A ventricular septal defect is a congenital septal lesion unrelated to rheumatic valve damage."
@@ -3872,34 +3872,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Antibodies against a bacterial surface protein cross-reacting with host tissue"
+          "text": "A superantigen triggering a massive release of cytokines"
         },
         {
           "label": "B",
-          "text": "Bacterial dissemination aided by a polysaccharide capsule"
+          "text": "Antibodies against a bacterial surface protein cross-reacting with host tissue"
         },
         {
           "label": "C",
-          "text": "Deposition of antigen-antibody complexes in small vessels"
+          "text": "Bacterial dissemination aided by a polysaccharide capsule"
         },
         {
           "label": "D",
-          "text": "Granulomatous inflammation resolving into fibrosis"
+          "text": "Deposition of antigen-antibody complexes in small vessels"
         },
         {
           "label": "E",
-          "text": "Superantigen toxin triggering a massive release of cytokines"
+          "text": "Granulomatous inflammation resolving into fibrosis"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Superantigen toxins cause immune-mediated collateral damage by triggering a massive cytokine release that can produce hypotension and multi-system organ disease.",
         "whyCorrect": "Infectious agents damage the host directly, but the immune response to infection also inflicts collateral damage on uninfected tissues. Superantigen toxins are one such mechanism: they trigger a massive release of cytokines, which can result in hypotension and multi-system organ disease, matching this patient's acute shock-like presentation.",
         "whyWrongByChoice": {
-          "A": "Antibody cross-reactivity (molecular mimicry) produces delayed autoimmune disease such as acute rheumatic fever, not acute cytokine-driven shock within a day.",
-          "B": "A polysaccharide capsule helps N. meningitidis escape phagocytosis and disseminate; it is not the mechanism of toxin-driven cytokine release.",
-          "C": "Immune complex deposition underlies poststreptococcal glomerulonephritis and develops weeks after infection rather than causing acute hypotension.",
-          "D": "Granulomatous inflammation is a chronic process that damages tissue and heals with scarring; it does not produce acute shock."
+          "B": "Antibody cross-reactivity (molecular mimicry) produces delayed autoimmune disease such as acute rheumatic fever, not acute cytokine-driven shock within a day.",
+          "C": "A polysaccharide capsule helps N. meningitidis escape phagocytosis and disseminate; it is not the mechanism of toxin-driven cytokine release.",
+          "D": "Immune complex deposition underlies poststreptococcal glomerulonephritis and develops weeks after infection rather than causing acute hypotension.",
+          "E": "Granulomatous inflammation is a chronic process that damages tissue and heals with scarring; it does not produce acute shock."
         }
       },
       "difficulty": "easy",
@@ -4788,7 +4788,7 @@
     },
     {
       "id": "pa17-033",
-      "stem": "A 58-year-old man with necrotizing granulomas of the respiratory tract and positive PR3-ANCA develops a rapid rise in serum creatinine. Renal biopsy shows glomeruli with crescents. Which of the following best characterizes this renal lesion?",
+      "stem": "A 58-year-old man with necrotizing granulomas of the respiratory tract and positive PR3-ANCA develops a rise in serum creatinine from 1.1 to 4.6 mg/dL over ten days. Renal biopsy shows glomeruli with crescents. Which of the following best characterizes this renal lesion?",
       "choices": [
         {
           "label": "A",
@@ -5299,7 +5299,7 @@
     },
     {
       "id": "pa18-008",
-      "stem": "A 40-year-old man develops rough, cauliflower-like verrucous growths on his hands. Biopsy shows proliferation of epithelial cells with cytopathic changes. This lesion is an example of which pattern of tissue reaction to infection?",
+      "stem": "A 40-year-old man develops rough, cauliflower-like verrucous growths on his hands. Biopsy shows proliferation of epithelial cells with perinuclear halos and wrinkled, raisin-like nuclei. This lesion is an example of which pattern of tissue response to infection?",
       "choices": [
         {
           "label": "A",
@@ -5722,7 +5722,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "CD4-positive helper T cells directly lysing the infected cell"
+          "text": "CD8-positive T cells recognizing viral peptide on MHC class I"
         },
         {
           "label": "B",
@@ -5746,7 +5746,7 @@
         "summary": "Natural killer cells sense loss of MHC class I and kill virus-infected cells non-specifically via perforin and granzymes.",
         "whyCorrect": "A common viral evasion strategy is downregulation of class I MHC to escape cytotoxic T cells. Natural killer cells sense the lack of class I MHC and kill the virus-infected cell non-specifically by secreting perforins and proteolytic granzymes, driving the cell into apoptosis.",
         "whyWrongByChoice": {
-          "A": "CD4-positive helper T cells coordinate responses through cytokines; they are not the direct cytolytic effectors that respond to missing MHC class I.",
+          "A": "Cytotoxic CD8 T cells require viral peptide displayed on MHC class I, which is precisely what this virus has downregulated to evade them.",
           "B": "Eosinophils act mainly against helminths and are not the effectors that kill MHC-class-I-negative virus-infected cells.",
           "D": "Neutrophil oxidative killing targets phagocytosed microbes, not host cells that have lost surface MHC class I.",
           "E": "Antibodies neutralize extracellular virus and opsonize, but they do not exploit the absence of MHC class I to kill an infected cell."
@@ -5871,7 +5871,7 @@
         },
         {
           "label": "C",
-          "text": "Impaired antibody-mediated phagocytosis of the bacterium"
+          "text": "Impaired opsonic phagocytosis of the organism"
         },
         {
           "label": "D",
@@ -6292,7 +6292,7 @@
         },
         {
           "label": "C",
-          "text": "Lysosomal enzyme digestion"
+          "text": "Digestion by phagolysosomal enzymes"
         },
         {
           "label": "D",
@@ -6385,7 +6385,7 @@
         },
         {
           "label": "C",
-          "text": "Interferon gamma from helper T cells"
+          "text": "Interferon gamma from a Th1 lymphocyte"
         },
         {
           "label": "D",
@@ -6859,7 +6859,7 @@
         },
         {
           "label": "D",
-          "text": "Recombination of a silent pilin variant next to the promoter"
+          "text": "Recombination of a silent pilin sequence next to the promoter"
         },
         {
           "label": "E",
@@ -7541,7 +7541,7 @@
     },
     {
       "id": "pa20-008",
-      "stem": "A 24-year-old man presents with a single genital lesion that appeared about three weeks after unprotected intercourse. The lesion is solitary, painless, erythematous, and has a sharp border with an ulcerative base. Which finding is most suggestive of primary syphilis?",
+      "stem": "A 24-year-old man presents with a genital lesion that appeared about three weeks after unprotected intercourse. Darkfield examination of the lesion shows motile spirochetes. Which of the following descriptions of the lesion is most consistent with primary syphilis?",
       "choices": [
         {
           "label": "A",
@@ -7549,7 +7549,7 @@
         },
         {
           "label": "B",
-          "text": "A single painless ulcerative lesion"
+          "text": "A solitary painless ulcer with a sharp border"
         },
         {
           "label": "C",
@@ -7725,7 +7725,7 @@
     },
     {
       "id": "pa20-012",
-      "stem": "A 5-year-old child born to a mother with untreated syphilis has notched, peg-shaped teeth, clouding of the cornea from interstitial keratitis, and progressive hearing loss. Which finding is characteristic of congenital syphilis rather than acquired adult syphilis?",
+      "stem": "A 5-year-old child born to a mother with untreated syphilis has clouding of the cornea from interstitial keratitis and progressive hearing loss. Which additional finding is characteristic of congenital syphilis rather than acquired adult syphilis?",
       "choices": [
         {
           "label": "A",
@@ -7975,7 +7975,7 @@
         },
         {
           "label": "E",
-          "text": "The reaction proves the infection is latent rather than active"
+          "text": "The reaction proves latent infection rather than prior BCG vaccination"
         }
       ],
       "correctAnswer": "D",
@@ -7986,7 +7986,7 @@
           "A": "A positive PPD does not confirm active disease; it only indicates prior sensitization, and this patient is asymptomatic with a normal chest x-ray.",
           "B": "The PPD reaction is a Th1 cell-mediated Type IV hypersensitivity, not an immune complex (Type III) response.",
           "C": "The reaction is a delayed Type IV cell-mediated response, not an IgE-mediated (Type I) allergy.",
-          "E": "The skin test cannot distinguish latent from active infection, so it cannot prove latency."
+          "E": "The skin test cannot distinguish latent infection from active disease or from prior BCG vaccination, so it proves nothing of the sort."
         }
       },
       "difficulty": "medium",
@@ -8511,7 +8511,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Gummatous infiltration of the ventricular myocardium"
+          "text": "Gummatous infiltration of the aortic root"
         },
         {
           "label": "B",
@@ -8535,7 +8535,7 @@
         "summary": "Cardiovascular syphilis can cause coronary ostial stenosis that compromises blood supply to the heart.",
         "whyCorrect": "In cardiovascular syphilis, inflammation of the aorta leads to dilation of the aortic root and arch. Additionally, coronary ostial stenosis, narrowing of these critical arteries at their origins, can affect the blood supply to the heart, explaining ischemic chest pain with disease localized to the coronary ostia.",
         "whyWrongByChoice": {
-          "A": "Gummas occur in bone, skin, and upper respiratory mucosa; myocardial gummatous infiltration does not explain ostial narrowing.",
+          "A": "Gummas occur in bone, skin, and upper respiratory mucosa; syphilitic disease of the aortic root is an obliterative endarteritis of the vasa vasorum, not gummatous infiltration.",
           "B": "Atherosclerosis would affect the vessels themselves; here the distal vessels are patent and narrowing is confined to the ostia at the inflamed aortic root.",
           "D": "Embolism from a vegetation is a complication of endocarditis, not of syphilitic aortitis.",
           "E": "Vasospasm is not the mechanism described in tertiary syphilis and would not produce fixed ostial narrowing."
@@ -8695,7 +8695,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Demyelination of the optic nerve anterior to the chiasm"
+          "text": "Demyelination of the optic nerve, the afferent limb of the light reflex"
         },
         {
           "label": "B",
@@ -8795,7 +8795,7 @@
         },
         {
           "label": "C",
-          "text": "Previously treated infection with persistent treponemal antibodies"
+          "text": "Previously treated infection with persistent seroreactivity"
         },
         {
           "label": "D",
@@ -11394,7 +11394,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "ABO blood group antigens"
+          "text": "ABO blood typing"
         },
         {
           "label": "B",
@@ -11582,30 +11582,30 @@
         },
         {
           "label": "B",
-          "text": "Frozen section evaluation"
+          "text": "Antibody cross-match against donor lymphocytes"
         },
         {
           "label": "C",
-          "text": "HLA antibody screening"
+          "text": "Frozen section evaluation"
         },
         {
           "label": "D",
-          "text": "HLA gene typing"
+          "text": "HLA antibody screening"
         },
         {
           "label": "E",
-          "text": "Lymphocyte cross-matching"
+          "text": "HLA gene typing"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "HLA antibody screening of the recipient determines whether the recipient already has antibodies that would target the donated organ or tissue.",
         "whyCorrect": "The brick lists three types of HLA testing generally performed: HLA gene typing of donor and recipient to identify specific alleles, HLA antibody screening of the recipient to determine if the recipient has any existing antibodies that would target the donated organ or tissue, and lymphocyte cross-matching. Screening the recipient's serum for pre-existing antibodies before a donor is identified is HLA antibody screening.",
         "whyWrongByChoice": {
           "A": "ABO typing identifies A and B antigens on red cells, not anti-HLA antibodies.",
-          "B": "Frozen section is used to evaluate donor organ viability, not recipient antibodies.",
-          "D": "HLA gene typing identifies the specific HLA alleles of donor and recipient; it does not detect antibodies.",
-          "E": "Lymphocyte cross-matching tests recipient antibodies against a specific donor's lymphocytes, so it requires a donor."
+          "B": "A cross-match tests recipient antibodies against a specific donor's lymphocytes, so it requires a donor to have been identified.",
+          "C": "Frozen section is used to evaluate donor organ viability, not recipient antibodies.",
+          "E": "HLA gene typing identifies the specific HLA alleles of donor and recipient; it does not detect antibodies."
         }
       },
       "difficulty": "medium",
@@ -11620,7 +11620,7 @@
     },
     {
       "id": "pa22-024",
-      "stem": "A potential deceased-donor kidney has been identified for a 50-year-old recipient. Before proceeding, the laboratory mixes the recipient's serum with cells from the donor to detect recipient antibodies that would target antigens present on the donor's lymphocytes. Which of the following tests is being performed?",
+      "stem": "A potential deceased-donor kidney has been identified for a 50-year-old recipient. Before proceeding, the laboratory mixes the recipient's serum with cells from the donor to detect recipient antibodies that would target antigens present on the donor's cells. Which of the following tests is being performed?",
       "choices": [
         {
           "label": "A",
@@ -11712,7 +11712,7 @@
     },
     {
       "id": "pa22-026",
-      "stem": "In 1984, the U.S. government determined that the country needed a national system to share organs and a system to collect and store data on transplants, and that this work needed to be done by a private, non-government organization. Which of the following organizations was created as a result?",
+      "stem": "In 1984, the U.S. government determined that the country needed a national system to allocate donated kidneys, livers, and hearts and a system to collect and store data on transplants, and that this work needed to be done by a private, non-government organization. Which of the following organizations was created as a result?",
       "choices": [
         {
           "label": "A",
@@ -11996,7 +11996,7 @@
         },
         {
           "label": "B",
-          "text": "Bridging collagen fibrosis"
+          "text": "Bridging fibrosis between portal tracts"
         },
         {
           "label": "C",
@@ -12866,7 +12866,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Donor-derived antibodies against recipient erythrocytes"
+          "text": "Donor-derived antibodies against recipient blood group antigens"
         },
         {
           "label": "B",
@@ -13296,7 +13296,7 @@
         },
         {
           "label": "E",
-          "text": "Immunosuppressive drugs suppressing his immune system"
+          "text": "Pharmacologic suppression of host defenses"
         }
       ],
       "correctAnswer": "E",
@@ -13786,7 +13786,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Acute graft-versus-host disease with patchy epithelial cell death and dermal lymphocytes"
+          "text": "Acute graft-versus-host disease with epidermal apoptosis and dermal lymphocytes"
         },
         {
           "label": "B",
@@ -14250,7 +14250,7 @@
         },
         {
           "label": "B",
-          "text": "Inflammation spanning the entire bowel wall"
+          "text": "Inflammation spanning the full thickness of the wall"
         },
         {
           "label": "C",

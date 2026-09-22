@@ -240,7 +240,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Application of a proximal tourniquet"
+          "text": "Application of a tourniquet proximal to the forearm"
         },
         {
           "label": "B",
@@ -283,7 +283,7 @@
     },
     {
       "id": "pa01-007",
-      "stem": "A 35-year-old electrician grasps a live wire and is unable to release it because of sustained muscle contraction. He is found in cardiac arrest. Which of the following is a recognized principal mechanism of death from electrocution?",
+      "stem": "A 35-year-old electrician grasps a live wire and is unable to release it because of sustained muscle contraction. He is found pulseless and unresponsive. Which of the following is a recognized principal mechanism of death from electrocution?",
       "choices": [
         {
           "label": "A",
@@ -528,26 +528,26 @@
         },
         {
           "label": "C",
-          "text": "Excessive dryness"
+          "text": "Excessive dampness"
         },
         {
           "label": "D",
-          "text": "Excessive heat"
+          "text": "Excessive dryness"
         },
         {
           "label": "E",
-          "text": "Indoor dampness"
+          "text": "Excessive heat"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Damp, humid indoor air promotes mold growth, a socioeconomic environmental factor linked to respiratory disease.",
         "whyCorrect": "Damp and humid indoor air contributes to mold growth, which is associated with a wide variety of respiratory symptoms, including asthma-related disease. Indoor environment is an important environmental factor with socioeconomic implications.",
         "whyWrongByChoice": {
           "A": "Carbon monoxide is a poisonous gas from incomplete combustion; it does not cause mold growth.",
           "B": "Excessive cold is not the factor that drives mold growth in the home.",
-          "C": "Dryness inhibits rather than promotes mold growth.",
-          "D": "Excessive heat is not associated with the mold growth described here; moisture is the key factor."
+          "D": "Dryness inhibits rather than promotes mold growth.",
+          "E": "Excessive heat is not associated with the mold growth described here; moisture is the key factor."
         }
       },
       "difficulty": "easy",
@@ -5530,7 +5530,7 @@
         },
         {
           "label": "B",
-          "text": "Cell shrinkage with an intact membrane and no inflammation"
+          "text": "Cell shrinkage with a preserved plasma membrane and no inflammation"
         },
         {
           "label": "C",
@@ -6932,7 +6932,7 @@
     },
     {
       "id": "pa05-005",
-      "stem": "After a routine breast biopsy specimen is grossed, it is placed in formalin and processed by the histology laboratory into tissue blocks that are then stored for at least 10 years in case future evaluation is necessary. Which of the following best describes these archived blocks?",
+      "stem": "After a routine breast biopsy specimen is grossed, it is placed in fixative and processed by the histology laboratory into tissue blocks that are then stored for at least 10 years in case future evaluation is necessary. Which of the following best describes these archived blocks?",
       "choices": [
         {
           "label": "A",
@@ -8542,7 +8542,7 @@
     },
     {
       "id": "pa06-004",
-      "stem": "A patient develops visible swelling of a finger after a small puncture wound. The swelling results from accumulation of fluid and protein in the interstitial space. Which vascular reaction is most directly responsible for this fluid accumulation?",
+      "stem": "A patient develops visible swelling of a finger after a small puncture wound. The swelling results from accumulation of fluid and protein in the interstitial space. Which of the following is most directly responsible for this fluid accumulation?",
       "choices": [
         {
           "label": "A",
@@ -8634,7 +8634,7 @@
     },
     {
       "id": "pa06-006",
-      "stem": "A 6-month-old boy has a history of delayed umbilical cord separation, poor wound healing, and recurrent bacterial infections that characteristically produce little or no pus. Neutrophils are abundant in the blood but fail to accumulate at sites of infection. A defect in which step of leukocyte extravasation best explains these findings?",
+      "stem": "A 6-month-old boy has a history of delayed umbilical cord separation, poor wound healing, and recurrent bacterial infections that characteristically produce little or no pus. Neutrophils are abundant in the blood but fail to accumulate at sites of infection. A defect in which of the following steps of neutrophil extravasation best explains these findings?",
       "choices": [
         {
           "label": "A",
@@ -10474,7 +10474,7 @@
     },
     {
       "id": "pa07-010",
-      "stem": "A 61-year-old man with a long smoking history experiences sudden crushing chest pain and is diagnosed with an acute myocardial infarction. Angiography shows a coronary plaque with a ruptured fibrous cap and an overlying thrombus. Which of the following best explains how chronic inflammation in the vessel wall led to this acute event?",
+      "stem": "A 61-year-old man with a long smoking history experiences sudden crushing chest pain and is diagnosed with an acute myocardial infarction. Angiography shows an occlusive thrombus overlying a disrupted atherosclerotic lesion. Which of the following best explains how chronic inflammation in the vessel wall led to this acute event?",
       "choices": [
         {
           "label": "A",
@@ -11808,7 +11808,7 @@
     },
     {
       "id": "pa08-003",
-      "stem": "A 45-year-old living liver donor undergoes resection of approximately 60% of his liver. Over the following weeks the remaining liver regenerates to nearly its original mass as hepatocytes leave a quiescent state and re-enter the cell cycle. Hepatocytes are best classified as which of the following tissue types?",
+      "stem": "A 45-year-old living liver donor undergoes resection of approximately 60% of his liver. Over the following weeks the remaining liver regenerates to nearly its original mass as hepatocytes leave a resting state and re-enter the cell cycle. Hepatocytes are best classified as which of the following tissue types?",
       "choices": [
         {
           "label": "A",
@@ -11870,14 +11870,14 @@
         },
         {
           "label": "D",
-          "text": "Prolonged compression compromising local blood flow"
+          "text": "Reopening of a previously closed surgical incision"
         },
         {
           "label": "E",
-          "text": "Reopening of a previously closed surgical incision"
+          "text": "Sustained compression compromising local blood flow"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Pressure sores are areas of skin ulceration and necrosis caused by prolonged compression that compromises blood flow, typically in immobile patients.",
         "whyCorrect": "Sustained pressure over a bony prominence in a bed-bound patient reduces perfusion and oxygen delivery, producing ischemic necrosis and a non-healing ulcer with loss of epithelium and underlying granulation tissue.",
@@ -11885,7 +11885,7 @@
           "A": "Autoimmune basement-membrane destruction describes blistering diseases, not a compression-related pressure sore.",
           "B": "Excess collagen confined to the wound describes a hypertrophic scar, not an ischemic ulcer.",
           "C": "Myofibroblast contraction produces contractures over joints, not a sacral pressure ulcer.",
-          "E": "Reopening of a closed incision defines wound dehiscence, a postsurgical complication."
+          "D": "Reopening of a closed incision defines wound dehiscence, a postsurgical complication."
         }
       },
       "difficulty": "medium",
@@ -11946,7 +11946,7 @@
     },
     {
       "id": "pa08-006",
-      "stem": "Granulation tissue forming in a healing wound requires the growth of new blood vessels and shows increased vascular permeability. Which of the following growth factors is most directly responsible for stimulating endothelial cell proliferation during this angiogenesis?",
+      "stem": "Granulation tissue forming in a healing wound requires the growth of new blood vessels, and these new vessels are notably leaky. Which of the following growth factors is most directly responsible for stimulating proliferation of the cells that line these new vessels during angiogenesis?",
       "choices": [
         {
           "label": "A",
@@ -13695,7 +13695,7 @@
     },
     {
       "id": "pa09-008",
-      "stem": "A 55-year-old man who spent 20 years working in a plant that synthesizes polyvinyl chloride develops a malignant liver tumor of vascular endothelial origin. Exposure to which of the following agents is most strongly associated with this tumor?",
+      "stem": "A 55-year-old man who spent 20 years working in a plant that synthesizes plastic resins develops a malignant liver tumor of vascular endothelial origin. Exposure to which of the following agents is most strongly associated with this tumor?",
       "choices": [
         {
           "label": "A",
@@ -15904,7 +15904,7 @@
         },
         {
           "label": "B",
-          "text": "Only a partial autopsy may be performed without consent"
+          "text": "The medical examiner may perform only a partial autopsy without consent"
         },
         {
           "label": "C",
@@ -20609,7 +20609,7 @@
     },
     {
       "id": "pa14-003",
-      "stem": "A surgical patient is scheduled to receive a transfusion of packed red blood cells. A blood sample is drawn so the correct product can be prepared. To which section of the clinical laboratory is this specimen primarily sent?",
+      "stem": "A surgical patient is scheduled to receive packed red blood cells. A blood sample is drawn so the correct product can be prepared. To which section of the clinical laboratory is this specimen primarily sent?",
       "choices": [
         {
           "label": "A",
@@ -20792,7 +20792,7 @@
     },
     {
       "id": "pa14-007",
-      "stem": "A trauma patient is actively bleeding, and the team requests components of blood — red cells, platelets, plasma, and cryoprecipitate — to be issued for transfusion. Which section of the clinical laboratory is responsible for preparing and issuing these products?",
+      "stem": "A trauma patient is actively bleeding, and the team requests components of blood — red cells, platelets, plasma, and cryoprecipitate — to be issued urgently. Which section of the clinical laboratory is responsible for preparing and issuing these products?",
       "choices": [
         {
           "label": "A",
