@@ -18,6 +18,8 @@ export interface Question {
   correctAnswer: string;
   explanation: Explanation;
   difficulty: 'medium' | 'hard';
+  /** 'core' = one of the brick's original 12; 'extra' = extension pass. */
+  tier?: 'core' | 'extra';
   imageRef: string | null;
   tags: string[];
 }

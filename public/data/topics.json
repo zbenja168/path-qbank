@@ -8,84 +8,112 @@
           "id": "environmental-disease-physical-agents",
           "name": "Environmental Disease Part 2 of 2: Physical Agents",
           "sourceFile": "Path Brick 1",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "cancer-staging-and-grading",
           "name": "Cancer Staging and Grading",
           "sourceFile": "Path Brick 2",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "introduction-to-pathology-cell-injury-and-adaptation",
           "name": "Introduction to Pathology, Cell Injury, and Adaptation",
           "sourceFile": "Path Brick 3",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "cell-death-apoptosis-and-necrosis",
           "name": "Cell Death: Apoptosis and Necrosis",
           "sourceFile": "Path Brick 4",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "introduction-to-anatomic-pathology-for-patient-care",
           "name": "Introduction to Anatomic Pathology for Patient Care",
           "sourceFile": "Path Brick 5",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "acute-inflammation-part-1",
           "name": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
           "sourceFile": "Path Brick 6",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "chronic-inflammation-part-2",
           "name": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
           "sourceFile": "Path Brick 7",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "wound-healing-and-tissue-repair",
           "name": "Wound Healing and Tissue Repair",
           "sourceFile": "Path Brick 8",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "environmental-disease-chemicals-and-substances",
           "name": "Environmental Disease Part 1 of 2: Chemicals and Substances",
           "sourceFile": "Path Brick 9",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "environmental-disease-physical-injury",
           "name": "Environmental Disease: Physical and Environmental Injury",
           "sourceFile": "Path Brick 10",
+          "coreCount": 12,
+          "extraCount": 0,
           "questionCount": 12
         },
         {
           "id": "autopsy",
           "name": "Autopsy",
           "sourceFile": "Path Brick 11",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "hemodynamics-and-shock-foundations-and-frameworks",
           "name": "Hemodynamics and Shock: Foundations and Frameworks",
           "sourceFile": "Path Brick 12",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "thrombosis-and-its-consequences",
           "name": "Thrombosis and its Consequences",
           "sourceFile": "Path Brick 13",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "introduction-to-clinical-pathology",
           "name": "Introduction to Clinical Pathology for Patient Care",
           "sourceFile": "Path Brick 14",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]
@@ -98,66 +126,88 @@
           "id": "introduction-to-infection",
           "name": "Introduction to Infection",
           "sourceFile": "Path Brick 15",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "autoimmune-disease",
           "name": "Diseases of the Immune System: Autoimmune Disease",
           "sourceFile": "Path Brick 16",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
           "name": "Immune-mediated Damage from Infections and Granulomatous Diseases",
           "sourceFile": "Path Brick 17",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "introduction-to-infection-b18",
           "name": "Introduction to Infection",
           "sourceFile": "Path Brick 18",
+          "coreCount": 12,
+          "extraCount": 0,
           "questionCount": 12
         },
         {
           "id": "infections-immunity-and-evading-host-defense",
           "name": "Infections, Immunity, and Evading Host Defense",
           "sourceFile": "Path Brick 19",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "chronic-infections-tuberculosis-and-syphilis",
           "name": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
           "sourceFile": "Path Brick 20",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "chronic-infections-2-lyme-hiv-aids",
           "name": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
           "sourceFile": "Path Brick 21",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "diseases-of-the-immune-system-transplantation",
           "name": "Diseases of the Immune System: Transplantation",
           "sourceFile": "Path Brick 22",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "transplant-rejection",
           "name": "Diseases of the Immune System: Transplant Rejection",
           "sourceFile": "Path Brick 23",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "immune-related-and-infectious-causes-of-diarrhea",
           "name": "Immune-related and Infectious Causes of Diarrhea",
           "sourceFile": "Path Brick 24",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "infectious-inflammatory-causes-of-jaundice",
           "name": "Infectious/Inflammatory Causes of Jaundice",
           "sourceFile": "Path Brick 25",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]
@@ -170,66 +220,88 @@
           "id": "introduction-to-neoplasia",
           "name": "Introduction to Neoplasia",
           "sourceFile": "Path Brick 26",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "cancer-growth-and-metastasis",
           "name": "Cancer Growth and Metastasis",
           "sourceFile": "Path Brick 27",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
           "name": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
           "sourceFile": "Path Brick 28",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "molecular-basis-of-neoplasia-part-2",
           "name": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
           "sourceFile": "Path Brick 29",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "cancer-immune-evasion",
           "name": "Cancer Immune Evasion",
           "sourceFile": "Path Brick 30",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "hallmarks-of-neoplasia-genomic-instability",
           "name": "Hallmarks of Neoplasia: Genomic Instability",
           "sourceFile": "Path Brick 31",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "paraneoplastic-syndromes",
           "name": "Paraneoplastic Syndromes",
           "sourceFile": "Path Brick 32",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "epidemiology-of-cancer",
           "name": "Epidemiology of Cancer",
           "sourceFile": "Path Brick 33",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "pathogen-associated-neoplasms",
           "name": "Pathogen-associated Neoplasms",
           "sourceFile": "Path Brick 34",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         },
         {
           "id": "cancer-staging-and-grading-b35",
           "name": "Cancer Staging and Grading",
           "sourceFile": "Path Brick 35",
+          "coreCount": 12,
+          "extraCount": 0,
           "questionCount": 12
         },
         {
           "id": "cancer-medications-overview",
           "name": "Cancer Medications Overview",
           "sourceFile": "Path Brick 36",
+          "coreCount": 12,
+          "extraCount": 24,
           "questionCount": 36
         }
       ]

@@ -47,7 +47,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-002",
@@ -93,7 +94,8 @@
         "thermoregulation"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-003",
@@ -140,7 +142,8 @@
         "carcinogenesis"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-004",
@@ -186,7 +189,8 @@
         "deep partial-thickness"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-005",
@@ -232,7 +236,8 @@
         "eschar"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-006",
@@ -279,7 +284,8 @@
         "escharotomy"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-007",
@@ -325,7 +331,8 @@
         "ventricular fibrillation"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-008",
@@ -372,7 +379,8 @@
         "fibrosis"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-009",
@@ -419,7 +427,8 @@
         "child abuse"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-010",
@@ -466,7 +475,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-011",
@@ -512,7 +522,8 @@
         "dry gangrene"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-012",
@@ -559,7 +570,8 @@
         "respiratory disease"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
     },
     {
       "id": "pa01-013",
@@ -606,7 +618,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-014",
@@ -653,7 +666,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-015",
@@ -700,7 +714,8 @@
         "child abuse"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-016",
@@ -747,7 +762,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-017",
@@ -794,7 +810,8 @@
         "blunt injury"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-018",
@@ -841,7 +858,8 @@
         "papillary dermis"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-019",
@@ -888,7 +906,8 @@
         "reticular dermis"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-020",
@@ -935,7 +954,8 @@
         "burn assessment"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-021",
@@ -982,7 +1002,8 @@
         "wound healing"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-022",
@@ -1029,7 +1050,8 @@
         "management"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-023",
@@ -1076,7 +1098,8 @@
         "muscle contraction"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-024",
@@ -1123,7 +1146,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-025",
@@ -1170,7 +1194,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-026",
@@ -1216,7 +1241,8 @@
         "electrolytes"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-027",
@@ -1262,7 +1288,8 @@
         "hypovolemia"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-028",
@@ -1309,7 +1336,8 @@
         "risk factors"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-029",
@@ -1356,7 +1384,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-030",
@@ -1403,7 +1432,8 @@
         "edema"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-031",
@@ -1450,7 +1480,8 @@
         "DNA repair"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-032",
@@ -1497,7 +1528,8 @@
         "mitochondria"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-033",
@@ -1544,7 +1576,8 @@
         "public health"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-034",
@@ -1591,7 +1624,8 @@
         "socioeconomic factors"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-035",
@@ -1638,7 +1672,8 @@
         "WHO"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa01-036",
@@ -1685,7 +1720,8 @@
         "myocardial infarction"
       ],
       "topicId": "environmental-disease-physical-agents",
-      "topicName": "Environmental Disease Part 2 of 2: Physical Agents"
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "extra"
     },
     {
       "id": "pa02-001",
@@ -1732,7 +1768,8 @@
         "prognosis"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-002",
@@ -1778,7 +1815,8 @@
         "outcomes"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-003",
@@ -1824,7 +1862,8 @@
         "statistics"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-004",
@@ -1870,7 +1909,8 @@
         "histology"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-005",
@@ -1916,7 +1956,8 @@
         "pancreatic-cancer"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-006",
@@ -1962,7 +2003,8 @@
         "metastasis"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-007",
@@ -2008,7 +2050,8 @@
         "lung-cancer"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-008",
@@ -2054,7 +2097,8 @@
         "statistics"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-009",
@@ -2101,7 +2145,8 @@
         "monitoring"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-010",
@@ -2147,7 +2192,8 @@
         "cytokines"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-011",
@@ -2193,7 +2239,8 @@
         "outcomes"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-012",
@@ -2240,7 +2287,8 @@
         "receptors"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa02-013",
@@ -2286,7 +2334,8 @@
         "statistics"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-014",
@@ -2332,7 +2381,8 @@
         "statistics"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-015",
@@ -2378,7 +2428,8 @@
         "disease-specific-survival"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-016",
@@ -2425,7 +2476,8 @@
         "cancer-type"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-017",
@@ -2471,7 +2523,8 @@
         "small-cell-lung-cancer"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-018",
@@ -2518,7 +2571,8 @@
         "lung-cancer"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-019",
@@ -2564,7 +2618,8 @@
         "lymph-nodes"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-020",
@@ -2610,7 +2665,8 @@
         "tumor-size"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-021",
@@ -2656,7 +2712,8 @@
         "prognosis"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-022",
@@ -2702,7 +2759,8 @@
         "immunosuppression"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-023",
@@ -2748,7 +2806,8 @@
         "paraneoplastic"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-024",
@@ -2794,7 +2853,8 @@
         "epidemiology"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-025",
@@ -2840,7 +2900,8 @@
         "monitoring"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-026",
@@ -2886,7 +2947,8 @@
         "follow-up"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-027",
@@ -2933,7 +2995,8 @@
         "patient-communication"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-028",
@@ -2980,7 +3043,8 @@
         "breast-cancer"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-029",
@@ -3026,7 +3090,8 @@
         "staging-criteria"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-030",
@@ -3073,7 +3138,8 @@
         "histology"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-031",
@@ -3118,7 +3184,8 @@
         "definition"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-032",
@@ -3164,7 +3231,8 @@
         "mortality"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-033",
@@ -3210,7 +3278,8 @@
         "mortality"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-034",
@@ -3257,7 +3326,8 @@
         "sensitivity-specificity"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-035",
@@ -3304,7 +3374,8 @@
         "ovarian-cancer"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa02-036",
@@ -3350,7 +3421,8 @@
         "neuroendocrine"
       ],
       "topicId": "cancer-staging-and-grading",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "extra"
     },
     {
       "id": "pa03-001",
@@ -3397,7 +3469,8 @@
         "ATP"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-002",
@@ -3443,7 +3516,8 @@
         "membrane rupture"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-003",
@@ -3489,7 +3563,8 @@
         "four core aspects"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-004",
@@ -3537,7 +3612,8 @@
         "ATP"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-005",
@@ -3584,7 +3660,8 @@
         "reactive oxygen species"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-006",
@@ -3631,7 +3708,8 @@
         "superoxide dismutase"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-007",
@@ -3678,7 +3756,8 @@
         "myocardium"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-008",
@@ -3725,7 +3804,8 @@
         "estrogen"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-009",
@@ -3772,7 +3852,8 @@
         "respiratory epithelium"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-010",
@@ -3818,7 +3899,8 @@
         "calcium"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-011",
@@ -3865,7 +3947,8 @@
         "aging"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-012",
@@ -3912,7 +3995,8 @@
         "staining"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "core"
     },
     {
       "id": "pa03-013",
@@ -3959,7 +4043,8 @@
         "misfolded proteins"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-014",
@@ -4006,7 +4091,8 @@
         "mitotic figures"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-015",
@@ -4053,7 +4139,8 @@
         "right ventricle"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-016",
@@ -4100,7 +4187,8 @@
         "gastric cancer"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-017",
@@ -4147,7 +4235,8 @@
         "duration"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-018",
@@ -4195,7 +4284,8 @@
         "hydrogen peroxide"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-019",
@@ -4242,7 +4332,8 @@
         "oxygen deprivation"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-020",
@@ -4290,7 +4381,8 @@
         "intracellular accumulations"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-021",
@@ -4338,7 +4430,8 @@
         "pH"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-022",
@@ -4385,7 +4478,8 @@
         "cytochrome c"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-023",
@@ -4432,7 +4526,8 @@
         "lipid peroxidation"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-024",
@@ -4480,7 +4575,8 @@
         "nucleases"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-025",
@@ -4528,7 +4624,8 @@
         "morphologic changes"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-026",
@@ -4576,7 +4673,8 @@
         "karyorrhexis"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-027",
@@ -4624,7 +4722,8 @@
         "mitochondrial permeability"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-028",
@@ -4671,7 +4770,8 @@
         "diffuse alveolar damage"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-029",
@@ -4718,7 +4818,8 @@
         "protein accumulation"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-030",
@@ -4766,7 +4867,8 @@
         "reversible"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-031",
@@ -4813,7 +4915,8 @@
         "coal worker's pneumoconiosis"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-032",
@@ -4860,7 +4963,8 @@
         "hemosiderin"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-033",
@@ -4907,7 +5011,8 @@
         "parathyroid hormone"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-034",
@@ -4955,7 +5060,8 @@
         "pregnancy"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-035",
@@ -5002,7 +5108,8 @@
         "involution"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa03-036",
@@ -5049,7 +5156,8 @@
         "somatic cells"
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation"
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "tier": "extra"
     },
     {
       "id": "pa04-001",
@@ -5095,7 +5203,8 @@
         "myocardial infarction"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-002",
@@ -5142,7 +5251,8 @@
         "central nervous system"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-003",
@@ -5189,7 +5299,8 @@
         "granuloma"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-004",
@@ -5236,7 +5347,8 @@
         "pancreatitis"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-005",
@@ -5282,7 +5394,8 @@
         "vasculitis"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-006",
@@ -5329,7 +5442,8 @@
         "diabetes"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-007",
@@ -5376,7 +5490,8 @@
         "caspase-9"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-008",
@@ -5423,7 +5538,8 @@
         "t(14;18)"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-009",
@@ -5470,7 +5586,8 @@
         "caspase-8"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-010",
@@ -5518,7 +5635,8 @@
         "melanoma"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-011",
@@ -5565,7 +5683,8 @@
         "comparison"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-012",
@@ -5612,7 +5731,8 @@
         "lymphocytes"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "core"
     },
     {
       "id": "pa04-013",
@@ -5659,7 +5779,8 @@
         "menstrual cycle"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-014",
@@ -5706,7 +5827,8 @@
         "DNA damage"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-015",
@@ -5754,7 +5876,8 @@
         "cytochrome c"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-016",
@@ -5801,7 +5924,8 @@
         "BCL2"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-017",
@@ -5849,7 +5973,8 @@
         "extrinsic pathway"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-018",
@@ -5896,7 +6021,8 @@
         "death domain"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-019",
@@ -5943,7 +6069,8 @@
         "intrinsic pathway"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-020",
@@ -5990,7 +6117,8 @@
         "nuclear fragmentation"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-021",
@@ -6037,7 +6165,8 @@
         "inflammation"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-022",
@@ -6084,7 +6213,8 @@
         "histology"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-023",
@@ -6132,7 +6262,8 @@
         "nuclear changes"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-024",
@@ -6179,7 +6310,8 @@
         "infarct"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-025",
@@ -6226,7 +6358,8 @@
         "membrane integrity"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-026",
@@ -6273,7 +6406,8 @@
         "timing"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-027",
@@ -6320,7 +6454,8 @@
         "ischemia"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-028",
@@ -6367,7 +6502,8 @@
         "abscess"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-029",
@@ -6414,7 +6550,8 @@
         "liquefactive necrosis"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-030",
@@ -6461,7 +6598,8 @@
         "clinical term"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-031",
@@ -6509,7 +6647,8 @@
         "calcium deposits"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-032",
@@ -6556,7 +6695,8 @@
         "thrombus"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-033",
@@ -6602,7 +6742,8 @@
         "grossing"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-034",
@@ -6650,7 +6791,8 @@
         "T cells"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-035",
@@ -6697,7 +6839,8 @@
         "mechanisms of injury"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa04-036",
@@ -6744,7 +6887,8 @@
         "mechanisms of injury"
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis"
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "tier": "extra"
     },
     {
       "id": "pa05-001",
@@ -6790,7 +6934,8 @@
         "subspecialties"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-002",
@@ -6836,7 +6981,8 @@
         "surgical pathology"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-003",
@@ -6882,7 +7028,8 @@
         "surgical pathology"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-004",
@@ -6928,7 +7075,8 @@
         "gastrectomy"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-005",
@@ -6974,7 +7122,8 @@
         "formalin"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-006",
@@ -7020,7 +7169,8 @@
         "staining"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-007",
@@ -7066,7 +7216,8 @@
         "fungal infection"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-008",
@@ -7112,7 +7263,8 @@
         "fibrosis"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-009",
@@ -7158,7 +7310,8 @@
         "carcinoma"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-010",
@@ -7204,7 +7357,8 @@
         "tumor staging"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-011",
@@ -7250,7 +7404,8 @@
         "amendment"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-012",
@@ -7296,7 +7451,8 @@
         "limitations"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa05-013",
@@ -7342,7 +7498,8 @@
         "diagnostic information"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-014",
@@ -7388,7 +7545,8 @@
         "microbiology"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-015",
@@ -7434,7 +7592,8 @@
         "diagnostic intent"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-016",
@@ -7480,7 +7639,8 @@
         "skin"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-017",
@@ -7526,7 +7686,8 @@
         "disease evaluation"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-018",
@@ -7572,7 +7733,8 @@
         "squamous cell carcinoma"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-019",
@@ -7618,7 +7780,8 @@
         "surgical pathology laboratory"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-020",
@@ -7664,7 +7827,8 @@
         "specimen handling"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-021",
@@ -7710,7 +7874,8 @@
         "final diagnosis"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-022",
@@ -7756,7 +7921,8 @@
         "mechanism"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-023",
@@ -7802,7 +7968,8 @@
         "2 days"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-024",
@@ -7848,7 +8015,8 @@
         "patient access"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-025",
@@ -7894,7 +8062,8 @@
         "clinical information"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-026",
@@ -7940,7 +8109,8 @@
         "equivocal"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-027",
@@ -7986,7 +8156,8 @@
         "papillary thyroid carcinoma"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-028",
@@ -8032,7 +8203,8 @@
         "clinical correlation"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-029",
@@ -8078,7 +8250,8 @@
         "prognostic information"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-030",
@@ -8124,7 +8297,8 @@
         "communication"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-031",
@@ -8170,7 +8344,8 @@
         "pathology report"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-032",
@@ -8216,7 +8391,8 @@
         "cytopathology"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-033",
@@ -8262,7 +8438,8 @@
         "cytopathology"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-034",
@@ -8308,7 +8485,8 @@
         "airway cells"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-035",
@@ -8354,7 +8532,8 @@
         "benign tumor"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa05-036",
@@ -8400,7 +8579,8 @@
         "contacting the pathologist"
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care"
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa06-001",
@@ -8446,7 +8626,8 @@
         "cells-of-inflammation"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-002",
@@ -8492,7 +8673,8 @@
         "antigen-presentation"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-003",
@@ -8538,7 +8720,8 @@
         "vascular-reactions"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-004",
@@ -8584,7 +8767,8 @@
         "cardinal-signs"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-005",
@@ -8630,7 +8814,8 @@
         "sequence"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-006",
@@ -8676,7 +8861,8 @@
         "clinical-correlation"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-007",
@@ -8722,7 +8908,8 @@
         "migration"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-008",
@@ -8768,7 +8955,8 @@
         "septic-shock"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-009",
@@ -8814,7 +9002,8 @@
         "mediators"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-010",
@@ -8860,7 +9049,8 @@
         "exudate"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-011",
@@ -8906,7 +9096,8 @@
         "pericardium"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-012",
@@ -8952,7 +9143,8 @@
         "laboratory-markers"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa06-013",
@@ -8998,7 +9190,8 @@
         "definitions"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-014",
@@ -9044,7 +9237,8 @@
         "containment"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-015",
@@ -9090,7 +9284,8 @@
         "cells-of-inflammation"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-016",
@@ -9136,7 +9331,8 @@
         "smooth-muscle"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-017",
@@ -9182,7 +9378,8 @@
         "clinical-correlation"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-018",
@@ -9228,7 +9425,8 @@
         "macrophages"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-019",
@@ -9274,7 +9472,8 @@
         "clinical-correlation"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-020",
@@ -9320,7 +9519,8 @@
         "blood-flow"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-021",
@@ -9366,7 +9566,8 @@
         "sialyl-lewis-x"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-022",
@@ -9412,7 +9613,8 @@
         "leukocyte-extravasation"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-023",
@@ -9458,7 +9660,8 @@
         "fever"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-024",
@@ -9504,7 +9707,8 @@
         "chemotaxis"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-025",
@@ -9550,7 +9754,8 @@
         "mediators"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-026",
@@ -9596,7 +9801,8 @@
         "smooth-muscle-contraction"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-027",
@@ -9642,7 +9848,8 @@
         "oxidative-burst"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-028",
@@ -9688,7 +9895,8 @@
         "dolor"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-029",
@@ -9734,7 +9942,8 @@
         "physical-exam"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-030",
@@ -9780,7 +9989,8 @@
         "heart-failure"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-031",
@@ -9826,7 +10036,8 @@
         "morphologic-patterns"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-032",
@@ -9872,7 +10083,8 @@
         "morphologic-patterns"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-033",
@@ -9918,7 +10130,8 @@
         "laboratory-markers"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-034",
@@ -9964,7 +10177,8 @@
         "transferrin"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-035",
@@ -10010,7 +10224,8 @@
         "fibrinogen"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa06-036",
@@ -10056,7 +10271,8 @@
         "laboratory-markers"
       ],
       "topicId": "acute-inflammation-part-1",
-      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-001",
@@ -10102,7 +10318,8 @@
         "acute vs chronic"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-002",
@@ -10148,7 +10365,8 @@
         "cells"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-003",
@@ -10194,7 +10412,8 @@
         "macrophage"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-004",
@@ -10240,7 +10459,8 @@
         "caseating necrosis"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-005",
@@ -10286,7 +10506,8 @@
         "non-caseating"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-006",
@@ -10332,7 +10553,8 @@
         "chronic inflammation"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-007",
@@ -10378,7 +10600,8 @@
         "Crohn disease"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-008",
@@ -10424,7 +10647,8 @@
         "B cell"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-009",
@@ -10470,7 +10694,8 @@
         "cirrhosis"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-010",
@@ -10516,7 +10741,8 @@
         "myocardial infarction"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-011",
@@ -10562,7 +10788,8 @@
         "consequences"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-012",
@@ -10608,7 +10835,8 @@
         "respiratory acidosis"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa07-013",
@@ -10654,7 +10882,8 @@
         "Table 1"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-014",
@@ -10700,7 +10929,8 @@
         "causes"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-015",
@@ -10746,7 +10976,8 @@
         "causes"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-016",
@@ -10792,7 +11023,8 @@
         "causes"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-017",
@@ -10838,7 +11070,8 @@
         "proliferative"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-018",
@@ -10884,7 +11117,8 @@
         "tissue repair"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-019",
@@ -10930,7 +11164,8 @@
         "immune cell influx"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-020",
@@ -10976,7 +11211,8 @@
         "onset"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-021",
@@ -11022,7 +11258,8 @@
         "multinucleated giant cells"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-022",
@@ -11068,7 +11305,8 @@
         "graft rejection"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-023",
@@ -11114,7 +11352,8 @@
         "antibodies"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-024",
@@ -11160,7 +11399,8 @@
         "asymptomatic infection"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-025",
@@ -11206,7 +11446,8 @@
         "macrophage"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-026",
@@ -11252,7 +11493,8 @@
         "caseation"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-027",
@@ -11298,7 +11540,8 @@
         "non-caseating"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-028",
@@ -11344,7 +11587,8 @@
         "Crohn disease"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-029",
@@ -11390,7 +11634,8 @@
         "definition"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-030",
@@ -11436,7 +11681,8 @@
         "hepatic fibrosis"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-031",
@@ -11482,7 +11728,8 @@
         "resistant microorganisms"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-032",
@@ -11528,7 +11775,8 @@
         "smoking and diabetes"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-033",
@@ -11574,7 +11822,8 @@
         "fibrosis"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-034",
@@ -11620,7 +11869,8 @@
         "consequences"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-035",
@@ -11666,7 +11916,8 @@
         "Table 1"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa07-036",
@@ -11712,7 +11963,8 @@
         "case connection"
       ],
       "topicId": "chronic-inflammation-part-2",
-      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa08-001",
@@ -11758,7 +12010,8 @@
         "regeneration"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-002",
@@ -11804,7 +12057,8 @@
         "regeneration"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-003",
@@ -11850,7 +12104,8 @@
         "liver-regeneration"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-004",
@@ -11896,7 +12151,8 @@
         "perfusion"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-005",
@@ -11942,7 +12198,8 @@
         "fibrosis"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-006",
@@ -11988,7 +12245,8 @@
         "angiogenesis"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-007",
@@ -12034,7 +12292,8 @@
         "wound-contraction"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-008",
@@ -12080,7 +12339,8 @@
         "burns"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-009",
@@ -12126,7 +12386,8 @@
         "scar"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-010",
@@ -12172,7 +12433,8 @@
         "histology"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-011",
@@ -12218,7 +12480,8 @@
         "surgical"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-012",
@@ -12264,7 +12527,8 @@
         "scurvy"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
     },
     {
       "id": "pa08-013",
@@ -12310,7 +12574,8 @@
         "skeletal-muscle"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-014",
@@ -12356,7 +12621,8 @@
         "alveolar-cells"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-015",
@@ -12402,7 +12668,8 @@
         "re-epithelialization"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-016",
@@ -12448,7 +12715,8 @@
         "chemotaxis"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-017",
@@ -12494,7 +12762,8 @@
         "neutrophils"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-018",
@@ -12540,7 +12809,8 @@
         "gene-expression"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-019",
@@ -12586,7 +12856,8 @@
         "hyaluronan"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-020",
@@ -12632,7 +12903,8 @@
         "type-IV-collagen"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-021",
@@ -12678,7 +12950,8 @@
         "adhesive-glycoproteins"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-022",
@@ -12725,7 +12998,8 @@
         "Kupffer-cells"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-023",
@@ -12771,7 +13045,8 @@
         "HGF"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-024",
@@ -12817,7 +13092,8 @@
         "termination"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-025",
@@ -12863,7 +13139,8 @@
         "scarring"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-026",
@@ -12909,7 +13186,8 @@
         "macrophages"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-027",
@@ -12955,7 +13233,8 @@
         "epithelial-migration"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-028",
@@ -13001,7 +13280,8 @@
         "neovascularization"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-029",
@@ -13047,7 +13327,8 @@
         "wound-size"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-030",
@@ -13093,7 +13374,8 @@
         "scar"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-031",
@@ -13139,7 +13421,8 @@
         "granulation-tissue"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-032",
@@ -13185,7 +13468,8 @@
         "natural-history"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-033",
@@ -13231,7 +13515,8 @@
         "perfusion"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-034",
@@ -13277,7 +13562,8 @@
         "atherosclerosis"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-035",
@@ -13323,7 +13609,8 @@
         "TGF-beta"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa08-036",
@@ -13369,7 +13656,8 @@
         "perfusion"
       ],
       "topicId": "wound-healing-and-tissue-repair",
-      "topicName": "Wound Healing and Tissue Repair"
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "extra"
     },
     {
       "id": "pa09-001",
@@ -13415,7 +13703,8 @@
         "occupational-exposure"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-002",
@@ -13461,7 +13750,8 @@
         "anemia"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-003",
@@ -13507,7 +13797,8 @@
         "pediatrics"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-004",
@@ -13553,7 +13844,8 @@
         "hypoxia"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-005",
@@ -13599,7 +13891,8 @@
         "lung-cancer"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-006",
@@ -13645,7 +13938,8 @@
         "anthracosis"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-007",
@@ -13691,7 +13985,8 @@
         "enzymes"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-008",
@@ -13737,7 +14032,8 @@
         "angiosarcoma"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-009",
@@ -13783,7 +14079,8 @@
         "wound-healing"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-010",
@@ -13829,7 +14126,8 @@
         "COPD"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-011",
@@ -13875,7 +14173,8 @@
         "NADH"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-012",
@@ -13921,7 +14220,8 @@
         "apoptosis"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
     },
     {
       "id": "pa09-013",
@@ -13967,7 +14267,8 @@
         "cytochrome-P450"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-014",
@@ -14013,7 +14314,8 @@
         "glucuronidation"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-015",
@@ -14059,7 +14361,8 @@
         "asthma"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-016",
@@ -14105,7 +14408,8 @@
         "chronic-poisoning"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-017",
@@ -14151,7 +14455,8 @@
         "polonium"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-018",
@@ -14197,7 +14502,8 @@
         "bone"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-019",
@@ -14243,7 +14549,8 @@
         "gingival-line"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-020",
@@ -14289,7 +14596,8 @@
         "neurotoxicity"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-021",
@@ -14335,7 +14643,8 @@
         "neuropathy"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-022",
@@ -14381,7 +14690,8 @@
         "carbon-tetrachloride"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-023",
@@ -14427,7 +14737,8 @@
         "silica"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-024",
@@ -14473,7 +14784,8 @@
         "mesothelioma"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-025",
@@ -14519,7 +14831,8 @@
         "bladder-cancer"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-026",
@@ -14565,7 +14878,8 @@
         "pesticides"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-027",
@@ -14611,7 +14925,8 @@
         "cytochrome-P450"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-028",
@@ -14657,7 +14972,8 @@
         "oral-cancer"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-029",
@@ -14703,7 +15019,8 @@
         "intrauterine-growth"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-030",
@@ -14749,7 +15066,8 @@
         "thiamine"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-031",
@@ -14795,7 +15113,8 @@
         "CYP2E1"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-032",
@@ -14841,7 +15160,8 @@
         "flushing"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-033",
@@ -14887,7 +15207,8 @@
         "NAD"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-034",
@@ -14933,7 +15254,8 @@
         "esophageal-varices"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-035",
@@ -14979,7 +15301,8 @@
         "thiamine"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa09-036",
@@ -15025,7 +15348,8 @@
         "pregnancy"
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
-      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "extra"
     },
     {
       "id": "pa10-001",
@@ -15071,7 +15395,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-002",
@@ -15117,7 +15442,8 @@
         "child abuse"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-003",
@@ -15163,7 +15489,8 @@
         "forensic pathology"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-004",
@@ -15209,7 +15536,8 @@
         "burn classification"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-005",
@@ -15255,7 +15583,8 @@
         "Curling ulcer"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-006",
@@ -15301,7 +15630,8 @@
         "Pseudomonas"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-007",
@@ -15347,7 +15677,8 @@
         "heat stroke"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-008",
@@ -15393,7 +15724,8 @@
         "RYR1"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-009",
@@ -15439,7 +15771,8 @@
         "cold injury"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-010",
@@ -15485,7 +15818,8 @@
         "hematopoietic syndrome"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-011",
@@ -15531,7 +15865,8 @@
         "leukemia"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa10-012",
@@ -15577,7 +15912,8 @@
         "carbon monoxide"
       ],
       "topicId": "environmental-disease-physical-injury",
-      "topicName": "Environmental Disease: Physical and Environmental Injury"
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
     },
     {
       "id": "pa11-001",
@@ -15622,7 +15958,8 @@
         "definitions"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-002",
@@ -15667,7 +16004,8 @@
         "cardiac"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-003",
@@ -15712,7 +16050,8 @@
         "medicolegal"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-004",
@@ -15757,7 +16096,8 @@
         "forensic autopsy"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-005",
@@ -15802,7 +16142,8 @@
         "reportable death"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-006",
@@ -15847,7 +16188,8 @@
         "medical examiner"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-007",
@@ -15892,7 +16234,8 @@
         "next of kin"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-008",
@@ -15937,7 +16280,8 @@
         "medicolegal jurisdiction"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-009",
@@ -15982,7 +16326,8 @@
         "medicolegal"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-010",
@@ -16027,7 +16372,8 @@
         "gross findings"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-011",
@@ -16072,7 +16418,8 @@
         "case discussion"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-012",
@@ -16117,7 +16464,8 @@
         "cause of death"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "core"
     },
     {
       "id": "pa11-013",
@@ -16162,7 +16510,8 @@
         "forensic referral"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-014",
@@ -16207,7 +16556,8 @@
         "delayed death from trauma"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-015",
@@ -16252,7 +16602,8 @@
         "death investigation"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-016",
@@ -16297,7 +16648,8 @@
         "mixed coroner-medical examiner"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-017",
@@ -16342,7 +16694,8 @@
         "state models"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-018",
@@ -16388,7 +16741,8 @@
         "duties"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-019",
@@ -16434,7 +16788,8 @@
         "consent"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-020",
@@ -16479,7 +16834,8 @@
         "next of kin"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-021",
@@ -16524,7 +16880,8 @@
         "next of kin priority"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-022",
@@ -16569,7 +16926,8 @@
         "consent"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-023",
@@ -16614,7 +16972,8 @@
         "medical records"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-024",
@@ -16659,7 +17018,8 @@
         "brain fixation"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-025",
@@ -16704,7 +17064,8 @@
         "family communication"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-026",
@@ -16749,7 +17110,8 @@
         "autopsy report"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-027",
@@ -16794,7 +17156,8 @@
         "turnaround time"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-028",
@@ -16839,7 +17202,8 @@
         "autopsy report"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-029",
@@ -16884,7 +17248,8 @@
         "autopsy report"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-030",
@@ -16929,7 +17294,8 @@
         "autopsy report"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-031",
@@ -16974,7 +17340,8 @@
         "family communication"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-032",
@@ -17019,7 +17386,8 @@
         "autopsy report timing"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-033",
@@ -17064,7 +17432,8 @@
         "cause of death sequence"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-034",
@@ -17109,7 +17478,8 @@
         "post-mortem considerations"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-035",
@@ -17154,7 +17524,8 @@
         "Anatomical Gift Program"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa11-036",
@@ -17199,7 +17570,8 @@
         "forensic autopsy"
       ],
       "topicId": "autopsy",
-      "topicName": "Autopsy"
+      "topicName": "Autopsy",
+      "tier": "extra"
     },
     {
       "id": "pa12-001",
@@ -17245,7 +17617,8 @@
         "ascites"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-002",
@@ -17291,7 +17664,8 @@
         "nephrotic syndrome"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-003",
@@ -17337,7 +17711,8 @@
         "heart failure"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-004",
@@ -17383,7 +17758,8 @@
         "filariasis"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-005",
@@ -17429,7 +17805,8 @@
         "effusion"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-006",
@@ -17475,7 +17852,8 @@
         "heart failure"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-007",
@@ -17521,7 +17899,8 @@
         "venous obstruction"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-008",
@@ -17566,7 +17945,8 @@
         "congestion"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-009",
@@ -17612,7 +17992,8 @@
         "hemorrhage"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-010",
@@ -17658,7 +18039,8 @@
         "myocardial infarction"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-011",
@@ -17704,7 +18086,8 @@
         "vasodilation"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-012",
@@ -17750,7 +18133,8 @@
         "hypersensitivity"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
     },
     {
       "id": "pa12-013",
@@ -17796,7 +18180,8 @@
         "hydrostatic pressure"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-014",
@@ -17842,7 +18227,8 @@
         "thoracic duct"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-015",
@@ -17888,7 +18274,8 @@
         "terminology"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-016",
@@ -17934,7 +18321,8 @@
         "tumor"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-017",
@@ -17980,7 +18368,8 @@
         "venous return"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-018",
@@ -18027,7 +18416,8 @@
         "ascites"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-019",
@@ -18073,7 +18463,8 @@
         "heart failure"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-020",
@@ -18119,7 +18510,8 @@
         "plasma protein"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-021",
@@ -18166,7 +18558,8 @@
         "kidney"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-022",
@@ -18212,7 +18605,8 @@
         "renal hypoperfusion"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-023",
@@ -18258,7 +18652,8 @@
         "cytokines"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-024",
@@ -18304,7 +18699,8 @@
         "vascular permeability"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-025",
@@ -18350,7 +18746,8 @@
         "pneumonia"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-026",
@@ -18396,7 +18793,8 @@
         "foramen magnum"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-027",
@@ -18442,7 +18840,8 @@
         "clinical consequences"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-028",
@@ -18488,7 +18887,8 @@
         "pleural effusion"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-029",
@@ -18534,7 +18934,8 @@
         "inflammation"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-030",
@@ -18580,7 +18981,8 @@
         "colloid osmotic pressure"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-031",
@@ -18626,7 +19028,8 @@
         "heart failure"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-032",
@@ -18672,7 +19075,8 @@
         "systemic"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-033",
@@ -18718,7 +19122,8 @@
         "definition"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-034",
@@ -18764,7 +19169,8 @@
         "vasodilation"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-035",
@@ -18810,7 +19216,8 @@
         "systemic inflammation"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa12-036",
@@ -18856,7 +19263,8 @@
         "vasodilation"
       ],
       "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
-      "topicName": "Hemodynamics and Shock: Foundations and Frameworks"
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "extra"
     },
     {
       "id": "pa13-001",
@@ -18902,7 +19310,8 @@
         "sepsis"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-002",
@@ -18948,7 +19357,8 @@
         "Factor V Leiden"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-003",
@@ -18994,7 +19404,8 @@
         "fracture"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-004",
@@ -19040,7 +19451,8 @@
         "dual blood supply"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-005",
@@ -19086,7 +19498,8 @@
         "DVT"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-006",
@@ -19132,7 +19545,8 @@
         "recanalization"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-007",
@@ -19178,7 +19592,8 @@
         "platelet factor 4"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-008",
@@ -19224,7 +19639,8 @@
         "arterial embolus"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-009",
@@ -19270,7 +19686,8 @@
         "end-arterial supply"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-010",
@@ -19316,7 +19733,8 @@
         "tissue vulnerability"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-011",
@@ -19362,7 +19780,8 @@
         "obstetric"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-012",
@@ -19408,7 +19827,8 @@
         "thrombotic microangiopathy"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
     },
     {
       "id": "pa13-013",
@@ -19454,7 +19874,8 @@
         "tissue factor"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-014",
@@ -19500,7 +19921,8 @@
         "atherosclerosis"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-015",
@@ -19546,7 +19968,8 @@
         "acquired"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-016",
@@ -19592,7 +20015,8 @@
         "sequential compression devices"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-017",
@@ -19638,7 +20062,8 @@
         "peripheral vascular disease"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-018",
@@ -19684,7 +20109,8 @@
         "venous embolus"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-019",
@@ -19730,7 +20156,8 @@
         "clinically silent"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-020",
@@ -19776,7 +20203,8 @@
         "sudden death"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-021",
@@ -19822,7 +20250,8 @@
         "fate of thrombus"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-022",
@@ -19868,7 +20297,8 @@
         "complication"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-023",
@@ -19914,7 +20344,8 @@
         "definition"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-024",
@@ -19960,7 +20391,8 @@
         "chest wall injury"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-025",
@@ -20006,7 +20438,8 @@
         "fracture"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-026",
@@ -20052,7 +20485,8 @@
         "gunshot"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-027",
@@ -20098,7 +20532,8 @@
         "mechanism"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-028",
@@ -20144,7 +20579,8 @@
         "ischemic necrosis"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-029",
@@ -20190,7 +20626,8 @@
         "collateral circulation"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-030",
@@ -20236,7 +20673,8 @@
         "tissue sensitivity"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-031",
@@ -20282,7 +20720,8 @@
         "myocardium"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-032",
@@ -20328,7 +20767,8 @@
         "small intestine"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-033",
@@ -20374,7 +20814,8 @@
         "causes"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-034",
@@ -20420,7 +20861,8 @@
         "endothelial injury"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-035",
@@ -20467,7 +20909,8 @@
         "HUS"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa13-036",
@@ -20514,7 +20957,8 @@
         "counseling"
       ],
       "topicId": "thrombosis-and-its-consequences",
-      "topicName": "Thrombosis and its Consequences"
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "extra"
     },
     {
       "id": "pa14-001",
@@ -20560,7 +21004,8 @@
         "clinical chemistry"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-002",
@@ -20605,7 +21050,8 @@
         "analytic phase"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-003",
@@ -20650,7 +21096,8 @@
         "transfusion medicine"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-004",
@@ -20696,7 +21143,8 @@
         "immunity"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-005",
@@ -20742,7 +21190,8 @@
         "blood processing"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-006",
@@ -20788,7 +21237,8 @@
         "serology"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-007",
@@ -20834,7 +21284,8 @@
         "blood products"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-008",
@@ -20880,7 +21331,8 @@
         "lipid panel"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-009",
@@ -20926,7 +21378,8 @@
         "CBC"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-010",
@@ -20972,7 +21425,8 @@
         "disk diffusion"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-011",
@@ -21018,7 +21472,8 @@
         "empiric therapy"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-012",
@@ -21064,7 +21519,8 @@
         "culture"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
     },
     {
       "id": "pa14-013",
@@ -21110,7 +21566,8 @@
         "total testing process"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-014",
@@ -21156,7 +21613,8 @@
         "physiologic variation"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-015",
@@ -21202,7 +21660,8 @@
         "analytic phase"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-016",
@@ -21248,7 +21707,8 @@
         "CDC"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-017",
@@ -21294,7 +21754,8 @@
         "definitions"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-018",
@@ -21340,7 +21801,8 @@
         "clean catch"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-019",
@@ -21386,7 +21848,8 @@
         "sterile collection"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-020",
@@ -21432,7 +21895,8 @@
         "bronchoscopy"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-021",
@@ -21478,7 +21942,8 @@
         "paracentesis"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-022",
@@ -21524,7 +21989,8 @@
         "thoracentesis"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-023",
@@ -21570,7 +22036,8 @@
         "venipuncture"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-024",
@@ -21616,7 +22083,8 @@
         "laboratory sections"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-025",
@@ -21662,7 +22130,8 @@
         "blood typing"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-026",
@@ -21708,7 +22177,8 @@
         "laboratory sections"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-027",
@@ -21754,7 +22224,8 @@
         "transplantation"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-028",
@@ -21800,7 +22271,8 @@
         "immunoglobulins"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-029",
@@ -21846,7 +22318,8 @@
         "test volume"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-030",
@@ -21892,7 +22365,8 @@
         "therapeutic drug monitoring"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-031",
@@ -21938,7 +22412,8 @@
         "PT PTT"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-032",
@@ -21984,7 +22459,8 @@
         "cerebrospinal fluid"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-033",
@@ -22030,7 +22506,8 @@
         "tissue"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-034",
@@ -22076,7 +22553,8 @@
         "disk diffusion"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-035",
@@ -22122,7 +22600,8 @@
         "leukocyte esterase"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     },
     {
       "id": "pa14-036",
@@ -22168,7 +22647,8 @@
         "transfusion medicine"
       ],
       "topicId": "introduction-to-clinical-pathology",
-      "topicName": "Introduction to Clinical Pathology for Patient Care"
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "extra"
     }
   ]
 }

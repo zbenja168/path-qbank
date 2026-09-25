@@ -46,7 +46,8 @@
         "gastrointestinal"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-002",
@@ -92,7 +93,8 @@
         "mucociliary clearance"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-003",
@@ -138,7 +140,8 @@
         "pseudomembranous colitis"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-004",
@@ -184,7 +187,8 @@
         "neonatal conjunctivitis"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-005",
@@ -230,7 +234,8 @@
         "hematogenous spread"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-006",
@@ -276,7 +281,8 @@
         "rabies"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-007",
@@ -322,7 +328,8 @@
         "tuberculosis"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-008",
@@ -368,7 +375,8 @@
         "abscess"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-009",
@@ -414,7 +422,8 @@
         "viral inclusion"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-010",
@@ -460,7 +469,8 @@
         "septic shock"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-011",
@@ -506,7 +516,8 @@
         "protein synthesis"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-012",
@@ -552,7 +563,8 @@
         "scalded skin syndrome"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa15-013",
@@ -598,7 +610,8 @@
         "Aspergillus"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-014",
@@ -644,7 +657,8 @@
         "burns"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-015",
@@ -690,7 +704,8 @@
         "hemorrhage"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-016",
@@ -736,7 +751,8 @@
         "food poisoning"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-017",
@@ -782,7 +798,8 @@
         "superimposed bacterial infection"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-018",
@@ -828,7 +845,8 @@
         "ciliary immobility"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-019",
@@ -874,7 +892,8 @@
         "obstruction"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-020",
@@ -920,7 +939,8 @@
         "transplacental"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-021",
@@ -966,7 +986,8 @@
         "hepatitis B"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-022",
@@ -1012,7 +1033,8 @@
         "septicemia"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-023",
@@ -1058,7 +1080,8 @@
         "turbulent flow"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-024",
@@ -1104,7 +1127,8 @@
         "gram-negative coccobacilli"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-025",
@@ -1150,7 +1174,8 @@
         "varicella-zoster virus"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-026",
@@ -1196,7 +1221,8 @@
         "spores"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-027",
@@ -1242,7 +1268,8 @@
         "COVID-19"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-028",
@@ -1288,7 +1315,8 @@
         "superantigen"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-029",
@@ -1334,7 +1362,8 @@
         "syphilis"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-030",
@@ -1380,7 +1409,8 @@
         "diphtheria toxin"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-031",
@@ -1426,7 +1456,8 @@
         "foreign material"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-032",
@@ -1472,7 +1503,8 @@
         "diagnosis of exclusion"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-033",
@@ -1518,7 +1550,8 @@
         "HPV"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-034",
@@ -1564,7 +1597,8 @@
         "HSV blisters"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-035",
@@ -1610,7 +1644,8 @@
         "cirrhosis"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa15-036",
@@ -1656,7 +1691,8 @@
         "toxoid vaccine"
       ],
       "topicId": "introduction-to-infection",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "extra"
     },
     {
       "id": "pa16-001",
@@ -1702,7 +1738,8 @@
         "diagnosis"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-002",
@@ -1748,7 +1785,8 @@
         "cardiac"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-003",
@@ -1794,7 +1832,8 @@
         "mechanism"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-004",
@@ -1840,7 +1879,8 @@
         "immune complex"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-005",
@@ -1886,7 +1926,8 @@
         "diagnosis"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-006",
@@ -1932,7 +1973,8 @@
         "autoantibodies"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-007",
@@ -1978,7 +2020,8 @@
         "histology"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-008",
@@ -2024,7 +2067,8 @@
         "histology"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-009",
@@ -2070,7 +2114,8 @@
         "glomerulonephritis"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-010",
@@ -2116,7 +2161,8 @@
         "treatment"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-011",
@@ -2162,7 +2208,8 @@
         "diagnosis"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-012",
@@ -2208,7 +2255,8 @@
         "pediatrics"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
     },
     {
       "id": "pa16-013",
@@ -2254,7 +2302,8 @@
         "concept"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-014",
@@ -2300,7 +2349,8 @@
         "beta cells"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-015",
@@ -2346,7 +2396,8 @@
         "immunofluorescence"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-016",
@@ -2392,7 +2443,8 @@
         "blood-brain barrier"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-017",
@@ -2438,7 +2490,8 @@
         "differential diagnosis"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-018",
@@ -2484,7 +2537,8 @@
         "sex predominance"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-019",
@@ -2530,7 +2584,8 @@
         "pathogenesis"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-020",
@@ -2576,7 +2631,8 @@
         "IgM"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-021",
@@ -2622,7 +2678,8 @@
         "SLE"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-022",
@@ -2668,7 +2725,8 @@
         "environmental factors"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-023",
@@ -2714,7 +2772,8 @@
         "histology"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-024",
@@ -2760,7 +2819,8 @@
         "prognosis"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-025",
@@ -2806,7 +2866,8 @@
         "hemoptysis"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-026",
@@ -2852,7 +2913,8 @@
         "Prussian blue"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-027",
@@ -2898,7 +2960,8 @@
         "mechanism"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-028",
@@ -2944,7 +3007,8 @@
         "proteinase 3"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-029",
@@ -2990,7 +3054,8 @@
         "clinical features"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-030",
@@ -3036,7 +3101,8 @@
         "kidney"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-031",
@@ -3082,7 +3148,8 @@
         "SLE"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-032",
@@ -3128,7 +3195,8 @@
         "IgA"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-033",
@@ -3174,7 +3242,8 @@
         "serology"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-034",
@@ -3220,7 +3289,8 @@
         "immunosuppression"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-035",
@@ -3266,7 +3336,8 @@
         "monoclonal antibody"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa16-036",
@@ -3312,7 +3383,8 @@
         "classification"
       ],
       "topicId": "autoimmune-disease",
-      "topicName": "Diseases of the Immune System: Autoimmune Disease"
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "extra"
     },
     {
       "id": "pa17-001",
@@ -3358,7 +3430,8 @@
         "molecular mimicry"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-002",
@@ -3404,7 +3477,8 @@
         "valvular pathology"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-003",
@@ -3450,7 +3524,8 @@
         "nephritic syndrome"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-004",
@@ -3496,7 +3571,8 @@
         "basal ganglia"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-005",
@@ -3542,7 +3618,8 @@
         "molecular mimicry"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-006",
@@ -3588,7 +3665,8 @@
         "diplococci"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-007",
@@ -3634,7 +3712,8 @@
         "dissemination"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-008",
@@ -3680,7 +3759,8 @@
         "ATP"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-009",
@@ -3726,7 +3806,8 @@
         "serum ACE"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-010",
@@ -3772,7 +3853,8 @@
         "acid-fast bacilli"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-011",
@@ -3818,7 +3900,8 @@
         "vasculitis"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-012",
@@ -3864,7 +3947,8 @@
         "IV drug use"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
     },
     {
       "id": "pa17-013",
@@ -3910,7 +3994,8 @@
         "immune-mediated damage"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-014",
@@ -3956,7 +4041,8 @@
         "latency"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-015",
@@ -4002,7 +4088,8 @@
         "subcutaneous nodules"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-016",
@@ -4048,7 +4135,8 @@
         "histology"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-017",
@@ -4094,7 +4182,8 @@
         "molecular mimicry"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-018",
@@ -4140,7 +4229,8 @@
         "acute rheumatic fever"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-019",
@@ -4186,7 +4276,8 @@
         "acute rheumatic fever"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-020",
@@ -4232,7 +4323,8 @@
         "acute rheumatic fever"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-021",
@@ -4278,7 +4370,8 @@
         "rash"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-022",
@@ -4324,7 +4417,8 @@
         "sodium retention"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-023",
@@ -4370,7 +4464,8 @@
         "skin"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-024",
@@ -4416,7 +4511,8 @@
         "gastrointestinal infection"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-025",
@@ -4462,7 +4558,8 @@
         "reactive arthritis"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-026",
@@ -4508,7 +4605,8 @@
         "transmission"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-027",
@@ -4554,7 +4652,8 @@
         "maternal screening"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-028",
@@ -4600,7 +4699,8 @@
         "CD46"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-029",
@@ -4646,7 +4746,8 @@
         "purulent arthritis"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-030",
@@ -4692,7 +4793,8 @@
         "enclosed communities"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-031",
@@ -4738,7 +4840,8 @@
         "infectious granuloma"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-032",
@@ -4784,7 +4887,8 @@
         "calcification"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-033",
@@ -4830,7 +4934,8 @@
         "RPGN"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-034",
@@ -4876,7 +4981,8 @@
         "interferon gamma"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-035",
@@ -4922,7 +5028,8 @@
         "skin manifestations"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa17-036",
@@ -4968,7 +5075,8 @@
         "histology"
       ],
       "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases"
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "extra"
     },
     {
       "id": "pa18-001",
@@ -5015,7 +5123,8 @@
         "microbiota"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-002",
@@ -5061,7 +5170,8 @@
         "gastrointestinal"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-003",
@@ -5108,7 +5218,8 @@
         "nervous system"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-004",
@@ -5155,7 +5266,8 @@
         "IV drug use"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-005",
@@ -5202,7 +5314,8 @@
         "rubella"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-006",
@@ -5248,7 +5361,8 @@
         "macrophages"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-007",
@@ -5295,7 +5409,8 @@
         "pyogenic"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-008",
@@ -5342,7 +5457,8 @@
         "viruses"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-009",
@@ -5389,7 +5505,8 @@
         "protein synthesis"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-010",
@@ -5436,7 +5553,8 @@
         "S. aureus"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-011",
@@ -5483,7 +5601,8 @@
         "S. aureus"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa18-012",
@@ -5530,7 +5649,8 @@
         "gram-negative"
       ],
       "topicId": "introduction-to-infection-b18",
-      "topicName": "Introduction to Infection"
+      "topicName": "Introduction to Infection",
+      "tier": "core"
     },
     {
       "id": "pa19-001",
@@ -5576,7 +5696,8 @@
         "NADPH-oxidase"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-002",
@@ -5622,7 +5743,8 @@
         "LYST"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-003",
@@ -5668,7 +5790,8 @@
         "neutrophils"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-004",
@@ -5714,7 +5837,8 @@
         "candida"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-005",
@@ -5761,7 +5885,8 @@
         "viral-evasion"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-006",
@@ -5808,7 +5933,8 @@
         "double-stranded-RNA"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-007",
@@ -5855,7 +5981,8 @@
         "actin"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-008",
@@ -5902,7 +6029,8 @@
         "opsonization"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-009",
@@ -5949,7 +6077,8 @@
         "pilin"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-010",
@@ -5996,7 +6125,8 @@
         "CD4-tropism"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-011",
@@ -6043,7 +6173,8 @@
         "phagocytosis"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-012",
@@ -6089,7 +6220,8 @@
         "integrins"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
     },
     {
       "id": "pa19-013",
@@ -6135,7 +6267,8 @@
         "antibodies"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-014",
@@ -6182,7 +6315,8 @@
         "lipopolysaccharide"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-015",
@@ -6229,7 +6363,8 @@
         "antimicrobial-substances"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-016",
@@ -6276,7 +6411,8 @@
         "C3b"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-017",
@@ -6323,7 +6459,8 @@
         "acidic-pH"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-018",
@@ -6369,7 +6506,8 @@
         "phagolysosome"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-019",
@@ -6416,7 +6554,8 @@
         "helper-T-cells"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-020",
@@ -6463,7 +6602,8 @@
         "enterocytes"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-021",
@@ -6509,7 +6649,8 @@
         "membrane-attack-complex"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-022",
@@ -6556,7 +6697,8 @@
         "antibodies"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-023",
@@ -6602,7 +6744,8 @@
         "antigen"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-024",
@@ -6650,7 +6793,8 @@
         "fibronectin"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-025",
@@ -6697,7 +6841,8 @@
         "endocarditis"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-026",
@@ -6744,7 +6889,8 @@
         "antiviral"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-027",
@@ -6791,7 +6937,8 @@
         "viroreceptors"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-028",
@@ -6839,7 +6986,8 @@
         "apoptosis"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-029",
@@ -6886,7 +7034,8 @@
         "antigenic-variation"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-030",
@@ -6933,7 +7082,8 @@
         "immunosuppression"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-031",
@@ -6980,7 +7130,8 @@
         "eosinophils"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-032",
@@ -7027,7 +7178,8 @@
         "sleeping-sickness"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-033",
@@ -7074,7 +7226,8 @@
         "host-antigens"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-034",
@@ -7121,7 +7274,8 @@
         "peptide-loading"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-035",
@@ -7168,7 +7322,8 @@
         "reactivation"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa19-036",
@@ -7215,7 +7370,8 @@
         "bleeding"
       ],
       "topicId": "infections-immunity-and-evading-host-defense",
-      "topicName": "Infections, Immunity, and Evading Host Defense"
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "extra"
     },
     {
       "id": "pa20-001",
@@ -7261,7 +7417,8 @@
         "acid-fast"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-002",
@@ -7307,7 +7464,8 @@
         "macrophage"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-003",
@@ -7353,7 +7511,8 @@
         "granuloma"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-004",
@@ -7399,7 +7558,8 @@
         "hypersensitivity"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-005",
@@ -7445,7 +7605,8 @@
         "Th1"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-006",
@@ -7491,7 +7652,8 @@
         "reactivation"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-007",
@@ -7537,7 +7699,8 @@
         "dissemination"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-008",
@@ -7583,7 +7746,8 @@
         "chancre"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-009",
@@ -7629,7 +7793,8 @@
         "condylomata-lata"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-010",
@@ -7675,7 +7840,8 @@
         "cardiovascular"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-011",
@@ -7721,7 +7887,8 @@
         "Argyll-Robertson-pupil"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-012",
@@ -7767,7 +7934,8 @@
         "Hutchinson-teeth"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
     },
     {
       "id": "pa20-013",
@@ -7813,7 +7981,8 @@
         "epidemiology"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-014",
@@ -7859,7 +8028,8 @@
         "phagocytosis"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-015",
@@ -7905,7 +8075,8 @@
         "autophagy"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-016",
@@ -7951,7 +8122,8 @@
         "secondary-tuberculosis"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-017",
@@ -7997,7 +8169,8 @@
         "BCG"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-018",
@@ -8043,7 +8216,8 @@
         "radiology"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-019",
@@ -8089,7 +8263,8 @@
         "primary-tuberculosis"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-020",
@@ -8135,7 +8310,8 @@
         "histoplasma"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-021",
@@ -8181,7 +8357,8 @@
         "reinfection"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-022",
@@ -8227,7 +8404,8 @@
         "extrapulmonary"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-023",
@@ -8273,7 +8451,8 @@
         "special-stain"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-024",
@@ -8319,7 +8498,8 @@
         "histology"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-025",
@@ -8365,7 +8545,8 @@
         "natural-history"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-026",
@@ -8411,7 +8592,8 @@
         "latent-syphilis"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-027",
@@ -8457,7 +8639,8 @@
         "histology"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-028",
@@ -8503,7 +8686,8 @@
         "congenital-syphilis"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-029",
@@ -8549,7 +8733,8 @@
         "coronary-ostial-stenosis"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-030",
@@ -8595,7 +8780,8 @@
         "dissection"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-031",
@@ -8641,7 +8827,8 @@
         "meningovascular"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-032",
@@ -8687,7 +8874,8 @@
         "posterior-columns"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-033",
@@ -8733,7 +8921,8 @@
         "neurosyphilis"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-034",
@@ -8779,7 +8968,8 @@
         "RPR"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-035",
@@ -8825,7 +9015,8 @@
         "treponemal-test"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa20-036",
@@ -8871,7 +9062,8 @@
         "early-congenital"
       ],
       "topicId": "chronic-infections-tuberculosis-and-syphilis",
-      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis"
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "extra"
     },
     {
       "id": "pa21-001",
@@ -8917,7 +9109,8 @@
         "erythema-migrans"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-002",
@@ -8963,7 +9156,8 @@
         "immune-evasion"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-003",
@@ -9009,7 +9203,8 @@
         "staging"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-004",
@@ -9055,7 +9250,8 @@
         "arthritis"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-005",
@@ -9101,7 +9297,8 @@
         "reverse-transcriptase"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-006",
@@ -9148,7 +9345,8 @@
         "staging"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-007",
@@ -9194,7 +9392,8 @@
         "phases"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-008",
@@ -9240,7 +9439,8 @@
         "pneumocystis"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-009",
@@ -9287,7 +9487,8 @@
         "opportunistic-infection"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-010",
@@ -9334,7 +9535,8 @@
         "neuro"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-011",
@@ -9381,7 +9583,8 @@
         "neoplasm"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-012",
@@ -9429,7 +9632,8 @@
         "neuro"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
     },
     {
       "id": "pa21-013",
@@ -9476,7 +9680,8 @@
         "spirochete"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-014",
@@ -9523,7 +9728,8 @@
         "tick-salivary-gland"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-015",
@@ -9570,7 +9776,8 @@
         "cytokines"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-016",
@@ -9616,7 +9823,8 @@
         "natural-history"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-017",
@@ -9663,7 +9871,8 @@
         "immune-mediated"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-018",
@@ -9710,7 +9919,8 @@
         "csf"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-019",
@@ -9757,7 +9967,8 @@
         "staging"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-020",
@@ -9804,7 +10015,8 @@
         "screening"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-021",
@@ -9851,7 +10063,8 @@
         "viremia"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-022",
@@ -9898,7 +10111,8 @@
         "staging"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-023",
@@ -9945,7 +10159,8 @@
         "stage-2"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-024",
@@ -9992,7 +10207,8 @@
         "progression"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-025",
@@ -10039,7 +10255,8 @@
         "opportunistic-infection"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-026",
@@ -10086,7 +10303,8 @@
         "aids"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-027",
@@ -10133,7 +10351,8 @@
         "dermatology"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-028",
@@ -10180,7 +10399,8 @@
         "neoplasia"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-029",
@@ -10227,7 +10447,8 @@
         "t-cell-depletion"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-030",
@@ -10275,7 +10496,8 @@
         "hypermutation"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-031",
@@ -10322,7 +10544,8 @@
         "neoplasm"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-032",
@@ -10369,7 +10592,8 @@
         "neoplasm"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-033",
@@ -10416,7 +10640,8 @@
         "opportunistic-infection"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-034",
@@ -10463,7 +10688,8 @@
         "neuro"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-035",
@@ -10510,7 +10736,8 @@
         "hiv-testing"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa21-036",
@@ -10558,7 +10785,8 @@
         "neuro"
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
-      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS"
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "extra"
     },
     {
       "id": "pa22-001",
@@ -10604,7 +10832,8 @@
         "isograft"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-002",
@@ -10650,7 +10879,8 @@
         "allograft"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-003",
@@ -10696,7 +10926,8 @@
         "transplant matching"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-004",
@@ -10742,7 +10973,8 @@
         "chromosome 6"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-005",
@@ -10788,7 +11020,8 @@
         "universal donor"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-006",
@@ -10834,7 +11067,8 @@
         "pharmacology"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-007",
@@ -10880,7 +11114,8 @@
         "medical urgency"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-008",
@@ -10926,7 +11161,8 @@
         "fulminant hepatic failure"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-009",
@@ -10972,7 +11208,8 @@
         "organ viability"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-010",
@@ -11018,7 +11255,8 @@
         "contraindication"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-011",
@@ -11064,7 +11302,8 @@
         "renal pathology"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-012",
@@ -11110,7 +11349,8 @@
         "infection"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
     },
     {
       "id": "pa22-013",
@@ -11156,7 +11396,8 @@
         "autograft"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-014",
@@ -11202,7 +11443,8 @@
         "xenograft"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-015",
@@ -11248,7 +11490,8 @@
         "living donor"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-016",
@@ -11294,7 +11537,8 @@
         "immune response"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-017",
@@ -11340,7 +11584,8 @@
         "T cell"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-018",
@@ -11386,7 +11631,8 @@
         "antibodies"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-019",
@@ -11432,7 +11678,8 @@
         "transplant screening"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-020",
@@ -11478,7 +11725,8 @@
         "heart transplant"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-021",
@@ -11524,7 +11772,8 @@
         "codominant expression"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-022",
@@ -11570,7 +11819,8 @@
         "chromosome 6"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-023",
@@ -11616,7 +11866,8 @@
         "recipient"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-024",
@@ -11662,7 +11913,8 @@
         "donor antibodies"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-025",
@@ -11708,7 +11960,8 @@
         "transplant matching"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-026",
@@ -11754,7 +12007,8 @@
         "organ allocation"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-027",
@@ -11800,7 +12054,8 @@
         "organ allocation"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-028",
@@ -11846,7 +12101,8 @@
         "pediatric"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-029",
@@ -11892,7 +12148,8 @@
         "living donor"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-030",
@@ -11938,7 +12195,8 @@
         "donor liver"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-031",
@@ -11984,7 +12242,8 @@
         "donor liver"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-032",
@@ -12030,7 +12289,8 @@
         "donor liver"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-033",
@@ -12076,7 +12336,8 @@
         "donor liver"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-034",
@@ -12122,7 +12383,8 @@
         "contraindication"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-035",
@@ -12168,7 +12430,8 @@
         "organ shortage"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa22-036",
@@ -12214,7 +12477,8 @@
         "immunosuppression"
       ],
       "topicId": "diseases-of-the-immune-system-transplantation",
-      "topicName": "Diseases of the Immune System: Transplantation"
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "extra"
     },
     {
       "id": "pa23-001",
@@ -12260,7 +12524,8 @@
         "transplant"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-002",
@@ -12306,7 +12571,8 @@
         "donor T cells"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-003",
@@ -12352,7 +12618,8 @@
         "timing"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-004",
@@ -12398,7 +12665,8 @@
         "CD8 T cells"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-005",
@@ -12444,7 +12712,8 @@
         "complement"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-006",
@@ -12490,7 +12759,8 @@
         "heart transplant"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-007",
@@ -12536,7 +12806,8 @@
         "type II"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-008",
@@ -12582,7 +12853,8 @@
         "T cells"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-009",
@@ -12628,7 +12900,8 @@
         "donor T cells"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-010",
@@ -12674,7 +12947,8 @@
         "bile ducts"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-011",
@@ -12720,7 +12994,8 @@
         "radiation"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-012",
@@ -12766,7 +13041,8 @@
         "grading"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
     },
     {
       "id": "pa23-013",
@@ -12812,7 +13088,8 @@
         "anti-MHC antibodies"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-014",
@@ -12858,7 +13135,8 @@
         "graft removal"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-015",
@@ -12904,7 +13182,8 @@
         "natural IgM"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-016",
@@ -12950,7 +13229,8 @@
         "IgG"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-017",
@@ -12996,7 +13276,8 @@
         "post-streptococcal glomerulonephritis"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-018",
@@ -13042,7 +13323,8 @@
         "bronchial asthma"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-019",
@@ -13088,7 +13370,8 @@
         "CD8 T cells"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-020",
@@ -13134,7 +13417,8 @@
         "management"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-021",
@@ -13180,7 +13464,8 @@
         "C4d"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-022",
@@ -13226,7 +13511,8 @@
         "macrophages"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-023",
@@ -13272,7 +13558,8 @@
         "transplant"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-024",
@@ -13318,7 +13605,8 @@
         "transplant"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-025",
@@ -13364,7 +13652,8 @@
         "basement membrane duplication"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-026",
@@ -13410,7 +13699,8 @@
         "trichrome"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-027",
@@ -13456,7 +13746,8 @@
         "pathogenesis"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-028",
@@ -13502,7 +13793,8 @@
         "grading"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-029",
@@ -13548,7 +13840,8 @@
         "classification"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-030",
@@ -13594,7 +13887,8 @@
         "C4d"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-031",
@@ -13640,7 +13934,8 @@
         "allogeneic"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-032",
@@ -13686,7 +13981,8 @@
         "female donor"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-033",
@@ -13732,7 +14028,8 @@
         "donor T cells"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-034",
@@ -13778,7 +14075,8 @@
         "clinical presentation"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-035",
@@ -13824,7 +14122,8 @@
         "sclerosis"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa23-036",
@@ -13870,7 +14169,8 @@
         "immunosuppression"
       ],
       "topicId": "transplant-rejection",
-      "topicName": "Diseases of the Immune System: Transplant Rejection"
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "extra"
     },
     {
       "id": "pa24-001",
@@ -13916,7 +14216,8 @@
         "inflammatory bowel disease"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-002",
@@ -13962,7 +14263,8 @@
         "cytokine"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-003",
@@ -14008,7 +14310,8 @@
         "MHC class II"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-004",
@@ -14054,7 +14357,8 @@
         "IgA"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-005",
@@ -14100,7 +14404,8 @@
         "IgA"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-006",
@@ -14146,7 +14451,8 @@
         "gluten"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-007",
@@ -14192,7 +14498,8 @@
         "histology"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-008",
@@ -14238,7 +14545,8 @@
         "terminal ileum"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-009",
@@ -14284,7 +14592,8 @@
         "fistula"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-010",
@@ -14330,7 +14639,8 @@
         "gross pathology"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-011",
@@ -14376,7 +14686,8 @@
         "cobblestoning"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-012",
@@ -14422,7 +14733,8 @@
         "histology"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
     },
     {
       "id": "pa24-013",
@@ -14468,7 +14780,8 @@
         "crypt abscess"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-014",
@@ -14514,7 +14827,8 @@
         "oral manifestation"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-015",
@@ -14560,7 +14874,8 @@
         "inflammatory bowel disease"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-016",
@@ -14606,7 +14921,8 @@
         "extraintestinal manifestation"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-017",
@@ -14652,7 +14968,8 @@
         "skin"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-018",
@@ -14698,7 +15015,8 @@
         "extraintestinal manifestation"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-019",
@@ -14744,7 +15062,8 @@
         "HLA-B27"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-020",
@@ -14790,7 +15109,8 @@
         "extraintestinal manifestation"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-021",
@@ -14836,7 +15156,8 @@
         "differential diagnosis"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-022",
@@ -14882,7 +15203,8 @@
         "toxin"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-023",
@@ -14928,7 +15250,8 @@
         "traveler's diarrhea"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-024",
@@ -14974,7 +15297,8 @@
         "HLA-B27"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-025",
@@ -15020,7 +15344,8 @@
         "campylobacter jejuni"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-026",
@@ -15066,7 +15391,8 @@
         "campylobacter jejuni"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-027",
@@ -15112,7 +15438,8 @@
         "IVIG"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-028",
@@ -15158,7 +15485,8 @@
         "prognosis"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-029",
@@ -15204,7 +15532,8 @@
         "toxin"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-030",
@@ -15250,7 +15579,8 @@
         "hemolytic uremic syndrome"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-031",
@@ -15296,7 +15626,8 @@
         "endothelium"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-032",
@@ -15342,7 +15673,8 @@
         "hemolytic uremic syndrome"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-033",
@@ -15388,7 +15720,8 @@
         "waterborne"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-034",
@@ -15434,7 +15767,8 @@
         "brush border"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-035",
@@ -15480,7 +15814,8 @@
         "immunosuppression"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa24-036",
@@ -15526,7 +15861,8 @@
         "immunosuppression"
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
-      "topicName": "Immune-related and Infectious Causes of Diarrhea"
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "extra"
     },
     {
       "id": "pa25-001",
@@ -15572,7 +15908,8 @@
         "cholestasis"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-002",
@@ -15618,7 +15955,8 @@
         "MRCP"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-003",
@@ -15664,7 +16002,8 @@
         "interface hepatitis"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-004",
@@ -15710,7 +16049,8 @@
         "diagnosis"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-005",
@@ -15756,7 +16096,8 @@
         "histology"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-006",
@@ -15802,7 +16143,8 @@
         "histology"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-007",
@@ -15848,7 +16190,8 @@
         "type II AIH"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-008",
@@ -15894,7 +16237,8 @@
         "test characteristics"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-009",
@@ -15940,7 +16284,8 @@
         "ulcerative colitis"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-010",
@@ -15986,7 +16331,8 @@
         "past infection"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-011",
@@ -16032,7 +16378,8 @@
         "acute liver failure"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-012",
@@ -16078,7 +16425,8 @@
         "clinical presentation"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
     },
     {
       "id": "pa25-013",
@@ -16124,7 +16472,8 @@
         "genetics"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-014",
@@ -16170,7 +16519,8 @@
         "cirrhosis"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-015",
@@ -16216,7 +16566,8 @@
         "treatment"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-016",
@@ -16262,7 +16613,8 @@
         "liver function tests"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-017",
@@ -16308,7 +16660,8 @@
         "diagnosis"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-018",
@@ -16354,7 +16707,8 @@
         "diagnostic pitfall"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-019",
@@ -16400,7 +16754,8 @@
         "autoimmune associations"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-020",
@@ -16446,7 +16801,8 @@
         "T lymphocytes"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-021",
@@ -16492,7 +16848,8 @@
         "disease progression"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-022",
@@ -16538,7 +16895,8 @@
         "asymptomatic"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-023",
@@ -16584,7 +16942,8 @@
         "serology"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-024",
@@ -16630,7 +16989,8 @@
         "PBC vs PSC"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-025",
@@ -16676,7 +17036,8 @@
         "liver transplant"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-026",
@@ -16722,7 +17083,8 @@
         "genetics"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-027",
@@ -16768,7 +17130,8 @@
         "imaging"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-028",
@@ -16814,7 +17177,8 @@
         "test specificity"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-029",
@@ -16860,7 +17224,8 @@
         "chronic infection"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-030",
@@ -16906,7 +17271,8 @@
         "sexual transmission"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-031",
@@ -16952,7 +17318,8 @@
         "definition"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-032",
@@ -16998,7 +17365,8 @@
         "bridging fibrosis"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-033",
@@ -17044,7 +17412,8 @@
         "portal inflammation"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-034",
@@ -17090,7 +17459,8 @@
         "classification"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-035",
@@ -17136,7 +17506,8 @@
         "liver transplant"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     },
     {
       "id": "pa25-036",
@@ -17182,7 +17553,8 @@
         "etiology"
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
-      "topicName": "Infectious/Inflammatory Causes of Jaundice"
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "extra"
     }
   ]
 }

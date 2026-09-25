@@ -14,6 +14,10 @@ export function useQuestions() {
     selectedTopicIds: Set<string>,
     progress: ProgressData,
     tier: Tier = 'standard',
+    /** Topics that opted into their extension questions. Topics not listed
+     *  serve only their core 12. Undefined serves everything, which is what
+     *  review and the dashboard want. */
+    extrasTopicIds?: Set<string>,
   ) => {
     setLoading(true);
     try {
@@ -21,6 +25,11 @@ export function useQuestions() {
       const all = categories.flatMap(c => c.questions);
       const filtered = all.filter(q =>
         selectedTopicIds.has(q.topicId) && !progress.answers[q.id]
+        // Questions carry no tier on data assembled before the split, and
+        // are then treated as core so nothing silently disappears.
+        && (extrasTopicIds === undefined
+          || q.tier !== 'extra'
+          || extrasTopicIds.has(q.topicId))
       );
       setQuestions(shuffle(filtered));
     } catch (err) {

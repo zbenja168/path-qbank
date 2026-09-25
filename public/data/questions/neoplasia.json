@@ -46,7 +46,8 @@
         "monoclonality"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-002",
@@ -92,7 +93,8 @@
         "benign-vs-malignant"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-003",
@@ -138,7 +140,8 @@
         "clinical-correlation"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-004",
@@ -184,7 +187,8 @@
         "smooth-muscle"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-005",
@@ -230,7 +234,8 @@
         "adaptation"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-006",
@@ -276,7 +281,8 @@
         "progression"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-007",
@@ -322,7 +328,8 @@
         "staging"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-008",
@@ -368,7 +375,8 @@
         "prognosis"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-009",
@@ -414,7 +422,8 @@
         "epithelial"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-010",
@@ -460,7 +469,8 @@
         "nomenclature"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-011",
@@ -506,7 +516,8 @@
         "nomenclature"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-012",
@@ -552,7 +563,8 @@
         "nevus"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
     },
     {
       "id": "pa26-013",
@@ -598,7 +610,8 @@
         "nomenclature"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-014",
@@ -644,7 +657,8 @@
         "neoplasm"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-015",
@@ -690,7 +704,8 @@
         "thyroid-adenoma"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-016",
@@ -736,7 +751,8 @@
         "malignancy"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-017",
@@ -782,7 +798,8 @@
         "terminology"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-018",
@@ -828,7 +845,8 @@
         "treatment-resistance"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-019",
@@ -874,7 +892,8 @@
         "differentiation"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-020",
@@ -920,7 +939,8 @@
         "de-differentiation"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-021",
@@ -966,7 +986,8 @@
         "Gleason"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-022",
@@ -1012,7 +1033,8 @@
         "malignancy"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-023",
@@ -1058,7 +1080,8 @@
         "mechanism"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-024",
@@ -1104,7 +1127,8 @@
         "smoking"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-025",
@@ -1150,7 +1174,8 @@
         "squamous-metaplasia"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-026",
@@ -1196,7 +1221,8 @@
         "cellular-adaptation"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-027",
@@ -1242,7 +1268,8 @@
         "morphology"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-028",
@@ -1288,7 +1315,8 @@
         "cervix"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-029",
@@ -1334,7 +1362,8 @@
         "regression"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-030",
@@ -1380,7 +1409,8 @@
         "dysplasia"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-031",
@@ -1426,7 +1456,8 @@
         "carcinoma-in-situ"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-032",
@@ -1472,7 +1503,8 @@
         "benign"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-033",
@@ -1518,7 +1550,8 @@
         "sarcoma"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-034",
@@ -1564,7 +1597,8 @@
         "sarcoma"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-035",
@@ -1610,7 +1644,8 @@
         "malignant"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa26-036",
@@ -1656,7 +1691,8 @@
         "non-neoplastic"
       ],
       "topicId": "introduction-to-neoplasia",
-      "topicName": "Introduction to Neoplasia"
+      "topicName": "Introduction to Neoplasia",
+      "tier": "extra"
     },
     {
       "id": "pa27-001",
@@ -1702,7 +1738,8 @@
         "sentinel node"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-002",
@@ -1748,7 +1785,8 @@
         "cell adhesion"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-003",
@@ -1793,7 +1831,8 @@
         "intravasation"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-004",
@@ -1839,7 +1878,8 @@
         "liver metastasis"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-005",
@@ -1885,7 +1925,8 @@
         "renal cell carcinoma"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-006",
@@ -1930,7 +1971,8 @@
         "hematogenous spread"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-007",
@@ -1976,7 +2018,8 @@
         "peritoneal cavity"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-008",
@@ -2022,7 +2065,8 @@
         "subarachnoid space"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-009",
@@ -2068,7 +2112,8 @@
         "basement membrane"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-010",
@@ -2114,7 +2159,8 @@
         "platelets"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-011",
@@ -2159,7 +2205,8 @@
         "vessel structure"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-012",
@@ -2205,7 +2252,8 @@
         "lymphatic drainage"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
     },
     {
       "id": "pa27-013",
@@ -2252,7 +2300,8 @@
         "proteases"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-014",
@@ -2300,7 +2349,8 @@
         "fibroblasts"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-015",
@@ -2347,7 +2397,8 @@
         "tumor growth"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-016",
@@ -2394,7 +2445,8 @@
         "amoeboid movement"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-017",
@@ -2441,7 +2493,8 @@
         "immunohistochemistry"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-018",
@@ -2488,7 +2541,8 @@
         "apoptosis"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-019",
@@ -2535,7 +2589,8 @@
         "cell size"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-020",
@@ -2580,7 +2635,8 @@
         "metastatic cascade"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-021",
@@ -2627,7 +2683,8 @@
         "secondary site"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-022",
@@ -2673,7 +2730,8 @@
         "stromal environment"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-023",
@@ -2720,7 +2778,8 @@
         "stromal cells"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-024",
@@ -2766,7 +2825,8 @@
         "veins"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-025",
@@ -2812,7 +2872,8 @@
         "lung metastasis"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-026",
@@ -2859,7 +2920,8 @@
         "bladder cancer"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-027",
@@ -2906,7 +2968,8 @@
         "superior vena cava"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-028",
@@ -2952,7 +3015,8 @@
         "carcinoma exceptions"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-029",
@@ -2999,7 +3063,8 @@
         "breast cancer"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-030",
@@ -3046,7 +3111,8 @@
         "histology"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-031",
@@ -3093,7 +3159,8 @@
         "prognosis"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-032",
@@ -3139,7 +3206,8 @@
         "epithelial origin"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-033",
@@ -3185,7 +3253,8 @@
         "open spaces"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-034",
@@ -3231,7 +3300,8 @@
         "open spaces"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-035",
@@ -3278,7 +3348,8 @@
         "inner quadrant"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa27-036",
@@ -3325,7 +3396,8 @@
         "exceptions"
       ],
       "topicId": "cancer-growth-and-metastasis",
-      "topicName": "Cancer Growth and Metastasis"
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "extra"
     },
     {
       "id": "pa28-001",
@@ -3372,7 +3444,8 @@
         "signal transduction"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-002",
@@ -3419,7 +3492,8 @@
         "targeted therapy"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-003",
@@ -3466,7 +3540,8 @@
         "pediatric tumor"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-004",
@@ -3513,7 +3588,8 @@
         "monoclonal antibody"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-005",
@@ -3560,7 +3636,8 @@
         "MEK"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-006",
@@ -3607,7 +3684,8 @@
         "oncogene"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-007",
@@ -3653,7 +3731,8 @@
         "PI3K/AKT pathway"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-008",
@@ -3700,7 +3779,8 @@
         "translocation"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-009",
@@ -3747,7 +3827,8 @@
         "breast carcinoma"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-010",
@@ -3794,7 +3875,8 @@
         "signal transduction"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-011",
@@ -3841,7 +3923,8 @@
         "BCR::ABL"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-012",
@@ -3888,7 +3971,8 @@
         "cell cycle"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa28-013",
@@ -3935,7 +4019,8 @@
         "neoplasia"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-014",
@@ -3982,7 +4067,8 @@
         "small cell carcinoma"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-015",
@@ -4029,7 +4115,8 @@
         "growth pattern"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-016",
@@ -4076,7 +4163,8 @@
         "targeted therapy"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-017",
@@ -4123,7 +4211,8 @@
         "molecular drivers"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-018",
@@ -4170,7 +4259,8 @@
         "signal transduction"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-019",
@@ -4217,7 +4307,8 @@
         "point mutation"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-020",
@@ -4264,7 +4355,8 @@
         "RAS family"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-021",
@@ -4311,7 +4403,8 @@
         "DNA damage"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-022",
@@ -4358,7 +4451,8 @@
         "experimental therapy"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-023",
@@ -4405,7 +4499,8 @@
         "oncogene"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-024",
@@ -4452,7 +4547,8 @@
         "melanoma"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-025",
@@ -4499,7 +4595,8 @@
         "PI3K/AKT pathway"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-026",
@@ -4546,7 +4643,8 @@
         "cell survival"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-027",
@@ -4593,7 +4691,8 @@
         "cell growth"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-028",
@@ -4640,7 +4739,8 @@
         "AKT"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-029",
@@ -4687,7 +4787,8 @@
         "clinical trials"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-030",
@@ -4734,7 +4835,8 @@
         "histology"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-031",
@@ -4781,7 +4883,8 @@
         "chronic myeloid leukemia"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-032",
@@ -4828,7 +4931,8 @@
         "mechanisms of oncogene activation"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-033",
@@ -4875,7 +4979,8 @@
         "ribosome assembly"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-034",
@@ -4922,7 +5027,8 @@
         "downstream signaling"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-035",
@@ -4969,7 +5075,8 @@
         "epidemiology"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa28-036",
@@ -5016,7 +5123,8 @@
         "germinal center"
       ],
       "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-001",
@@ -5062,7 +5170,8 @@
         "Knudson"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-002",
@@ -5108,7 +5217,8 @@
         "two-hit hypothesis"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-003",
@@ -5154,7 +5264,8 @@
         "clinical sign"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-004",
@@ -5200,7 +5311,8 @@
         "RB1"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-005",
@@ -5246,7 +5358,8 @@
         "ubiquitination"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-006",
@@ -5292,7 +5405,8 @@
         "predisposition syndrome"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-007",
@@ -5338,7 +5452,8 @@
         "BAX"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-008",
@@ -5384,7 +5499,8 @@
         "beta-catenin"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-009",
@@ -5430,7 +5546,8 @@
         "management"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-010",
@@ -5476,7 +5593,8 @@
         "neurofibromatosis"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-011",
@@ -5522,7 +5640,8 @@
         "driver mutation"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-012",
@@ -5568,7 +5687,8 @@
         "tumor suppressor"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "pa29-013",
@@ -5614,7 +5734,8 @@
         "two-hit hypothesis"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-014",
@@ -5660,7 +5781,8 @@
         "sarcoma"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-015",
@@ -5706,7 +5828,8 @@
         "rosettes"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-016",
@@ -5752,7 +5875,8 @@
         "epidemiology"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-017",
@@ -5798,7 +5922,8 @@
         "transcription factor"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-018",
@@ -5845,7 +5970,8 @@
         "DNA damage"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-019",
@@ -5892,7 +6018,8 @@
         "MDM2"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-020",
@@ -5938,7 +6065,8 @@
         "cell cycle arrest"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-021",
@@ -5984,7 +6112,8 @@
         "cell cycle"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-022",
@@ -6030,7 +6159,8 @@
         "histology"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-023",
@@ -6076,7 +6206,8 @@
         "TCF/LEF"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-024",
@@ -6123,7 +6254,8 @@
         "histology"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-025",
@@ -6169,7 +6301,8 @@
         "inheritance"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-026",
@@ -6215,7 +6348,8 @@
         "melanocytes"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-027",
@@ -6261,7 +6395,8 @@
         "histology"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-028",
@@ -6307,7 +6442,8 @@
         "tumor suppressor"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-029",
@@ -6353,7 +6489,8 @@
         "predisposition syndrome"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-030",
@@ -6399,7 +6536,8 @@
         "telomere"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-031",
@@ -6445,7 +6583,8 @@
         "genomic instability"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-032",
@@ -6491,7 +6630,8 @@
         "tumor heterogeneity"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-033",
@@ -6537,7 +6677,8 @@
         "translation"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-034",
@@ -6583,7 +6724,8 @@
         "oncogene"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-035",
@@ -6629,7 +6771,8 @@
         "proliferation"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa29-036",
@@ -6675,7 +6818,8 @@
         "chromosomal instability"
       ],
       "topicId": "molecular-basis-of-neoplasia-part-2",
-      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "pa30-001",
@@ -6721,7 +6865,8 @@
         "cytokines"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-002",
@@ -6766,7 +6911,8 @@
         "glycocalyx"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-003",
@@ -6812,7 +6958,8 @@
         "antigen-presentation"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-004",
@@ -6858,7 +7005,8 @@
         "immunotherapy"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-005",
@@ -6904,7 +7052,8 @@
         "checkpoint"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-006",
@@ -6950,7 +7099,8 @@
         "extrinsic-pathway"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-007",
@@ -6996,7 +7146,8 @@
         "anergy"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-008",
@@ -7042,7 +7193,8 @@
         "antigen-escape"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-009",
@@ -7088,7 +7240,8 @@
         "tumor-heterogeneity"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-010",
@@ -7133,7 +7286,8 @@
         "hallmarks-of-cancer"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-011",
@@ -7179,7 +7333,8 @@
         "cytokines"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-012",
@@ -7225,7 +7380,8 @@
         "PD-L1"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
     },
     {
       "id": "pa30-013",
@@ -7270,7 +7426,8 @@
         "immune-evasion"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-014",
@@ -7315,7 +7472,8 @@
         "MHC-class-I"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-015",
@@ -7361,7 +7519,8 @@
         "signal-1"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-016",
@@ -7407,7 +7566,8 @@
         "signal-2"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-017",
@@ -7453,7 +7613,8 @@
         "self-tolerance"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-018",
@@ -7499,7 +7660,8 @@
         "lymph-node-priming"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-019",
@@ -7545,7 +7707,8 @@
         "checkpoint-blockade"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-020",
@@ -7591,7 +7754,8 @@
         "checkpoint"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-021",
@@ -7637,7 +7801,8 @@
         "CTL-killing"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-022",
@@ -7683,7 +7848,8 @@
         "secreted-vs-surface"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-023",
@@ -7729,7 +7895,8 @@
         "subclones"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-024",
@@ -7775,7 +7942,8 @@
         "extracellular-matrix"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-025",
@@ -7821,7 +7989,8 @@
         "CD19"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-026",
@@ -7867,7 +8036,8 @@
         "CD19"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-027",
@@ -7913,7 +8083,8 @@
         "engineered-T-cells"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-028",
@@ -7959,7 +8130,8 @@
         "apoptosis"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-029",
@@ -8005,7 +8177,8 @@
         "apoptosis"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-030",
@@ -8051,7 +8224,8 @@
         "solid-tumors"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-031",
@@ -8097,7 +8271,8 @@
         "checkpoint-contrast"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-032",
@@ -8143,7 +8318,8 @@
         "signaling"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-033",
@@ -8189,7 +8365,8 @@
         "B7"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-034",
@@ -8235,7 +8412,8 @@
         "antigen-presenting-cell"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-035",
@@ -8281,7 +8459,8 @@
         "mechanism-classification"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa30-036",
@@ -8327,7 +8506,8 @@
         "melanoma"
       ],
       "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion"
+      "topicName": "Cancer Immune Evasion",
+      "tier": "extra"
     },
     {
       "id": "pa31-001",
@@ -8373,7 +8553,8 @@
         "DNA repair"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-002",
@@ -8419,7 +8600,8 @@
         "microsatellite instability"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-003",
@@ -8465,7 +8647,8 @@
         "double-strand break"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-004",
@@ -8511,7 +8694,8 @@
         "SCID"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-005",
@@ -8558,7 +8742,8 @@
         "PMS2"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-006",
@@ -8603,7 +8788,8 @@
         "mismatch repair"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-007",
@@ -8648,7 +8834,8 @@
         "clinical criteria"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-008",
@@ -8694,7 +8881,8 @@
         "DNA cross-links"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-009",
@@ -8740,7 +8928,8 @@
         "photolyase"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-010",
@@ -8786,7 +8975,8 @@
         "SCID"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-011",
@@ -8832,7 +9022,8 @@
         "guardian of the genome"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-012",
@@ -8878,7 +9069,8 @@
         "NHEJ"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "core"
     },
     {
       "id": "pa31-013",
@@ -8924,7 +9116,8 @@
         "mutator phenotype"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-014",
@@ -8970,7 +9163,8 @@
         "70,000 lesions per day"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-015",
@@ -9016,7 +9210,8 @@
         "cell lineage"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-016",
@@ -9062,7 +9257,8 @@
         "S phase"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-017",
@@ -9108,7 +9304,8 @@
         "DNA repair steps"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-018",
@@ -9154,7 +9351,8 @@
         "remove and replace"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-019",
@@ -9200,7 +9398,8 @@
         "sun exposure"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-020",
@@ -9247,7 +9446,8 @@
         "recognition"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-021",
@@ -9293,7 +9493,8 @@
         "replication errors"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-022",
@@ -9339,7 +9540,8 @@
         "inheritance"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-023",
@@ -9385,7 +9587,8 @@
         "Lynch syndrome"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-024",
@@ -9431,7 +9634,8 @@
         "proximal colon"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-025",
@@ -9477,7 +9681,8 @@
         "nomenclature"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-026",
@@ -9523,7 +9728,8 @@
         "DNA damage"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-027",
@@ -9569,7 +9775,8 @@
         "cell cycle"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-028",
@@ -9615,7 +9822,8 @@
         "cancer pathophysiology"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-029",
@@ -9662,7 +9870,8 @@
         "pancreatic cancer"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-030",
@@ -9708,7 +9917,8 @@
         "ovarian cancer risk"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-031",
@@ -9754,7 +9964,8 @@
         "risk"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-032",
@@ -9800,7 +10011,8 @@
         "salpingo-oophorectomy"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-033",
@@ -9846,7 +10058,8 @@
         "bone marrow failure"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-034",
@@ -9893,7 +10106,8 @@
         "NHEJ"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-035",
@@ -9939,7 +10153,8 @@
         "mismatch repair genes"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa31-036",
@@ -9985,7 +10200,8 @@
         "lifetime risk"
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
-      "topicName": "Hallmarks of Neoplasia: Genomic Instability"
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "tier": "extra"
     },
     {
       "id": "pa32-001",
@@ -10031,7 +10247,8 @@
         "neurologic"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-002",
@@ -10077,7 +10294,8 @@
         "skin"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-003",
@@ -10123,7 +10341,8 @@
         "endocrine"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-004",
@@ -10169,7 +10388,8 @@
         "musculoskeletal"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-005",
@@ -10215,7 +10435,8 @@
         "hypercalcemia"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-006",
@@ -10261,7 +10482,8 @@
         "neuromuscular"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-007",
@@ -10307,7 +10529,8 @@
         "neuromuscular"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-008",
@@ -10353,7 +10576,8 @@
         "small cell lung cancer"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-009",
@@ -10399,7 +10623,8 @@
         "endocrine"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-010",
@@ -10445,7 +10670,8 @@
         "small cell lung cancer"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-011",
@@ -10491,7 +10717,8 @@
         "skin"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-012",
@@ -10537,7 +10764,8 @@
         "lymphoma"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "core"
     },
     {
       "id": "pa32-013",
@@ -10583,7 +10811,8 @@
         "definition"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-014",
@@ -10629,7 +10858,8 @@
         "mechanism"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-015",
@@ -10675,7 +10905,8 @@
         "histology"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-016",
@@ -10721,7 +10952,8 @@
         "epidemiology"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-017",
@@ -10767,7 +10999,8 @@
         "neuroendocrine"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-018",
@@ -10813,7 +11046,8 @@
         "anti-NMDA receptor encephalitis"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-019",
@@ -10859,7 +11093,8 @@
         "seizures"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-020",
@@ -10905,7 +11140,8 @@
         "IVIG"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-021",
@@ -10951,7 +11187,8 @@
         "sequelae"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-022",
@@ -10997,7 +11234,8 @@
         "five Fs"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-023",
@@ -11043,7 +11281,8 @@
         "anti-Hu"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-024",
@@ -11089,7 +11328,8 @@
         "PTHrP"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-025",
@@ -11135,7 +11375,8 @@
         "endocrine"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-026",
@@ -11181,7 +11422,8 @@
         "differential"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-027",
@@ -11227,7 +11469,8 @@
         "complications"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-028",
@@ -11273,7 +11516,8 @@
         "emergency"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-029",
@@ -11319,7 +11563,8 @@
         "PTHrP"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-030",
@@ -11365,7 +11610,8 @@
         "squamous cell carcinoma"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-031",
@@ -11411,7 +11657,8 @@
         "management"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-032",
@@ -11457,7 +11704,8 @@
         "mechanism"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-033",
@@ -11503,7 +11751,8 @@
         "tumor associations"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-034",
@@ -11549,7 +11798,8 @@
         "diabetes"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-035",
@@ -11595,7 +11845,8 @@
         "skin"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa32-036",
@@ -11641,7 +11892,8 @@
         "musculoskeletal"
       ],
       "topicId": "paraneoplastic-syndromes",
-      "topicName": "Paraneoplastic Syndromes"
+      "topicName": "Paraneoplastic Syndromes",
+      "tier": "extra"
     },
     {
       "id": "pa33-001",
@@ -11687,7 +11939,8 @@
         "mortality"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-002",
@@ -11733,7 +11986,8 @@
         "Pap smear"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-003",
@@ -11779,7 +12033,8 @@
         "colonoscopy"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-004",
@@ -11825,7 +12080,8 @@
         "mesothelioma"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-005",
@@ -11871,7 +12127,8 @@
         "leukemia"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-006",
@@ -11917,7 +12174,8 @@
         "hepatic angiosarcoma"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-007",
@@ -11963,7 +12221,8 @@
         "risk factors"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-008",
@@ -12009,7 +12268,8 @@
         "gastric cancer"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-009",
@@ -12056,7 +12316,8 @@
         "synergy"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-010",
@@ -12102,7 +12363,8 @@
         "familial adenomatous polyposis"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-011",
@@ -12148,7 +12410,8 @@
         "DNA repair"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-012",
@@ -12194,7 +12457,8 @@
         "neurofibromatosis"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "core"
     },
     {
       "id": "pa33-013",
@@ -12240,7 +12504,8 @@
         "prognosis"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-014",
@@ -12286,7 +12551,8 @@
         "estrogen"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-015",
@@ -12332,7 +12598,8 @@
         "Pap smear"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-016",
@@ -12378,7 +12645,8 @@
         "HPV testing"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-017",
@@ -12424,7 +12692,8 @@
         "lung cancer"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-018",
@@ -12470,7 +12739,8 @@
         "epidemiology"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-019",
@@ -12516,7 +12786,8 @@
         "global trends"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-020",
@@ -12562,7 +12833,8 @@
         "Screen for Life"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-021",
@@ -12608,7 +12880,8 @@
         "screening"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-022",
@@ -12654,7 +12927,8 @@
         "colonoscopy"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-023",
@@ -12700,7 +12974,8 @@
         "family history"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-024",
@@ -12746,7 +13021,8 @@
         "epidemiology"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-025",
@@ -12792,7 +13068,8 @@
         "Li-Fraumeni"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-026",
@@ -12838,7 +13115,8 @@
         "ductal carcinoma in situ"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-027",
@@ -12884,7 +13162,8 @@
         "smoking"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-028",
@@ -12930,7 +13209,8 @@
         "breast cancer"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-029",
@@ -12976,7 +13256,8 @@
         "environmental risk factors"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-030",
@@ -13022,7 +13303,8 @@
         "environmental risk factors"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-031",
@@ -13068,7 +13350,8 @@
         "hepatocellular carcinoma"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-032",
@@ -13114,7 +13397,8 @@
         "endometrial cancer"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-033",
@@ -13160,7 +13444,8 @@
         "DNA damage"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-034",
@@ -13206,7 +13491,8 @@
         "leukemia"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-035",
@@ -13252,7 +13538,8 @@
         "carcinogen exposure"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa33-036",
@@ -13298,7 +13585,8 @@
         "colon cancer"
       ],
       "topicId": "epidemiology-of-cancer",
-      "topicName": "Epidemiology of Cancer"
+      "topicName": "Epidemiology of Cancer",
+      "tier": "extra"
     },
     {
       "id": "pa34-001",
@@ -13344,7 +13632,8 @@
         "oncogenic viruses"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-002",
@@ -13390,7 +13679,8 @@
         "chronic inflammation"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-003",
@@ -13436,7 +13726,8 @@
         "dysplasia"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-004",
@@ -13483,7 +13774,8 @@
         "cervical carcinoma"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-005",
@@ -13530,7 +13822,8 @@
         "HIV"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-006",
@@ -13576,7 +13869,8 @@
         "Reed-Sternberg"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-007",
@@ -13622,7 +13916,8 @@
         "flower cell"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-008",
@@ -13669,7 +13964,8 @@
         "cirrhosis"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-009",
@@ -13715,7 +14011,8 @@
         "parasite"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-010",
@@ -13761,7 +14058,8 @@
         "antibiotic eradication"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-011",
@@ -13807,7 +14105,8 @@
         "translocation"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-012",
@@ -13853,7 +14152,8 @@
         "low-risk serotypes"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
     },
     {
       "id": "pa34-013",
@@ -13900,7 +14200,8 @@
         "viral tropism"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-014",
@@ -13947,7 +14248,8 @@
         "viral oncogenes"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-015",
@@ -13993,7 +14295,8 @@
         "epidemiology"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-016",
@@ -14040,7 +14343,8 @@
         "abdominal mass"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-017",
@@ -14087,7 +14391,8 @@
         "EBV"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-018",
@@ -14134,7 +14439,8 @@
         "Southern China"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-019",
@@ -14180,7 +14486,8 @@
         "Kaposi sarcoma"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-020",
@@ -14227,7 +14534,8 @@
         "B-cell lymphoma"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-021",
@@ -14274,7 +14582,8 @@
         "needle stick"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-022",
@@ -14321,7 +14630,8 @@
         "health professionals"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-023",
@@ -14368,7 +14678,8 @@
         "chronic inflammation"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-024",
@@ -14415,7 +14726,8 @@
         "cirrhosis"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-025",
@@ -14461,7 +14773,8 @@
         "low-risk serotypes"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-026",
@@ -14508,7 +14821,8 @@
         "benign"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-027",
@@ -14556,7 +14870,8 @@
         "G1-S checkpoint"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-028",
@@ -14602,7 +14917,8 @@
         "oropharyngeal squamous cell carcinoma"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-029",
@@ -14649,7 +14965,8 @@
         "ATLL"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-030",
@@ -14696,7 +15013,8 @@
         "apoptosis"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-031",
@@ -14743,7 +15061,8 @@
         "retrovirus"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-032",
@@ -14789,7 +15108,8 @@
         "gastric adenocarcinoma"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-033",
@@ -14836,7 +15156,8 @@
         "screening"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-034",
@@ -14883,7 +15204,8 @@
         "Paneth cells"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-035",
@@ -14929,7 +15251,8 @@
         "precancerous cascade"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa34-036",
@@ -14976,7 +15299,8 @@
         "swimmer's itch"
       ],
       "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms"
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "extra"
     },
     {
       "id": "pa35-001",
@@ -15023,7 +15347,8 @@
         "prognosis"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-002",
@@ -15069,7 +15394,8 @@
         "prognostic-factors"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-003",
@@ -15115,7 +15441,8 @@
         "basement-membrane"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-004",
@@ -15161,7 +15488,8 @@
         "differentiation"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-005",
@@ -15207,7 +15535,8 @@
         "treatment-response"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-006",
@@ -15253,7 +15582,8 @@
         "treatment-response"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-007",
@@ -15299,7 +15629,8 @@
         "prognosis"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-008",
@@ -15345,7 +15676,8 @@
         "definitions"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-009",
@@ -15390,7 +15722,8 @@
         "survival-rate"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-010",
@@ -15435,7 +15768,8 @@
         "performance-status"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-011",
@@ -15481,7 +15815,8 @@
         "endpoints"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa35-012",
@@ -15527,7 +15862,8 @@
         "prognosis"
       ],
       "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading"
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
     },
     {
       "id": "pa36-001",
@@ -15573,7 +15909,8 @@
         "cell cycle"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-002",
@@ -15619,7 +15956,8 @@
         "peripheral neuropathy"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-003",
@@ -15665,7 +16003,8 @@
         "apoptosis"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-004",
@@ -15711,7 +16050,8 @@
         "cardiotoxicity"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-005",
@@ -15757,7 +16097,8 @@
         "hemorrhagic cystitis"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-006",
@@ -15803,7 +16144,8 @@
         "adverse effects"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-007",
@@ -15850,7 +16192,8 @@
         "ototoxicity"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-008",
@@ -15896,7 +16239,8 @@
         "CD20"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-009",
@@ -15942,7 +16286,8 @@
         "angiogenesis"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-010",
@@ -15988,7 +16333,8 @@
         "HER2"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-011",
@@ -16034,7 +16380,8 @@
         "mechanism"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-012",
@@ -16080,7 +16427,8 @@
         "mechanism"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
     },
     {
       "id": "pa36-013",
@@ -16126,7 +16474,8 @@
         "classification"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-014",
@@ -16172,7 +16521,8 @@
         "tissues"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-015",
@@ -16218,7 +16568,8 @@
         "interphase"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-016",
@@ -16264,7 +16615,8 @@
         "microtubules"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-017",
@@ -16310,7 +16662,8 @@
         "mitosis"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-018",
@@ -16356,7 +16709,8 @@
         "apoptosis"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-019",
@@ -16403,7 +16757,8 @@
         "restriction point"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-020",
@@ -16449,7 +16804,8 @@
         "mechanism"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-021",
@@ -16495,7 +16851,8 @@
         "mechanism"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-022",
@@ -16541,7 +16898,8 @@
         "pulmonary fibrosis"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-023",
@@ -16587,7 +16945,8 @@
         "neurotoxicity"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-024",
@@ -16633,7 +16992,8 @@
         "mechanism"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-025",
@@ -16679,7 +17039,8 @@
         "keratitis"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-026",
@@ -16725,7 +17086,8 @@
         "diarrhea"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-027",
@@ -16771,7 +17133,8 @@
         "myelosuppression"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-028",
@@ -16817,7 +17180,8 @@
         "management"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-029",
@@ -16863,7 +17227,8 @@
         "-mab"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-030",
@@ -16908,7 +17273,8 @@
         "immune checkpoints"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-031",
@@ -16954,7 +17320,8 @@
         "immunotherapy"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-032",
@@ -17000,7 +17367,8 @@
         "chimeric receptor"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-033",
@@ -17046,7 +17414,8 @@
         "nausea"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-034",
@@ -17092,7 +17461,8 @@
         "targeted therapy"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-035",
@@ -17138,7 +17508,8 @@
         "cyclophosphamide"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     },
     {
       "id": "pa36-036",
@@ -17184,7 +17555,8 @@
         "metaphase"
       ],
       "topicId": "cancer-medications-overview",
-      "topicName": "Cancer Medications Overview"
+      "topicName": "Cancer Medications Overview",
+      "tier": "extra"
     }
   ]
 }

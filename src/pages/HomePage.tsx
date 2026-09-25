@@ -20,12 +20,18 @@ interface Props {
   topics: TopicsIndex | null;
   selectedTopicIds: Set<string>;
   selectedCount: number;
+  extrasTopicIds: Set<string>;
+  /** Extras available on the current selection but not switched on. */
+  availableExtras: number;
   topicStats?: Map<string, TopicStat> | null;
   progress: ProgressData;
   onToggleTopic: (topicId: string) => void;
   onToggleCategory: (category: Category) => void;
   onSelectAll: () => void;
   onClearAll: () => void;
+  onToggleExtras: (topicId: string) => void;
+  onToggleCategoryExtras: (category: Category) => void;
+  onSetAllExtras: (on: boolean) => void;
   onStartQuiz: () => void;
   onGoToDashboard: () => void;
   onGoToReview: (mode?: ReviewMode) => void;
@@ -33,8 +39,10 @@ interface Props {
 }
 
 export function HomePage({
-  tier, onSetTier, entitlement, entitlementReason, topics, selectedTopicIds, selectedCount, topicStats, progress,
+  tier, onSetTier, entitlement, entitlementReason, topics, selectedTopicIds, selectedCount,
+  extrasTopicIds, availableExtras, topicStats, progress,
   onToggleTopic, onToggleCategory, onSelectAll, onClearAll,
+  onToggleExtras, onToggleCategoryExtras, onSetAllExtras,
   onStartQuiz, onGoToDashboard, onGoToReview, onClearProgress,
 }: Props) {
   const locked = tier === 'advanced' && entitlement !== null && entitlement !== 'ok';
@@ -50,6 +58,12 @@ export function HomePage({
   const stats = getOverallStats(tierProgress);
   const missedCount = Object.values(tierProgress.answers).filter((a) => !a.isCorrect).length;
   const bookmarkCount = progress.bookmarkedQuestions.length;
+  // The advanced tier (and any never-extended brick) ships 12 questions and
+  // nothing more, so the whole control hides itself there. `topics` is null
+  // while the advanced payload is gated, hence the optional chain.
+  const extraTopics = (topics?.categories ?? []).flatMap(c => c.topics).filter(t => (t.extraCount ?? 0) > 0);
+  const anyExtras = extraTopics.length > 0;
+  const allExtrasOn = anyExtras && extraTopics.every(t => extrasTopicIds.has(t.id));
 
   const [skin, setSkin] = useState<SkinName>(savedSkin);
   const [skinAccess, setSkinAccess] = useState<SkinAccess | null>(null);
@@ -216,14 +230,35 @@ export function HomePage({
         {/* Filter controls */}
         <MembraneDivider />
 
-        <div className="flex items-center justify-between mb-4">
+        <div className="flex items-center justify-between mb-2 gap-3 flex-wrap">
           <h2 className="text-lg font-semibold text-slate-200">Select Topics</h2>
           <div className="flex items-center gap-3">
             <button onClick={onSelectAll} className="text-sm text-blue-400 hover:text-blue-300">Select All</button>
             <span className="text-slate-600">|</span>
             <button onClick={onClearAll} className="text-sm text-blue-400 hover:text-blue-300">Clear All</button>
+            {anyExtras && (
+              <>
+                <span className="text-slate-600">|</span>
+                <button
+                  onClick={() => onSetAllExtras(!allExtrasOn)}
+                  className="text-sm text-teal-400 hover:text-teal-300"
+                >
+                  {allExtrasOn ? 'Core only' : 'Add all extras'}
+                </button>
+              </>
+            )}
           </div>
         </div>
+        {anyExtras && (
+          <p className="text-sm text-slate-400 mb-4">
+            Each topic starts with the core questions that cover it. Use the
+            <span className="mx-1 text-xs px-1.5 py-0.5 rounded border border-slate-600 text-slate-400">+24</span>
+            next to a topic to add the rest when you want to go deeper.
+            {availableExtras > 0 && (
+              <span className="text-slate-500"> {availableExtras} more available on your current selection.</span>
+            )}
+          </p>
+        )}
 
         {/* Category accordions */}
         <div className="space-y-2 mb-8">
@@ -232,9 +267,12 @@ export function HomePage({
               key={cat.id}
               category={cat}
               selectedTopicIds={selectedTopicIds}
+              extrasTopicIds={extrasTopicIds}
               topicStats={topicStats}
               onToggleTopic={onToggleTopic}
               onToggleCategory={onToggleCategory}
+              onToggleExtras={onToggleExtras}
+              onToggleCategoryExtras={onToggleCategoryExtras}
             />
           ))}
         </div>
