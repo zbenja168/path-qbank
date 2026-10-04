@@ -13,6 +13,17 @@ import { track } from './utils/track';
 import { Tier } from './utils/questionLoader';
 import { restoreSkin } from './utils/skin';
 
+import { ExtrasGate } from './components/ExtrasGate';
+import { ensureExtras, requestExtrasPrompt } from './utils/extras';
+
+// Extra questions need an Active Transport sign-in. Ask once on load, and route
+// every "+ extras" control through gated() so a locked visitor gets the
+// sign-in dialog instead of a toggle that would load nothing.
+void ensureExtras();
+function gated<A extends unknown[]>(fn: (...a: A) => void) {
+  return (...a: A) => { ensureExtras().then(s => (s === 'ok' ? fn(...a) : requestExtrasPrompt())); };
+}
+
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
 
 function AppShell() {
@@ -162,9 +173,9 @@ function AppShell() {
           onToggleCategory={topicsHook.toggleCategory}
           onSelectAll={topicsHook.selectAll}
           onClearAll={topicsHook.clearAll}
-          onToggleExtras={topicsHook.toggleExtras}
-          onToggleCategoryExtras={topicsHook.toggleCategoryExtras}
-          onSetAllExtras={topicsHook.setAllExtras}
+          onToggleExtras={gated(topicsHook.toggleExtras)}
+          onToggleCategoryExtras={gated(topicsHook.toggleCategoryExtras)}
+          onSetAllExtras={(on: boolean) => (on ? gated(topicsHook.setAllExtras)(on) : topicsHook.setAllExtras(on))}
           onStartQuiz={handleStartQuiz}
           onGoToDashboard={handleGoToDashboard}
           onGoToReview={handleGoToReview}
@@ -178,6 +189,7 @@ export default function App() {
   return (
     <>
       <BrandBadge />
+      <ExtrasGate />
       <AppShell />
     </>
   );
