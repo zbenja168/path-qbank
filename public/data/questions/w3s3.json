@@ -1,0 +1,1701 @@
+{
+  "categoryId": "w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "pa02-001",
+      "stem": "A 64-year-old woman with newly diagnosed lung cancer undergoes a full staging workup. The report lists a 3-cm primary tumor, involvement of two regional lymph nodes, grade 3 (anaplastic) histology, and a solitary lesion in the liver consistent with tumor spread. Which of the following findings most strongly worsens her prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A tumor that is well vascularized"
+        },
+        {
+          "label": "B",
+          "text": "Involvement of two regional lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Metastasis to the liver"
+        },
+        {
+          "label": "D",
+          "text": "The 3-cm size of the primary tumor"
+        },
+        {
+          "label": "E",
+          "text": "The grade 3 (anaplastic) histology"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Distant metastasis (the M in TNM) is the single most important component of staging and confers the worst prognosis.",
+        "whyCorrect": "Of the three TNM components, metastasis is the most important prognostic factor, and spread to a distant organ such as the liver carries the worst outlook. It outweighs tumor size, nodal spread, and grade.",
+        "whyWrongByChoice": {
+          "A": "Vascularity of the tumor is not one of the prognostic parameters emphasized in staging and grading.",
+          "B": "Nodal involvement (N) ranks below metastasis in prognostic weight; two nodes is less severe than distant spread.",
+          "D": "Tumor size (T) is the least important of the three TNM components and is far less ominous than distant spread.",
+          "E": "Grade is an important prognostic factor but is explicitly less important than stage, and metastasis dominates staging."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "TNM",
+        "metastasis",
+        "prognosis"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-002",
+      "stem": "A 58-year-old man completes chemotherapy for lymphoma. On follow-up, his physical exam, blood work, and imaging show no evidence of cancer, and the oncologist says he is in complete remission. Which of the following best describes what this means?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All signs and symptoms of the cancer have disappeared"
+        },
+        {
+          "label": "B",
+          "text": "Imaging shows no growth of the original tumor, though symptoms persist"
+        },
+        {
+          "label": "C",
+          "text": "Signs and symptoms are alleviated but not eliminated"
+        },
+        {
+          "label": "D",
+          "text": "The cancer has been definitively cured and cannot return"
+        },
+        {
+          "label": "E",
+          "text": "The tumor is at least 50% smaller than before treatment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Complete remission means all evidence, signs, and symptoms of cancer have disappeared, but it is not the same as cure.",
+        "whyCorrect": "Complete remission means no cancer is detectable on physical exam, blood work, or imaging. It is distinguished from cure because undetected cancer cells may still remain and could regrow.",
+        "whyWrongByChoice": {
+          "B": "Imaging showing no growth of the original tumor with residual disease describes partial remission, not complete remission.",
+          "C": "Signs and symptoms alleviated but not eliminated defines partial remission.",
+          "D": "Providers avoid the word cure because undetected cells may persist even in complete remission; complete remission is not a guarantee of cure.",
+          "E": "A tumor at least 50% smaller but still present is a criterion for partial remission, not complete remission."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "remission",
+        "cure",
+        "outcomes"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-003",
+      "stem": "A 47-year-old woman is diagnosed with breast cancer. Her oncologist tells her that, based on her diagnosis, 75% of patients with her cancer will not die as a result of their cancer within 5 years of diagnosis. Which parameter is the oncologist using to describe her prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5-year cancer-specific survival"
+        },
+        {
+          "label": "B",
+          "text": "5-year disease-free survival after treatment"
+        },
+        {
+          "label": "C",
+          "text": "5-year overall survival from any cause"
+        },
+        {
+          "label": "D",
+          "text": "5-year relative survival versus a matched population"
+        },
+        {
+          "label": "E",
+          "text": "10-year overall survival from any cause"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cancer-specific survival counts only deaths caused by the cancer itself over a set period after diagnosis.",
+        "whyCorrect": "Cancer-specific survival is the percentage of patients with a specific type and stage who have not died as a result of that specific cancer in a given period after diagnosis. That is exactly what the oncologist described.",
+        "whyWrongByChoice": {
+          "B": "Disease-free survival is the percentage with no signs of cancer during a period after completing treatment, not deaths from the cancer.",
+          "C": "Overall survival counts patients who have not died from any cause, not just the cancer.",
+          "D": "Relative survival compares survival of patients with cancer to a matched cancer-free population.",
+          "E": "The oncologist specified a 5-year window and death from the cancer, not a 10-year overall figure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "survival",
+        "prognosis",
+        "statistics"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-004",
+      "stem": "A biopsy of a breast mass is reviewed by a pathologist. Which of the following histologic descriptions most likely corresponds to a high-grade cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cells that form glands and resemble normal breast tissue"
+        },
+        {
+          "label": "B",
+          "text": "Elevated serum tumor marker levels"
+        },
+        {
+          "label": "C",
+          "text": "Extensive tumor infiltration into adjacent tissue and lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Poorly differentiated cells with numerous mitoses"
+        },
+        {
+          "label": "E",
+          "text": "Well-differentiated cells with uniform nuclei"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Grade reflects histology; high-grade tumors are poorly differentiated or anaplastic with marked nuclear atypia and abundant mitoses.",
+        "whyCorrect": "Grade describes the histologic appearance and number of mitoses. High-grade (poorly differentiated or anaplastic) cancers lack differentiation, show pleomorphic nuclei, and have numerous mitotic figures.",
+        "whyWrongByChoice": {
+          "A": "Cells that form glands and resemble normal tissue describe a well-differentiated, low-grade tumor.",
+          "B": "Serum tumor marker levels are not a component of grade, which is based on microscopic appearance.",
+          "C": "Infiltration into adjacent tissue and lymph nodes reflects stage (extent of spread), not grade.",
+          "E": "Well-differentiated cells with uniform nuclei describe a low-grade, not a high-grade, cancer."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "grading",
+        "differentiation",
+        "histology"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-005",
+      "stem": "A 60-year-old man has an elevated serum CA19-9 detected during evaluation of abdominal pain and weight loss. An elevation of this tumor marker is most classically associated with which of the following cancers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Neuroendocrine tumor"
+        },
+        {
+          "label": "C",
+          "text": "Ovarian cancer"
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic cancer"
+        },
+        {
+          "label": "E",
+          "text": "Prostate cancer"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CA19-9 is a tumor marker associated with colon and pancreatic cancer.",
+        "whyCorrect": "CA19-9 is classically elevated in pancreatic cancer (and colon cancer). In a patient with abdominal pain and weight loss, a high CA19-9 points toward pancreatic cancer.",
+        "whyWrongByChoice": {
+          "A": "Hepatocellular carcinoma is marked by alpha-fetoprotein (AFP), not CA19-9.",
+          "B": "Neuroendocrine tumors are associated with chromogranin.",
+          "C": "Ovarian cancer is associated with CA-125.",
+          "E": "Prostate cancer is associated with prostate-specific antigen (PSA)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tumor-markers",
+        "CA19-9",
+        "pancreatic-cancer"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-006",
+      "stem": "A 62-year-old man with non-small cell lung cancer is assigned a stage of T2 N1 M1. Which single feature of his cancer carries the greatest weight in determining his prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A mildly elevated CEA level"
+        },
+        {
+          "label": "B",
+          "text": "The M1 distant metastasis"
+        },
+        {
+          "label": "C",
+          "text": "The moderate differentiation of the tumor"
+        },
+        {
+          "label": "D",
+          "text": "The N1 involvement of one lymph node"
+        },
+        {
+          "label": "E",
+          "text": "The T2 primary tumor size"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Among the three TNM components, metastasis (M) is the most important prognostic factor.",
+        "whyCorrect": "The M component describes distant spread and is the most important of the three TNM factors. M1 (metastasis present) therefore weighs most heavily on prognosis.",
+        "whyWrongByChoice": {
+          "A": "Tumor markers help track response and recurrence but are not the dominant prognostic component of TNM staging.",
+          "C": "Grade (differentiation) is a prognostic factor but is less important than stage.",
+          "D": "Nodal involvement (N) is important and second to metastasis, but still ranks below M.",
+          "E": "Tumor size (T) is the least important of the three TNM components."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TNM",
+        "staging",
+        "metastasis"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-007",
+      "stem": "A 68-year-old woman is diagnosed with stage 3B non-small cell lung cancer. Using the staging-based survival data, which of the following is closest to her expected 5-year survival rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1%"
+        },
+        {
+          "label": "B",
+          "text": "5%"
+        },
+        {
+          "label": "C",
+          "text": "14%"
+        },
+        {
+          "label": "D",
+          "text": "31%"
+        },
+        {
+          "label": "E",
+          "text": "49%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Higher stage means worse prognosis; stage 3B non-small cell lung cancer has roughly a 5% 5-year survival.",
+        "whyCorrect": "The stage-specific survival table lists a 5-year survival of about 5% for stage 3B non-small cell lung cancer, illustrating how advancing stage sharply lowers survival.",
+        "whyWrongByChoice": {
+          "A": "1% corresponds to stage 4 (metastatic) disease, worse than stage 3B.",
+          "C": "14% corresponds to stage 3A disease, one substage below 3B.",
+          "D": "31% corresponds to roughly stage 2B disease.",
+          "E": "49% corresponds to stage 1A disease, much earlier than stage 3B."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "survival",
+        "lung-cancer"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-008",
+      "stem": "A researcher reports that, for a particular cancer, a given statistic represents the percentage of patients with that cancer type and stage who have not died from any cause within 5 years of diagnosis. Which survival measure is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cancer-specific survival"
+        },
+        {
+          "label": "B",
+          "text": "Disease-free survival"
+        },
+        {
+          "label": "C",
+          "text": "Overall survival"
+        },
+        {
+          "label": "D",
+          "text": "Progression-free interval"
+        },
+        {
+          "label": "E",
+          "text": "Relative survival"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Overall survival counts patients who have not died from any cause during a set period after diagnosis.",
+        "whyCorrect": "Overall survival is the percentage of patients with a specific type and stage of cancer who have not died from any cause in a certain period after diagnosis, which matches the description exactly.",
+        "whyWrongByChoice": {
+          "A": "Cancer-specific survival counts only deaths caused by the cancer, not deaths from any cause.",
+          "B": "Disease-free survival tracks the absence of cancer signs after completing treatment, not death from any cause.",
+          "D": "Progression-free interval is not one of the survival measures defined in the source.",
+          "E": "Relative survival compares patients with cancer against a matched cancer-free population."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "survival",
+        "overall-survival",
+        "statistics"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-009",
+      "stem": "A 55-year-old man treated for colorectal carcinoma had a carcinoembryonic antigen (CEA) level that normalized after surgery. During surveillance, his CEA begins to rise steadily on serial measurements. Which of the following does this trend most likely suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A normal age-related change in the marker"
+        },
+        {
+          "label": "B",
+          "text": "A positive response to ongoing treatment"
+        },
+        {
+          "label": "C",
+          "text": "Complete remission of the cancer"
+        },
+        {
+          "label": "D",
+          "text": "Recurrence of the cancer"
+        },
+        {
+          "label": "E",
+          "text": "That the patient is now cured"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "After a baseline is established following treatment, a rising tumor marker suggests cancer recurrence.",
+        "whyCorrect": "Tumor markers are useful for monitoring after treatment. Once a post-treatment baseline is set, a later increase in the marker suggests the cancer has returned.",
+        "whyWrongByChoice": {
+          "A": "The PSA example, not CEA, is the marker described as changing with age; a steady rise here reflects disease, not aging.",
+          "B": "A decrease in a tumor marker, not an increase, signifies a positive treatment response.",
+          "C": "Complete remission requires no detectable cancer; a rising marker indicates the opposite.",
+          "E": "A rising marker argues against cure; providers are already reluctant to use the term cure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tumor-markers",
+        "CEA",
+        "recurrence",
+        "monitoring"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-010",
+      "stem": "A 70-year-old man with advanced cancer has progressive weakness, loss of appetite, and marked muscle wasting with more than 5% loss of body weight despite adequate nutrition offered. This hypercatabolic state is thought to account for roughly 30% of cancer deaths. Which of the following mediators are most implicated in this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-fetoprotein and CEA"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen and progesterone"
+        },
+        {
+          "label": "C",
+          "text": "Insulin and glucagon"
+        },
+        {
+          "label": "D",
+          "text": "Prostate-specific antigen and CA-125"
+        },
+        {
+          "label": "E",
+          "text": "TNF, IL-1, and IL-6"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cancer cachexia is a hypercatabolic wasting state driven by inflammatory mediators such as TNF, IL-1, and IL-6.",
+        "whyCorrect": "The picture describes cancer cachexia, a hypercatabolic state with loss of muscle mass that occurs in about half of cancer patients and contributes to roughly 30% of cancer deaths. Inflammatory mediators including TNF, IL-1, and IL-6 are implicated.",
+        "whyWrongByChoice": {
+          "A": "AFP and CEA are tumor markers, not cytokines driving cachexia.",
+          "B": "Estrogen and progesterone are hormones related to breast cancer biology, not drivers of cachexia.",
+          "C": "Insulin and glucagon regulate glucose metabolism and are not the implicated inflammatory mediators.",
+          "D": "PSA and CA-125 are tumor markers, not mediators of the wasting process."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cachexia",
+        "prognosis",
+        "cytokines"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-011",
+      "stem": "A 50-year-old woman receives chemotherapy for cancer. Follow-up imaging shows her tumor burden has decreased by about 60% with no new lesions, but residual tumor is still present and blood tests remain mildly abnormal. Which of the following terms best describes her current status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cancer-specific survival"
+        },
+        {
+          "label": "B",
+          "text": "Complete remission"
+        },
+        {
+          "label": "C",
+          "text": "Cure"
+        },
+        {
+          "label": "D",
+          "text": "Disease-free survival"
+        },
+        {
+          "label": "E",
+          "text": "Partial remission"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Partial remission means the cancer responded to treatment and shrank, but signs of disease remain.",
+        "whyCorrect": "Partial remission means signs and symptoms are alleviated but not eliminated; imaging showing tumors at least 50% smaller and not growing, with residual disease, fits partial remission.",
+        "whyWrongByChoice": {
+          "A": "Cancer-specific survival is a population survival statistic, not a status for an individual's tumor response.",
+          "B": "Complete remission requires that all evidence, signs, and symptoms have disappeared, but residual tumor remains here.",
+          "C": "Cure means no trace of cancer at all, which is not the case with visible residual tumor.",
+          "D": "Disease-free survival is a survival statistic measured after treatment completion, not a description of current tumor response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "partial-remission",
+        "treatment-response",
+        "outcomes"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa02-012",
+      "stem": "A 52-year-old woman is diagnosed with breast cancer, and molecular testing is performed to help refine her prognosis. Which of the following receptor profiles is associated with the most favorable prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estrogen receptor-negative and HER2/Neu-negative"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen receptor-negative and HER2/Neu-positive"
+        },
+        {
+          "label": "C",
+          "text": "Estrogen receptor-positive and HER2/Neu-negative"
+        },
+        {
+          "label": "D",
+          "text": "Estrogen receptor-positive and HER2/Neu-positive"
+        },
+        {
+          "label": "E",
+          "text": "Presence of both BRCA1 and BRCA2 mutations"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In breast cancer, estrogen receptor-positive and HER2/Neu-negative tumors carry a better prognosis.",
+        "whyCorrect": "Molecular characteristics influence prognosis: estrogen receptor-positive breast cancers carry a better prognosis than receptor-negative ones, and HER2/Neu-negative cancers carry a better prognosis than HER2/Neu-positive ones. The combination of both favorable features is the most favorable profile.",
+        "whyWrongByChoice": {
+          "A": "Estrogen receptor-negative removes the favorable receptor feature, worsening prognosis relative to receptor-positive disease.",
+          "B": "Estrogen receptor-negative and HER2/Neu-positive combines two unfavorable features and has a worse prognosis.",
+          "D": "HER2/Neu-positive status is unfavorable and offsets the benefit of being receptor-positive.",
+          "E": "BRCA1 and BRCA2 mutations are molecular features that can worsen prognosis and are not the favorable receptor profile described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "molecular",
+        "breast-cancer",
+        "prognosis",
+        "receptors"
+      ],
+      "topicId": "cancer-staging-and-grading",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-001",
+      "stem": "A 64-year-old man with colon adenocarcinoma is being staged. Imaging reveals a 4-cm primary tumor invading the muscularis propria, three positive regional lymph nodes, and multiple lesions in the liver consistent with metastases. Which of the following components of the TNM system most adversely affects his prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Depth of local invasion"
+        },
+        {
+          "label": "B",
+          "text": "Histologic grade of the tumor"
+        },
+        {
+          "label": "C",
+          "text": "Number of involved regional lymph nodes (N)"
+        },
+        {
+          "label": "D",
+          "text": "Presence of distant metastasis (M)"
+        },
+        {
+          "label": "E",
+          "text": "Size of the primary tumor (T)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Distant metastasis (M1) is the single most adverse prognostic component of the TNM system and defines Stage IV disease.",
+        "whyCorrect": "In the TNM system, distant metastasis (M1) generally carries the greatest negative prognostic weight and places the patient at Stage IV, which has the poorest outcome and is usually not curable. The liver lesions represent distant spread, which dominates staging over local and nodal factors.",
+        "whyWrongByChoice": {
+          "A": "Depth of local invasion refines the T category but is outweighed by the presence of distant metastasis.",
+          "B": "Grade is a histologic prognostic factor but does not define anatomic stage; distant metastasis is the dominant factor here.",
+          "C": "Nodal involvement (N) worsens prognosis but is less adverse than distant metastatic disease.",
+          "E": "Primary tumor size contributes to the T category but is far less decisive than distant spread once metastasis is present."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TNM",
+        "staging",
+        "metastasis",
+        "prognosis"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-002",
+      "stem": "A pathologist explains that two patients with the same type of carcinoma can have very different expected outcomes. For most solid tumors, which of the following is generally the strongest predictor of prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anatomic stage (extent of spread)"
+        },
+        {
+          "label": "B",
+          "text": "Degree of nuclear pleomorphism (grade)"
+        },
+        {
+          "label": "C",
+          "text": "Histologic grade (tumor differentiation)"
+        },
+        {
+          "label": "D",
+          "text": "Mitotic rate per high-power field"
+        },
+        {
+          "label": "E",
+          "text": "Patient age at the time of diagnosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For most solid tumors, anatomic stage is a stronger predictor of outcome than grade or individual histologic features.",
+        "whyCorrect": "Stage reflects the anatomic extent of disease (tumor size, nodal involvement, and metastasis) and usually correlates more closely with survival than grade for most solid tumors. Widespread disease overrides favorable histology.",
+        "whyWrongByChoice": {
+          "B": "Nuclear pleomorphism is a grading feature and is subordinate to overall stage.",
+          "C": "Grade is an important prognostic factor but is generally less predictive than stage for most solid tumors.",
+          "D": "Mitotic rate is one component of grade, not the overall dominant prognostic factor.",
+          "E": "Age can influence treatment tolerance but is not the strongest predictor of tumor-specific outcome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "grading",
+        "prognostic-factors"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-003",
+      "stem": "A 48-year-old woman undergoes cervical biopsy after an abnormal Pap smear. Histology shows severely atypical squamous cells occupying the full thickness of the epithelium, but the basement membrane is intact and there is no stromal invasion. Which of the following best describes this lesion's stage and prognostic significance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stage 0 (carcinoma in situ), excellent prognosis"
+        },
+        {
+          "label": "B",
+          "text": "Stage I, with a moderate risk of nodal spread"
+        },
+        {
+          "label": "C",
+          "text": "Stage II, with local extension beyond the organ of origin"
+        },
+        {
+          "label": "D",
+          "text": "Stage IV, because high-grade atypia implies distant spread"
+        },
+        {
+          "label": "E",
+          "text": "Unstageable, because grade and stage cannot be assessed on biopsy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carcinoma in situ (Tis) is Stage 0: malignant cells confined above the basement membrane, with excellent prognosis.",
+        "whyCorrect": "Full-thickness atypia without breach of the basement membrane defines carcinoma in situ (Tis), classified as Stage 0. Because there is no invasion, there is no access to lymphatics or vessels, so metastasis cannot occur and the lesion is highly curable by complete excision.",
+        "whyWrongByChoice": {
+          "B": "Stage I requires invasive tumor; an intact basement membrane means the lesion is in situ, not invasive.",
+          "C": "Stage II implies local extension of invasive disease, which is absent here.",
+          "D": "High-grade cytology does not equal metastasis; without invasion there is no distant spread.",
+          "E": "The lesion is readily classified as carcinoma in situ; it is not unstageable."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carcinoma-in-situ",
+        "staging",
+        "basement-membrane"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-004",
+      "stem": "A high-grade sarcoma specimen is described by the pathologist as showing marked variation in cell and nuclear size, tumor giant cells, and numerous abnormal (tripolar) mitotic figures, with no resemblance to any normal tissue. This lack of differentiation is best termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaplasia"
+        },
+        {
+          "label": "B",
+          "text": "Dysplasia"
+        },
+        {
+          "label": "C",
+          "text": "Hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophy"
+        },
+        {
+          "label": "E",
+          "text": "Metaplasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anaplasia is the complete lack of differentiation and is a histologic hallmark of malignancy.",
+        "whyCorrect": "Anaplasia describes tumor cells that have lost differentiation and show marked pleomorphism, tumor giant cells, bizarre nuclei, and abnormal mitoses. It corresponds to the highest histologic grade and is a defining feature of aggressive malignancy.",
+        "whyWrongByChoice": {
+          "B": "Dysplasia is disordered but still differentiated growth, typically pre-invasive and less extreme than anaplasia.",
+          "C": "Hyperplasia is an increase in cell number in a controlled, differentiated tissue.",
+          "D": "Hypertrophy is an increase in cell size without loss of differentiation.",
+          "E": "Metaplasia is reversible replacement of one differentiated cell type by another, not a lack of differentiation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "grading",
+        "anaplasia",
+        "differentiation"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-005",
+      "stem": "A 55-year-old man with diffuse large B-cell lymphoma finishes chemotherapy. Follow-up PET/CT and physical examination show no detectable tumor. His oncologist emphasizes that this does not necessarily mean he is cured. Which of the following best describes his current status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete remission"
+        },
+        {
+          "label": "B",
+          "text": "Cure"
+        },
+        {
+          "label": "C",
+          "text": "Partial remission"
+        },
+        {
+          "label": "D",
+          "text": "Progressive disease"
+        },
+        {
+          "label": "E",
+          "text": "Stable disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Complete remission is the disappearance of all detectable disease, which is not synonymous with cure.",
+        "whyCorrect": "Complete remission means no tumor is detectable by clinical exam or imaging. However, microscopic residual disease may remain below detection limits, so recurrence can occur; cure can only be inferred later after prolonged disease-free follow-up.",
+        "whyWrongByChoice": {
+          "B": "Cure requires prolonged absence of disease with recurrence risk approaching baseline and cannot be declared at this point.",
+          "C": "Partial remission requires a measurable reduction with tumor still detectable, but disease is no longer detectable here.",
+          "D": "Progressive disease means growth or new lesions, the opposite of this scenario.",
+          "E": "Stable disease means the tumor is present and unchanged, which is not the case."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "remission",
+        "cure",
+        "treatment-response"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-006",
+      "stem": "A 60-year-old woman receiving therapy for metastatic breast cancer has restaging scans showing that the sum of her target lesion diameters has decreased by 45%, though several lesions remain measurable. Which of the following terms best describes her treatment response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete remission"
+        },
+        {
+          "label": "B",
+          "text": "Cure"
+        },
+        {
+          "label": "C",
+          "text": "Partial remission"
+        },
+        {
+          "label": "D",
+          "text": "Progressive disease"
+        },
+        {
+          "label": "E",
+          "text": "Stable disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Partial remission is at least a 30% reduction in measurable tumor burden with disease still detectable.",
+        "whyCorrect": "A 45% reduction in tumor burden with residual measurable lesions meets the definition of partial remission (conventionally a decrease of about 30% or more). The response is meaningful, but disease persists.",
+        "whyWrongByChoice": {
+          "A": "Complete remission requires disappearance of all detectable disease, but measurable lesions remain.",
+          "B": "Cure requires prolonged absence of disease and cannot be applied to persistent measurable tumor.",
+          "D": "Progressive disease means tumor growth or new lesions, the opposite of shrinkage.",
+          "E": "Stable disease means little change in size, whereas a 45% decrease is a clear reduction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "remission",
+        "partial-response",
+        "treatment-response"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-007",
+      "stem": "Two patients each have an invasive ductal carcinoma of the same size and stage. Patient 1's tumor is well differentiated with tubule formation and rare mitoses; Patient 2's tumor is poorly differentiated with marked nuclear pleomorphism and frequent mitoses. Which statement about grade is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Grade and stage always change together in the same direction"
+        },
+        {
+          "label": "B",
+          "text": "Grade is determined by the presence of distant metastases"
+        },
+        {
+          "label": "C",
+          "text": "Grade reflects the anatomic extent of spread of the tumor"
+        },
+        {
+          "label": "D",
+          "text": "Patient 1's well-differentiated tumor generally carries a better prognosis"
+        },
+        {
+          "label": "E",
+          "text": "Patient 2's poorly differentiated tumor generally carries a better prognosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lower-grade, well-differentiated tumors resemble normal tissue and generally have a better prognosis than high-grade tumors.",
+        "whyCorrect": "Grade reflects how closely tumor cells resemble their tissue of origin. Well-differentiated (low-grade) tumors like Patient 1's tend to be less aggressive and carry a better prognosis than poorly differentiated (high-grade) tumors, when stage is held constant.",
+        "whyWrongByChoice": {
+          "A": "Grade and stage are independent measures and do not necessarily move together.",
+          "B": "Distant metastasis is part of staging (M), not grading.",
+          "C": "Anatomic extent of spread is described by stage, not grade.",
+          "E": "Poorly differentiated tumors are more aggressive and carry a worse, not better, prognosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "grading",
+        "differentiation",
+        "prognosis"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-008",
+      "stem": "A tumor board is deciding how to describe a newly diagnosed gastric carcinoma. One member wants to communicate the degree of histologic differentiation of the tumor cells, and another wants to communicate the anatomic extent of the disease. Which pairing correctly matches concept to term?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both differentiation and anatomic extent = grading"
+        },
+        {
+          "label": "B",
+          "text": "Both differentiation and anatomic extent = staging"
+        },
+        {
+          "label": "C",
+          "text": "Differentiation = grading; anatomic extent = staging"
+        },
+        {
+          "label": "D",
+          "text": "Differentiation = remission; anatomic extent = staging"
+        },
+        {
+          "label": "E",
+          "text": "Differentiation = staging; anatomic extent = grading"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Grading describes histologic differentiation; staging describes the anatomic extent of spread.",
+        "whyCorrect": "Grade is a microscopic assessment of how well tumor cells are differentiated, while stage (TNM) describes the anatomic extent of disease including local size, nodal involvement, and distant metastasis. These are complementary but distinct measures.",
+        "whyWrongByChoice": {
+          "A": "Anatomic extent is captured by staging, not grading.",
+          "B": "Differentiation is captured by grading, not staging.",
+          "D": "Remission refers to treatment response, not to histologic differentiation.",
+          "E": "This reverses the definitions of grading and staging."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "grading",
+        "staging",
+        "definitions"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-009",
+      "stem": "A patient reads that a particular cancer has a 5-year survival rate of 90%. Which of the following is the most accurate interpretation of this statistic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "90% of patients are alive 5 years after diagnosis"
+        },
+        {
+          "label": "B",
+          "text": "90% of patients are permanently cured of the disease"
+        },
+        {
+          "label": "C",
+          "text": "90% of patients will have a recurrence within 5 years"
+        },
+        {
+          "label": "D",
+          "text": "The average patient will live exactly 5 more years"
+        },
+        {
+          "label": "E",
+          "text": "The cancer has spread to distant sites in 90% of patients"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 5-year survival rate is the percentage of patients still alive 5 years after diagnosis.",
+        "whyCorrect": "The 5-year survival rate is a statistical benchmark defined as the proportion of patients alive 5 years after diagnosis. It is used to compare prognosis across cancers but does not by itself equate to cure.",
+        "whyWrongByChoice": {
+          "B": "Being alive at 5 years is not the same as being cured; some patients still have or later develop disease.",
+          "C": "The statistic describes survival, not recurrence rate.",
+          "D": "It is a proportion surviving, not a prediction of an exact lifespan for individuals.",
+          "E": "The statistic does not describe the frequency of distant spread."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prognostic-statistics",
+        "survival-rate"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-010",
+      "stem": "A 70-year-old man with newly diagnosed non-small cell lung cancer has limited disease that appears resectable, but he is bedridden more than half of each day and cannot care for himself. His oncologist notes that this factor independently predicts poorer outcomes and limits treatment options. Which prognostic factor is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carcinoma in situ status"
+        },
+        {
+          "label": "B",
+          "text": "Disease-free survival"
+        },
+        {
+          "label": "C",
+          "text": "Performance status"
+        },
+        {
+          "label": "D",
+          "text": "TNM stage"
+        },
+        {
+          "label": "E",
+          "text": "Tumor grade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Performance status measures a patient's functional ability and independently predicts prognosis and treatment tolerance.",
+        "whyCorrect": "Performance status quantifies how well a patient can carry out daily activities. Poor performance status (e.g., bedridden more than half the day) independently predicts worse outcomes and often limits eligibility for aggressive therapy, separate from the anatomic characteristics of the tumor.",
+        "whyWrongByChoice": {
+          "A": "Carcinoma in situ describes a non-invasive lesion, unrelated to functional status.",
+          "B": "Disease-free survival is an outcome measure over time, not the patient's current functional status.",
+          "D": "Stage describes anatomic extent of disease, which here is limited and resectable.",
+          "E": "Grade describes histologic differentiation, not the patient's functional capacity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prognostic-factors",
+        "performance-status"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-011",
+      "stem": "In a clinical trial, investigators want an endpoint that captures how long patients remain alive without any detectable return of their cancer after treatment. Which of the following measures best fits this definition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5-year survival rate"
+        },
+        {
+          "label": "B",
+          "text": "Complete remission rate"
+        },
+        {
+          "label": "C",
+          "text": "Disease-free survival"
+        },
+        {
+          "label": "D",
+          "text": "Overall survival"
+        },
+        {
+          "label": "E",
+          "text": "Tumor grade distribution"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Disease-free survival measures the time patients remain alive without detectable disease after treatment.",
+        "whyCorrect": "Disease-free survival specifically measures the interval after treatment during which no disease is detectable, capturing the durability of a response. It reflects how long remission is maintained before any recurrence.",
+        "whyWrongByChoice": {
+          "A": "The 5-year survival rate is a fixed-timepoint survival proportion, not a measure of disease-free interval.",
+          "B": "Complete remission rate is the proportion achieving no detectable disease at a point in time, not a duration measure.",
+          "D": "Overall survival measures time to death from any cause and does not track recurrence.",
+          "E": "Tumor grade distribution describes histology across patients, not a survival endpoint."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prognostic-statistics",
+        "disease-free-survival",
+        "endpoints"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-012",
+      "stem": "A 58-year-old woman with metastatic ovarian cancer has restaging scans after three cycles of chemotherapy. Compared with baseline, the target lesions have enlarged and two new peritoneal nodules have appeared. Which of the following best characterizes her response, and what does it indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete remission, indicating no detectable disease"
+        },
+        {
+          "label": "B",
+          "text": "Cure, indicating eradication of disease"
+        },
+        {
+          "label": "C",
+          "text": "Partial remission, indicating a favorable response"
+        },
+        {
+          "label": "D",
+          "text": "Progressive disease, indicating treatment failure"
+        },
+        {
+          "label": "E",
+          "text": "Stable disease, indicating no meaningful change"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Growth of existing lesions or appearance of new lesions defines progressive disease and signals treatment failure.",
+        "whyCorrect": "Progressive disease is defined by an increase in tumor burden or the development of new lesions. Enlarging target lesions plus new peritoneal nodules meet this definition and indicate that the current therapy is failing, prompting a change in management.",
+        "whyWrongByChoice": {
+          "A": "Complete remission requires no detectable disease, but the tumor has grown.",
+          "B": "Cure requires prolonged absence of disease and is incompatible with growing tumor.",
+          "C": "Partial remission requires tumor shrinkage, the opposite of what occurred.",
+          "E": "Stable disease requires little change; here the disease has clearly worsened."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment-response",
+        "progressive-disease",
+        "prognosis"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-001",
+      "stem": "A 22-year-old woman with acute lymphoblastic leukemia begins an induction regimen that includes a folate antagonist. The drug reduces the pool of reduced folates, thereby impairing purine and thymidylic acid synthesis and blocking progression of cells from G1 into S phase. Which of the following enzymes does this agent most directly inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "B",
+          "text": "DNA polymerase alpha"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear topoisomerase I"
+        },
+        {
+          "label": "D",
+          "text": "Retroviral reverse transcriptase"
+        },
+        {
+          "label": "E",
+          "text": "Spindle tubulin polymerase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Methotrexate is an S-phase antimetabolite that blocks folate metabolism.",
+        "whyCorrect": "Methotrexate binds and inhibits dihydrofolate reductase (and thymidylate synthetase), preventing formation of reduced folates. This blocks purine and thymidylic acid synthesis, interfering with DNA synthesis, repair, and replication and preventing the G1-to-S transition.",
+        "whyWrongByChoice": {
+          "B": "Inhibition of DNA polymerase is the primary action of the pyrimidine analog cytarabine, not methotrexate.",
+          "C": "Topoisomerase I is the target of irinotecan, which prevents relegation of cleaved DNA strands.",
+          "D": "Reverse transcriptase is an antiviral target and is unrelated to cytotoxic chemotherapy mechanisms.",
+          "E": "Interference with tubulin/microtubule dynamics describes vinca alkaloids and taxanes, not a folate antagonist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antimetabolites",
+        "methotrexate",
+        "cell cycle"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-002",
+      "stem": "A 7-year-old boy with acute lymphoblastic leukemia has been receiving induction chemotherapy that includes vincristine. Several weeks into treatment he develops difficulty walking, frequent tripping, and tingling and numbness of his fingers and toes. Examination shows decreased deep tendon reflexes, mild foot drop, and reduced grip strength. Which of the following adverse effects best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cumulative cardiotoxicity"
+        },
+        {
+          "label": "B",
+          "text": "Hemorrhagic cystitis"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral neuropathy"
+        },
+        {
+          "label": "D",
+          "text": "Progressive pulmonary fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Tubular nephrotoxicity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Vinca alkaloids characteristically cause peripheral neuropathy.",
+        "whyCorrect": "Vincristine inhibits microtubule formation and affects rapidly turning-over and nerve cells, producing peripheral neuropathy. Tingling, numbness, decreased deep tendon reflexes, and foot drop are classic; caught early, it can be managed with dose reduction and monitoring.",
+        "whyWrongByChoice": {
+          "A": "Cardiotoxicity is the signature toxicity of doxorubicin (anthracyclines), not vinca alkaloids.",
+          "B": "Hemorrhagic cystitis is associated with cyclophosphamide.",
+          "D": "Pulmonary fibrosis is characteristic of bleomycin and busulfan.",
+          "E": "Nephrotoxicity is a hallmark toxicity of the platinum agents cisplatin and carboplatin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vinca alkaloids",
+        "adverse effects",
+        "peripheral neuropathy"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-003",
+      "stem": "A researcher studies why some cancer cells continue to divide despite carrying extensive DNA damage. In normal cells, a series of surveillance points halts progression when DNA is damaged or the environment is unfavorable. Which of the following best describes the normal function of these cell cycle checkpoints?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They accelerate division of cells with damaged DNA"
+        },
+        {
+          "label": "B",
+          "text": "They halt division and trigger apoptosis in damaged cells"
+        },
+        {
+          "label": "C",
+          "text": "They mark tumor cells for destruction by monoclonal antibodies"
+        },
+        {
+          "label": "D",
+          "text": "They replicate chromosomal DNA during S phase"
+        },
+        {
+          "label": "E",
+          "text": "They synthesize the microtubules of the mitotic spindle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Checkpoints arrest the cycle and drive apoptosis of cells with damaged DNA.",
+        "whyCorrect": "The G1/S, G2/M, and metaphase/anaphase checkpoints ensure a cell is ready to divide. DNA damage or an unfavorable environment halts the cycle and drives apoptosis, eliminating 'bad' cells. In cancer these checkpoints are often broken, permitting uncontrolled division.",
+        "whyWrongByChoice": {
+          "A": "Checkpoints restrain, not accelerate, division of damaged cells; loss of this restraint is what characterizes cancer.",
+          "C": "Marking tumor cells for immune destruction describes monoclonal antibodies, not intrinsic checkpoints.",
+          "D": "DNA replication is the defining event of S phase, not the function of a checkpoint.",
+          "E": "Microtubule synthesis occurs in G2 phase and is not the role of a checkpoint."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cell cycle",
+        "checkpoints",
+        "apoptosis"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-004",
+      "stem": "A 58-year-old woman receiving chemotherapy for breast cancer develops progressive dyspnea and fatigue. Echocardiography shows a decline in left ventricular ejection fraction. Which of the following chemotherapeutic agents is most likely responsible for this toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytarabine"
+        },
+        {
+          "label": "B",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "C",
+          "text": "Irinotecan"
+        },
+        {
+          "label": "D",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "E",
+          "text": "Vincristine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Doxorubicin (an anthracycline) is the classic cause of cardiotoxicity.",
+        "whyCorrect": "Doxorubicin, an anthracycline that cross-links DNA independently of the cell cycle, is characteristically associated with cardiotoxicity, which can manifest as declining ejection fraction and heart failure.",
+        "whyWrongByChoice": {
+          "A": "Cytarabine is associated with keratitis and conjunctivitis.",
+          "C": "Irinotecan is associated with severe acute and delayed diarrhea.",
+          "D": "Methotrexate's signature toxicity is myelosuppression, not cardiotoxicity.",
+          "E": "Vincristine is associated with peripheral neuropathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anthracyclines",
+        "doxorubicin",
+        "cardiotoxicity"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-005",
+      "stem": "A 45-year-old man being treated for lymphoma develops dysuria and gross hematuria. Cystoscopy shows diffuse bladder mucosal inflammation and bleeding. Which of the following chemotherapeutic agents most likely caused this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleomycin"
+        },
+        {
+          "label": "B",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "C",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "D",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "E",
+          "text": "Vincristine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cyclophosphamide characteristically causes hemorrhagic cystitis.",
+        "whyCorrect": "Cyclophosphamide is an alkylating agent whose signature toxicity is hemorrhagic cystitis, presenting with dysuria and hematuria from bladder mucosal injury.",
+        "whyWrongByChoice": {
+          "A": "Bleomycin is associated with pulmonary fibrosis, not bladder toxicity.",
+          "B": "Cisplatin causes nephrotoxicity and ototoxicity rather than hemorrhagic cystitis.",
+          "D": "Doxorubicin causes cardiotoxicity.",
+          "E": "Vincristine causes peripheral neuropathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alkylating agents",
+        "cyclophosphamide",
+        "hemorrhagic cystitis"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-006",
+      "stem": "A 30-year-old man treated for testicular cancer develops a gradually worsening dry cough and dyspnea. Pulmonary function testing shows a restrictive pattern with reduced diffusing capacity, and imaging suggests interstitial fibrosis. Which of the following agents is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleomycin"
+        },
+        {
+          "label": "B",
+          "text": "Cytarabine"
+        },
+        {
+          "label": "C",
+          "text": "Irinotecan"
+        },
+        {
+          "label": "D",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "E",
+          "text": "Vincristine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bleomycin is the classic cause of pulmonary fibrosis.",
+        "whyCorrect": "Bleomycin, a G2-phase agent that binds DNA and causes strand breaks, characteristically produces pulmonary fibrosis, presenting as progressive dyspnea and a restrictive pattern on pulmonary function testing.",
+        "whyWrongByChoice": {
+          "B": "Cytarabine causes keratitis and conjunctivitis.",
+          "C": "Irinotecan is associated with severe diarrhea.",
+          "D": "Methotrexate's signature toxicity is myelosuppression.",
+          "E": "Vincristine causes peripheral neuropathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bleomycin",
+        "pulmonary fibrosis",
+        "adverse effects"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-007",
+      "stem": "A 62-year-old man undergoing chemotherapy develops a rising serum creatinine and new bilateral high-frequency hearing loss confirmed on audiometry. Which of the following agents is most likely responsible for both findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleomycin"
+        },
+        {
+          "label": "B",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "C",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "D",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "E",
+          "text": "Methotrexate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Platinum agents such as cisplatin cause nephrotoxicity and ototoxicity.",
+        "whyCorrect": "Cisplatin is a platinum agent that cross-links DNA independently of the cell cycle; its signature toxicities include both nephrotoxicity and ototoxicity, explaining the rising creatinine and hearing loss.",
+        "whyWrongByChoice": {
+          "A": "Bleomycin causes pulmonary fibrosis.",
+          "C": "Cyclophosphamide characteristically causes hemorrhagic cystitis.",
+          "D": "Doxorubicin causes cardiotoxicity.",
+          "E": "Methotrexate causes myelosuppression."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "platinum agents",
+        "cisplatin",
+        "nephrotoxicity",
+        "ototoxicity"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-008",
+      "stem": "A 66-year-old man with non-Hodgkin lymphoma is started on a monoclonal antibody that binds an antigen on the surface of B cells, rendering them more susceptible to destruction by the immune system. Which of the following is the target of this agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD20 on B cells"
+        },
+        {
+          "label": "B",
+          "text": "HER2 receptor"
+        },
+        {
+          "label": "C",
+          "text": "Topoisomerase I"
+        },
+        {
+          "label": "D",
+          "text": "Tubulin"
+        },
+        {
+          "label": "E",
+          "text": "Vascular endothelial growth factor (VEGF)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rituximab targets CD20 on B cells.",
+        "whyCorrect": "Rituximab acts on CD20 receptors on B cells, making them more susceptible to immune-mediated attack. It is used for B-cell malignancies such as non-Hodgkin lymphoma and chronic lymphocytic leukemia.",
+        "whyWrongByChoice": {
+          "B": "HER2 is the target of trastuzumab, used in HER2-positive breast cancer.",
+          "C": "Topoisomerase I is inhibited by irinotecan, a cytotoxic agent rather than an antibody.",
+          "D": "Tubulin is targeted by microtubule inhibitors (vinca alkaloids, taxanes), not a monoclonal antibody.",
+          "E": "VEGF is bound by bevacizumab to inhibit angiogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "monoclonal antibodies",
+        "rituximab",
+        "CD20"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-009",
+      "stem": "A patient with metastatic colorectal cancer receives a monoclonal antibody intended to cut off the tumor's blood supply. The drug binds a circulating protein that drives the abnormal blood vessel proliferation supporting the tumor. Which of the following is the molecular target of this agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD20 antigen on B lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "CD3 receptor on T lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "HER2 receptor on tumor cell membranes"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular dihydrofolate reductase"
+        },
+        {
+          "label": "E",
+          "text": "Vascular endothelial growth factor"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bevacizumab binds VEGF to inhibit angiogenesis.",
+        "whyCorrect": "Bevacizumab binds vascular endothelial growth factor (VEGF), inhibiting the angiogenesis that accompanies tumor growth. Without a vascular supply, the cancer cells die.",
+        "whyWrongByChoice": {
+          "A": "CD20 is the target of rituximab on B cells.",
+          "B": "The CD3 receptor is the T-cell component onto which CAR-T constructs are fused, not a bevacizumab target.",
+          "C": "HER2 is the target of trastuzumab.",
+          "D": "Dihydrofolate reductase is inhibited by methotrexate, a cytotoxic antimetabolite."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "monoclonal antibodies",
+        "bevacizumab",
+        "angiogenesis"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-010",
+      "stem": "A 54-year-old woman has a breast tumor that overexpresses HER2. Her oncologist recommends a monoclonal antibody that binds this receptor to block downstream growth signaling and mark the cells for immune-mediated destruction. Which of the following agents is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bevacizumab"
+        },
+        {
+          "label": "B",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "C",
+          "text": "Rituximab"
+        },
+        {
+          "label": "D",
+          "text": "Tamoxifen"
+        },
+        {
+          "label": "E",
+          "text": "Trastuzumab"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Trastuzumab targets HER2-positive breast cancer.",
+        "whyCorrect": "Trastuzumab binds HER2 receptors on tumor cells, blocking the signaling pathways that drive growth and marking the cells for immune-mediated destruction. It is used primarily for HER2-positive breast cancer.",
+        "whyWrongByChoice": {
+          "A": "Bevacizumab binds VEGF to inhibit angiogenesis, not the HER2 receptor.",
+          "B": "Doxorubicin is a cytotoxic anthracycline that cross-links DNA, not a HER2-directed antibody.",
+          "C": "Rituximab targets CD20 on B cells for B-cell malignancies, not HER2.",
+          "D": "Tamoxifen is a selective estrogen receptor modulator used in estrogen receptor-positive breast cancer, a different target."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "monoclonal antibodies",
+        "trastuzumab",
+        "HER2"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-011",
+      "stem": "A 60-year-old man with metastatic colorectal cancer is treated with irinotecan. The agent and its active metabolite bind reversibly to a DNA-associated enzyme, preventing relegation of the cleaved DNA strand and producing double-strand breaks during S phase. Which of the following enzymes does this agent inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "B",
+          "text": "DNA polymerase"
+        },
+        {
+          "label": "C",
+          "text": "Thymidylate synthetase"
+        },
+        {
+          "label": "D",
+          "text": "Topoisomerase I"
+        },
+        {
+          "label": "E",
+          "text": "Tubulin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Irinotecan is a topoisomerase I inhibitor.",
+        "whyCorrect": "Irinotecan and its active metabolite bind reversibly to the topoisomerase I-DNA complex, preventing relegation of the cleaved strand. This produces double-strand breaks that cells cannot efficiently repair, causing S-phase-specific cell death.",
+        "whyWrongByChoice": {
+          "A": "Dihydrofolate reductase is inhibited by methotrexate.",
+          "B": "DNA polymerase is the primary target of cytarabine.",
+          "C": "Thymidylate synthetase is inhibited by methotrexate, not irinotecan.",
+          "E": "Tubulin is bound by microtubule inhibitors such as the vinca alkaloids and taxanes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "topoisomerase inhibitors",
+        "irinotecan",
+        "mechanism"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa36-012",
+      "stem": "A patient with acute myeloid leukemia receives cytarabine. This agent is incorporated into DNA, but its primary action is inhibition of an enzyme required for DNA synthesis and repair, and it is specific for the S phase. Which of the following best describes cytarabine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A monoclonal antibody directed against CD20"
+        },
+        {
+          "label": "B",
+          "text": "A pyrimidine analog that inhibits DNA polymerase"
+        },
+        {
+          "label": "C",
+          "text": "A taxane that stabilizes microtubules and blocks disassembly"
+        },
+        {
+          "label": "D",
+          "text": "A vinca alkaloid that binds tubulin and arrests metaphase"
+        },
+        {
+          "label": "E",
+          "text": "An alkylating agent that cross-links DNA independently of the cycle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cytarabine is an S-phase pyrimidine analog that inhibits DNA polymerase.",
+        "whyCorrect": "Cytarabine is a pyrimidine analog incorporated into DNA, but its primary action is inhibition of DNA polymerase, resulting in decreased DNA synthesis and repair. It is an S-phase-specific antimetabolite.",
+        "whyWrongByChoice": {
+          "A": "A CD20-directed monoclonal antibody describes rituximab, not a cytotoxic antimetabolite.",
+          "C": "Stabilizing microtubules and blocking their disassembly describes taxanes, which act in the M phase.",
+          "D": "Binding tubulin to arrest metaphase describes vinca alkaloids, which act in the M phase.",
+          "E": "Cross-linking DNA independently of the cell cycle describes alkylating and platinum agents."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antimetabolites",
+        "cytarabine",
+        "mechanism"
+      ],
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    }
+  ]
+}

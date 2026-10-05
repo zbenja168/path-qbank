@@ -1,25 +1,9 @@
 {
   "categories": [
     {
-      "id": "general-pathology",
-      "name": "General & Systemic Pathology",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
-        {
-          "id": "environmental-disease-physical-agents",
-          "name": "Environmental Disease Part 2 of 2: Physical Agents",
-          "sourceFile": "Path Brick 1",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "cancer-staging-and-grading",
-          "name": "Cancer Staging and Grading",
-          "sourceFile": "Path Brick 2",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
         {
           "id": "introduction-to-pathology-cell-injury-and-adaptation",
           "name": "Introduction to Pathology, Cell Injury, and Adaptation",
@@ -43,7 +27,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "acute-inflammation-part-1",
           "name": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
@@ -67,11 +60,28 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "environmental-disease-chemicals-and-substances",
           "name": "Environmental Disease Part 1 of 2: Chemicals and Substances",
           "sourceFile": "Path Brick 9",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "environmental-disease-physical-agents",
+          "name": "Environmental Disease Part 2 of 2: Physical Agents",
+          "sourceFile": "Path Brick 1",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -91,7 +101,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s1",
+      "name": "Session 1",
+      "topics": [
         {
           "id": "hemodynamics-and-shock-foundations-and-frameworks",
           "name": "Hemodynamics and Shock: Foundations and Frameworks",
@@ -115,13 +134,7 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "immune-and-infectious",
-      "name": "Immune System & Infectious Disease",
-      "topics": [
+        },
         {
           "id": "introduction-to-infection",
           "name": "Introduction to Infection",
@@ -130,6 +143,23 @@
           "extraCount": 24,
           "questionCount": 36
         },
+        {
+          "id": "introduction-to-infection-b18",
+          "name": "Introduction to Infection",
+          "sourceFile": "Path Brick 18",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "autoimmune-disease",
           "name": "Diseases of the Immune System: Autoimmune Disease",
@@ -145,14 +175,6 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
-        {
-          "id": "introduction-to-infection-b18",
-          "name": "Introduction to Infection",
-          "sourceFile": "Path Brick 18",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
         },
         {
           "id": "infections-immunity-and-evading-host-defense",
@@ -177,7 +199,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "diseases-of-the-immune-system-transplantation",
           "name": "Diseases of the Immune System: Transplantation",
@@ -210,11 +241,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "neoplasia",
-      "name": "Neoplasia",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "introduction-to-neoplasia",
@@ -247,7 +281,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "cancer-immune-evasion",
           "name": "Cancer Immune Evasion",
@@ -287,6 +330,23 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "cancer-staging-and-grading",
+          "name": "Cancer Staging and Grading",
+          "sourceFile": "Path Brick 2",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
         },
         {
           "id": "cancer-staging-and-grading-b35",
@@ -304,7 +364,10 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 1224

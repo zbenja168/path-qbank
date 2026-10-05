@@ -1,0 +1,1698 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "pa06-001",
+      "stem": "A 24-year-old man develops swelling and redness of the lower jaw 24 hours after a dental infection. A biopsy of the involved tissue is most likely to show an abundance of which cell type, given that these are the first cells to arrive at a site of acute inflammation and that their response typically peaks about 24 hours after injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eosinophils"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblasts"
+        },
+        {
+          "label": "C",
+          "text": "Macrophages"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Neutrophils are the most abundant WBC and the first responders in acute inflammation, peaking around 24 hours.",
+        "whyCorrect": "Neutrophils are the paramedics of acute inflammation and are the first cells to arrive at the scene. They are the most abundant white blood cells, making up about 60 percent of the total WBC count, and their response peaks about 24 hours after injury or infection. They kill microorganisms by phagocytosis and by releasing antimicrobial proteins.",
+        "whyWrongByChoice": {
+          "A": "Eosinophils are associated with parasitic infection and allergy, not the initial acute inflammatory response.",
+          "B": "Fibroblasts participate in later tissue repair and scarring, not the early acute inflammatory infiltrate.",
+          "C": "Macrophages become the predominant cell type only later, about 48 to 72 hours after injury, not first.",
+          "E": "Plasma cells are antibody-producing cells of the adaptive response and are not the first cells at an acute site."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acute-inflammation",
+        "neutrophils",
+        "cells-of-inflammation"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-002",
+      "stem": "Three days after a soft-tissue injury, the predominant leukocyte at the site is a large phagocyte that also takes up antigen, presents it to T and B lymphocytes, and secretes cytokines to help mount an adaptive immune response. Which cell is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophil"
+        },
+        {
+          "label": "B",
+          "text": "Macrophage"
+        },
+        {
+          "label": "C",
+          "text": "Natural killer cell"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "E",
+          "text": "Platelet"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Macrophages predominate at 48 to 72 hours, act as antigen-presenting cells, and secrete cytokines linking innate and adaptive immunity.",
+        "whyCorrect": "Macrophages are leukocytes found throughout the body tissues that become the predominant cell type roughly 48 to 72 hours (2 to 3 days) after injury. Besides killing microorganisms and clearing cellular debris by phagocytosis, they secrete cytokines and act as antigen-presenting cells that help T and B lymphocytes mount an adaptive immune response.",
+        "whyWrongByChoice": {
+          "A": "Basophils release mediators such as histamine but do not become the predominant phagocytic, antigen-presenting cell at 2 to 3 days.",
+          "C": "Natural killer cells kill virally infected and tumor cells but are not the predominant phagocyte or the antigen-presenting cell described.",
+          "D": "Neutrophils arrive first and peak at about 24 hours; they are not the main antigen-presenting cell described here.",
+          "E": "Platelets contribute to clotting and release mediators but are cell fragments, not antigen-presenting phagocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute-inflammation",
+        "macrophages",
+        "antigen-presentation"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-003",
+      "stem": "A 30-year-old woman scrapes her knee, and within minutes the surrounding skin becomes red and warm to the touch. These two cardinal signs are produced by the first vascular reaction of acute inflammation. Which change most directly explains the redness and warmth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clotting within the microvessels around the wound"
+        },
+        {
+          "label": "B",
+          "text": "Increased local blood flow from vasodilation"
+        },
+        {
+          "label": "C",
+          "text": "Leakage of protein-rich fluid into the interstitium"
+        },
+        {
+          "label": "D",
+          "text": "Migration of neutrophils along a chemokine gradient"
+        },
+        {
+          "label": "E",
+          "text": "Sloughing of inflamed necrotic tissue"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vasodilation increases blood flow to the injured area, producing the redness (rubor) and heat (calor) of acute inflammation.",
+        "whyCorrect": "The first vascular reaction is an increase in vascular diameter (vasodilation), which increases blood flow to the injured area. Redness and heat are caused by this increase in local blood flow, making them among the earliest visible cardinal signs.",
+        "whyWrongByChoice": {
+          "A": "Clotting in the microvessels helps contain infection but does not produce the redness and heat.",
+          "C": "Leakage of protein-rich fluid causes swelling (tumor), not primarily the redness and warmth.",
+          "D": "Neutrophil migration along a chemokine gradient recruits cells but is not the cause of the warmth and redness.",
+          "E": "Sloughing of necrotic tissue describes ulceration, a morphologic pattern, not the mechanism of redness and heat."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardinal-signs",
+        "vasodilation",
+        "vascular-reactions"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-004",
+      "stem": "A patient develops visible swelling of a finger after a small puncture wound. The swelling results from accumulation of fluid and protein in the interstitial space. Which of the following is most directly responsible for this fluid accumulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deposition of fibrin within the extracellular space"
+        },
+        {
+          "label": "B",
+          "text": "Diapedesis of leukocytes across the vessel wall"
+        },
+        {
+          "label": "C",
+          "text": "Expression of adhesion molecules on the endothelial surface"
+        },
+        {
+          "label": "D",
+          "text": "Increased vascular permeability"
+        },
+        {
+          "label": "E",
+          "text": "Vasoconstriction that reduces blood flow to the area"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Increased vascular permeability lets fluid and molecules leave the vessel, producing swelling (tumor).",
+        "whyCorrect": "In response to inflammatory stimuli, endothelial cells contract and widen the endothelial cell junction, increasing vascular permeability. This lets fluid, specialized cells, and molecules reach the site of injury, and the resulting accumulation of fluid in the interstitial space causes the visible swelling.",
+        "whyWrongByChoice": {
+          "A": "Fibrin deposition characterizes fibrinous inflammation and is not the mechanism of the interstitial swelling here.",
+          "B": "Diapedesis is the passage of leukocytes between endothelial cells, not the primary cause of the edema fluid.",
+          "C": "Adhesion molecule expression helps leukocytes stick to the endothelium but does not itself cause interstitial fluid accumulation.",
+          "E": "Acute inflammation causes vasodilation, not vasoconstriction, and reduced flow would not cause fluid to accumulate in tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vascular-permeability",
+        "edema",
+        "cardinal-signs"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-005",
+      "stem": "A student is asked to place the steps of leukocyte extravasation in the order in which a neutrophil leaves the bloodstream and reaches an infected tissue. Which of the following is the correct sequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding, margination and rolling, migration, diapedesis"
+        },
+        {
+          "label": "B",
+          "text": "Diapedesis, binding, margination and rolling, migration"
+        },
+        {
+          "label": "C",
+          "text": "Margination and rolling, binding, diapedesis, migration"
+        },
+        {
+          "label": "D",
+          "text": "Margination and rolling, diapedesis, binding, migration"
+        },
+        {
+          "label": "E",
+          "text": "Migration, diapedesis, binding, margination and rolling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Leukocyte extravasation proceeds as margination and rolling, then binding, then diapedesis, then migration.",
+        "whyCorrect": "Leukocyte extravasation involves four steps in order: margination and rolling (the cell moves to the vessel wall and rolls along the endothelium), binding (the cell is firmly stopped and fixed in place), diapedesis (the endothelial junction is pulled apart so the cell slips into the interstitium), and migration (the cell moves up a chemokine gradient toward the site).",
+        "whyWrongByChoice": {
+          "A": "Binding cannot precede margination and rolling, and migration comes after diapedesis, so this order is incorrect.",
+          "B": "Diapedesis is the third step and cannot come first; the leukocyte must first marginate and bind.",
+          "D": "Binding must occur before diapedesis, because the leukocyte must be firmly fixed before it squeezes between endothelial cells.",
+          "E": "This reverses the true order; margination and rolling is the first step, not the last."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leukocyte-extravasation",
+        "recruitment",
+        "sequence"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-006",
+      "stem": "A 6-month-old boy has a history of delayed umbilical cord separation, poor wound healing, and recurrent bacterial infections that characteristically produce little or no pus. Neutrophils are abundant in the blood but fail to accumulate at sites of infection. A defect in which of the following steps of neutrophil extravasation best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Firm binding of leukocytes to the endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Opsonization of bacteria by complement"
+        },
+        {
+          "label": "C",
+          "text": "Production of neutrophils in the bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Secretion of cytokines by macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Vasodilation of the affected microvessels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Leukocyte adhesion deficiency impairs the binding step, so neutrophils cannot firmly adhere and cross the endothelium to reach the tissue.",
+        "whyCorrect": "In the binding step, adhesion molecules firmly fix the leukocyte to the endothelium. Patients with leukocyte adhesion deficiency have defects in this leukocyte adhesion, so neutrophils cannot fix in place, extravasate, and reach the site of injury. This leads to impaired wound healing, recurrent infections, and a characteristic absence of pus despite blood neutrophilia.",
+        "whyWrongByChoice": {
+          "B": "Impaired complement opsonization is a different immune defect and does not explain the failure of neutrophils to accumulate at sites of infection.",
+          "C": "Neutrophils are actually increased in the blood, so bone marrow production is not the defect.",
+          "D": "The failure is in leukocyte adhesion, not in macrophage cytokine secretion.",
+          "E": "Vasodilation is intact in this disorder; the problem is that leukocytes cannot adhere and leave the vessel."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "leukocyte-adhesion-deficiency",
+        "binding",
+        "clinical-correlation"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-007",
+      "stem": "During the final step of leukocyte recruitment, a neutrophil that has entered the interstitium must locate and move toward the site of injury. This directional movement up a concentration gradient is driven by which class of mediators?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chemokines"
+        },
+        {
+          "label": "B",
+          "text": "Immunoglobulins"
+        },
+        {
+          "label": "C",
+          "text": "Kinins"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandins"
+        },
+        {
+          "label": "E",
+          "text": "Selectins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Migration is guided by chemokines, whose concentration gradient directs leukocyte chemotaxis toward the injury.",
+        "whyCorrect": "In the migration step, the leukocyte must locate and move toward the site of injury. This is facilitated by chemokines, chemical signals whose binding to receptors on the leukocyte surface promotes directional movement up the chemokine concentration gradient, a process called chemotaxis.",
+        "whyWrongByChoice": {
+          "B": "Immunoglobulins are antibodies of the adaptive response and are not the chemotactic gradient that directs migration.",
+          "C": "Kinins increase vascular permeability and cause pain but do not direct leukocyte chemotaxis.",
+          "D": "Prostaglandins contribute to vasodilation, pain, and fever rather than guiding chemotactic migration.",
+          "E": "Selectins mediate the earlier rolling step by tethering leukocytes to the endothelium, not directional migration through tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chemotaxis",
+        "chemokines",
+        "migration"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-008",
+      "stem": "A 68-year-old man with gram-negative bacteremia develops high fever and hypotension progressing to shock. These systemic effects are largely mediated by tumor necrosis factor, interleukin-1, and interleukin-6 released by macrophages. Which class of mediators is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement"
+        },
+        {
+          "label": "B",
+          "text": "Cytokines"
+        },
+        {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
+          "label": "D",
+          "text": "Leukotrienes"
+        },
+        {
+          "label": "E",
+          "text": "Prostaglandins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cytokines such as TNF, IL-1, and IL-6 cause local endothelial activation and systemic fever, metabolic changes, and hypotensive shock.",
+        "whyCorrect": "Cytokines (including TNF, IL-1, and IL-6) are produced by macrophages, endothelial cells, and mast cells. Locally they cause endothelial activation, and systemically they cause fever, metabolic abnormalities, and hypotension that can progress to shock, exactly the picture seen with severe bacteremia.",
+        "whyWrongByChoice": {
+          "A": "Complement drives chemotaxis and membrane attack complex killing, not the TNF/IL-1/IL-6 systemic shock syndrome described.",
+          "C": "Histamine causes vasodilation and increased vascular permeability locally but is not the mediator of systemic fever and shock.",
+          "D": "Leukotrienes increase vascular permeability and promote chemotaxis but do not produce this systemic fever and hypotensive shock.",
+          "E": "Prostaglandins contribute to vasodilation, pain, and fever but are not the TNF/IL-1/IL-6 cytokines named in the stem."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytokines",
+        "mediators",
+        "septic-shock"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-009",
+      "stem": "A 22-year-old woman with an insect sting rapidly develops a red, raised, itchy wheal as mast cells degranulate. The chief mediator released causes vasodilation and increased vascular permeability with endothelial activation. Which mediator is primarily responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albumin"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinogen"
+        },
+        {
+          "label": "C",
+          "text": "Hepcidin"
+        },
+        {
+          "label": "D",
+          "text": "Histamine"
+        },
+        {
+          "label": "E",
+          "text": "Transferrin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Histamine, released chiefly by mast cells, causes vasodilation, increased vascular permeability, and endothelial activation.",
+        "whyCorrect": "Histamine is a vasoactive amine released by mast cells, basophils, and platelets. Its principal actions are vasodilation, increased vascular permeability, and endothelial activation, which together produce the wheal and flare seen after mast cell degranulation.",
+        "whyWrongByChoice": {
+          "A": "Albumin maintains plasma oncotic pressure and is not a mediator of vasodilation or permeability.",
+          "B": "Fibrinogen is a positive acute-phase reactant that aids clotting and repair, not the mast cell mediator producing the wheal.",
+          "C": "Hepcidin regulates iron handling in macrophages and does not cause vasodilation or increased permeability.",
+          "E": "Transferrin is an iron-transport protein and a negative acute-phase reactant, not a vasoactive mediator."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histamine",
+        "mast-cells",
+        "mediators"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-010",
+      "stem": "A 55-year-old man with bacterial pneumonia has a lung biopsy showing alveolar spaces filled with a thick, protein- and cell-rich fluid containing abundant neutrophils that reduces the area available for gas exchange. Which morphologic pattern of acute inflammation does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomembranous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Purulent inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative inflammation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A neutrophil-rich, protein-rich exudate forming pus is the hallmark of purulent (suppurative) inflammation.",
+        "whyCorrect": "An exudate contains protein and cellular elements and arises from increased vascular permeability that lets neutrophils enter the tissue. The buildup of leukocytes produces pus, defining purulent (suppurative) inflammation. In bacterial pneumonia, pus fills the alveolar spaces and reduces the area available for gas exchange.",
+        "whyWrongByChoice": {
+          "A": "Fibrinous inflammation is characterized by fibrin deposition in the extracellular space, not by a neutrophil-rich pus.",
+          "B": "Pseudomembranous inflammation refers to a debris membrane in the colon (for example, C. difficile), not alveolar pus.",
+          "D": "Serous inflammation is a watery, protein-poor transudate, such as a skin blister, not the pus-filled exudate described.",
+          "E": "Ulcerative inflammation is a local defect of a skin or mucosal surface from sloughing of necrotic tissue, not alveolar pus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "morphologic-patterns",
+        "purulent-inflammation",
+        "exudate"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-011",
+      "stem": "A 60-year-old man after a myocardial infarction develops chest pain and a pericardial friction rub. At autopsy the pericardial surface is covered by a shaggy pink meshwork of fibrin. This finding is characteristic of which morphologic pattern, which typically involves the lining of body cavities?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Purulent (suppurative) inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative inflammation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fibrinous inflammation deposits fibrin in the extracellular space and characteristically involves body cavity linings such as the pericardium.",
+        "whyCorrect": "When vascular permeability increases enough for large molecules such as fibrinogen to leak out, fibrinogen deposits as fibrin in the extracellular space, forming a fibrinous exudate. This occurs when vascular leaks are large or there is a local procoagulant stimulus, and it is characteristic of inflammation in the lining of body cavities such as the meninges, pericardium, and pleura.",
+        "whyWrongByChoice": {
+          "B": "Granulomatous inflammation is a chronic pattern with epithelioid macrophages, not the acute fibrinous pattern shown here.",
+          "C": "Purulent inflammation produces neutrophil-rich pus, not the fibrin deposition described.",
+          "D": "Serous inflammation is a watery transudate, not a fibrin meshwork on the pericardium.",
+          "E": "Ulcerative inflammation is a surface defect from sloughed necrotic tissue, not a fibrinous exudate over a cavity lining."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "morphologic-patterns",
+        "fibrinous-inflammation",
+        "pericardium"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa06-012",
+      "stem": "A 40-year-old woman with an acute infection has laboratory testing. During acute inflammation, most plasma proteins made by the liver rise, but a few drop below their normal levels and are called negative acute-phase reactants so that amino acids can be conserved for the positive reactants. Which of the following is a negative acute-phase reactant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albumin"
+        },
+        {
+          "label": "B",
+          "text": "C-reactive protein"
+        },
+        {
+          "label": "C",
+          "text": "Ferritin"
+        },
+        {
+          "label": "D",
+          "text": "Fibrinogen"
+        },
+        {
+          "label": "E",
+          "text": "Hepcidin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Albumin and transferrin fall during acute inflammation and are the negative acute-phase reactants.",
+        "whyCorrect": "Negative acute-phase reactants are proteins that drop below their normal levels during acute inflammation. Albumin, the primary protein maintaining plasma oncotic pressure, is produced in lower amounts to conserve amino acids for the positive acute-phase reactants, making it a negative acute-phase reactant.",
+        "whyWrongByChoice": {
+          "B": "C-reactive protein is a positive acute-phase reactant that rises and helps recognize and eliminate pathogens.",
+          "C": "Ferritin is a positive acute-phase reactant whose serum level rises to sequester iron during inflammation.",
+          "D": "Fibrinogen is a positive acute-phase reactant that increases and promotes tissue repair and RBC rouleaux.",
+          "E": "Hepcidin is a positive acute-phase reactant that rises and acts as a gatekeeper for iron stored in macrophages."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acute-phase-reactants",
+        "albumin",
+        "laboratory-markers"
+      ],
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-001",
+      "stem": "A 58-year-old man with a 20-year history of poorly controlled rheumatoid arthritis undergoes synovial biopsy of a chronically swollen knee. The pathologist notes that the process has been ongoing for years rather than days. Which of the following morphologic features is most characteristic of chronic, rather than acute, inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Healing by fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil-rich infiltrate"
+        },
+        {
+          "label": "C",
+          "text": "Onset within 24 hours of injury"
+        },
+        {
+          "label": "D",
+          "text": "Pus and abscess formation"
+        },
+        {
+          "label": "E",
+          "text": "Vascular changes producing edema"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic inflammation is proliferative and heals by fibrosis, unlike the exudative, neutrophil-driven pattern of acute inflammation.",
+        "whyCorrect": "The brick teaches that chronic inflammation is proliferative in nature and that the body attempts repair by adding connective tissue, producing fibrosis and, at times, granulomas. Because damaged tissue cannot be repaired normally, fibroblasts secrete collagen that expands connective tissue, so healing by fibrosis is a hallmark of the chronic process.",
+        "whyWrongByChoice": {
+          "B": "A neutrophil-predominant infiltrate is the main cell pattern of acute inflammation; chronic inflammation is dominated by macrophages, lymphocytes, and plasma cells.",
+          "C": "Acute inflammation begins within minutes to hours; chronic inflammation typically takes over about 48 hours after injury and lasts weeks to years.",
+          "D": "Pus and abscess formation are classic results of acute inflammation, not chronic inflammation.",
+          "E": "Vascular changes and edema are exudative features of acute inflammation, whereas chronic inflammation is proliferative."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "chronic inflammation",
+        "fibrosis",
+        "acute vs chronic"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-002",
+      "stem": "A 45-year-old woman has a soft-tissue biopsy taken 3 days after a penetrating wound that failed to clear. The infiltrate is now dominated by large mononuclear cells that phagocytose debris, secrete cytokines, and appear to be organizing the response into a walled-off collection. Which of the following cells is the predominant cell type at this stage and orchestrates the transition from acute to chronic inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblast"
+        },
+        {
+          "label": "C",
+          "text": "Macrophage"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Macrophages become the predominant cell about 48-72 hours after injury and orchestrate the acute-to-chronic transition.",
+        "whyCorrect": "The brick states that macrophages become the predominant cell type approximately 48-72 hours (2-3 days) after injury or infection, kill microorganisms through phagocytosis, and secrete cytokines. They orchestrate the transition from acute to chronic inflammation and can form the 'wall' of a granuloma that isolates foreign substances.",
+        "whyWrongByChoice": {
+          "A": "Eosinophils are associated with allergic and parasitic responses and are not the predominant cell described here.",
+          "B": "Fibroblasts secrete collagen during repair but are not the phagocytic cell that orchestrates the transition to chronic inflammation.",
+          "D": "Neutrophils dominate the first 48 hours of acute inflammation, not the later organizing phase described here.",
+          "E": "Plasma cells produce antibody but are not described as the predominant cell that drives the acute-to-chronic transition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "macrophage",
+        "chronic inflammation",
+        "cells"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-003",
+      "stem": "A 50-year-old sandblaster who has worked without respiratory protection for 25 years develops progressive dyspnea, and lung biopsy shows chronic inflammation with particle-laden macrophages. Which of the following mechanisms best explains how his occupational exposure produced chronic inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A resistant intracellular microbe evades macrophage killing"
+        },
+        {
+          "label": "B",
+          "text": "Alveolar macrophages consume silica particles they cannot break down"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils rapidly clear the particles, resolving inflammation within days"
+        },
+        {
+          "label": "D",
+          "text": "Repeated mechanical wear exceeds the tissue's capacity to heal"
+        },
+        {
+          "label": "E",
+          "text": "The immune system mistakes lung cells for foreign antigens"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Inhaled silica is engulfed by macrophages that cannot digest it, keeping them in a chronic 'processing' state that sustains inflammation (silicosis).",
+        "whyCorrect": "The brick explains that with ongoing toxin exposure some particles simply cannot be destroyed; alveolar macrophages consume inhaled silica but cannot break it down, and these particle-filled cells release inflammatory signals that cause a chronic inflammatory disease called silicosis. Macrophages consuming indigestible substances get stuck in 'processing' mode, leading to chronic inflammation.",
+        "whyWrongByChoice": {
+          "A": "A resistant intracellular microbe describes infectious causes such as tuberculosis, not silica dust.",
+          "C": "The brick emphasizes that these particles cannot be destroyed, so the response is prolonged rather than resolved within days.",
+          "D": "Mechanical wear exceeding healing describes persistent injury such as osteoarthritis, not inhaled-toxin exposure.",
+          "E": "Attacking self antigens describes autoimmune disease (e.g., sarcoidosis), not the indigestible-particle mechanism of silicosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "silicosis",
+        "toxin exposure",
+        "macrophage"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-004",
+      "stem": "A 54-year-old man who recently emigrated from Russia is admitted to the intensive care unit with fulminant respiratory failure and multiorgan dysfunction. Despite aggressive antibiotics and supportive care he dies. At autopsy, the lungs contain numerous large granulomas with central areas of caseous necrosis. Which of the following is the most likely cause of these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "B",
+          "text": "Human immunodeficiency virus"
+        },
+        {
+          "label": "C",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "E",
+          "text": "Silica exposure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Caseating (necrotic) granulomas are the hallmark of infectious granulomatous disease, classically Mycobacterium tuberculosis.",
+        "whyCorrect": "The brick teaches that M. tuberculosis is a highly resistant intracellular pathogen the body contains by forming granulomas, and that the granulomas seen in tuberculosis characteristically have a central necrotic (caseating) core with surrounding multinucleated giant cells. Central necrosis distinguishes these infectious granulomas from noninfectious ones.",
+        "whyWrongByChoice": {
+          "A": "Crohn disease can produce granulomas in the gut wall but is not the classic cause of large caseating pulmonary granulomas.",
+          "B": "HIV promotes chronic inflammation by evading immune killing but does not itself form caseating granulomas.",
+          "D": "Sarcoid granulomas characteristically lack central necrosis (non-caseating), the opposite of what is described.",
+          "E": "Silica exposure causes silicosis with particle-laden macrophages, not caseating infectious granulomas."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "granuloma",
+        "tuberculosis",
+        "caseating necrosis"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-005",
+      "stem": "A 39-year-old woman presents with several months of dry cough, shortness of breath, and chest discomfort, and pulmonary function testing shows restrictive lung disease. Lung biopsy reveals well-formed granulomas containing multinucleated giant cells and lymphocytes but no central necrosis. Which of the following best characterizes this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A non-caseating granulomatous process traditionally regarded as autoimmune"
+        },
+        {
+          "label": "B",
+          "text": "An abnormal passageway between two hollow organs or the skin"
+        },
+        {
+          "label": "C",
+          "text": "An infectious granulomatous process caused by a resistant acid-fast mycobacterium"
+        },
+        {
+          "label": "D",
+          "text": "Lipid-laden plaque formation within the wall of a muscular artery"
+        },
+        {
+          "label": "E",
+          "text": "Scarring that replaces the liver's normal stromal framework"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sarcoidosis produces non-caseating (necrosis-free) granulomas and is traditionally viewed as an autoimmune disorder, often causing restrictive lung disease.",
+        "whyCorrect": "The brick describes sarcoidosis as a noninfectious cause of granulomas that has traditionally been viewed as autoimmune, in which the body is tricked into treating its own cells as foreign. Sarcoid granulomas lack the central necrosis seen in tuberculosis and, when they accumulate in the lungs, lead to impaired respiration and restrictive lung disease with dry cough, shortness of breath, and chest discomfort.",
+        "whyWrongByChoice": {
+          "B": "An abnormal passageway between organs defines a fistula, not a granulomatous lung process.",
+          "C": "An infectious mycobacterial granuloma (tuberculosis) shows central caseating necrosis, which is absent here.",
+          "D": "Arterial lipid plaques describe atherosclerosis, not a non-caseating granuloma.",
+          "E": "Liver stromal scarring describes hepatic fibrosis, not a pulmonary granulomatous disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sarcoidosis",
+        "granuloma",
+        "non-caseating"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-006",
+      "stem": "A 28-year-old man with long-standing Crohn disease develops recurrent urinary tract infections and is found to have an abnormal channel connecting a loop of inflamed bowel to the urinary bladder. Which of the following terms best describes this abnormal connection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abscess"
+        },
+        {
+          "label": "B",
+          "text": "Exudate"
+        },
+        {
+          "label": "C",
+          "text": "Fibrous cap"
+        },
+        {
+          "label": "D",
+          "text": "Fistula"
+        },
+        {
+          "label": "E",
+          "text": "Granuloma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A fistula is an abnormal passageway between two hollow organs or between an organ and a surface, a classic complication of Crohn disease.",
+        "whyCorrect": "The brick defines a fistula as an abnormal passageway between two hollow or tubular organs or between an organ and the body surface, most commonly in the GI tract. In Crohn disease, prolonged transmural inflammation drives fibroblasts to tunnel through the bowel wall; an enterovesical fistula between the GI tract and urinary bladder can present as recurrent urinary tract infections.",
+        "whyWrongByChoice": {
+          "A": "An abscess is a localized collection of pus, a feature of acute inflammation, not an abnormal channel.",
+          "B": "An exudate is protein-rich fluid of acute inflammation, not an abnormal organ-to-organ passage.",
+          "C": "A fibrous cap covers the lipid core of an atherosclerotic plaque and is unrelated to a bowel-to-bladder connection.",
+          "E": "A granuloma is a walled-off mass of macrophages, not a passageway connecting two organs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fistula",
+        "Crohn disease",
+        "chronic inflammation"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-007",
+      "stem": "A 34-year-old woman with a 6-month history of diarrhea and abdominal pain is found to have transmural, granulomatous inflammation throughout her GI tract and is diagnosed with Crohn disease. Her physician explains that one cell type coordinates the inflammatory response by releasing cytokines that alter the behavior of nearby macrophages and fibroblasts. Which of the following cells is most responsible for this cytokine secretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B cell"
+        },
+        {
+          "label": "B",
+          "text": "Macrophage"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cell"
+        },
+        {
+          "label": "E",
+          "text": "T lymphocyte"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "T lymphocytes coordinate chronic inflammation by producing cytokines that reprogram nearby cells such as macrophages and fibroblasts.",
+        "whyCorrect": "The brick states that the T cell's major role in chronic inflammation is the production of inflammatory cytokines that alter the behavior of nearby cells, including macrophages and fibroblasts. T cells react on antigen recognition and are central coordinators of the chronic inflammatory response.",
+        "whyWrongByChoice": {
+          "A": "B cells give rise to plasma cells and produce antibody; the cytokine-driven coordination is attributed to T cells.",
+          "B": "Macrophages phagocytose pathogens and secrete cytokines too, but the brick identifies the T cell as the major cytokine producer that alters other cells.",
+          "C": "Neutrophils are the main effector cell of acute inflammation and are not the primary coordinators of chronic cytokine signaling.",
+          "D": "Plasma cells secrete antibody, not the coordinating cytokines described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T lymphocyte",
+        "cytokines",
+        "Crohn disease"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-008",
+      "stem": "A peripheral tissue biopsy from a patient with a chronic autoimmune disease shows numerous antibody-producing cells. On high power, each cell has an eccentric nucleus with coarsely clumped chromatin, deeply basophilic cytoplasm, and a pale zone beside the nucleus. Which of the following cells is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibroblast"
+        },
+        {
+          "label": "B",
+          "text": "Macrophage"
+        },
+        {
+          "label": "C",
+          "text": "Multinucleated giant cell"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The plasma cell is a mature, differentiated B cell with an eccentric nucleus, clumped chromatin, blue cytoplasm, and a perinuclear hof.",
+        "whyCorrect": "The brick describes the plasma cell as a mature differentiated B cell that produces a specific antibody, and shows that it has a nucleus at the side of the cell (eccentric), characteristically clumped chromatin, blue cytoplasm, and a lighter space beside the nucleus called a perinuclear hof. In autoimmune disease, plasma cells make antibodies that target the body's own cells, driving continuous inflammation.",
+        "whyWrongByChoice": {
+          "A": "Fibroblasts secrete collagen and are spindle-shaped, lacking the described antibody-producing morphology.",
+          "B": "Macrophages are large phagocytic cells that form granuloma walls; they do not show an eccentric nucleus with a perinuclear hof.",
+          "C": "Multinucleated giant cells are fused macrophages within granulomas and have many nuclei, not a single eccentric nucleus.",
+          "D": "Neutrophils have multilobed nuclei and are cells of acute inflammation, not antibody producers."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "plasma cell",
+        "morphology",
+        "B cell"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-009",
+      "stem": "A 52-year-old woman with a long history of heavy daily alcohol use develops new-onset abdominal distention from ascites. Liver biopsy shows regenerating hepatocytes surrounded by dense bands of fibrosis. Which of the following consequences most directly results from these fibrotic bands?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete restoration of normal liver architecture"
+        },
+        {
+          "label": "B",
+          "text": "Formation of caseating granulomas in the liver"
+        },
+        {
+          "label": "C",
+          "text": "Increased resistance in the hepatic portal system"
+        },
+        {
+          "label": "D",
+          "text": "Narrowing of coronary arteries from lipid plaques"
+        },
+        {
+          "label": "E",
+          "text": "Rapid, reversible recovery of hepatocyte function"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fibrotic bands in the liver raise resistance in the hepatic portal system, producing portal hypertension.",
+        "whyCorrect": "The brick explains that chronic inflammation from alcohol damages the liver's structural framework so that regeneration is not possible and tissue is replaced by fibrotic lesions (scarring). It specifically states that fibrotic bands increase resistance in the hepatic portal system, causing portal hypertension, and that liver function is progressively and irreversibly reduced.",
+        "whyWrongByChoice": {
+          "A": "The brick emphasizes that once the framework is destroyed, regeneration is not possible and normal architecture is not restored.",
+          "B": "Caseating granulomas are a feature of tuberculosis, not alcohol-induced hepatic fibrosis.",
+          "D": "Coronary artery narrowing from lipid plaques describes atherosclerosis, a different chronic inflammatory lesion.",
+          "E": "Liver function is progressively and irreversibly reduced, not rapidly and reversibly recovered."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepatic fibrosis",
+        "portal hypertension",
+        "cirrhosis"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-010",
+      "stem": "A 61-year-old man with a long smoking history experiences sudden crushing chest pain and is diagnosed with an acute myocardial infarction. Angiography shows an occlusive thrombus overlying a disrupted atherosclerotic lesion. Which of the following best explains how chronic inflammation in the vessel wall led to this acute event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A caseating granuloma eroded through the arterial wall"
+        },
+        {
+          "label": "B",
+          "text": "A fistula formed between two adjacent coronary arteries"
+        },
+        {
+          "label": "C",
+          "text": "Fibrosis of the myocardium regenerated the vessel wall"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils formed an abscess that occluded the artery"
+        },
+        {
+          "label": "E",
+          "text": "Rupture of the plaque's fibrous cap released lipids and mediators"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Atherosclerotic plaques are sites of chronic inflammation; rupture of the fibrous cap releases lipids and mediators that cause a thrombus, blocking the vessel and causing infarction.",
+        "whyCorrect": "The brick describes atherosclerosis as narrowing of arteries from lipid-laden plaques formed by the immune system's ineffective attempts to clear lipids in vessel walls damaged by smoking or diabetes, creating an environment of chronic inflammation. It states that rupture of the fibrous cap releases lipids and inflammatory mediators into the blood, forming a clot that can block the lumen and cause myocardial infarctions and strokes.",
+        "whyWrongByChoice": {
+          "A": "Caseating granulomas are features of tuberculosis, not atherosclerotic plaque rupture.",
+          "B": "A fistula is an abnormal passageway between organs, not the cause of thrombotic coronary occlusion.",
+          "C": "Fibrosis produces scarring and loss of function, not regeneration of a healthy vessel wall.",
+          "D": "Abscess formation is a feature of acute inflammation and is not the mechanism of plaque-related coronary occlusion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atherosclerosis",
+        "plaque rupture",
+        "myocardial infarction"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-011",
+      "stem": "A researcher studying a solid tumor observes that systemic chronic inflammation stimulates the growth of new blood vessels around the mass, providing an ideal environment for tumor growth and hematogenous spread. A drug is being developed to block this process and starve the tumor. Which of the following processes is the drug designed to inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiogenesis"
+        },
+        {
+          "label": "B",
+          "text": "Caseous necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Isotype switching"
+        },
+        {
+          "label": "E",
+          "text": "Phagocytosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Angiogenesis, the growth of new blood vessels, can be driven by chronic inflammation and feeds tumor growth and metastasis; anti-angiogenic drugs block this.",
+        "whyCorrect": "The brick describes angiogenesis as the growth of new blood vessels in response to increased metabolic demand and explains that in cancer, systemic chronic inflammation leads to formation of new vessels around a tumor that feed it and provide an ideal environment for growth and hematogenous metastasis. It notes that drugs designed to inhibit angiogenesis are used to treat certain cancers by blocking the tumor's source of nutrients.",
+        "whyWrongByChoice": {
+          "B": "Caseous necrosis is the central necrosis of tuberculous granulomas, not a target for anti-tumor vascular therapy.",
+          "C": "Fibrosis is collagen scarring; it is a separate consequence of chronic inflammation and not the vessel-forming process being blocked.",
+          "D": "Isotype switching is a change in antibody class and is unrelated to tumor vascularization.",
+          "E": "Phagocytosis is engulfment of particles by macrophages, not the formation of tumor-feeding blood vessels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "angiogenesis",
+        "cancer",
+        "consequences"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa07-012",
+      "stem": "A 60-year-old man with a decades-long smoking history develops a chronic productive cough and progressive airflow obstruction. Biopsy of the airways shows thickened walls with luminal narrowing that obstructs airflow, and arterial blood gas reveals reduced oxygen saturation with carbon dioxide retention. Which consequence of chronic inflammation best accounts for these structural airway changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abscess formation"
+        },
+        {
+          "label": "B",
+          "text": "Angiogenesis"
+        },
+        {
+          "label": "C",
+          "text": "Caseating granuloma formation"
+        },
+        {
+          "label": "D",
+          "text": "Portal hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Tissue remodeling"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tissue remodeling from chronic exposure to airway irritants thickens the airway wall and narrows the lumen, as in chronic bronchitis, causing CO2 retention and respiratory acidosis.",
+        "whyCorrect": "The brick teaches that tissue remodeling occurs when chronic inflammation alters tissue structure to suit the inflammatory environment. It gives the example of chronic exposure to airborne irritants such as cigarette smoke leading to chronic bronchitis, in which persistent inflammation thickens the airway and narrows the lumen, obstructing airflow; the end result is reduced oxygen saturation and increased carbon dioxide retention that can cause respiratory acidosis.",
+        "whyWrongByChoice": {
+          "A": "Abscess formation is a localized pus collection of acute inflammation, not chronic structural airway remodeling.",
+          "B": "Angiogenesis is the growth of new blood vessels, not the airway-wall thickening and luminal narrowing described.",
+          "C": "Caseating granulomas are features of tuberculosis and do not explain diffuse airway wall thickening from smoking.",
+          "D": "Portal hypertension results from hepatic fibrosis, not from remodeling of the airways."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tissue remodeling",
+        "chronic bronchitis",
+        "respiratory acidosis"
+      ],
+      "topicId": "chronic-inflammation-part-2",
+      "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-001",
+      "stem": "A 62-year-old man survives a large anterior myocardial infarction. Several weeks later, the infarcted region of myocardium has been replaced by a dense collagenous scar rather than by new cardiac muscle, because cardiac myocytes are permanent (nondividing) cells. Which of the following cell types shares this same regenerative classification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basal keratinocyte of the epidermis"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow hematopoietic precursor"
+        },
+        {
+          "label": "C",
+          "text": "Colonic surface epithelial cell"
+        },
+        {
+          "label": "D",
+          "text": "Hepatocyte"
+        },
+        {
+          "label": "E",
+          "text": "Neuron"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Permanent (nondividing) tissues such as cardiac muscle and neurons cannot regenerate and heal only by scarring.",
+        "whyCorrect": "Neurons, like cardiac myocytes, are permanent tissue: they are nondividing and lack the ability to regenerate, so lost cells are replaced by connective tissue scar rather than by new functional cells.",
+        "whyWrongByChoice": {
+          "A": "Basal keratinocytes of the skin are labile tissue that continuously divide to renew the epidermis.",
+          "B": "Hematopoietic precursors of the bone marrow are labile tissue that divide continuously.",
+          "C": "Colonic surface epithelium is labile (continuously dividing) tissue that regenerates readily when the ECM is intact.",
+          "D": "Hepatocytes are stable (quiescent) tissue that can regenerate once primed to re-enter the cell cycle."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tissue-types",
+        "permanent-tissue",
+        "regeneration"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-002",
+      "stem": "A 30-year-old woman undergoes colonoscopy with biopsy of the colonic mucosa. Two weeks later the biopsy site has fully regenerated with normal, functioning epithelium and no scar. Which property of colonic epithelium best explains this complete regeneration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a labile tissue whose cells continuously divide"
+        },
+        {
+          "label": "B",
+          "text": "It is a permanent tissue that heals only by scarring"
+        },
+        {
+          "label": "C",
+          "text": "It is a stable tissue that must be primed before it can divide"
+        },
+        {
+          "label": "D",
+          "text": "It lacks an underlying basement membrane and extracellular matrix"
+        },
+        {
+          "label": "E",
+          "text": "It relies entirely on myofibroblast contraction to close defects"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Labile tissues are continuously dividing and regenerate completely when the extracellular matrix remains intact.",
+        "whyCorrect": "Colonic columnar epithelium is a labile tissue that divides continuously; with an intact ECM/basement membrane scaffold it can fully regenerate the lost cells, restoring normal architecture without scar formation.",
+        "whyWrongByChoice": {
+          "B": "Permanent tissues (e.g., cardiac muscle, neurons) are nondividing and heal only by scarring, unlike labile epithelium.",
+          "C": "Stable tissues such as hepatocytes are quiescent and must be primed to divide; colonic epithelium divides continuously without such priming.",
+          "D": "Epithelium sits on a basement membrane; this intact ECM is precisely what permits regeneration rather than preventing it.",
+          "E": "Myofibroblast contraction closes large open wounds by secondary intention; it is not the mechanism of epithelial regeneration."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tissue-types",
+        "labile-tissue",
+        "regeneration"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-003",
+      "stem": "A 45-year-old living liver donor undergoes resection of approximately 60% of his liver. Over the following weeks the remaining liver regenerates to nearly its original mass as hepatocytes leave a resting state and re-enter the cell cycle. Hepatocytes are best classified as which of the following tissue types?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granulation tissue"
+        },
+        {
+          "label": "B",
+          "text": "Interstitial matrix"
+        },
+        {
+          "label": "C",
+          "text": "Labile (continuously dividing) tissue"
+        },
+        {
+          "label": "D",
+          "text": "Permanent (nondividing) tissue"
+        },
+        {
+          "label": "E",
+          "text": "Stable (quiescent) tissue"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The liver is the classic stable tissue: normally quiescent hepatocytes must be primed to divide but retain a remarkable regenerative capacity.",
+        "whyCorrect": "Hepatocytes are stable (quiescent, G0) cells that do not divide continuously; following injury or loss they are primed by signals such as HGF and move from G0 into the proliferating G1 stage, allowing the liver to regenerate.",
+        "whyWrongByChoice": {
+          "A": "Granulation tissue is a temporary reparative tissue of fibroblasts and new vessels, not a hepatocyte classification.",
+          "B": "The interstitial matrix is a component of the ECM between cells, not a category of tissue regenerative capacity.",
+          "C": "Labile tissues (e.g., gut epithelium, bone marrow) divide continuously without needing to be primed; hepatocytes are normally quiescent.",
+          "D": "Permanent tissues cannot regenerate at all; the liver's robust regeneration excludes this category."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tissue-types",
+        "stable-tissue",
+        "liver-regeneration"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-004",
+      "stem": "An 80-year-old bed-bound woman in a nursing home develops a non-healing ulcer over the sacrum after prolonged, unrelieved pressure to the area. Examination shows loss of the overlying epithelium with underlying granulation tissue. Which of the following mechanisms best explains this chronic wound?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of the epidermal basement membrane"
+        },
+        {
+          "label": "B",
+          "text": "Excess collagen deposition confined to the wound margins"
+        },
+        {
+          "label": "C",
+          "text": "Myofibroblast-mediated contraction limiting joint mobility"
+        },
+        {
+          "label": "D",
+          "text": "Reopening of a previously closed surgical incision"
+        },
+        {
+          "label": "E",
+          "text": "Sustained compression compromising local blood flow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pressure sores are areas of skin ulceration and necrosis caused by prolonged compression that compromises blood flow, typically in immobile patients.",
+        "whyCorrect": "Sustained pressure over a bony prominence in a bed-bound patient reduces perfusion and oxygen delivery, producing ischemic necrosis and a non-healing ulcer with loss of epithelium and underlying granulation tissue.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune basement-membrane destruction describes blistering diseases, not a compression-related pressure sore.",
+          "B": "Excess collagen confined to the wound describes a hypertrophic scar, not an ischemic ulcer.",
+          "C": "Myofibroblast contraction produces contractures over joints, not a sacral pressure ulcer.",
+          "D": "Reopening of a closed incision defines wound dehiscence, a postsurgical complication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic-wounds",
+        "pressure-sore",
+        "perfusion"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-005",
+      "stem": "During the later stages of wound healing, one growth factor both stimulates fibroblasts to synthesize collagen and extracellular matrix and dampens the inflammatory response so that it does not damage the healing tissue. Which of the following growth factors has these dual actions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epidermal growth factor (EGF)"
+        },
+        {
+          "label": "B",
+          "text": "Platelet-derived growth factor (PDGF)"
+        },
+        {
+          "label": "C",
+          "text": "Transforming growth factor-alpha (TGF-alpha)"
+        },
+        {
+          "label": "D",
+          "text": "Transforming growth factor-beta (TGF-beta)"
+        },
+        {
+          "label": "E",
+          "text": "Vascular endothelial growth factor (VEGF)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "TGF-beta stimulates fibroblast collagen/ECM synthesis while suppressing inflammation during the later, remodeling phase of repair.",
+        "whyCorrect": "TGF-beta attracts fibroblasts and drives extracellular matrix and collagen deposition while suppressing acute inflammation, making it central to fibrosis and later-stage wound healing.",
+        "whyWrongByChoice": {
+          "A": "EGF stimulates epithelial cell proliferation and migration, not collagen deposition with anti-inflammatory action.",
+          "B": "PDGF is chemotactic for inflammatory cells, fibroblasts, and smooth muscle and helps stabilize new vessels; it does not suppress inflammation.",
+          "C": "TGF-alpha stimulates epithelial cell proliferation (like EGF) and does not deposit collagen or dampen inflammation.",
+          "E": "VEGF stimulates endothelial proliferation and vascular permeability (angiogenesis), not fibroblast collagen synthesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "growth-factors",
+        "TGF-beta",
+        "fibrosis"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-006",
+      "stem": "Granulation tissue forming in a healing wound requires the growth of new blood vessels, and these new vessels are notably leaky. Which of the following growth factors is most directly responsible for stimulating proliferation of the cells that line these new vessels during angiogenesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epidermal growth factor (EGF)"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-6 (IL-6)"
+        },
+        {
+          "label": "C",
+          "text": "Platelet-derived growth factor (PDGF)"
+        },
+        {
+          "label": "D",
+          "text": "Transforming growth factor-beta (TGF-beta)"
+        },
+        {
+          "label": "E",
+          "text": "Vascular endothelial growth factor (VEGF)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "VEGF drives angiogenesis by stimulating endothelial cell proliferation and increasing vascular permeability.",
+        "whyCorrect": "VEGF, produced by mesenchymal cells, directly stimulates endothelial cell proliferation and increases vascular permeability, supplying the new vessels needed by regenerating granulation tissue.",
+        "whyWrongByChoice": {
+          "A": "EGF acts on epithelial cells, not on endothelial cells.",
+          "B": "IL-6 is a cytokine that helps prime hepatocytes and coordinates inflammation; it does not directly stimulate endothelial proliferation.",
+          "C": "PDGF recruits smooth muscle cells to stabilize newly formed vessels rather than directly driving endothelial proliferation.",
+          "D": "TGF-beta suppresses endothelial proliferation and migration to stabilize vessels and instead promotes collagen/ECM synthesis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "growth-factors",
+        "VEGF",
+        "angiogenesis"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-007",
+      "stem": "A large traumatic skin wound with extensive tissue loss heals by secondary intention. Over about 6 weeks the wound margins are drawn together, substantially reducing the size of the defect. Which cell type is most directly responsible for this wound contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibroblast"
+        },
+        {
+          "label": "B",
+          "text": "Keratinocyte"
+        },
+        {
+          "label": "C",
+          "text": "Kupffer cell"
+        },
+        {
+          "label": "D",
+          "text": "Macrophage"
+        },
+        {
+          "label": "E",
+          "text": "Myofibroblast"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Myofibroblasts are contractile fibroblasts that pull wound edges together during healing by secondary intention.",
+        "whyCorrect": "Myofibroblasts are a specialized type of fibroblast with contractile ability; they form a network within granulation tissue and slowly draw the wound margins together, closing large defects over weeks.",
+        "whyWrongByChoice": {
+          "A": "Ordinary fibroblasts synthesize and deposit collagen but lack the contractile machinery to close the wound.",
+          "B": "Keratinocytes are surface epithelial cells that re-cover the wound; they do not contract it.",
+          "C": "Kupffer cells are liver macrophages that provide signals and phagocytose debris, not wound contraction.",
+          "D": "Macrophages clear debris and secrete growth factors but do not physically contract the wound."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary-intention",
+        "myofibroblast",
+        "wound-contraction"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-008",
+      "stem": "A 40-year-old woman sustains deep burns to both hands in a house fire. Several months later, the skin over her finger joints has become tight and taut, and she is unable to fully extend her fingers. Which wound-healing abnormality best explains her limited joint mobility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contracture"
+        },
+        {
+          "label": "B",
+          "text": "Dehiscence"
+        },
+        {
+          "label": "C",
+          "text": "Hypertrophic scar"
+        },
+        {
+          "label": "D",
+          "text": "Keloid"
+        },
+        {
+          "label": "E",
+          "text": "Venous ulceration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A contracture is an exaggerated healing response, common after severe burns, in which myofibroblasts tighten tissue across a joint and restrict movement.",
+        "whyCorrect": "Contractures result from myofibroblasts contracting the healing tissue; when they occur over joints, especially after extensive burns, the skin becomes taut and leads to permanent limitation of joint mobility.",
+        "whyWrongByChoice": {
+          "B": "Dehiscence is the reopening of a closed surgical incision, not a burn-related tightening over joints.",
+          "C": "A hypertrophic scar is excess collagen confined within the wound borders; it does not typically restrict joint motion the way a contracture does.",
+          "D": "A keloid is exuberant scar extending beyond the wound margins, not a cause of restricted joint extension.",
+          "E": "Venous ulceration is a chronic non-healing wound from venous hypertension, unrelated to burn-induced joint stiffness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "contracture",
+        "burns"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-009",
+      "stem": "A 24-year-old woman develops a firm, raised nodule at the site of an ear piercing. The lesion has grown well beyond the original margins of the piercing wound and has not regressed over the past year. Histology shows thick, brightly eosinophilic collagen bundles that are haphazardly arranged. Which of the following best describes this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contracture"
+        },
+        {
+          "label": "B",
+          "text": "Granulation tissue"
+        },
+        {
+          "label": "C",
+          "text": "Hypertrophic scar"
+        },
+        {
+          "label": "D",
+          "text": "Keloid scar"
+        },
+        {
+          "label": "E",
+          "text": "Wound dehiscence"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Keloids are exuberant scars whose thick, haphazard eosinophilic collagen extends beyond the original wound borders and does not regress.",
+        "whyCorrect": "A keloid occurs when scarring extends beyond the boundaries of the original wound; microscopically it shows thick, brightly eosinophilic collagen arranged haphazardly, and unlike a hypertrophic scar it does not regress on its own and may require excision.",
+        "whyWrongByChoice": {
+          "A": "A contracture is tightening of healed tissue over a joint that limits motion, not a raised collagen nodule.",
+          "B": "Granulation tissue is soft, pink, and temporary; a firm chronic collagenous nodule is not granulation tissue.",
+          "C": "A hypertrophic scar remains confined within the original wound margins and usually regresses over time, unlike this expanding lesion.",
+          "E": "Dehiscence is the reopening of a closed incision, not an excess scar."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "keloid",
+        "scar"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-010",
+      "stem": "Five days after a skin injury, the wound bed is filled with soft, pink, granular tissue that bleeds easily when a scab is lifted. Microscopically it contains proliferating fibroblasts, delicate new capillaries, and macrophages within loose extracellular matrix. Which of the following best identifies this tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basement membrane"
+        },
+        {
+          "label": "B",
+          "text": "Caseous necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Granulation tissue"
+        },
+        {
+          "label": "D",
+          "text": "Keloid"
+        },
+        {
+          "label": "E",
+          "text": "Mature fibrotic scar"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Granulation tissue is the weak, pink, intermediate repair tissue of fibroblasts, macrophages, and new vessels that later matures into scar.",
+        "whyCorrect": "Granulation tissue represents the intermediate stage of connective tissue repair; it is structurally weak and named for its pink, granular appearance, with delicate new vessels that bleed easily and proliferating fibroblasts that later deposit collagen.",
+        "whyWrongByChoice": {
+          "A": "The basement membrane is a thin specialized ECM layer supporting epithelium, not a bed of proliferating vessels and fibroblasts.",
+          "B": "Caseous necrosis is cheese-like dead tissue typical of granulomatous infection, not vascular reparative tissue.",
+          "D": "A keloid is an exuberant collagenous scar extending beyond wound margins, not early reparative tissue.",
+          "E": "A mature fibrotic scar is a firm, pale, dense collagen structure that is the end result of remodeling, not soft pink granular tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "repair",
+        "granulation-tissue",
+        "histology"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-011",
+      "stem": "On postoperative day 6 after abdominal surgery, a patient's closed midline surgical incision suddenly reopens along the suture line. Which of the following terms best describes this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic ulceration"
+        },
+        {
+          "label": "B",
+          "text": "Contracture"
+        },
+        {
+          "label": "C",
+          "text": "Dehiscence"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophic scarring"
+        },
+        {
+          "label": "E",
+          "text": "Keloid formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dehiscence is a surgical complication in which a closed incision reopens.",
+        "whyCorrect": "Wound dehiscence is a postsurgical complication defined by the reopening of a previously closed incision, typically when the wound has not yet gained adequate tensile strength.",
+        "whyWrongByChoice": {
+          "A": "Chronic ulceration is a non-healing wound lacking intact epithelium, usually from impaired perfusion, not acute incisional reopening.",
+          "B": "A contracture is exaggerated healing that tightens tissue and limits joint motion, not a reopened incision.",
+          "D": "Hypertrophic scarring is excess collagen within the wound borders, not incisional separation.",
+          "E": "A keloid is exuberant scar extending beyond the wound margins, the opposite problem of a wound coming apart."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "dehiscence",
+        "surgical"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    },
+    {
+      "id": "pa08-012",
+      "stem": "An elderly man whose diet lacks fresh fruits and vegetables presents with poorly healing wounds, bleeding gums, and perifollicular hemorrhages. His impaired wound healing is attributed to deficiency of a vitamin required for collagen synthesis and blood vessel maintenance. Which of the following vitamins is deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin A (retinol)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin C (ascorbic acid)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin D (cholecalciferol)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K (phylloquinone)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Vitamin C (ascorbic acid) is required for collagen synthesis; its deficiency causes scurvy with bleeding and impaired wound healing.",
+        "whyCorrect": "Ascorbic acid is necessary for collagen synthesis and blood vessel maintenance; its deficiency produces scurvy, typified by bleeding (gums, perifollicular hemorrhages) and impaired wound healing, historically prevented by citrus consumption.",
+        "whyWrongByChoice": {
+          "A": "Vitamin A supports epithelial differentiation and immune function but is not the collagen-synthesis vitamin whose deficiency causes scurvy.",
+          "B": "Vitamin B12 deficiency causes megaloblastic anemia and neurologic disease, not a collagen/bleeding syndrome.",
+          "D": "Vitamin D deficiency causes rickets/osteomalacia from impaired mineralization, not impaired collagen-based wound healing.",
+          "E": "Vitamin K deficiency causes a coagulation-factor bleeding disorder but does not impair collagen synthesis in wound repair."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "factors",
+        "vitamin-C",
+        "scurvy"
+      ],
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "tier": "core"
+    }
+  ]
+}

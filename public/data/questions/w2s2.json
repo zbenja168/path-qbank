@@ -1,0 +1,2839 @@
+{
+  "categoryId": "w2s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "pa16-001",
+      "stem": "A 29-year-old woman reports several months of pain in her wrists, hands, elbows, and knees that improves with ibuprofen but never fully resolves. She has a red rash across both cheeks and the bridge of her nose, along with painful oral ulcers. Her temperature is 39.1 C (102.4 F). Laboratory studies show a decreased white blood cell count, hemoglobin, and platelet count. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Goodpasture syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "C",
+          "text": "Henoch-Schonlein purpura"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatoid arthritis"
+        },
+        {
+          "label": "E",
+          "text": "Systemic lupus erythematosus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A young woman with a malar (butterfly) rash, arthritis, oral ulcers, and pancytopenia has systemic lupus erythematosus.",
+        "whyCorrect": "SLE is a multisystem autoimmune disease that classically affects young women and presents with a butterfly-shaped malar rash, arthritis, oral/nasopharyngeal ulcers, and pancytopenia from autoantibodies that opsonize blood cells. Its features are summarized by the mnemonic RASH OR PAIN.",
+        "whyWrongByChoice": {
+          "A": "Goodpasture syndrome affects the lungs and kidneys with hemoptysis and glomerulonephritis, not a malar rash and arthritis.",
+          "B": "Granulomatosis with polyangiitis presents with sinus, lung, and kidney disease, not a malar rash with oral ulcers and arthralgias in this pattern.",
+          "C": "Henoch-Schonlein purpura is a childhood disease with palpable purpura on the buttocks and legs, abdominal pain, and arthralgias.",
+          "D": "Rheumatoid arthritis causes symmetric joint swelling of the hands and feet but does not produce a malar rash or pancytopenia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SLE",
+        "malar rash",
+        "diagnosis"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-002",
+      "stem": "A 34-year-old woman with a several-year history of systemic lupus erythematosus is evaluated with echocardiography. Imaging reveals small, single and multiple warty vegetations distributed on the surfaces of the mitral valve leaflets. Blood cultures are repeatedly negative. Which of the following best describes this cardiac finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granulomatous vasculitis of the valve"
+        },
+        {
+          "label": "B",
+          "text": "Infective endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Libman-Sacks endocarditis"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatic valve disease"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid nodule of the valve"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sterile warty vegetations on the valve surface in a lupus patient are Libman-Sacks endocarditis.",
+        "whyCorrect": "Libman-Sacks endocarditis is a nonbacterial verrucous endocarditis of SLE that produces small single or multiple warty deposits distinctively on the surface of the valve leaflets. Because it is immune-mediated rather than infectious, blood cultures are negative.",
+        "whyWrongByChoice": {
+          "A": "Granulomatous vasculitis is a feature of granulomatosis with polyangiitis affecting small vessels, not sterile valve vegetations.",
+          "B": "Vegetations in infective endocarditis are considerably larger, contain infectious organisms, and would be associated with positive blood cultures.",
+          "D": "Vegetations in rheumatic heart disease are smaller and are confined to the lines of closure of the leaflets, not scattered on the leaflet surfaces.",
+          "E": "Rheumatoid nodules occur in subcutaneous tissue in rheumatoid arthritis, not as valvular vegetations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SLE",
+        "Libman-Sacks endocarditis",
+        "cardiac"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-003",
+      "stem": "A 27-year-old woman with systemic lupus erythematosus has a platelet count of 38,000/mm3 and scattered petechiae. Peripheral smear shows no schistocytes. Which of the following best explains the low platelet count in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies against the platelet basement membrane collagen"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies bind platelet glycoproteins"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow infiltration by granulomas"
+        },
+        {
+          "label": "D",
+          "text": "Deficiency of ADAMTS13 causing platelet consumption in microthrombi"
+        },
+        {
+          "label": "E",
+          "text": "IgA immune complexes depositing in the marrow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thrombocytopenia in SLE results from anti-platelet glycoprotein antibodies that mark platelets for splenic macrophage removal.",
+        "whyCorrect": "In SLE, autoantibodies bind platelet membrane glycoproteins, leading to removal of the opsonized platelets by macrophages, particularly in the sinusoids of the spleen. This immune thrombocytopenia is the most common cytopenia mechanism described in lupus.",
+        "whyWrongByChoice": {
+          "A": "Anti-basement membrane collagen antibodies are the mechanism of Goodpasture syndrome, not lupus thrombocytopenia.",
+          "C": "Marrow granulomas are not a described mechanism of the pancytopenia of SLE, which is antibody-mediated opsonization.",
+          "D": "ADAMTS13 deficiency causes thrombotic thrombocytopenic purpura with schistocytes, which are absent here and are not the lupus mechanism taught.",
+          "E": "IgA immune complex deposition characterizes Henoch-Schonlein purpura, not SLE-related platelet destruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SLE",
+        "thrombocytopenia",
+        "mechanism"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-004",
+      "stem": "A 31-year-old woman with systemic lupus erythematosus develops pleuritic chest pain and glomerular injury. Her disease is understood to result from antigen-antibody aggregates that deposit in tissues and activate complement, driving widespread inflammation. This process is an example of which of the following hypersensitivity reactions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I (immediate, IgE-mediated)"
+        },
+        {
+          "label": "B",
+          "text": "Type II (antibody-mediated cytotoxic)"
+        },
+        {
+          "label": "C",
+          "text": "Type III (immune complex)"
+        },
+        {
+          "label": "D",
+          "text": "Type IV (delayed, T-cell mediated)"
+        },
+        {
+          "label": "E",
+          "text": "Type V (receptor stimulating)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SLE is a type III hypersensitivity reaction driven by immune-complex deposition and complement activation.",
+        "whyCorrect": "The brick describes SLE as due to a type III hypersensitivity reaction in which immune complexes deposit in tissue and activate complement, leading to widespread inflammation of the skin, serosa, kidney, and other organs.",
+        "whyWrongByChoice": {
+          "A": "Type I reactions are IgE-mediated immediate hypersensitivity such as anaphylaxis, not the immune-complex disease of lupus.",
+          "B": "Type II reactions involve antibodies directed against fixed cell-surface antigens; SLE inflammation is attributed to circulating immune complexes.",
+          "D": "Type IV reactions are delayed and T-cell mediated, whereas lupus tissue injury here is complement-activating immune complexes.",
+          "E": "Type V receptor-stimulating hypersensitivity describes diseases like Graves disease, not lupus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SLE",
+        "hypersensitivity",
+        "immune complex"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-005",
+      "stem": "A 26-year-old woman is being worked up for suspected systemic lupus erythematosus. An antinuclear antibody (ANA) test is positive. Which of the following additional antibodies is most specific for confirming the diagnosis of SLE?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-cyclic citrullinated peptide (anti-CCP)"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA (anti-dsDNA)"
+        },
+        {
+          "label": "C",
+          "text": "Anti-glomerular basement membrane antibody"
+        },
+        {
+          "label": "D",
+          "text": "Anti-proteinase 3 (PR3-ANCA)"
+        },
+        {
+          "label": "E",
+          "text": "IgM rheumatoid factor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "After a positive ANA, anti-dsDNA (or anti-Smith) antibodies help confirm systemic lupus erythematosus.",
+        "whyCorrect": "The ANA test is usually the initial screen, and if positive, sub-serologies are checked. Anti-dsDNA and anti-Smith antibodies are specific for SLE and are used to confirm the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Anti-CCP is specific for rheumatoid arthritis, found in about 70% of early cases, not for SLE.",
+          "C": "Anti-glomerular basement membrane antibody is the hallmark of Goodpasture syndrome.",
+          "D": "PR3-ANCA (c-ANCA) is associated with granulomatosis with polyangiitis.",
+          "E": "Rheumatoid factor is seen in rheumatoid arthritis and is nonspecific, appearing in other diseases as well."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SLE",
+        "autoantibodies",
+        "diagnosis"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-006",
+      "stem": "A 45-year-old woman with several months of symmetric swelling and morning stiffness of the small joints of her hands is suspected of having rheumatoid arthritis. Positivity for which of the following antibodies is most specific for this diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-cyclic citrullinated peptide"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA"
+        },
+        {
+          "label": "C",
+          "text": "Anti-glomerular basement membrane"
+        },
+        {
+          "label": "D",
+          "text": "c-ANCA"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid factor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anti-CCP is the most specific antibody for rheumatoid arthritis.",
+        "whyCorrect": "Anti-CCP antibodies are found in about 70% of patients with early rheumatoid arthritis and are highly specific for the disease, unlike rheumatoid factor which is nonspecific.",
+        "whyWrongByChoice": {
+          "B": "Anti-dsDNA is found in systemic lupus erythematosus.",
+          "C": "Anti-glomerular basement membrane antibody is seen in Goodpasture syndrome.",
+          "D": "c-ANCA (PR3-ANCA) is seen in granulomatosis with polyangiitis.",
+          "E": "Rheumatoid factor is present in 75-80% of RA patients but is not specific because it appears in other diseases such as SLE."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rheumatoid arthritis",
+        "anti-CCP",
+        "autoantibodies"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-007",
+      "stem": "A 52-year-old woman with long-standing rheumatoid arthritis has progressive destruction of the joints of her hands. Biopsy of an affected joint shows an expanding mass of edematous synovium, inflammatory cells, granulation tissue, and fibroblasts that grows over and erodes the articular cartilage. Which of the following terms best describes this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granuloma"
+        },
+        {
+          "label": "B",
+          "text": "Pannus"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatoid nodule"
+        },
+        {
+          "label": "D",
+          "text": "Tophus"
+        },
+        {
+          "label": "E",
+          "text": "Verrucous vegetation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The proliferative synovial mass that erodes articular cartilage in RA is called a pannus.",
+        "whyCorrect": "In rheumatoid arthritis, the inflamed synovium becomes edematous, thickened, and hyperplastic, forming a pannus, a mass of edematous synovium, inflammatory cells, granulation tissue, and fibroblasts that grows over and causes erosion of the articular cartilage.",
+        "whyWrongByChoice": {
+          "A": "A generic granuloma does not describe the specific proliferative synovial tissue of RA.",
+          "C": "A rheumatoid nodule is a subcutaneous lesion with central fibrinoid necrosis and palisading macrophages, not the intra-articular mass eroding cartilage.",
+          "D": "A tophus is a deposit of urate crystals seen in gout, not rheumatoid arthritis.",
+          "E": "A verrucous vegetation refers to the valvular lesions of Libman-Sacks endocarditis in SLE."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rheumatoid arthritis",
+        "pannus",
+        "histology"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-008",
+      "stem": "A 58-year-old man with a symmetric inflammatory polyarthritis of the hands and wrists and a positive anti-CCP antibody has a firm subcutaneous nodule on the extensor surface of his forearm near the elbow. Biopsy shows a central zone of fibrinoid necrosis surrounded by a rim of activated macrophages, lymphocytes, and plasma cells. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Goodpasture pulmonary lesion"
+        },
+        {
+          "label": "B",
+          "text": "Gouty tophaceous nodule"
+        },
+        {
+          "label": "C",
+          "text": "Henoch-Schonlein purpuric lesion"
+        },
+        {
+          "label": "D",
+          "text": "Libman-Sacks vegetation"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid nodule"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A subcutaneous nodule with central fibrinoid necrosis rimmed by palisading macrophages in an RA patient is a rheumatoid nodule.",
+        "whyCorrect": "Rheumatoid nodules are an infrequent manifestation of RA that occur in subcutaneous tissue of the forearm, elbow, occiput, and lumbosacral area. Microscopically they show a central zone of fibrinoid necrosis surrounded by a rim of activated macrophages, lymphocytes, and plasma cells.",
+        "whyWrongByChoice": {
+          "A": "The Goodpasture pulmonary lesion is intra-alveolar hemorrhage with hemosiderin-laden macrophages, not a subcutaneous nodule.",
+          "B": "A gouty tophaceous nodule contains urate crystals, not a central zone of fibrinoid necrosis with palisading macrophages.",
+          "C": "Henoch-Schonlein lesions are palpable purpura from IgA immune complexes, not fibrinoid-necrosis nodules.",
+          "D": "Libman-Sacks vegetations are sterile warty deposits on heart valves, not subcutaneous nodules."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rheumatoid arthritis",
+        "rheumatoid nodule",
+        "histology"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-009",
+      "stem": "A 19-year-old man presents with cough productive of blood and patchy consolidations on chest imaging, followed within weeks by hematuria and rising creatinine. Renal biopsy shows crescent formation in Bowman capsule with linear deposition of IgG along the glomerular basement membrane. Autoantibodies in this patient are most likely directed against which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Citrullinated peptides"
+        },
+        {
+          "label": "B",
+          "text": "Double-stranded DNA"
+        },
+        {
+          "label": "C",
+          "text": "Platelet membrane glycoproteins"
+        },
+        {
+          "label": "D",
+          "text": "Proteinase 3 in neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Type IV collagen"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Goodpasture syndrome is caused by autoantibodies against type IV collagen in the basement membrane.",
+        "whyCorrect": "Goodpasture syndrome occurs in the teens or twenties, more often in males, and is caused by circulating autoantibodies against type IV collagen found in the basement membrane. This produces linear IgG on the glomerular basement membrane, crescentic glomerulonephritis, and alveolar hemorrhage with hemoptysis.",
+        "whyWrongByChoice": {
+          "A": "Anti-citrullinated peptide antibodies are specific for rheumatoid arthritis.",
+          "B": "Anti-dsDNA antibodies are the marker of systemic lupus erythematosus, not Goodpasture syndrome.",
+          "C": "Anti-platelet glycoprotein antibodies cause the immune thrombocytopenia of SLE.",
+          "D": "Antibodies against proteinase 3 (PR3-ANCA) characterize granulomatosis with polyangiitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Goodpasture syndrome",
+        "type IV collagen",
+        "glomerulonephritis"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-010",
+      "stem": "A 20-year-old man is diagnosed with Goodpasture syndrome after presenting with hemoptysis and rapidly progressive glomerulonephritis. Which of the following treatments most directly targets the underlying cause of his disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allopurinol to lower the serum urate concentration in gout"
+        },
+        {
+          "label": "B",
+          "text": "Broad-spectrum intravenous antibiotics for valvular vegetations"
+        },
+        {
+          "label": "C",
+          "text": "Oral iron supplementation for chronic alveolar blood loss"
+        },
+        {
+          "label": "D",
+          "text": "Plasmapheresis to remove anti-basement membrane antibodies"
+        },
+        {
+          "label": "E",
+          "text": "Systemic anticoagulation to prevent microthrombi in small vessels"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Goodpasture syndrome is treated with plasmapheresis to remove the pathogenic anti-basement membrane antibodies.",
+        "whyCorrect": "The prognosis of Goodpasture syndrome has been markedly improved with plasmapheresis, in which the anti-basement membrane antibodies are removed from the plasma, directly addressing the antibody-mediated lung and kidney injury.",
+        "whyWrongByChoice": {
+          "A": "Allopurinol lowers urate in gout and has no role in Goodpasture syndrome.",
+          "B": "Antibiotics treat infective endocarditis, not the sterile autoimmune injury of Goodpasture syndrome.",
+          "C": "Iron supplementation does not address the causative autoantibodies even though alveolar hemorrhage occurs.",
+          "E": "Anticoagulation targets thrombosis and does not remove the anti-basement membrane antibodies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Goodpasture syndrome",
+        "plasmapheresis",
+        "treatment"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-011",
+      "stem": "A 48-year-old man has months of fever, fatigue, and weight loss along with chronic sinusitis, bloody nasal discharge, and a saddle-nose deformity. He now has hemoptysis and gross hematuria. Biopsy of a lung nodule shows necrotizing granulomatous inflammation with multinucleated giant cells and vessel wall injury. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Goodpasture anti-GBM syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "C",
+          "text": "Henoch-Schonlein IgA purpura"
+        },
+        {
+          "label": "D",
+          "text": "Seropositive rheumatoid arthritis"
+        },
+        {
+          "label": "E",
+          "text": "Systemic lupus erythematosus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The triad of upper airway, lung, and kidney disease with necrotizing granulomas is granulomatosis with polyangiitis.",
+        "whyCorrect": "Granulomatosis with polyangiitis is a small-vessel vasculitis with the classic triad of upper respiratory tract, lung, and kidney disease. Findings include bloody nasal discharge, saddle-nose deformity, lung nodules with hemoptysis, and hematuria, and biopsy shows necrotizing granulomas with multinucleated giant cells.",
+        "whyWrongByChoice": {
+          "A": "Goodpasture syndrome affects only the lungs and kidneys with linear IgG and lacks sinus disease and granulomas.",
+          "C": "Henoch-Schonlein purpura is a childhood IgA disease with purpura and abdominal pain, not necrotizing granulomatous vasculitis.",
+          "D": "Rheumatoid arthritis is a joint disease and does not cause this upper-airway and renal granulomatous triad.",
+          "E": "SLE presents with malar rash, arthritis, and multisystem immune-complex disease rather than necrotizing airway granulomas and saddle-nose deformity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "granulomatosis with polyangiitis",
+        "vasculitis",
+        "diagnosis"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa16-012",
+      "stem": "A 5-year-old boy develops palpable purpuric skin lesions over the extensor surfaces of his legs and his buttocks, along with colicky abdominal pain, arthralgias, and microscopic hematuria. Skin biopsy immunofluorescence is most likely to reveal deposition of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-dsDNA antibodies with complement C1q"
+        },
+        {
+          "label": "B",
+          "text": "IgA immune complexes with complement C3"
+        },
+        {
+          "label": "C",
+          "text": "IgM rheumatoid factor in synovial tissue"
+        },
+        {
+          "label": "D",
+          "text": "Linear IgG along the basement membrane"
+        },
+        {
+          "label": "E",
+          "text": "PR3-ANCA directed against proteinase 3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Henoch-Schonlein purpura in a child is caused by deposition of IgA immune complexes with complement C3.",
+        "whyCorrect": "Henoch-Schonlein purpura occurs most commonly in children 3-8 years old with purpuric skin lesions on extensor surfaces and buttocks, abdominal pain, arthralgias, and renal abnormalities. Like SLE it results from immune-complex deposition, usually IgA with IgG and complement (C3).",
+        "whyWrongByChoice": {
+          "A": "Anti-dsDNA antibodies are markers of systemic lupus erythematosus.",
+          "C": "IgM rheumatoid factor is found in rheumatoid arthritis, not in the purpuric lesions of HSP.",
+          "D": "Linear IgG along the basement membrane is the immunofluorescence pattern of Goodpasture syndrome.",
+          "E": "PR3-ANCA is associated with granulomatosis with polyangiitis, not HSP."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Henoch-Schonlein purpura",
+        "IgA",
+        "pediatrics"
+      ],
+      "topicId": "autoimmune-disease",
+      "topicName": "Diseases of the Immune System: Autoimmune Disease",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-001",
+      "stem": "A 9-year-old girl develops fever, swollen and painful knees and ankles, and a new heart murmur approximately 3 weeks after an untreated sore throat. A throat culture obtained at the earlier visit had grown gram-positive cocci arranged in chains. Which of the following best explains the pathogenesis of her current cardiac and joint findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies against streptococcal M protein cross-reacting with host antigens"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of preformed bacterial enterotoxin directly within the affected tissues"
+        },
+        {
+          "label": "C",
+          "text": "Direct bacterial seeding and invasion of the myocardium and synovium"
+        },
+        {
+          "label": "D",
+          "text": "IgE-mediated mast cell degranulation releasing vasoactive mediators"
+        },
+        {
+          "label": "E",
+          "text": "Superantigen-mediated massive cytokine release causing refractory shock"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acute rheumatic fever is an antibody-mediated autoimmune sequela of group A streptococcal pharyngitis driven by molecular mimicry.",
+        "whyCorrect": "In group A streptococcal infection the M protein is structurally similar to host antigens, so antibodies generated against it cross-react with self-antigens in the heart, joints, skin, and brain. This molecular mimicry produces acute rheumatic fever roughly 2 weeks after the initiating pharyngitis, injuring tissues that were never directly infected.",
+        "whyWrongByChoice": {
+          "B": "Enterotoxin-mediated disease (e.g., toxic shock) is a direct toxin effect and does not explain antibody cross-reactivity weeks later.",
+          "C": "Rheumatic fever damages uninfected tissues through the immune response, not by direct bacterial invasion of the heart or joints.",
+          "D": "Type I IgE-mediated hypersensitivity is not the mechanism of rheumatic fever, which is antibody cross-reaction against self-antigens.",
+          "E": "Superantigen-driven cytokine release produces toxic shock, not the delayed autoimmune carditis and arthritis seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "group A strep",
+        "rheumatic fever",
+        "molecular mimicry"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-002",
+      "stem": "A 34-year-old woman with a childhood history of rheumatic fever is found to have a mid-diastolic murmur best heard at the cardiac apex. Echocardiography demonstrates a thickened mitral valve with fused chordae tendineae. Which of the following long-term valvular consequences is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitral stenosis"
+        },
+        {
+          "label": "B",
+          "text": "Mitral valve prolapse"
+        },
+        {
+          "label": "C",
+          "text": "Ostium secundum atrial septal defect"
+        },
+        {
+          "label": "D",
+          "text": "Tricuspid valve atresia"
+        },
+        {
+          "label": "E",
+          "text": "Ventricular septal defect"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic rheumatic heart disease scars the mitral valve, producing mitral stenosis as an important long-term consequence.",
+        "whyCorrect": "In rheumatic heart disease the acute endocardial inflammation and vegetations (verrucae) evolve over time into fibrosis, diffuse thickening of the valve leaflets, and fusion of the tendinous cords. This scarring narrows the mitral orifice, and mitral stenosis is described as an important long-term consequence.",
+        "whyWrongByChoice": {
+          "B": "Mitral valve prolapse results from myxomatous degeneration of the leaflets and produces a mid-systolic click, not the mid-diastolic murmur of rheumatic scarring.",
+          "C": "An atrial septal defect is a congenital shunt, not a result of chronic rheumatic leaflet and chordae scarring.",
+          "D": "Tricuspid atresia is a congenital malformation, not an acquired consequence of rheumatic fibrosis.",
+          "E": "A ventricular septal defect is a congenital septal lesion unrelated to rheumatic valve damage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rheumatic heart disease",
+        "mitral stenosis",
+        "valvular pathology"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-003",
+      "stem": "A 6-year-old boy develops dark, cola-colored urine, periorbital edema, and elevated blood pressure 2 weeks after a honey-crusted skin infection. Urinalysis shows hematuria and proteinuria, and BUN and serum creatinine are elevated. Electron microscopy of a renal biopsy would most likely reveal which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Foot process effacement without immune deposits"
+        },
+        {
+          "label": "B",
+          "text": "Linear IgG deposition along the basement membrane"
+        },
+        {
+          "label": "C",
+          "text": "Nodular mesangial (Kimmelstiel-Wilson) lesions"
+        },
+        {
+          "label": "D",
+          "text": "Splitting and lamellation of the glomerular basement membrane"
+        },
+        {
+          "label": "E",
+          "text": "Subepithelial electron-dense humps"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Poststreptococcal glomerulonephritis is an immune-complex disease that produces subepithelial humps on electron microscopy.",
+        "whyCorrect": "Poststreptococcal glomerulonephritis follows a group A strep infection such as impetigo, scarlet fever, or pharyngitis and results from deposition of immune complexes (streptococcal antigen, antibody, and complement) in the glomeruli. Electron microscopy shows subepithelial 'humps' representing these antigen-antibody complexes, and immunofluorescence highlights granular IgG and C3 deposits.",
+        "whyWrongByChoice": {
+          "A": "Foot process effacement without deposits describes minimal change disease, which is not post-infectious.",
+          "B": "Linear IgG along the basement membrane is characteristic of anti-GBM (Goodpasture) disease, not immune-complex PSGN.",
+          "C": "Nodular Kimmelstiel-Wilson lesions are a feature of diabetic nephropathy, unrelated to a preceding streptococcal infection.",
+          "D": "Basement membrane splitting is seen in hereditary Alport syndrome, not in poststreptococcal glomerulonephritis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "poststreptococcal glomerulonephritis",
+        "immune complex",
+        "nephritic syndrome"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-004",
+      "stem": "A 7-year-old boy who recently recovered from streptococcal pharyngitis develops involuntary, dance-like movements of the limbs and darting movements of the tongue. Antibodies in this condition are most likely directed against which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basal ganglia neurons"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac valve endothelium"
+        },
+        {
+          "label": "C",
+          "text": "Glomerular basement membrane"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral nerve myelin"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle acetylcholine receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sydenham chorea results from an autoimmune attack on the basal ganglia after group A streptococcal infection.",
+        "whyCorrect": "An autoimmune response against antigens in the basal ganglia produces the subsequent inflammation of Sydenham chorea, classically described as involuntary dance-like movements of the limbs and dart-like movements of the tongue. It is a neurologic consequence of acute rheumatic fever and traditionally resolves over weeks to months.",
+        "whyWrongByChoice": {
+          "B": "Antibodies against cardiac antigens produce rheumatic carditis, not the movement disorder described here.",
+          "C": "Renal injury in the post-streptococcal setting is due to immune-complex deposition, not antibodies targeting the movement centers.",
+          "D": "Peripheral nerve myelin is not the described target; chorea reflects central basal ganglia involvement.",
+          "E": "Acetylcholine receptor antibodies cause myasthenia gravis, which is unrelated to post-streptococcal chorea."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Sydenham chorea",
+        "rheumatic fever",
+        "basal ganglia"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-005",
+      "stem": "A 24-year-old man develops conjunctivitis, urethritis, and asymmetric arthritis of the knees several weeks after a diarrheal illness. Arthrocentesis yields sterile synovial fluid, and he is HLA-B27 positive. Which of the following best explains why his arthritis is not expected to respond to antibiotics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotics cannot penetrate synovial fluid"
+        },
+        {
+          "label": "B",
+          "text": "The arthritis is caused by urate crystal deposition"
+        },
+        {
+          "label": "C",
+          "text": "The bacteria have formed a protective biofilm within the joint"
+        },
+        {
+          "label": "D",
+          "text": "The causative bacteria are inherently resistant to all antibiotics"
+        },
+        {
+          "label": "E",
+          "text": "The joint inflammation is an immune response to the earlier infection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Reactive arthritis is an immune-mediated, sterile joint inflammation triggered by a prior infection, so antibiotics do not treat the joint disease.",
+        "whyCorrect": "Reactive arthritis is a classic triad of arthritis, urethritis, and conjunctivitis that follows genitourinary or gastrointestinal infections. The joint pain is not caused by the infection itself but by an immune response to it, possibly via molecular mimicry, and it is associated with HLA-B27; because the joint is sterile, antibiotics do not resolve the arthritis, which typically resolves within about 6 months.",
+        "whyWrongByChoice": {
+          "A": "Antibiotic penetration is not the issue because there are no organisms in the joint to eradicate.",
+          "B": "Crystal deposition causes gout or pseudogout, not the post-infectious triad described here.",
+          "C": "There is no live biofilm in the joint; the synovial fluid is sterile in reactive arthritis.",
+          "D": "The organisms are not uniquely pan-resistant; the joint simply is not infected, so antibiotics have no target there."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reactive arthritis",
+        "HLA-B27",
+        "molecular mimicry"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-006",
+      "stem": "A 22-year-old sexually active woman presents with fever and a warm, swollen, painful right knee. Arthrocentesis yields purulent fluid, and Gram stain reveals gram-negative diplococci. Which of the following best characterizes this arthritis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crystal-induced arthritis"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous vasculitis of the synovium"
+        },
+        {
+          "label": "C",
+          "text": "Infectious arthritis"
+        },
+        {
+          "label": "D",
+          "text": "Reactive arthritis due to molecular mimicry"
+        },
+        {
+          "label": "E",
+          "text": "Sterile immune-complex arthritis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neisseria gonorrhoeae causes an infectious (septic) arthritis in which organisms can be recovered from the joint fluid.",
+        "whyCorrect": "In contrast to Chlamydia, which triggers a reactive arthritis, N. gonorrhoeae causes an infectious (septic) arthritis, and the bacteria can be isolated directly from the synovial fluid. Finding gram-negative diplococci in purulent joint fluid confirms organisms are present within the joint.",
+        "whyWrongByChoice": {
+          "A": "Crystal-induced arthritis shows crystals, not gram-negative diplococci, in the joint aspirate.",
+          "B": "Granulomatous vasculitis is a feature of GPA, not an acute purulent gonococcal joint infection.",
+          "D": "Reactive arthritis (from Chlamydia or enteric bacteria) produces a sterile joint, whereas here diplococci are seen in the fluid.",
+          "E": "A sterile immune-complex arthritis would not show organisms on Gram stain of the synovial fluid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Neisseria gonorrhoeae",
+        "septic arthritis",
+        "diplococci"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-007",
+      "stem": "Two gram-negative diplococci are compared. One frequently remains localized to the genital mucosa, whereas the other readily enters the bloodstream from the nasopharynx to cause meningitis and a vasculitic skin rash. Which feature best explains the disseminating organism's ability to evade phagocytosis and spread?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A polysaccharide capsule"
+        },
+        {
+          "label": "B",
+          "text": "An inability to synthesize ATP"
+        },
+        {
+          "label": "C",
+          "text": "Expression of surface M protein"
+        },
+        {
+          "label": "D",
+          "text": "Formation of intracytoplasmic inclusions"
+        },
+        {
+          "label": "E",
+          "text": "Production of streptococcal pyogenic exotoxin B"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neisseria meningitidis has a polysaccharide capsule that helps it escape phagocytosis and disseminate, unlike N. gonorrhoeae.",
+        "whyCorrect": "In contrast to N. gonorrhoeae, N. meningitidis possesses a polysaccharide capsule that aids in escaping phagocytosis, so it can more readily enter the bloodstream and spread throughout the body, causing purulent meningitis, vasculitic rash, and pyogenic arthritis. N. gonorrhoeae lacks this capsule and therefore usually remains localized.",
+        "whyWrongByChoice": {
+          "B": "Inability to synthesize ATP describes Chlamydia trachomatis, not the disseminating Neisseria species.",
+          "C": "M protein is a group A streptococcal surface protein, not a feature of Neisseria.",
+          "D": "Intracytoplasmic inclusions are a feature of Chlamydia trachomatis, not of encapsulated meningococcus.",
+          "E": "Pyogenic exotoxin B (SPEB) is a streptococcal antigen involved in PSGN, not a Neisseria virulence factor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Neisseria meningitidis",
+        "polysaccharide capsule",
+        "dissemination"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-008",
+      "stem": "A 26-year-old woman has mucopurulent cervicitis. The causative organism is a gram-negative bacterium that forms intracytoplasmic inclusions and cannot be grown on standard cell-free media. Which of the following best explains why this organism must live inside host cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It cannot synthesize ATP"
+        },
+        {
+          "label": "B",
+          "text": "It depends on host enzymes to produce its capsule"
+        },
+        {
+          "label": "C",
+          "text": "It is an obligate anaerobe killed by oxygen"
+        },
+        {
+          "label": "D",
+          "text": "It lacks a cell wall entirely"
+        },
+        {
+          "label": "E",
+          "text": "It requires host antibodies for replication"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chlamydia trachomatis is an obligate intracellular pathogen because it cannot make its own ATP.",
+        "whyCorrect": "Chlamydia trachomatis is a gram-negative bacterium that cannot synthesize ATP, an essential energy molecule, so it must live inside cells as an obligate intracellular pathogen. As part of its developmental cycle it forms intracytoplasmic inclusions, and it commonly causes lower genital tract infections such as urethritis and mucopurulent cervicitis.",
+        "whyWrongByChoice": {
+          "B": "Its intracellular lifestyle is due to lack of ATP synthesis, not a need for host enzymes to build a capsule.",
+          "C": "Chlamydia is not described as an obligate anaerobe; its intracellular niche relates to energy dependence.",
+          "D": "Chlamydia does have a cell wall; its intracellular dependence stems from its inability to generate ATP.",
+          "E": "Host antibodies are part of the immune defense and are not required for chlamydial replication."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Chlamydia trachomatis",
+        "obligate intracellular",
+        "ATP"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-009",
+      "stem": "A 32-year-old African-American woman presents with several months of dry cough and dyspnea. Chest imaging shows bilateral hilar lymphadenopathy, and biopsy of a lymph node reveals non-necrotizing granulomas with multinucleated giant cells; special stains and cultures for organisms are negative. Which laboratory finding would most support the suspected diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum angiotensin-converting enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Elevated serum anti-streptolysin O antibody titer"
+        },
+        {
+          "label": "C",
+          "text": "Positive acid-fast bacilli stain on biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Positive anti-proteinase 3 antibody (PR3-ANCA)"
+        },
+        {
+          "label": "E",
+          "text": "Positive HLA-B27 tissue typing result"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sarcoidosis is a non-necrotizing granulomatous disease supported by an elevated serum ACE level.",
+        "whyCorrect": "Sarcoidosis is a systemic granulomatous disease of unknown etiology that classically affects young adults with a higher incidence in women and African-American patients, presenting with cough, dyspnea, and bilateral hilar lymphadenopathy with non-necrotizing granulomas. Because it is a diagnosis of exclusion, an elevated serum angiotensin-converting enzyme (ACE) is a helpful supportive laboratory finding.",
+        "whyWrongByChoice": {
+          "B": "An elevated anti-streptolysin O titer indicates a preceding streptococcal infection, not sarcoidosis.",
+          "C": "A positive acid-fast bacilli stain indicates mycobacterial infection and would exclude sarcoidosis.",
+          "D": "PR3-ANCA points to granulomatosis with polyangiitis, which features necrotizing granulomas and vasculitis, not the sarcoid picture.",
+          "E": "HLA-B27 is associated with reactive arthritis and spondyloarthropathies, not with sarcoidosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sarcoidosis",
+        "non-necrotizing granuloma",
+        "serum ACE"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-010",
+      "stem": "A patient with pulmonary granulomas is being evaluated for possible sarcoidosis. Which of the following findings would be INCOMPATIBLE with a diagnosis of sarcoidosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum angiotensin-converting enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "C",
+          "text": "Multinucleated giant cells"
+        },
+        {
+          "label": "D",
+          "text": "Non-necrotizing granulomas"
+        },
+        {
+          "label": "E",
+          "text": "Positive acid-fast bacilli stain"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sarcoidosis is a diagnosis of exclusion, so evidence of an infectious cause such as a positive AFB stain is incompatible with it.",
+        "whyCorrect": "The diagnosis of sarcoidosis is one of exclusion, meaning every other possibility for the granulomatous inflammation, especially infectious etiologies, must be excluded. A positive acid-fast bacilli stain indicates mycobacterial infection and would preclude a diagnosis of sarcoidosis.",
+        "whyWrongByChoice": {
+          "A": "An elevated serum ACE level supports, rather than excludes, a diagnosis of sarcoidosis.",
+          "B": "Erythema nodosum is a recognized skin manifestation of sarcoidosis and does not exclude it.",
+          "C": "Multinucleated giant cells are a typical component of sarcoid granulomas and are compatible with the diagnosis.",
+          "D": "Non-necrotizing granulomas are the classic and expected histology of sarcoidosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sarcoidosis",
+        "diagnosis of exclusion",
+        "acid-fast bacilli"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-011",
+      "stem": "A 55-year-old man presents with chronic sinusitis and epistaxis, hemoptysis with nodular lung lesions, and a rapidly rising serum creatinine with hematuria. Biopsy shows necrotizing granulomas of the respiratory tract and small-vessel vasculitis. Which of the following autoantibodies is most likely to be positive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-centromere"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA"
+        },
+        {
+          "label": "C",
+          "text": "Anti-glomerular basement membrane"
+        },
+        {
+          "label": "D",
+          "text": "Anti-proteinase 3 (PR3-ANCA)"
+        },
+        {
+          "label": "E",
+          "text": "Anti-streptolysin O"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Granulomatosis with polyangiitis is a necrotizing granulomatous vasculitis mediated by anti-proteinase 3 (PR3-ANCA).",
+        "whyCorrect": "Granulomatosis with polyangiitis is characterized by the clinical triad of acute necrotizing granulomas of the respiratory tract, granulomatous vasculitis of small-to-medium vessels, and rapidly progressive glomerulonephritis. It is an autoimmune disease mediated by anti-proteinase 3 (PR3-ANCA, previously c-ANCA).",
+        "whyWrongByChoice": {
+          "A": "Anti-centromere antibodies are associated with limited scleroderma (CREST), not GPA.",
+          "B": "Anti-double-stranded DNA is specific for systemic lupus erythematosus, not GPA.",
+          "C": "Anti-GBM antibodies cause Goodpasture syndrome, which lacks the necrotizing respiratory granulomas of GPA.",
+          "E": "Anti-streptolysin O reflects prior streptococcal infection and is unrelated to granulomatous vasculitis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "granulomatosis with polyangiitis",
+        "PR3-ANCA",
+        "vasculitis"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa17-012",
+      "stem": "A skin biopsy demonstrates epithelioid histiocytes and multinucleated giant cells surrounding flake-like material that is refractile and appears bright under polarized light. This finding is most consistent with which of the following clinical histories?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A sexually transmitted Chlamydia infection"
+        },
+        {
+          "label": "B",
+          "text": "A tick bite transmitting a spirochete"
+        },
+        {
+          "label": "C",
+          "text": "Chronic occupational asbestos inhalation"
+        },
+        {
+          "label": "D",
+          "text": "Injection of drugs contaminated with talc"
+        },
+        {
+          "label": "E",
+          "text": "Recent group A streptococcal pharyngitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A foreign body granuloma with birefringent flake-like material and giant cells is characteristic of injected talc from IV drug use.",
+        "whyCorrect": "Foreign body granulomas form around non-digestible material and are identified histologically by histiocytic inflammation with epithelioid cells and multinucleated giant cells surrounding the material without a T-cell-mediated response. Inhaled or injected drugs such as heroin or cocaine can introduce talc into the tissue, and under polarized light the birefringent talc appears bright, exactly as described.",
+        "whyWrongByChoice": {
+          "A": "Chlamydia infection is associated with reactive arthritis and cervicitis, not a foreign body granulomatous reaction to injected material.",
+          "B": "A spirochetal infection can cause a necrotizing infectious granuloma but would not produce birefringent flake-like foreign material.",
+          "C": "The described flake-like birefringent material surrounded by giant cells fits injected talc, not the pleural disease produced by asbestos.",
+          "E": "Group A streptococcal pharyngitis leads to immune-mediated sequelae such as rheumatic fever and PSGN, not a birefringent foreign body granuloma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "foreign body granuloma",
+        "talc",
+        "IV drug use"
+      ],
+      "topicId": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
+      "topicName": "Immune-mediated Damage from Infections and Granulomatous Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-001",
+      "stem": "A 4-year-old boy has a history of recurrent pneumonia, a liver abscess, and osteomyelitis caused by catalase-positive organisms. Biopsy of an infected lymph node shows granulomatous inflammation. Which of the following best explains this child's recurrent infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective NADPH oxidase"
+        },
+        {
+          "label": "B",
+          "text": "Deficiency of myeloperoxidase in neutrophil granules"
+        },
+        {
+          "label": "C",
+          "text": "Impaired integrin-mediated leukocyte adhesion"
+        },
+        {
+          "label": "D",
+          "text": "Markedly reduced circulating neutrophil counts"
+        },
+        {
+          "label": "E",
+          "text": "Mutation in the LYST lysosomal trafficking regulator gene"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic granulomatous disease results from defective NADPH oxidase, crippling reactive-oxygen-species-dependent intracellular killing.",
+        "whyCorrect": "In chronic granulomatous disease, phagocytes cannot generate reactive oxygen species in the phagolysosome because NADPH oxidase is defective. Intracellular killing by macrophages and neutrophils fails, so patients suffer recurrent pneumonia, abscesses, lymphadenitis, skin infections, and osteomyelitis, and the defective macrophages accumulate as granulomatous inflammation.",
+        "whyWrongByChoice": {
+          "B": "Myeloperoxidase deficiency prevents conversion of hydrogen peroxide to hypochlorous acid but is usually asymptomatic and does not classically produce granulomas.",
+          "C": "Leukocyte adhesion deficiency impairs integrin-mediated migration and produces infections with absent pus, not reactive-oxygen-species failure with granulomas.",
+          "D": "Severe congenital neutropenia is defined by too few neutrophils; here the problem is defective killing by phagocytes that are present, as evidenced by granuloma formation.",
+          "E": "A LYST mutation causes Chediak-Higashi syndrome, which adds partial albinism, neurologic defects, and bleeding rather than isolated granulomatous infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "innate-immunodeficiency",
+        "chronic-granulomatous-disease",
+        "NADPH-oxidase"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-002",
+      "stem": "A 2-year-old child has partial albinism of the skin and hair, recurrent pyogenic infections, easy bruising, and progressive neurologic dysfunction. A peripheral blood smear shows leukocytes containing abnormally large cytoplasmic granules. A defect in which of the following is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-2 integrin leukocyte adhesion molecules"
+        },
+        {
+          "label": "B",
+          "text": "Lysosomal trafficking regulator protein"
+        },
+        {
+          "label": "C",
+          "text": "The complement component C3 protein"
+        },
+        {
+          "label": "D",
+          "text": "The myeloperoxidase granule enzyme"
+        },
+        {
+          "label": "E",
+          "text": "The phagocyte NADPH oxidase complex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chediak-Higashi syndrome arises from a defect in the LYST lysosomal trafficking regulator, producing giant granules that cannot release their contents.",
+        "whyCorrect": "Chediak-Higashi syndrome is caused by mutations in the LYST gene encoding a lysosomal trafficking regulator protein. Neutrophils, natural killer cells, and cytotoxic T lymphocytes cannot release toxic granule contents, so patients are vulnerable to infection. Melanosomes cannot release pigment (partial albinism), platelet dense granules cannot be released (bleeding), and lysosomal dysfunction in neurons and glia produces neurologic defects; the giant granules are the diagnostic clue.",
+        "whyWrongByChoice": {
+          "A": "Integrin adhesion defects cause leukocyte adhesion deficiency with impaired pus formation, not pigment and platelet-granule abnormalities.",
+          "C": "Complement deficiency impairs opsonization and lysis but does not cause giant leukocyte granules or albinism.",
+          "D": "Myeloperoxidase deficiency is typically asymptomatic and does not produce albinism, neurologic disease, or giant granules.",
+          "E": "An NADPH oxidase defect causes chronic granulomatous disease with granulomas, not albinism, giant granules, and bleeding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "innate-immunodeficiency",
+        "chediak-higashi",
+        "LYST"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-003",
+      "stem": "A newborn is diagnosed with an inherited disorder detected at birth and develops rapidly spreading soft-tissue bacterial infections. Despite severe infection, the involved tissues characteristically show no pus. Which of the following abnormalities best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent membrane attack complex formation"
+        },
+        {
+          "label": "B",
+          "text": "Deficient hypochlorous acid generation"
+        },
+        {
+          "label": "C",
+          "text": "Failure of oxidative burst within phagolysosomes"
+        },
+        {
+          "label": "D",
+          "text": "Inability to release cytotoxic granule contents"
+        },
+        {
+          "label": "E",
+          "text": "Markedly reduced neutrophil counts"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Severe congenital neutropenia is defined by a dramatic reduction in neutrophils, so pus is absent even during serious infection.",
+        "whyCorrect": "Severe congenital neutropenia is a group of inherited disorders with markedly impaired neutrophil counts, usually diagnosed at birth. Because neutrophils are the key cellular component of a purulent inflammatory response, pus is characteristically absent, and bacteria can spread quickly through soft tissue into the bloodstream.",
+        "whyWrongByChoice": {
+          "A": "Absent membrane attack complex is a complement defect affecting lysis and opsonization, not neutrophil numbers or pus formation.",
+          "B": "Deficient hypochlorous acid generation is myeloperoxidase deficiency, which is usually asymptomatic and does not abolish pus.",
+          "C": "A defective oxidative burst describes chronic granulomatous disease; those neutrophils are present and form granulomas rather than being absent.",
+          "D": "Inability to release granule contents describes Chediak-Higashi syndrome, which also features albinism and neurologic disease."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "innate-immunodeficiency",
+        "severe-congenital-neutropenia",
+        "neutrophils"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-004",
+      "stem": "A 52-year-old man with poorly controlled diabetes mellitus develops a severe Candida albicans infection. Laboratory testing reveals an inherited deficiency of a heme-containing enzyme normally present in neutrophil granules; the patient has otherwise been asymptomatic throughout life. Which enzymatic reaction is most likely impaired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleavage of complement C3 into C3b"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of hydrogen peroxide to hypochlorous acid"
+        },
+        {
+          "label": "C",
+          "text": "Digestion of bacterial cell walls by lysozyme"
+        },
+        {
+          "label": "D",
+          "text": "Polymerization of actin filaments during phagocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Reduction of molecular oxygen to superoxide by NADPH oxidase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Myeloperoxidase deficiency prevents conversion of hydrogen peroxide to hypochlorous acid, usually asymptomatic but linked to Candida infection in diabetics.",
+        "whyCorrect": "Myeloperoxidase is a heme-containing enzyme in neutrophil granules that converts hydrogen peroxide to hypochlorous acid. Without it, affected cells compensate with other antimicrobial substances, so most patients are asymptomatic; however, severe Candida albicans infections are reported, particularly in the setting of diabetes.",
+        "whyWrongByChoice": {
+          "A": "C3 cleavage is a complement function; its deficiency impairs opsonization broadly rather than presenting as isolated Candida infection.",
+          "C": "Lysozyme digests bacterial cell walls and is not the heme-containing granule enzyme described here.",
+          "D": "Actin polymerization supports phagocytic engulfment and is not a heme-dependent oxidative killing step.",
+          "E": "Impaired superoxide generation by NADPH oxidase defines chronic granulomatous disease, which is not usually asymptomatic and produces granulomas."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "innate-immunodeficiency",
+        "myeloperoxidase-deficiency",
+        "candida"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-005",
+      "stem": "A virus infecting a host epithelial cell downregulates expression of MHC class I molecules to avoid recognition by cytotoxic T lymphocytes. Despite this, the infected cell is still killed. Which of the following cells is most likely responsible, and by what mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD8-positive T cells recognizing viral peptide on MHC class I"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophils releasing major basic protein onto the cell surface"
+        },
+        {
+          "label": "C",
+          "text": "Natural killer cells detecting absent MHC class I"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils generating hypochlorous acid within phagolysosomes"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cells secreting neutralizing antibodies against the viral capsid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Natural killer cells sense loss of MHC class I and kill virus-infected cells non-specifically via perforin and granzymes.",
+        "whyCorrect": "A common viral evasion strategy is downregulation of class I MHC to escape cytotoxic T cells. Natural killer cells sense the lack of class I MHC and kill the virus-infected cell non-specifically by secreting perforins and proteolytic granzymes, driving the cell into apoptosis.",
+        "whyWrongByChoice": {
+          "A": "Cytotoxic CD8 T cells require viral peptide displayed on MHC class I, which is precisely what this virus has downregulated to evade them.",
+          "B": "Eosinophils act mainly against helminths and are not the effectors that kill MHC-class-I-negative virus-infected cells.",
+          "D": "Neutrophil oxidative killing targets phagocytosed microbes, not host cells that have lost surface MHC class I.",
+          "E": "Antibodies neutralize extracellular virus and opsonize, but they do not exploit the absence of MHC class I to kill an infected cell."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "innate-immunity",
+        "natural-killer-cells",
+        "MHC-class-I",
+        "viral-evasion"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-006",
+      "stem": "During replication, a virus generates double-stranded RNA within an infected cell. In response, the cell produces and releases interferons that act on neighboring cells to establish an antiviral state. Which of the following best describes how these interferons block viral protein synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They activate enzymes that degrade mRNA and inhibit eIF-2"
+        },
+        {
+          "label": "B",
+          "text": "They bind viral gp120 and prevent attachment to CD4 receptors"
+        },
+        {
+          "label": "C",
+          "text": "They cross-link viral capsid proteins to prevent uncoating"
+        },
+        {
+          "label": "D",
+          "text": "They insert a membrane attack complex into the viral envelope"
+        },
+        {
+          "label": "E",
+          "text": "They opsonize virions to enhance phagocytosis by macrophages"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Interferons induce enzymes that, in the presence of double-stranded RNA, halt protein synthesis and thereby block viral replication.",
+        "whyCorrect": "Interferons are released from infected cells in response to double-stranded RNA present during viral replication. They activate 2'-5' oligoadenylate synthetase, which induces a ribonuclease that degrades mRNA, and they activate protein kinase R, which inhibits the initiation factor eIF-2. Both actions stop protein synthesis and prevent production of new virus.",
+        "whyWrongByChoice": {
+          "B": "Blocking gp120-CD4 binding is a mechanism relevant to HIV entry, not the antiviral action of interferons.",
+          "C": "Interferons do not cross-link capsid proteins; they act intracellularly to shut down translation.",
+          "D": "The membrane attack complex is a complement structure that lyses cells and microbes; it is not how interferons work.",
+          "E": "Opsonization is a complement- and antibody-mediated process, not an interferon-induced block of protein synthesis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "innate-immunity",
+        "interferon",
+        "antiviral",
+        "double-stranded-RNA"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-007",
+      "stem": "A pregnant woman develops a febrile illness after eating unpasteurized dairy products, and her neonate is subsequently born with disseminated infection and meningitis. The responsible gram-positive bacillus survives inside host cells and spreads directly from one cell to the next without re-entering the extracellular space. Which of the following mechanisms best accounts for this intracellular survival and spread?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A thick polysaccharide capsule blocks complement deposition and opsonization on the bacterial surface"
+        },
+        {
+          "label": "B",
+          "text": "Continuous antigenic variation of surface pili avoids recognition by host antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Downregulation of MHC class I on the infected cell prevents cytotoxic T-cell killing"
+        },
+        {
+          "label": "D",
+          "text": "Listeriolysin O ruptures the phagosome and actin polymerization propels the organism between cells"
+        },
+        {
+          "label": "E",
+          "text": "Surface protein A binds the Fc portion of IgG and prevents opsonization by phagocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Listeria monocytogenes escapes the phagosome via listeriolysin O and uses actin-based motility to spread cell-to-cell.",
+        "whyCorrect": "Listeria monocytogenes is a gram-positive bacillus acquired from dairy and milk products that can cross the placenta and cause disseminated neonatal infection and meningitis. After being taken up, it escapes the phagosome using listeriolysin O, a pore-forming toxin, before phagolysosomal killing occurs. It then propels itself through the cell by polymerizing actin filaments (ActA), protruding into and entering the next cell, so it spreads without re-entering the extracellular space.",
+        "whyWrongByChoice": {
+          "A": "A polysaccharide capsule resists phagocytosis extracellularly and does not explain cytoplasmic escape and actin-based spread.",
+          "B": "Antigenic variation of pili is a Neisseria strategy against antibodies, unrelated to phagosomal escape.",
+          "C": "MHC class I downregulation is a viral evasion tactic, not the mechanism used by this intracellular bacterium.",
+          "E": "Protein A is a Staphylococcus aureus mechanism that blocks opsonization, not intracellular motility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathogen-evasion",
+        "listeria",
+        "listeriolysin-O",
+        "actin"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-008",
+      "stem": "A strain of Staphylococcus aureus expresses a surface protein that binds the Fc portion of IgG antibodies. As a result, IgG bound to the bacterium can no longer engage Fc receptors on neutrophils and macrophages. Which of the following is the most direct consequence of this mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antigenic variation of the bacterial surface proteins"
+        },
+        {
+          "label": "B",
+          "text": "Failure of interferon-induced antiviral protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Impaired opsonic phagocytosis of the organism"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of phagolysosome formation within macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Loss of natural killer cell recognition of infected host cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Staphylococcal Protein A binds IgG by its Fc region, preventing the antibody from directing phagocytes to the bacterium.",
+        "whyCorrect": "Staphylococcus aureus expresses Protein A, which binds the Fc portion of IgG. Because the Fc region is what normally engages Fc receptors on neutrophils and macrophages, this binding prevents the bound IgG from triggering phagocytosis, so antibody-mediated (opsonic) clearance of the bacterium is impaired.",
+        "whyWrongByChoice": {
+          "A": "Antigenic variation involves changing surface antigens; Protein A instead blocks the antibody's effector function directly.",
+          "B": "Interferon-induced antiviral responses are unrelated to this antibody-blocking mechanism used against a bacterium.",
+          "D": "Inhibiting phagolysosome formation is a strategy of intracellular organisms such as mycobacteria, not the effect of Protein A.",
+          "E": "Natural killer cell recognition depends on MHC class I status of host cells, not on IgG binding to a bacterial surface protein."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathogen-evasion",
+        "staphylococcus-aureus",
+        "protein-A",
+        "opsonization"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-009",
+      "stem": "A patient develops repeated infections with Neisseria despite generating antibodies against the organism during each episode. Analysis shows that the bacterium expresses new pilin surface proteins over time by placing different pilin coding sequences next to a single promoter. Which of the following best describes the mechanism responsible for this immune evasion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antigenic variation through homologous recombination"
+        },
+        {
+          "label": "B",
+          "text": "Binding of the Fc portion of IgG by a surface protein"
+        },
+        {
+          "label": "C",
+          "text": "Downregulation of host MHC class I molecules"
+        },
+        {
+          "label": "D",
+          "text": "Escape from the phagosome using a pore-forming toxin"
+        },
+        {
+          "label": "E",
+          "text": "Secretion of a polysaccharide capsule that blocks phagocytosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neisseria evades adaptive immunity by antigenic variation, using homologous recombination to swap pilin variants next to its promoter.",
+        "whyCorrect": "Neisseria carries 10-15 silent pilin protein variants and expresses only the one situated next to the promoter. Through homologous recombination, a new pilin coding sequence is placed next to the promoter, so a new pilin protein is expressed that antibodies raised against the previous variant no longer recognize. This antigenic variation allows the organism to escape the antibody response.",
+        "whyWrongByChoice": {
+          "B": "Binding the Fc portion of IgG is the Protein A mechanism of Staphylococcus aureus, not pilin antigenic variation.",
+          "C": "MHC class I downregulation is a viral strategy against T cells, not a bacterial antibody-evasion mechanism.",
+          "D": "Pore-forming phagosomal escape is used by Listeria; it does not change surface antigens.",
+          "E": "A polysaccharide capsule resists phagocytosis but does not explain the sequential change in pilin antigens described here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathogen-evasion",
+        "neisseria",
+        "antigenic-variation",
+        "pilin"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-010",
+      "stem": "A virus uses its surface glycoprotein gp120, together with the chemokine co-receptors CCR5 and CXCR4, to bind and enter a specific population of host cells. Over time, destruction of these cells leaves the patient in an immunosuppressed state and vulnerable to opportunistic infections. Which host cells does this virus preferentially infect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar macrophages exclusively"
+        },
+        {
+          "label": "B",
+          "text": "CD4-positive helper T cells"
+        },
+        {
+          "label": "C",
+          "text": "Mature B lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HIV shows tropism for CD4-positive helper T cells because gp120 binds CD4 with the co-receptors CCR5 and CXCR4.",
+        "whyCorrect": "Human immunodeficiency virus utilizes gp120 to bind CD4 and the chemokine co-receptors CCR5 and CXCR4 to enter and infect the cell. This gives the virus tropism for CD4-positive cells, known as helper T cells. Their infection and destruction leaves the patient immunosuppressed and vulnerable to other infections.",
+        "whyWrongByChoice": {
+          "A": "Although macrophages can be infected, the specific tropism described by gp120 binding to CD4 with CCR5/CXCR4 defines helper T cells, not macrophages exclusively.",
+          "C": "Mature B lymphocytes are not the CD4-positive helper T cells targeted by gp120 and its co-receptors.",
+          "D": "Natural killer cells lack the CD4-based entry receptor and are not the target population defined by gp120 tropism.",
+          "E": "Neutrophils are not CD4-positive helper T cells and are not preferentially infected via gp120-CD4 binding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathogen-evasion",
+        "HIV",
+        "gp120",
+        "CD4-tropism"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-011",
+      "stem": "A pathogenic fungus proliferating in a patient's tissues secretes abundant capsular material, and a co-infecting bacterium is likewise surrounded by a thick polysaccharide coat. Neither organism is efficiently cleared by neutrophils or macrophages. Which of the following best explains how the capsule promotes immune evasion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds the Fc portion of IgG to block Fc receptors"
+        },
+        {
+          "label": "B",
+          "text": "It degrades host mRNA to block protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "It downregulates MHC class I on host cells"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits interferon release from infected cells"
+        },
+        {
+          "label": "E",
+          "text": "It interferes with complement deposition and phagocytosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Polysaccharide capsules interfere with complement deposition and phagocytosis, letting encapsulated microbes evade professional phagocytes.",
+        "whyCorrect": "Polysaccharide capsules interfere with complement deposition and phagocytosis. Encapsulated bacteria such as Staphylococcus aureus and Streptococcus pneumoniae and certain fungi like Cryptococcus neoformans exploit this; Cryptococcus even secretes capsule material to inhibit immune attack, allowing the organisms to resist engulfment by neutrophils and macrophages.",
+        "whyWrongByChoice": {
+          "A": "Binding the Fc portion of IgG is the staphylococcal Protein A mechanism, not a property of the polysaccharide capsule.",
+          "B": "Degrading host mRNA describes an interferon-induced antiviral action, not the function of a microbial capsule.",
+          "C": "MHC class I downregulation is a strategy of viruses, not of encapsulated bacteria and fungi.",
+          "D": "Inhibiting interferon release is a viral tactic and does not explain capsule-mediated resistance to phagocytosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pathogen-evasion",
+        "capsule",
+        "complement",
+        "phagocytosis"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa19-012",
+      "stem": "A child has recurrent bacterial infections in which the affected sites conspicuously fail to form pus, and neutrophils are found to remain within the bloodstream rather than migrating into infected tissues. Which of the following defects best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent complement-mediated opsonization of invading microbes"
+        },
+        {
+          "label": "B",
+          "text": "Defective NADPH oxidase activity within the phagolysosome"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of the neutrophil granule enzyme myeloperoxidase"
+        },
+        {
+          "label": "D",
+          "text": "Impaired integrin-mediated adhesion of leukocytes to endothelium"
+        },
+        {
+          "label": "E",
+          "text": "Inability to release cytotoxic granules because of a LYST gene mutation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Leukocyte adhesion deficiency impairs integrin-mediated adhesion, so leukocytes cannot migrate into tissue and pus fails to form.",
+        "whyCorrect": "For leukocytes to leave the bloodstream and migrate into tissues, integrins are needed for adhesion to endothelial cells. In leukocyte adhesion deficiency, impaired integrin function prevents this adhesion and migration, so infections recur and the affected sites fail to form pus despite serious infection.",
+        "whyWrongByChoice": {
+          "A": "Absent complement opsonization reduces microbial coating and lysis but does not trap neutrophils in the bloodstream.",
+          "B": "A defective oxidative burst causes chronic granulomatous disease; those neutrophils reach tissue and form granulomas rather than failing to migrate.",
+          "C": "Myeloperoxidase deficiency impairs hypochlorous acid generation and is usually asymptomatic, not a defect of leukocyte migration.",
+          "E": "A LYST mutation causes Chediak-Higashi syndrome with giant granules, albinism, and bleeding, not an isolated adhesion/migration defect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "innate-immunodeficiency",
+        "leukocyte-adhesion-deficiency",
+        "integrins"
+      ],
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-001",
+      "stem": "A 45-year-old man with several months of cough and weight loss undergoes lung biopsy. When the tissue is stained and then treated with acid-alcohol, slender rod-shaped organisms retain the stain and appear pink. Which structural feature is most responsible for this staining property?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A lipopolysaccharide-rich outer membrane"
+        },
+        {
+          "label": "B",
+          "text": "A spiral, corkscrew-shaped body"
+        },
+        {
+          "label": "C",
+          "text": "A thick polysaccharide capsule"
+        },
+        {
+          "label": "D",
+          "text": "A waxy cell wall containing mycolic acid"
+        },
+        {
+          "label": "E",
+          "text": "The ability to form dormant endospores"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "M. tuberculosis is acid-fast because of mycolic acid in its cell wall.",
+        "whyCorrect": "M. tuberculosis is an aerobic rod with a waxy cell wall that includes mycolic acid. This feature causes the organism to retain stain after treatment with acid-alcohol, which is why it is called acid-fast and is highlighted by the acid-fast bacilli (AFB) special stain.",
+        "whyWrongByChoice": {
+          "A": "A lipopolysaccharide outer membrane characterizes gram-negative bacteria, not the acid-fast mycobacterial wall.",
+          "B": "Corkscrew morphology describes the spirochete Treponema pallidum, not M. tuberculosis.",
+          "C": "A polysaccharide capsule is a virulence feature of other bacteria and does not account for acid-fastness.",
+          "E": "M. tuberculosis does not form endospores; its stain retention is due to mycolic acid."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tuberculosis",
+        "microbiology",
+        "acid-fast"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-002",
+      "stem": "M. tuberculosis is phagocytosed by a nonactivated alveolar macrophage but is not destroyed and instead replicates inside the cell. Which mechanism best explains how the organism avoids intracytoplasmic killing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It forms spores that resist lysosomal enzymes"
+        },
+        {
+          "label": "B",
+          "text": "It integrates its genome into the host cell DNA"
+        },
+        {
+          "label": "C",
+          "text": "It prevents phagolysosome formation"
+        },
+        {
+          "label": "D",
+          "text": "It secretes an IgA protease that cleaves mucosal antibody"
+        },
+        {
+          "label": "E",
+          "text": "It uses corkscrew motility to escape into the cytoplasm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "M. tuberculosis survives in macrophages by blocking phagolysosome maturation.",
+        "whyCorrect": "After entering nonactivated macrophages via mannose-binding lectin and CR3, M. tuberculosis avoids intracytoplasmic killing by preventing phagolysosomal formation and by halting acidification and reactive oxygen species production. It is then left to replicate within the protection of the intracellular vesicle.",
+        "whyWrongByChoice": {
+          "A": "M. tuberculosis does not form spores; it blocks phagolysosome function instead.",
+          "B": "Genome integration is characteristic of certain viruses, not of M. tuberculosis.",
+          "D": "IgA protease is a mucosal evasion strategy of other pathogens and is not the mechanism described here.",
+          "E": "Corkscrew motility describes Treponema pallidum, not intracellular mycobacterial survival."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tuberculosis",
+        "immune-evasion",
+        "macrophage"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-003",
+      "stem": "A 52-year-old woman with active pulmonary tuberculosis has a lung lesion resected. On gross examination the lesion is friable, cheesy, and white; microscopically there is central necrosis surrounded by epithelioid histiocytes and multinucleated giant cells. Which term best describes this classic histologic feature of active tuberculosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granuloma"
+        },
+        {
+          "label": "B",
+          "text": "Condylomata lata"
+        },
+        {
+          "label": "C",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "D",
+          "text": "Fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Gumma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Caseating granulomas are the classic histologic finding of active tuberculosis.",
+        "whyCorrect": "The ongoing immune attack against M. tuberculosis within granulomas produces necrosis, manifesting as caseating granulomas. These are friable, cheesy, and white grossly, and show central necrosis with epithelioid histiocytes and giant cells microscopically.",
+        "whyWrongByChoice": {
+          "B": "Condylomata lata are elevated plaques of secondary syphilis, unrelated to tuberculosis.",
+          "C": "Erythema nodosum refers to painful red nodules of the lower extremities that may rarely accompany primary tuberculosis, not the granuloma itself.",
+          "D": "Fibrosis is a nonspecific reparative change seen in many processes, including healing mycobacterial disease, but it is not the classic active lesion.",
+          "E": "Gummas are granulomatous nodules of tertiary syphilis, not tuberculosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tuberculosis",
+        "histology",
+        "granuloma"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-004",
+      "stem": "A healthcare worker receives an intradermal injection of tuberculin. Because she was exposed to tuberculosis in the past, an erythematous, indurated reaction develops at the injection site 48 to 72 hours later. This reaction is mediated by which type of hypersensitivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An innate complement-mediated response"
+        },
+        {
+          "label": "B",
+          "text": "Type I (IgE-mediated) hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type II (antibody-mediated cytotoxic) hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type III (immune complex) hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "Type IV (cell-mediated) hypersensitivity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The tuberculin (PPD) skin test reflects a Type IV, Th1 cell-mediated response.",
+        "whyCorrect": "If a person has been exposed to tuberculosis, injecting tuberculin triggers a cell-mediated Th1-cell response, a Type IV hypersensitivity reaction, producing an erythematous reaction at the injection site within 48 to 72 hours.",
+        "whyWrongByChoice": {
+          "A": "The reaction is an adaptive T-cell response, not a purely innate complement-mediated one.",
+          "B": "Type I reactions are immediate and IgE-mediated, occurring within minutes, not over 48 to 72 hours.",
+          "C": "Type II involves antibody directed against cell-surface antigens, which is not the basis of the delayed skin test.",
+          "D": "Type III involves immune complex deposition and does not explain the delayed T-cell reaction to tuberculin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tuberculosis",
+        "immunology",
+        "hypersensitivity"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-005",
+      "stem": "After tuberculosis antigens drain into lymph nodes, a pro-inflammatory cytokine stimulates naive T-cells to differentiate into T helper type 1 (Th1) cells, which then coordinate the antimycobacterial response. Which cytokine drives this Th1 differentiation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-10"
+        },
+        {
+          "label": "B",
+          "text": "IL-12"
+        },
+        {
+          "label": "C",
+          "text": "IL-4"
+        },
+        {
+          "label": "D",
+          "text": "IL-5"
+        },
+        {
+          "label": "E",
+          "text": "Transforming growth factor-beta (TGF-beta)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IL-12 promotes differentiation of naive T-cells into Th1 cells in tuberculosis.",
+        "whyCorrect": "Tuberculosis antigens draining into lymph nodes trigger production of pro-inflammatory cytokines such as IL-12, which stimulates naive T-cells to differentiate into Th1 cells. Th1 cells then produce IFN-gamma to activate macrophages.",
+        "whyWrongByChoice": {
+          "A": "IL-10 is generally immunosuppressive and dampens, rather than drives, the Th1 response.",
+          "C": "IL-4 drives Th2 differentiation, which is not the protective response emphasized against M. tuberculosis.",
+          "D": "IL-5 supports eosinophil responses, not Th1 differentiation.",
+          "E": "TGF-beta has regulatory and fibrotic roles and does not promote Th1 differentiation here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tuberculosis",
+        "cytokines",
+        "Th1"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-006",
+      "stem": "A 39-year-old man with HIV develops fever, night sweats, weight loss, and hemoptysis years after a resolved primary tuberculosis infection. Chest imaging shows cavitary disease. In this reactivation (secondary) tuberculosis, the lesions most characteristically involve which location?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The lung bases with a peripheral wedge shape"
+        },
+        {
+          "label": "B",
+          "text": "The pleural space without lung involvement"
+        },
+        {
+          "label": "C",
+          "text": "The right hilar lymph nodes only"
+        },
+        {
+          "label": "D",
+          "text": "The upper apices of the lungs"
+        },
+        {
+          "label": "E",
+          "text": "The vertebral bodies of the spine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Secondary (reactivation) tuberculosis characteristically involves the upper lung apices.",
+        "whyCorrect": "Secondary pulmonary tuberculosis tends to manifest in the upper apices of the lungs. Because the immune system is already primed, it prompts a robust response with erosion and cavitation of lung parenchyma and fibrosis, and symptoms include night sweats, weight loss, and hemoptysis.",
+        "whyWrongByChoice": {
+          "A": "A basilar wedge-shaped lesion is not the classic pattern of secondary tuberculosis.",
+          "B": "Pleural effusions can occur, but secondary disease characteristically involves the upper lung apices, not isolated pleura.",
+          "C": "Right hilar lymphadenopathy is a feature of primary tuberculosis, not the apical cavitary lesions of reactivation.",
+          "E": "Vertebral involvement describes Pott disease, an extrapulmonary form, not the typical apical reactivation site."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tuberculosis",
+        "secondary-tuberculosis",
+        "reactivation"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-007",
+      "stem": "A 60-year-old immunocompromised man dies of an overwhelming infection. At autopsy the spleen, liver, and bone marrow are studded with numerous small tan-white tubercles resembling scattered millet seeds. Which process best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "B",
+          "text": "Latent tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Miliary tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Pott disease"
+        },
+        {
+          "label": "E",
+          "text": "Primary tuberculosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Widespread millet-seed-like tubercles across multiple organs indicate miliary tuberculosis.",
+        "whyCorrect": "The term miliary refers to the resemblance to millet seeds and describes unchecked tuberculosis that accesses the lymphatic and venous blood supplies, seeding organs such as the lung, liver, bone marrow, spleen, adrenal glands, or kidneys. Progressive dissemination throughout the bloodstream to multiple organs is termed systemic miliary tuberculosis.",
+        "whyWrongByChoice": {
+          "A": "Erythema nodosum refers to tender skin nodules, not disseminated organ tubercles.",
+          "B": "Latent tuberculosis is asymptomatic and contained, without widespread organ seeding.",
+          "D": "Pott disease is isolated vertebral tuberculosis, not multiorgan seeding.",
+          "E": "Primary tuberculosis is the first, often unrecognized infection and does not usually produce disseminated millet-seed nodules."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tuberculosis",
+        "miliary",
+        "dissemination"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-008",
+      "stem": "A 24-year-old man presents with a genital lesion that appeared about three weeks after unprotected intercourse. Darkfield examination of the lesion shows motile spirochetes. Which of the following descriptions of the lesion is most consistent with primary syphilis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A maculopapular rash of the palms and soles"
+        },
+        {
+          "label": "B",
+          "text": "A solitary painless ulcer with a sharp border"
+        },
+        {
+          "label": "C",
+          "text": "Annular plaques of the face"
+        },
+        {
+          "label": "D",
+          "text": "Multiple painful vesicles"
+        },
+        {
+          "label": "E",
+          "text": "Raised, moist tan-white plaques of intertriginous areas"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The chancre, a solitary painless ulcer, is the key finding of primary syphilis.",
+        "whyCorrect": "The chancre is the key clinical finding in primary syphilis. It is usually solitary, occurs at the site of the original infection (often the genitals), and is painless and erythematous, typically with a sharp border and an ulcerative base, appearing about three weeks after infection.",
+        "whyWrongByChoice": {
+          "A": "A maculopapular rash of the palms and soles is characteristic of secondary syphilis.",
+          "C": "Annular plaques of the face are described in secondary syphilis.",
+          "D": "Multiple painful vesicles suggest herpes simplex virus infection, not the painless syphilitic chancre.",
+          "E": "Raised moist plaques of intertriginous areas are condylomata lata, a feature of secondary syphilis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "syphilis",
+        "primary-syphilis",
+        "chancre"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-009",
+      "stem": "A 30-year-old woman develops a symmetric maculopapular rash involving the palms and soles, along with moist elevated plaques in the anogenital region and mild fever, sore throat, and lymphadenopathy. Her genital ulcer resolved several weeks earlier. Which stage of syphilis does this presentation represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital syphilis"
+        },
+        {
+          "label": "B",
+          "text": "Latent syphilis"
+        },
+        {
+          "label": "C",
+          "text": "Primary syphilis"
+        },
+        {
+          "label": "D",
+          "text": "Secondary syphilis"
+        },
+        {
+          "label": "E",
+          "text": "Tertiary syphilis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A palm-and-sole rash with condylomata lata and constitutional symptoms marks secondary syphilis.",
+        "whyCorrect": "Secondary syphilis manifests 2 to 8 weeks after the chancre and is characterized by multiple lesions, including maculopapular rashes often of the palms and soles, and condylomata lata (elevated plaques of intertriginous areas). Constitutional signs include sore throat, lymphadenopathy, mild fever, and malaise.",
+        "whyWrongByChoice": {
+          "A": "Congenital syphilis results from vertical transmission to a fetus, not this adult presentation.",
+          "B": "Latent syphilis is continued infection in the absence of clinical symptoms, not an active rash.",
+          "C": "Primary syphilis is defined by a single painless chancre, which had already resolved in this patient.",
+          "E": "Tertiary syphilis appears years later with gummas, cardiovascular, or neurologic disease, not an acute rash."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "syphilis",
+        "secondary-syphilis",
+        "condylomata-lata"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-010",
+      "stem": "A 58-year-old man with a remote history of untreated syphilis is found to have a new diastolic murmur of aortic regurgitation and imaging showing dilation of the aortic root and an ascending aortic aneurysm. Which process best accounts for these cardiovascular findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortitis"
+        },
+        {
+          "label": "B",
+          "text": "Coronary atherosclerotic plaque rupture"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary arterial hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatic scarring producing mitral stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Viral pericarditis with effusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cardiovascular tertiary syphilis causes aortitis with root dilation, regurgitation, and aneurysm.",
+        "whyCorrect": "Cardiovascular syphilis accounts for most cases of tertiary syphilis. Inflammation of the aorta leads to dilation of the aortic root and arch, resulting in valvular insufficiency and aortic regurgitation, and aneurysms can form in the aorta, predisposing to dissection.",
+        "whyWrongByChoice": {
+          "B": "Although coronary ostial stenosis can occur in syphilis, atherosclerotic plaque rupture is a separate mechanism and does not explain the aortic root dilation and regurgitation.",
+          "C": "Pulmonary arterial hypertension does not produce aortic root dilation or aortic regurgitation.",
+          "D": "Mitral stenosis from rheumatic disease is a distinct valvular process not caused by syphilitic aortitis.",
+          "E": "Viral pericarditis causes an effusion, not aortic root dilation, aneurysm, and regurgitation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "syphilis",
+        "tertiary-syphilis",
+        "cardiovascular"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-011",
+      "stem": "A 68-year-old man is brought in for progressive memory and judgment decline. On exam his pupils are small and, although they constrict when he focuses on a finger held near his nose, they do not react to light. He also has red-purple facial nodules containing friable tan-yellow material. Which diagnosis best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Latent (asymptomatic) syphilis"
+        },
+        {
+          "label": "B",
+          "text": "Primary (chancre) syphilis"
+        },
+        {
+          "label": "C",
+          "text": "Secondary (rash) syphilis"
+        },
+        {
+          "label": "D",
+          "text": "Tertiary (neuro) syphilis"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous meningitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Argyll Robertson pupils, dementia, and facial gummas point to tertiary neurosyphilis.",
+        "whyCorrect": "The Argyll Robertson pupil accommodates to near objects but does not react to light and is a classic sign of advanced (tertiary) syphilis. Paretic neurosyphilis follows T. pallidum invasion of the brain with progressive cognitive decline, and the friable facial nodules are gummas of tertiary syphilis.",
+        "whyWrongByChoice": {
+          "A": "Latent syphilis is asymptomatic by definition, so it cannot explain these active neurologic findings.",
+          "B": "Primary syphilis presents with a painless chancre, not dementia and pupillary abnormalities.",
+          "C": "Secondary syphilis features rashes and constitutional symptoms, not Argyll Robertson pupils and gummas.",
+          "E": "Tuberculous meningitis does not produce Argyll Robertson pupils or cutaneous gummas."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "syphilis",
+        "neurosyphilis",
+        "Argyll-Robertson-pupil"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa20-012",
+      "stem": "A 5-year-old child born to a mother with untreated syphilis has clouding of the cornea from interstitial keratitis and progressive hearing loss. Which additional finding is characteristic of congenital syphilis rather than acquired adult syphilis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A gumma of the skin"
+        },
+        {
+          "label": "B",
+          "text": "A maculopapular rash"
+        },
+        {
+          "label": "C",
+          "text": "A painless genital chancre"
+        },
+        {
+          "label": "D",
+          "text": "Condylomata lata"
+        },
+        {
+          "label": "E",
+          "text": "Notched (Hutchinson) teeth"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hutchinson (notched) teeth are a late finding specific to congenital syphilis.",
+        "whyCorrect": "Late congenital syphilis may manifest as interstitial keratitis, eighth cranial nerve deafness, and bone or teeth abnormalities. Notched or peg-shaped teeth, called Hutchinson teeth, are characteristic of congenital syphilis and are not a feature of acquired adult syphilis.",
+        "whyWrongByChoice": {
+          "A": "Gummas occur in tertiary (adult) syphilis and can also occur congenitally, so they are not specific to the congenital form.",
+          "B": "A maculopapular rash occurs in both secondary and congenital syphilis and is therefore not distinguishing.",
+          "C": "A painless chancre is the hallmark of acquired primary syphilis in adults.",
+          "D": "Condylomata lata may be seen in secondary syphilis or congenital syphilis, so they are not specific to congenital disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "syphilis",
+        "congenital-syphilis",
+        "Hutchinson-teeth"
+      ],
+      "topicId": "chronic-infections-tuberculosis-and-syphilis",
+      "topicName": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-001",
+      "stem": "A 24-year-old hiker in Connecticut develops a single, slowly expanding annular red skin lesion with central clearing on the thigh about one week after a tick bite. The lesion resembles a bullseye. Which of the following is the most likely dermatologic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema marginatum"
+        },
+        {
+          "label": "B",
+          "text": "Erythema migrans"
+        },
+        {
+          "label": "C",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "D",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "E",
+          "text": "Necrolytic migratory erythema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Erythema migrans is the classic skin finding of early localized Lyme disease.",
+        "whyCorrect": "Borrelia burgdorferi, transmitted by the Ixodes deer tick, produces an annular erythematous rash with a pale center that resembles a bullseye, known as erythema migrans. It appears in the early localized stage and usually resolves within 4-12 weeks.",
+        "whyWrongByChoice": {
+          "A": "Erythema marginatum is the serpiginous rash of acute rheumatic fever following Group A streptococcal infection, not Lyme disease.",
+          "C": "Erythema multiforme presents with targetoid lesions typically triggered by infections such as HSV or by drugs, not by B. burgdorferi.",
+          "D": "Erythema nodosum is nonspecific tender red nodules on the lower extremities seen in conditions such as tuberculosis and sarcoidosis.",
+          "E": "Necrolytic migratory erythema is associated with glucagonoma, an unrelated endocrine tumor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lyme-disease",
+        "borrelia-burgdorferi",
+        "erythema-migrans"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-002",
+      "stem": "Despite the generation of specific antibodies over several weeks, Borrelia burgdorferi persists in an infected host. The organism shuttles different sequences of an outer surface lipoprotein (VlsE) next to a single gene promoter for expression. This strategy best illustrates which of the following mechanisms of immune evasion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antigenic variation"
+        },
+        {
+          "label": "B",
+          "text": "IgA protease secretion"
+        },
+        {
+          "label": "C",
+          "text": "Intracellular latency"
+        },
+        {
+          "label": "D",
+          "text": "Molecular mimicry"
+        },
+        {
+          "label": "E",
+          "text": "Superantigen production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "B. burgdorferi escapes antibody-mediated attack by antigenic variation of its VlsE lipoprotein.",
+        "whyCorrect": "The brick describes that B. burgdorferi possesses multiple alternate sequences of the surface lipoprotein VlsE next to a single promoter. Only the sequence adjacent to the promoter is expressed, so different variants can be shuttled in to express alternate VlsE proteins and escape immune recognition. This is antigenic variance (variation).",
+        "whyWrongByChoice": {
+          "B": "IgA protease cleaves mucosal IgA and is a feature of certain respiratory pathogens, not the VlsE variation described.",
+          "C": "The described mechanism involves changing a surface protein while extracellular, not hiding inside host cells as a latent form.",
+          "D": "Molecular mimicry means resembling host antigens; here the organism actively changes its own antigen rather than imitating the host.",
+          "E": "Superantigens nonspecifically activate large numbers of T cells and are not the mechanism of VlsE switching."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lyme-disease",
+        "antigenic-variation",
+        "immune-evasion"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-003",
+      "stem": "A 30-year-old man reports several weeks of migratory joint pain, palpitations, and a stiff neck. He recalls a bullseye rash that faded a few weeks earlier. Physical exam reveals lymphadenopathy and an irregular heart rhythm. These findings are most consistent with which stage of Lyme disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital Lyme disease"
+        },
+        {
+          "label": "B",
+          "text": "Early disseminated disease"
+        },
+        {
+          "label": "C",
+          "text": "Early localized disease"
+        },
+        {
+          "label": "D",
+          "text": "Late disseminated disease"
+        },
+        {
+          "label": "E",
+          "text": "Late localized disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cardiac arrhythmias, lymphocytic meningitis, and multisystem signs days to weeks after erythema migrans define early disseminated Lyme disease.",
+        "whyCorrect": "Early disseminated disease follows hematogenous spread of B. burgdorferi days to weeks after erythema migrans. The brick lists constitutional symptoms, multiple erythema migrans, lymphadenopathy and splenomegaly, migratory joint/muscle pain, cardiac arrhythmias, and nervous system involvement such as lymphocytic meningitis and nerve dysfunction.",
+        "whyWrongByChoice": {
+          "A": "Congenital Lyme disease is not the entity described; this is an adult with recent tick exposure and dissemination.",
+          "C": "Early localized disease is characterized by a solitary erythema migrans lesion without dissemination.",
+          "D": "Late disseminated disease occurs months later and is dominated by large-joint arthritis, not this acute multisystem picture.",
+          "E": "Late localized disease is not a recognized stage of Lyme disease and serves as a distractor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lyme-disease",
+        "early-disseminated",
+        "staging"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-004",
+      "stem": "A 45-year-old man who never received treatment for a tick-borne illness months earlier now presents with swelling and pain of both knees. Arthrocentesis shows inflammatory fluid, and there is ongoing synovial inflammation. Which stage of Lyme disease does this presentation most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute retroviral syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Early disseminated disease"
+        },
+        {
+          "label": "C",
+          "text": "Early localized disease"
+        },
+        {
+          "label": "D",
+          "text": "Late disseminated disease"
+        },
+        {
+          "label": "E",
+          "text": "Primary infection with viremia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Large-joint arthritis from synovial inflammation months after untreated infection marks late disseminated Lyme disease.",
+        "whyCorrect": "The brick states that months after infection, untreated patients may progress to late disseminated (persistent) disease, which is usually dominated by large-joint arthritis due to ongoing synovial inflammation and damage. Chronic neurologic changes may rarely occur.",
+        "whyWrongByChoice": {
+          "A": "Acute retroviral syndrome is an HIV entity, not a Lyme stage.",
+          "B": "Early disseminated disease occurs days to weeks after erythema migrans and features migratory pains, carditis, and meningitis rather than persistent large-joint arthritis.",
+          "C": "Early localized disease features a solitary erythema migrans lesion days after the bite, not chronic arthritis.",
+          "E": "Primary infection with viremia describes HIV dissemination, unrelated to Borrelia joint disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lyme-disease",
+        "late-disseminated",
+        "arthritis"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-005",
+      "stem": "A researcher studies the virus responsible for AIDS and notes that its genome consists of two RNA molecules and that it synthesizes DNA from viral RNA within the cells it infects. This enzymatic activity is the reason the virus is classified in which of the following groups?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacteriophage"
+        },
+        {
+          "label": "B",
+          "text": "Double-stranded DNA virus"
+        },
+        {
+          "label": "C",
+          "text": "Non-enveloped RNA virus"
+        },
+        {
+          "label": "D",
+          "text": "Prion"
+        },
+        {
+          "label": "E",
+          "text": "Retrovirus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "HIV is a retrovirus because it uses reverse transcriptase to make DNA from its RNA genome.",
+        "whyCorrect": "The brick describes HIV as a virus with a genome of two (diploid) RNA molecules, a capsid, and an envelope. It is referred to as a retrovirus because it uses reverse transcriptase to synthesize DNA from viral RNA within the infected cell.",
+        "whyWrongByChoice": {
+          "A": "Bacteriophages infect bacteria, whereas HIV infects human CD4+ T cells.",
+          "B": "HIV is an RNA virus; it only produces DNA secondarily through reverse transcription and is not itself a double-stranded DNA virus.",
+          "C": "HIV is enveloped, not a non-enveloped virus.",
+          "D": "Prions are misfolded proteins with no nucleic acid genome, unlike HIV."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hiv",
+        "retrovirus",
+        "reverse-transcriptase"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-006",
+      "stem": "A 38-year-old man with known HIV infection is being staged. His most recent CD4+ T-cell count is 150 cells/microL. Which of the following best explains why he now meets criteria for acquired immunodeficiency syndrome (AIDS)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4+ T-cell count less than 200 cells/microL"
+        },
+        {
+          "label": "B",
+          "text": "CD4+ T-cell count of 200-499 cells/microL"
+        },
+        {
+          "label": "C",
+          "text": "CD4+ T-cell count of 500 cells/microL or greater"
+        },
+        {
+          "label": "D",
+          "text": "Detectable HIV-1 RNA in the blood"
+        },
+        {
+          "label": "E",
+          "text": "Presence of anti-HIV antibodies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For adults, AIDS is defined as a CD4+ T-cell count below 200 cells/microL.",
+        "whyCorrect": "The brick states that AIDS is defined as a CD4+ T-cell count of less than 200/microL and corresponds to HIV Stage 3. This profound immunosuppression leaves the patient vulnerable to opportunistic infections, secondary neoplasms, and neurologic disease.",
+        "whyWrongByChoice": {
+          "B": "A count of 200-499 cells/microL corresponds to HIV Stage 2, which does not meet AIDS criteria.",
+          "C": "A count of 500 or more cells/microL corresponds to HIV Stage 1, the earliest stage.",
+          "D": "Detectable HIV-1 RNA marks active viral replication and is useful for monitoring but does not by itself define AIDS.",
+          "E": "Anti-HIV antibodies indicate infection but do not define the AIDS stage; the CD4 count does."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hiv",
+        "aids",
+        "cd4-count",
+        "staging"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-007",
+      "stem": "A 27-year-old man develops sore throat, myalgia, fever, and fatigue about 3 weeks after a high-risk sexual exposure. Symptoms resolve spontaneously over the next few weeks. Around this time, virus-specific CD8+ cytotoxic T cells appear and detectable viral titers fall. This clinical picture is most consistent with which phase of HIV infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute retroviral syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Chronic phase with clinical latency"
+        },
+        {
+          "label": "C",
+          "text": "Clinical AIDS"
+        },
+        {
+          "label": "D",
+          "text": "Late disseminated disease"
+        },
+        {
+          "label": "E",
+          "text": "Progressive multifocal leukoencephalopathy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A self-limited mononucleosis-like illness weeks after exposure, coinciding with rising CD8+ CTLs, is the acute retroviral syndrome.",
+        "whyCorrect": "The brick explains that virus-specific CD8+ cytotoxic T cells appear within 3-7 weeks of exposure, corresponding to a drop in viral titers (the first equilibrium point). Acute retroviral syndrome is the initial, usually nonspecific presentation with sore throat, myalgia, fever, weight loss, and fatigue that resolves in 2-4 weeks.",
+        "whyWrongByChoice": {
+          "B": "The chronic phase is clinically latent and largely asymptomatic, following the acute syndrome rather than presenting as an acute febrile illness.",
+          "C": "Clinical AIDS reflects profound immunosuppression with opportunistic infections and neoplasms, not a transient early illness.",
+          "D": "Late disseminated disease is a stage of Lyme disease, not HIV.",
+          "E": "Progressive multifocal leukoencephalopathy is a late neurologic complication of advanced AIDS, not the acute seroconversion illness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hiv",
+        "acute-retroviral-syndrome",
+        "phases"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-008",
+      "stem": "A 40-year-old man with a CD4+ T-cell count of 90 cells/microL presents with progressive dyspnea and a nonproductive cough. CT of the chest shows diffuse ground-glass opacities. Bronchoalveolar lavage is performed, and a Gomori methenamine silver stain highlights cyst walls as dark gray organisms. Which of the following is the most likely causative organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Pneumocystis jirovecii"
+        },
+        {
+          "label": "E",
+          "text": "Toxoplasma gondii"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ground-glass opacities plus GMS-positive cysts on BAL in an AIDS patient indicate Pneumocystis jirovecii pneumonia.",
+        "whyCorrect": "The brick describes Pneumocystis jirovecii as a ubiquitous fungus that is asymptomatic in immunocompetent hosts but causes pneumonia in AIDS, with dyspnea and nonproductive cough, bilateral interstitial infiltrates on chest x-ray, and diffuse ground-glass opacities on CT. Bronchoalveolar lavage with GMS staining highlights the cyst walls, confirming the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "CMV in AIDS classically causes retinitis, colitis, and meningoencephalitis rather than GMS-positive cystic organisms on lavage.",
+          "B": "HSV in AIDS typically produces mucocutaneous or perirectal ulceration, not diffuse ground-glass pneumonia with cysts.",
+          "C": "Tuberculosis is a bacterial opportunistic infection and would not show silver-staining cyst walls on BAL.",
+          "E": "Toxoplasma gondii causes ring-enhancing brain lesions, not this pulmonary cyst picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hiv",
+        "opportunistic-infection",
+        "pneumocystis"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-009",
+      "stem": "A 44-year-old woman with untreated AIDS develops progressive vision loss in one eye. Ophthalmoscopic examination reveals retinal hemorrhage and inflammation. Which of the following opportunistic pathogens is the most likely cause of her blindness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus-8"
+        },
+        {
+          "label": "D",
+          "text": "JC virus"
+        },
+        {
+          "label": "E",
+          "text": "Pneumocystis jirovecii"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CMV retinitis is an important cause of blindness in AIDS, with retinal hemorrhage and inflammation on fundoscopy.",
+        "whyCorrect": "The brick notes that CMV reactivation in immunosuppressed patients can cause severe infections including CMV colitis, meningoencephalitis, and retinitis, the last being an important cause of blindness with inflammation and hemorrhage seen on ophthalmoscopic examination.",
+        "whyWrongByChoice": {
+          "A": "Candida albicans typically causes oral or vaginal candidiasis in this setting rather than hemorrhagic retinitis.",
+          "C": "Human herpesvirus-8 causes Kaposi sarcoma and primary effusion lymphoma, not retinal infection.",
+          "D": "JC virus causes progressive multifocal leukoencephalopathy, a white matter disease, not retinitis.",
+          "E": "Pneumocystis jirovecii causes pneumonia, not retinitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hiv",
+        "cmv",
+        "retinitis",
+        "opportunistic-infection"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-010",
+      "stem": "A 36-year-old man with AIDS presents with headache and focal neurologic deficits. MRI of the brain shows multiple enhancing, ring-like lesions. Which of the following organisms is most likely responsible for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Pneumocystis jirovecii"
+        },
+        {
+          "label": "E",
+          "text": "Toxoplasma gondii"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Multiple ring-enhancing brain lesions in AIDS classically indicate toxoplasmic encephalitis.",
+        "whyCorrect": "The brick teaches that although primary Toxoplasma gondii infection is usually asymptomatic in immunocompetent hosts, in AIDS patients it can cause toxoplasmic encephalitis with multiple enhancing, ring-like lesions on MRI. These correspond to multiple abscesses and necrotic foci on neuropathologic examination.",
+        "whyWrongByChoice": {
+          "A": "Borrelia burgdorferi causes Lyme disease, not ring-enhancing brain abscesses in AIDS.",
+          "B": "CMV in AIDS causes retinitis, colitis, and meningoencephalitis rather than the classic multiple ring-enhancing lesions.",
+          "C": "Epstein-Barr virus is associated with B-cell lymphomas, which would appear as mass lesions but are not the classic toxoplasmosis ring-enhancing picture described.",
+          "D": "Pneumocystis jirovecii causes pneumonia, not focal brain lesions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hiv",
+        "toxoplasma",
+        "ring-enhancing-lesions",
+        "neuro"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-011",
+      "stem": "A 33-year-old man with advanced HIV infection develops multiple violaceous patches and plaques on the chest and oral mucosa. Biopsy shows a proliferation of bland, ovoid-to-spindled endothelial cells. This vascular neoplasm is most strongly associated with which of the following viruses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus-1"
+        },
+        {
+          "label": "D",
+          "text": "Human herpesvirus-8"
+        },
+        {
+          "label": "E",
+          "text": "JC virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Kaposi sarcoma, a vascular endothelial tumor, is associated with human herpesvirus-8 (HHV8).",
+        "whyCorrect": "The brick states that HHV8 infection is associated with Kaposi sarcoma, a vascular neoplasm that manifests as multiple cutaneous, mucosal, or visceral lesions and is composed of proliferating endothelial cells (bland, ovoid-to-spindled cells on microscopy).",
+        "whyWrongByChoice": {
+          "A": "Cytomegalovirus causes retinitis, colitis, and encephalitis, not Kaposi sarcoma.",
+          "B": "Epstein-Barr virus is associated with B-cell lymphomas such as a subset of diffuse large B-cell and Hodgkin lymphoma, not the vascular endothelial tumor described.",
+          "C": "HSV-1 causes mucocutaneous ulcerations, not an endothelial neoplasm.",
+          "E": "JC virus causes progressive multifocal leukoencephalopathy, not a vascular tumor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hiv",
+        "kaposi-sarcoma",
+        "hhv8",
+        "neoplasm"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    },
+    {
+      "id": "pa21-012",
+      "stem": "A 41-year-old man with AIDS develops progressive weakness and cognitive decline. MRI shows white matter lesions, and brain tissue demonstrates demyelination with enlarged, hyperchromatic nuclei in infected glial cells. The responsible virus preferentially infects which cell type to produce this demyelinating disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4+ T lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Endothelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Oligodendrocytes"
+        },
+        {
+          "label": "D",
+          "text": "Retinal photoreceptors"
+        },
+        {
+          "label": "E",
+          "text": "Type II pneumocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Progressive multifocal leukoencephalopathy results from JC virus infection of oligodendrocytes, causing demyelination.",
+        "whyCorrect": "The brick describes JC virus-induced progressive multifocal leukoencephalopathy as an AIDS-associated demyelinating disease. The JC virus infects oligodendrocytes, which are responsible for the production and maintenance of myelin, so their infection leads to loss of myelin (white matter lesions) with enlarged, hyperchromatic nuclei.",
+        "whyWrongByChoice": {
+          "A": "HIV itself infects CD4+ T lymphocytes, but the demyelinating JC virus targets oligodendrocytes, not T cells.",
+          "B": "Endothelial cells are the target in Kaposi sarcoma, not in progressive multifocal leukoencephalopathy.",
+          "D": "Retinal photoreceptors are affected in CMV retinitis, not in JC virus disease.",
+          "E": "Type II pneumocytes are lung cells and are not the target of the JC virus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hiv",
+        "pml",
+        "jc-virus",
+        "demyelination",
+        "neuro"
+      ],
+      "topicId": "chronic-infections-2-lyme-hiv-aids",
+      "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,0 +1,2262 @@
+{
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "pa22-001",
+      "stem": "A 24-year-old man with end-stage renal disease receives a kidney donated by his identical twin brother. Which of the following terms best describes this type of graft?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allograft"
+        },
+        {
+          "label": "B",
+          "text": "Autograft"
+        },
+        {
+          "label": "C",
+          "text": "Homograft"
+        },
+        {
+          "label": "D",
+          "text": "Isograft"
+        },
+        {
+          "label": "E",
+          "text": "Xenograft"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An isograft is tissue transferred between genetically identical individuals of the same species, such as identical twins.",
+        "whyCorrect": "The brick defines an isograft as tissue transferred between individuals of the same species who are genetically identical. Because identical twins share the same genome, a transplant between them is an isograft, which minimizes the risk of immune rejection.",
+        "whyWrongByChoice": {
+          "A": "An allograft is between genetically different individuals of the same species, not identical twins.",
+          "B": "An autograft transfers tissue from one body site to another on the same individual, not between two people.",
+          "C": "Homograft is not one of the four graft types defined in this brick (autograft, isograft, allograft, xenograft).",
+          "E": "A xenograft is between different species, such as animal tissue placed into a human."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transplantation",
+        "graft types",
+        "isograft"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-002",
+      "stem": "A 58-year-old woman with cirrhosis receives a liver from a deceased, genetically unrelated human donor. Which of the following terms best describes this type of graft, which represents the most common transplant performed in medicine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allograft"
+        },
+        {
+          "label": "B",
+          "text": "Autograft"
+        },
+        {
+          "label": "C",
+          "text": "Intergraft"
+        },
+        {
+          "label": "D",
+          "text": "Isograft"
+        },
+        {
+          "label": "E",
+          "text": "Xenograft"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An allograft is tissue transferred between genetically different individuals of the same species and is the most common transplant type.",
+        "whyCorrect": "The brick states that an allograft is tissue transferred between genetically different individuals of the same species. Because most donors and recipients are non-identical humans, allografting is the most common transplant performed in medicine.",
+        "whyWrongByChoice": {
+          "B": "An autograft moves tissue from one part of a patient's body to another on the same person.",
+          "C": "Intergraft is a horticultural term for grafting plants, not a category of human transplantation.",
+          "D": "An isograft is between genetically identical individuals such as identical twins.",
+          "E": "A xenograft is between different species, not two humans."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transplantation",
+        "graft types",
+        "allograft"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-003",
+      "stem": "A transplant team struggles to find a compatible donor for a patient because of the extremely high genetic variability (polymorphism) of a particular gene family. Which of the following genes is most responsible for making the donor-recipient matching process so difficult?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABO blood group genes"
+        },
+        {
+          "label": "B",
+          "text": "Antinuclear antibody genes"
+        },
+        {
+          "label": "C",
+          "text": "HLA genes"
+        },
+        {
+          "label": "D",
+          "text": "IgE gene"
+        },
+        {
+          "label": "E",
+          "text": "Interleukin-1 gene"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HLA genes are highly polymorphic, which makes finding a compatible donor difficult.",
+        "whyCorrect": "The brick emphasizes that HLA genes have high genetic variability (polymorphism), which often makes it difficult to find compatible donors. HLA genes encode MHC molecules used to distinguish self from non-self, and mismatches drive rejection.",
+        "whyWrongByChoice": {
+          "A": "ABO genes are important in matching but are not highly polymorphic like HLA genes.",
+          "B": "Antinuclear antibodies are seen in autoimmune disease such as lupus and are not involved in transplant compatibility.",
+          "D": "IgE is an antibody notable in type 1 hypersensitivity, not transplant matching.",
+          "E": "Interleukin-1 is a circulating cytokine of inflammation; its gene is not involved in transplant compatibility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA",
+        "polymorphism",
+        "transplant matching"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-004",
+      "stem": "The HLA gene complex is located on the short arm of chromosome 6 and is organized into three classes. Which of the following correctly pairs an HLA class with the genes it contains?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Class I contains HLA-A, HLA-B, and HLA-C"
+        },
+        {
+          "label": "B",
+          "text": "Class I contains HLA-DP, HLA-DQ, and HLA-DR"
+        },
+        {
+          "label": "C",
+          "text": "Class II contains HLA-A, HLA-B, and HLA-C"
+        },
+        {
+          "label": "D",
+          "text": "Class II encodes cytokines rather than MHC molecules"
+        },
+        {
+          "label": "E",
+          "text": "Class III contains HLA-DR only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Class I HLA genes are HLA-A, HLA-B, and HLA-C; class II genes are HLA-DP, HLA-DQ, and HLA-DR.",
+        "whyCorrect": "Per the brick, there are three class I HLA genes (HLA-A, HLA-B, HLA-C) and three class II HLA genes (HLA-DP, HLA-DQ, HLA-DR). Both class I and class II genes encode MHC molecules and are critical to transplant matching.",
+        "whyWrongByChoice": {
+          "B": "HLA-DP, HLA-DQ, and HLA-DR are class II genes, not class I.",
+          "C": "HLA-A, HLA-B, and HLA-C are class I genes, not class II.",
+          "D": "Class II genes encode MHC molecules; it is the class III genes that encode cytokines.",
+          "E": "Class III genes encode other molecules such as cytokines and do not contain HLA-DR."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA",
+        "MHC",
+        "chromosome 6"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-005",
+      "stem": "An organ procurement organization notes that a deceased donor's blood type lacks A and B antigens, allowing donation to recipients of any ABO type. Which of the following blood types did this donor most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rh-negative"
+        },
+        {
+          "label": "B",
+          "text": "Type A"
+        },
+        {
+          "label": "C",
+          "text": "Type AB"
+        },
+        {
+          "label": "D",
+          "text": "Type B"
+        },
+        {
+          "label": "E",
+          "text": "Type O"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Type O individuals lack A and B antigens, making them universal donors.",
+        "whyCorrect": "The brick explains that people with type O blood do not have A or B antigens on their red blood cells. Because recipient anti-AB antibodies will not react against O-type cells, type O donors are considered 'universal' transplant donors.",
+        "whyWrongByChoice": {
+          "A": "Rh status refers to a separate antigen system and does not define the universal donor concept described here for ABO.",
+          "B": "Type A blood carries the A antigen, which would react with anti-A antibodies in some recipients.",
+          "C": "Type AB carries both A and B antigens and is the least universal donor.",
+          "D": "Type B blood carries the B antigen, which would react with anti-B antibodies in some recipients."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ABO",
+        "blood type",
+        "universal donor"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-006",
+      "stem": "A 40-year-old kidney transplant recipient is started on an immunosuppressive medication that prevents rejection specifically by inhibiting lymphocyte proliferation. Which of the following drugs is most consistent with this mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous immunoglobulin (IVIG)"
+        },
+        {
+          "label": "B",
+          "text": "Mycophenolate mofetil"
+        },
+        {
+          "label": "C",
+          "text": "Plasmapheresis"
+        },
+        {
+          "label": "D",
+          "text": "Prednisone"
+        },
+        {
+          "label": "E",
+          "text": "Tacrolimus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mycophenolate mofetil is an immunosuppressant that inhibits lymphocyte proliferation.",
+        "whyCorrect": "The brick specifically states that mycophenolate mofetil inhibits lymphocyte proliferation, whereas tacrolimus inhibits T-cell responses. Blocking lymphocyte proliferation dampens the recipient immune response against the graft.",
+        "whyWrongByChoice": {
+          "A": "IVIG is used to treat rejection, not as a maintenance drug that inhibits lymphocyte proliferation.",
+          "C": "Plasmapheresis removes offending antibodies from the circulation and is a treatment for rejection, not a lymphocyte-proliferation inhibitor.",
+          "D": "Steroids such as prednisone are broad anti-inflammatory immunosuppressants and are not described as inhibiting lymphocyte proliferation specifically.",
+          "E": "Tacrolimus inhibits T-cell responses rather than acting primarily by blocking lymphocyte proliferation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunosuppression",
+        "mycophenolate",
+        "pharmacology"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-007",
+      "stem": "A 55-year-old woman with cirrhosis is being ranked for a liver transplant. Her physician calculates a numeric score from her bilirubin, sodium, albumin, creatinine, and INR to determine medical urgency. Which of the following scores is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extended criteria donor score"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocyte cross-match"
+        },
+        {
+          "label": "C",
+          "text": "MELD score"
+        },
+        {
+          "label": "D",
+          "text": "PELD score"
+        },
+        {
+          "label": "E",
+          "text": "Status 1 designation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The MELD score ranks liver transplant urgency in patients age 12 or older using bilirubin, sodium, albumin, creatinine, and INR.",
+        "whyCorrect": "The brick describes the MELD (Model for End-Stage Liver Disease) score as a numeric score used in patients age 12 or older that includes bilirubin, sodium, albumin, creatinine, and prothrombin time expressed as INR.",
+        "whyWrongByChoice": {
+          "A": "Extended criteria donor refers to risk features of a deceased donor, not a recipient urgency score.",
+          "B": "Lymphocyte cross-matching detects recipient antibodies against donor lymphocytes; it is not a liver urgency score.",
+          "D": "The PELD score is used in patients younger than 12 and includes height and weight, which are not listed here.",
+          "E": "Status 1 is a categorical highest-priority designation for fulminant failure, not a numeric score calculated from these labs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "liver allocation",
+        "MELD",
+        "medical urgency"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-008",
+      "stem": "A 30-year-old man develops fulminant hepatic failure and is at the highest risk of death without immediate transplantation. He is given a listing designation that supersedes his MELD score. Which of the following best describes this designation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extended criteria donor"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocyte cross-match positive"
+        },
+        {
+          "label": "C",
+          "text": "PELD score"
+        },
+        {
+          "label": "D",
+          "text": "Status 1 designation"
+        },
+        {
+          "label": "E",
+          "text": "Universal donor status"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Status 1 designation is given to patients in fulminant hepatic failure and supersedes the MELD score.",
+        "whyCorrect": "The brick states that patients can be designated Status 1, usually those in fulminant hepatic failure, and that this designation supersedes the MELD score to prioritize them for a liver.",
+        "whyWrongByChoice": {
+          "A": "Extended criteria donor describes a deceased donor with certain risk factors, not a recipient priority listing.",
+          "B": "A positive lymphocyte cross-match indicates preformed recipient antibodies and does not confer transplant priority.",
+          "C": "The PELD score is a numeric urgency score for children under 12, not a designation that overrides MELD.",
+          "E": "Universal donor refers to a type O blood donor, unrelated to liver listing priority."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "liver allocation",
+        "Status 1",
+        "fulminant hepatic failure"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-009",
+      "stem": "A transplant surgeon requests a rapid assessment of a donor liver's viability at the time of procurement so that a decision to use the organ can be made quickly. Which of the following is the primary method used to evaluate pre-transplant organs for viability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Electron microscopy"
+        },
+        {
+          "label": "B",
+          "text": "Frozen section evaluation"
+        },
+        {
+          "label": "C",
+          "text": "Gross evaluation alone"
+        },
+        {
+          "label": "D",
+          "text": "Immunofluorescence staining"
+        },
+        {
+          "label": "E",
+          "text": "Routine (permanent) histology"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Frozen section evaluation provides the rapid microscopic assessment needed to judge a donor organ's viability at procurement.",
+        "whyCorrect": "The brick explains that frozen section, in which a portion of tissue is frozen and cut, gives a more immediate microscopic evaluation of pathology, which is what the transplant surgeon needs to quickly decide whether the organ is ready for transplant.",
+        "whyWrongByChoice": {
+          "A": "Electron microscopy is a slow, specialized technique not used for rapid intraoperative viability decisions.",
+          "C": "Gross evaluation may be performed but does not provide the microscopic assessment of the degree of pathology.",
+          "D": "Immunofluorescence is used to detect immune deposits and is not the primary rapid method for donor organ viability.",
+          "E": "Routine permanent histology gives microscopic detail but takes much longer, so it cannot provide the quick assessment needed at procurement."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "donor evaluation",
+        "frozen section",
+        "organ viability"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-010",
+      "stem": "During frozen-section evaluation of a potential donor liver, the pathologist reports 65% macrovesicular steatosis. Based on standard criteria described for donor liver assessment, this finding is best interpreted as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absolute contraindication"
+        },
+        {
+          "label": "B",
+          "text": "Acceptable finding with no impact on transplant"
+        },
+        {
+          "label": "C",
+          "text": "Diagnostic of acute graft rejection"
+        },
+        {
+          "label": "D",
+          "text": "Evidence of donor viral infection"
+        },
+        {
+          "label": "E",
+          "text": "Relative contraindication only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Greater than 60% macrovesicular steatosis is an absolute contraindication to using a donor liver.",
+        "whyCorrect": "The brick states that greater than 30% macrovesicular steatosis is a relative contraindication associated with poor early graft function, while greater than 60% macrovesicular steatosis is an absolute contraindication, meaning the organ will not be used. At 65%, this liver crosses the absolute threshold.",
+        "whyWrongByChoice": {
+          "B": "Steatosis of this degree is not benign; it strongly predicts poor early graft function.",
+          "C": "Rejection is assessed after transplantation, not during pre-transplant donor evaluation, and steatosis is not a rejection finding.",
+          "D": "Steatosis reflects fat accumulation within hepatocytes, not viral infection of the donor liver.",
+          "E": "A relative contraindication applies at greater than 30%; at greater than 60% the finding becomes absolute."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "donor liver",
+        "steatosis",
+        "contraindication"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-011",
+      "stem": "During frozen-section evaluation of a donor kidney, the pathologist identifies glomeruli showing scarring and hyalinization involving more than half of the glomerular tuft. Which of the following best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute tubular necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Arterial sclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Arteriolar hyalinization"
+        },
+        {
+          "label": "D",
+          "text": "Global glomerulosclerosis"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial fibrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Global glomerulosclerosis is scarring or hyalinization of more than half of the glomerulus.",
+        "whyCorrect": "The brick defines global glomerulosclerosis as scarring/hyalinization of more than half of the glomerulus. It is one of the common donor kidney pathologies assessed on frozen section to determine organ viability.",
+        "whyWrongByChoice": {
+          "A": "Acute tubular necrosis involves tubular epithelial injury and is not the glomerular scarring described here.",
+          "B": "Arterial sclerosis is intimal thickening of arteries between the endothelium and internal elastic lamina.",
+          "C": "Arteriolar hyalinization is thickening of arteriole walls by homogenous eosinophilic protein material, not scarring of the glomerulus.",
+          "E": "Interstitial fibrosis affects the interstitium and tubules, not the glomerular tuft."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "donor kidney",
+        "glomerulosclerosis",
+        "renal pathology"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-012",
+      "stem": "A 48-year-old man who received a kidney transplant 3 years ago remains on lifelong immunosuppressive therapy. He is counseled about the long-term consequences of his medications. Which of the following is the MOST common long-term consequence of his immunosuppressive therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "B",
+          "text": "Increased risk of infection"
+        },
+        {
+          "label": "C",
+          "text": "Increased risk of malignancy"
+        },
+        {
+          "label": "D",
+          "text": "Organ rejection"
+        },
+        {
+          "label": "E",
+          "text": "Recurrence of the primary disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Long-term immunosuppression most commonly increases the risk of infection, which is more common than malignancy.",
+        "whyCorrect": "The brick states that transplant patients on long-term immunosuppressive therapy are prone to an increased risk of infection and an increased risk of malignancy, but that infections are much more common than malignancy.",
+        "whyWrongByChoice": {
+          "A": "Graft-versus-host disease is not described as a common long-term consequence of solid-organ immunosuppression in this brick.",
+          "C": "Increased malignancy risk (particularly EBV-related lymphoma) is a real consequence but is less common than infection.",
+          "D": "Organ rejection is a risk that is decreased, not increased, by immunosuppressive therapy.",
+          "E": "Recurrence of the primary disease relates to the original disease process rather than to the immunosuppressive therapy itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunosuppression",
+        "long-term consequences",
+        "infection"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-001",
+      "stem": "A 48-year-old man undergoes kidney transplantation. Within minutes of vascular anastomosis, the surgeon notes that the graft becomes mottled, cyanotic, and flaccid. Biopsy shows platelet-fibrin thrombi and severe ischemic injury within glomeruli. Which of the following best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD8+ T-cell-mediated destruction of graft parenchymal cells"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of IgE antibodies on mast cells"
+        },
+        {
+          "label": "C",
+          "text": "Donor T cells attacking recipient tissues"
+        },
+        {
+          "label": "D",
+          "text": "Intimal smooth muscle proliferation causing vessel occlusion"
+        },
+        {
+          "label": "E",
+          "text": "Pre-formed recipient antibodies"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hyperacute rejection occurs within minutes to 24 hours due to pre-formed recipient antibodies.",
+        "whyCorrect": "Hyperacute rejection occurs within minutes to 24 hours after transplant when the recipient already has pre-formed antibodies that react against ABO blood group antigens or type I MHC molecules on graft endothelial cells. These antibodies trigger the complement cascade, producing thrombosis, ischemia, and necrosis, which matches the platelet-fibrin thrombi seen on biopsy.",
+        "whyWrongByChoice": {
+          "A": "CD8+ T-cell destruction of graft cells describes acute cellular rejection, which occurs one week to several months later, not within minutes.",
+          "B": "IgE on mast cells mediates type I hypersensitivity (anaphylaxis, allergy), not antibody-mediated graft thrombosis.",
+          "C": "Donor T cells attacking recipient tissue describes graft-versus-host disease, seen mainly after bone marrow transplant, not immediate kidney graft failure.",
+          "D": "Intimal proliferation and vessel occlusion characterize chronic rejection, which develops over months to years."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperacute rejection",
+        "complement",
+        "transplant"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-002",
+      "stem": "A 52-year-old man received an allogeneic bone marrow transplant for acute leukemia. Two weeks later he develops a maculopapular skin rash and watery diarrhea. Which of the following cells is most directly responsible for his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Donor plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Donor T cells"
+        },
+        {
+          "label": "C",
+          "text": "Recipient B cells"
+        },
+        {
+          "label": "D",
+          "text": "Recipient natural killer cells"
+        },
+        {
+          "label": "E",
+          "text": "Recipient T cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GVHD is caused by donor T cells that recognize recipient tissue as foreign.",
+        "whyCorrect": "These symptoms are graft-versus-host disease after bone marrow transplant. Bone marrow transplant tissue contains many T cells, and in GVHD the donor's transplanted T cells recognize the recipient's tissues as foreign and attack organs such as the skin and gut, producing rash and diarrhea. GVHD is a type IV hypersensitivity reaction mediated by donor T cells.",
+        "whyWrongByChoice": {
+          "A": "Donor plasma cells produce antibody; GVHD injury results from donor T-cell cytotoxicity and cytokine release, not humoral immunity.",
+          "C": "Donor B cells have not been found to cause the symptoms of GVHD; the reaction is T-cell mediated.",
+          "D": "Recipient natural killer cells are not the described mediator of GVHD.",
+          "E": "Recipient T cells drive graft rejection, in which the recipient attacks the graft, the opposite direction of GVHD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GVHD",
+        "bone marrow transplant",
+        "donor T cells"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-003",
+      "stem": "A 45-year-old woman with diabetic nephropathy receives a kidney transplant. Intraoperatively the surgeon notes the organ is pale and poorly perfused; a thrombus has formed and is preventing perfusion of the graft. Which type of rejection is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute rejection"
+        },
+        {
+          "label": "B",
+          "text": "Chronic rejection"
+        },
+        {
+          "label": "C",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "D",
+          "text": "Hyperacute rejection"
+        },
+        {
+          "label": "E",
+          "text": "Subacute rejection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rejection occurring within minutes of transplantation is hyperacute.",
+        "whyCorrect": "The type of rejection described is hyperacute because it occurred within minutes of transplantation, with thrombosis and poor perfusion caused by pre-formed antibodies activating complement on the graft endothelium.",
+        "whyWrongByChoice": {
+          "A": "Acute rejection occurs about one week to several months after the transplant, not intraoperatively.",
+          "B": "Chronic rejection occurs months to years later and manifests as graft arteriosclerosis.",
+          "C": "Graft-versus-host disease occurs weeks to months after transplant and results mainly from bone marrow transplant, not from an immediate kidney thrombosis.",
+          "E": "Subacute rejection is not one of the recognized categories of transplant rejection described in the brick."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hyperacute rejection",
+        "kidney transplant",
+        "timing"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-004",
+      "stem": "A 39-year-old kidney transplant recipient develops rising creatinine 6 weeks after surgery. Biopsy shows inflammatory cells infiltrating between the epithelial cells of the tubules (tubulitis) and CD8+ T cells destroying graft cells. Which of the following best describes this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute antibody-mediated rejection"
+        },
+        {
+          "label": "B",
+          "text": "Acute cellular rejection"
+        },
+        {
+          "label": "C",
+          "text": "Chronic rejection"
+        },
+        {
+          "label": "D",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "E",
+          "text": "Hyperacute rejection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tubulitis with CD8+ T-cell-mediated graft cell killing defines acute cellular rejection.",
+        "whyCorrect": "Acute cellular rejection occurs when CD8+ T cells directly destroy graft cells or CD4+ T cells secrete cytokines and induce inflammation. On kidney biopsy it manifests as tubulitis, with inflammatory cells between the epithelial cells of the tubules, matching this patient's findings weeks after transplant.",
+        "whyWrongByChoice": {
+          "A": "Acute antibody-mediated rejection involves antibodies binding endothelium with complement activation and shows C4d deposition and capillaritis, not primarily T-cell tubulitis.",
+          "C": "Chronic rejection develops over months to years with graft arteriosclerosis and fibrosis.",
+          "D": "GVHD involves donor T cells attacking recipient tissue and is characteristic of bone marrow, not kidney, transplants.",
+          "E": "Hyperacute rejection occurs within minutes to 24 hours and shows thrombosis, not a T-cell tubulitis weeks later."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute cellular rejection",
+        "tubulitis",
+        "CD8 T cells"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-005",
+      "stem": "A 60-year-old kidney transplant recipient has worsening graft function 2 months post-transplant. Biopsy shows peritubular capillaritis, and an immunoperoxidase stain reveals C4d deposition in peritubular capillaries. Which mechanism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies binding vascular endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Direct CD8+ T-cell killing of tubular cells"
+        },
+        {
+          "label": "C",
+          "text": "Donor T cells attacking recipient endothelium"
+        },
+        {
+          "label": "D",
+          "text": "IgE-mediated release of mast cell mediators"
+        },
+        {
+          "label": "E",
+          "text": "Intimal smooth muscle proliferation occluding vessels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "C4d deposition marks acute antibody-mediated rejection.",
+        "whyCorrect": "In acute antibody-mediated rejection, antibodies bind to vascular endothelium and activate complement; the resulting inflammation and endothelial damage cause graft failure. The complement split product C4d deposited in peritubular capillaries, demonstrated by immunoperoxidase staining, is the diagnostic marker.",
+        "whyWrongByChoice": {
+          "B": "Direct CD8+ T-cell killing describes acute cellular rejection with tubulitis, which is not marked by C4d deposition.",
+          "C": "Donor T cells attacking the recipient describe GVHD, not antibody-mediated rejection of a kidney graft.",
+          "D": "IgE and mast cell mediators drive type I hypersensitivity, not complement-fixing antibody rejection of a graft.",
+          "E": "Intimal proliferation with vessel occlusion is a feature of chronic rejection, not C4d-positive antibody-mediated injury."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "antibody-mediated rejection",
+        "C4d",
+        "complement"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-006",
+      "stem": "A 55-year-old man who received a heart transplant 4 years ago develops progressive graft dysfunction. Angiography shows diffuse narrowing of the coronary arteries, and biopsy reveals graft arteriosclerosis with intimal smooth muscle proliferation. Which type of rejection does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute antibody-mediated rejection"
+        },
+        {
+          "label": "B",
+          "text": "Acute cellular rejection"
+        },
+        {
+          "label": "C",
+          "text": "Chronic rejection"
+        },
+        {
+          "label": "D",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "E",
+          "text": "Hyperacute rejection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Graft arteriosclerosis developing years after transplant is chronic rejection.",
+        "whyCorrect": "Chronic rejection can occur months to years after transplant and involves both cellular and humoral immune responses. It produces graft arteriosclerosis, with intimal smooth muscle proliferation and vessel occlusion, plus interstitial fibrosis and tubular atrophy, matching the coronary narrowing years after a heart transplant.",
+        "whyWrongByChoice": {
+          "A": "Acute antibody-mediated rejection occurs within weeks to months with C4d deposition, not years-long vascular remodeling.",
+          "B": "Acute cellular rejection occurs within weeks to months and shows T-cell tubulitis or endothelitis, not chronic arteriosclerosis.",
+          "D": "GVHD is a bone marrow transplant complication in which donor cells attack the recipient, not chronic coronary graft arteriosclerosis.",
+          "E": "Hyperacute rejection occurs within minutes to 24 hours with thrombosis, not slowly progressive arteriosclerosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic rejection",
+        "graft arteriosclerosis",
+        "heart transplant"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-007",
+      "stem": "A 30-year-old woman develops anaphylaxis after a bee sting, with hypotension, urticaria, and bronchospasm. This reaction is mediated by IgE causing release of mast cell mediators. Which type of hypersensitivity reaction is this, and which type of transplant rejection shares the antibody-mediated category most analogous to hyperacute rejection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I hypersensitivity; hyperacute rejection is type II"
+        },
+        {
+          "label": "B",
+          "text": "Type I hypersensitivity; hyperacute rejection is type IV"
+        },
+        {
+          "label": "C",
+          "text": "Type II hypersensitivity; hyperacute rejection is type I"
+        },
+        {
+          "label": "D",
+          "text": "Type III hypersensitivity; hyperacute rejection is type IV"
+        },
+        {
+          "label": "E",
+          "text": "Type IV hypersensitivity; hyperacute rejection is type III"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anaphylaxis is type I; hyperacute rejection is a type II (antibody-mediated) reaction.",
+        "whyCorrect": "Type I hypersensitivity is immediate, mediated by IgE antibodies that trigger release of mast cell mediators, producing anaphylaxis, allergies, and bronchial asthma. Hyperacute rejection, caused by pre-formed antibodies activating complement against graft endothelium, is classified as a type II hypersensitivity reaction.",
+        "whyWrongByChoice": {
+          "B": "Anaphylaxis is correctly type I, but hyperacute rejection is type II, not type IV.",
+          "C": "Anaphylaxis is not type II; type II involves IgG/IgM injuring cells, and hyperacute rejection is type II, not type I.",
+          "D": "Anaphylaxis is not type III (immune-complex); hyperacute rejection is not type IV.",
+          "E": "Anaphylaxis is not type IV (T-cell mediated); hyperacute rejection is not type III."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hypersensitivity",
+        "type I",
+        "type II"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-008",
+      "stem": "A 26-year-old man develops an intensely pruritic, vesicular rash 48 hours after his skin contacts poison ivy. Biopsy shows a T-cell-rich infiltrate with macrophage activation and no antibody deposition. Which type of hypersensitivity reaction is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I hypersensitivity"
+        },
+        {
+          "label": "B",
+          "text": "Type II hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type III hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type IV hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "Type V hypersensitivity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Contact dermatitis is a delayed, T-cell-mediated type IV hypersensitivity reaction.",
+        "whyCorrect": "Type IV hypersensitivity reactions occur when T cells cause either direct cytotoxicity (CD8+ T cells) or induce inflammation and cytokine release (CD4+ T cells) with macrophage activation. Examples include contact dermatitis, type I diabetes, and graft-versus-host disease, consistent with this delayed poison ivy reaction.",
+        "whyWrongByChoice": {
+          "A": "Type I is IgE-mediated and immediate (anaphylaxis, allergy), not a delayed T-cell reaction.",
+          "B": "Type II involves IgG or IgM injuring cells by phagocytosis or lysis, not T-cell contact dermatitis.",
+          "C": "Type III involves immune-complex deposition (e.g., lupus, post-streptococcal glomerulonephritis), not cell-mediated contact dermatitis.",
+          "E": "Type V is not among the four hypersensitivity categories described in the brick."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "type IV hypersensitivity",
+        "contact dermatitis",
+        "T cells"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-009",
+      "stem": "A hematologist is counseling a patient before an allogeneic bone marrow transplant about the risk of graft-versus-host disease. Which of the following best explains why GVHD develops in this setting but is rare after solid organ transplants such as kidney?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow transplant tissue contains abundant donor T cells"
+        },
+        {
+          "label": "B",
+          "text": "Donor IgE triggers mast cell degranulation in the recipient"
+        },
+        {
+          "label": "C",
+          "text": "Immune complexes deposit in the recipient's bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Recipient CD8+ T cells reject the donor marrow"
+        },
+        {
+          "label": "E",
+          "text": "The recipient's pre-formed antibodies react against donor marrow"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "GVHD occurs because bone marrow grafts are rich in donor T cells that recognize recipient tissue as foreign.",
+        "whyCorrect": "Bone marrow transplant tissue typically contains a large number of T cells. Unlike graft rejection, in which the recipient's immune cells recognize the graft as foreign, in GVHD the donor's transplanted T cells recognize the recipient's tissues as foreign and attack the recipient's organs, causing severe organ dysfunction. This is why GVHD is characteristic of allogeneic bone marrow, not solid organ, transplants.",
+        "whyWrongByChoice": {
+          "B": "Donor IgE and mast cells describe type I hypersensitivity, which does not mediate GVHD.",
+          "C": "Immune-complex deposition is a type III hypersensitivity mechanism, not the basis of GVHD.",
+          "D": "Recipient CD8+ T cells rejecting the graft describes host-versus-graft rejection, the opposite of GVHD.",
+          "E": "Pre-formed recipient antibodies against a graft cause hyperacute rejection, not GVHD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GVHD",
+        "bone marrow transplant",
+        "donor T cells"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-010",
+      "stem": "A 47-year-old woman with GVHD after bone marrow transplant develops jaundice with a rising direct bilirubin. Which of the following histopathologic changes best accounts for her jaundice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Destruction of small bile ducts"
+        },
+        {
+          "label": "B",
+          "text": "Graft arteriosclerosis of hepatic arteries"
+        },
+        {
+          "label": "C",
+          "text": "Mucosal ulceration of the gut"
+        },
+        {
+          "label": "D",
+          "text": "Patchy epithelial cell death in the epidermis"
+        },
+        {
+          "label": "E",
+          "text": "Platelet-fibrin thrombi in hepatic sinusoids"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Jaundice in GVHD results from immune destruction of small bile ducts.",
+        "whyCorrect": "Patients with GVHD may present with jaundice caused by destruction of the small bile ducts, which impairs bile flow and raises bilirubin. This reflects donor T-cell-mediated attack on recipient hepatic tissue.",
+        "whyWrongByChoice": {
+          "B": "Graft arteriosclerosis is a feature of chronic solid-organ rejection, not the cause of GVHD-related jaundice.",
+          "C": "Mucosal ulceration of the gut causes the diarrhea of GVHD, not jaundice.",
+          "D": "Patchy epidermal cell death produces the maculopapular skin rash of GVHD, not jaundice.",
+          "E": "Platelet-fibrin thrombi characterize hyperacute rejection of a solid organ graft, not GVHD hepatic injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GVHD",
+        "jaundice",
+        "bile ducts"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-011",
+      "stem": "A 60-year-old man is being evaluated for a bone marrow transplant and asks about his risk of graft-versus-host disease. Which of the following is a recognized risk factor for developing GVHD?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of any prior chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Autologous stem cell transplant"
+        },
+        {
+          "label": "C",
+          "text": "Complete depletion of donor T cells from the graft"
+        },
+        {
+          "label": "D",
+          "text": "Prior exposure to radiation"
+        },
+        {
+          "label": "E",
+          "text": "Young donor age with fully matched HLA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "GVHD occurs most frequently in recipients exposed to radiation or with leukemia, autoimmune disease, or immunodeficiency.",
+        "whyCorrect": "GVHD occurs most frequently in recipients who have been exposed to radiation or who have leukemia, autoimmune diseases, or immunodeficiencies. Other contributing factors include transplantation from female donors to male recipients. Some of this risk relates to immunosuppression of the recipient, reducing the ability to neutralize the donor T-lymphocyte attack.",
+        "whyWrongByChoice": {
+          "A": "Recipients are typically conditioned with chemotherapy to eradicate marrow; absence of chemotherapy is not a listed GVHD risk factor.",
+          "B": "GVHD requires an allogeneic (non-identical donor) graft; autologous transplants use the patient's own cells and do not cause GVHD.",
+          "C": "Depleting donor T cells removes the very cells that mediate GVHD, lowering the risk.",
+          "E": "A young, fully HLA-matched donor reduces rather than increases the alloreactivity that drives GVHD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GVHD",
+        "risk factors",
+        "radiation"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-012",
+      "stem": "A transplant team manages a kidney recipient on multiple immunosuppressive drugs. The team notes that standardized histologic criteria are used to diagnose and grade rejection across organs. Which criteria are used specifically for grading rejection in kidney transplants?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Banff criteria"
+        },
+        {
+          "label": "B",
+          "text": "Child-Pugh criteria"
+        },
+        {
+          "label": "C",
+          "text": "ISHLT criteria"
+        },
+        {
+          "label": "D",
+          "text": "Ranson criteria"
+        },
+        {
+          "label": "E",
+          "text": "TNM staging"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The Banff criteria are used to grade kidney transplant rejection.",
+        "whyCorrect": "Several histologic criteria have been created to diagnose and grade rejection for organ transplants. The Banff criteria are used for kidney transplants, while the ISHLT criteria are applied to heart transplants.",
+        "whyWrongByChoice": {
+          "B": "Child-Pugh criteria grade chronic liver disease severity, not graft rejection.",
+          "C": "ISHLT criteria are used for heart transplant rejection, not kidney.",
+          "D": "Ranson criteria assess the severity of acute pancreatitis, not transplant rejection.",
+          "E": "TNM staging describes cancer extent, not transplant rejection grading."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Banff criteria",
+        "kidney transplant",
+        "grading"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-001",
+      "stem": "A 29-year-old man has a 2-year history of crampy abdominal pain, diarrhea, and a 7-kg weight loss. Endoscopy with biopsies is performed. The duodenal mucosa shows a villous height-to-crypt ratio of 3:1. A sigmoid colon biopsy shows neutrophils packed within colonic crypts and a nodular aggregate of histiocytes. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni enterocolitis"
+        },
+        {
+          "label": "B",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium difficile colitis"
+        },
+        {
+          "label": "D",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative colitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A nodular aggregate of histiocytes is a non-caseating granuloma, the histologic hallmark of Crohn disease.",
+        "whyCorrect": "Non-caseating granulomas, seen as nodular aggregates of histiocytes, are the histologic hallmark of Crohn disease. Active disease also shows acute and chronic inflammation with crypt abscesses, which are aggregates of neutrophils within the tube-like colonic glands, and distortion of the crypts. The duodenal villous height-to-crypt ratio of 3:1 is normal, so a small-bowel enteropathy does not explain the picture.",
+        "whyWrongByChoice": {
+          "A": "Campylobacter jejuni causes invasive, often bloody diarrhea with fever, but it does not feature granulomatous inflammation.",
+          "B": "Celiac disease produces marked villous atrophy and flattening; a villous height-to-crypt ratio of 3:1 is normal.",
+          "C": "Clostridium difficile toxins damage the mucosa and produce pseudomembranes rather than granulomatous inflammation.",
+          "E": "Ulcerative colitis also produces crypt abscesses, ulceration, and architectural distortion, but it characteristically lacks granulomas."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "crohn disease",
+        "granuloma",
+        "inflammatory bowel disease"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-002",
+      "stem": "A 34-year-old woman has 6 months of diarrhea, bloating, and fatigue that worsen after meals containing wheat. Duodenal biopsy shows blunted villi with a dense intraepithelial CD8+ T-cell infiltrate and enterocyte damage. Gliadin is thought to trigger release of a cytokine that stimulates these CD8+ T cells. Which cytokine is responsible for that early step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interferon-gamma"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-10"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-15"
+        },
+        {
+          "label": "D",
+          "text": "Interleukin-4"
+        },
+        {
+          "label": "E",
+          "text": "Tumor necrosis factor-alpha"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In celiac disease, gliadin triggers IL-15 release, which stimulates CD8+ T cells and injures enterocytes.",
+        "whyCorrect": "Gliadin, a constituent of the grain protein gluten, can trigger release of IL-15 in susceptible patients. IL-15 stimulates CD8+ T cells, and the resulting inflammation damages enterocytes. That damage allows more gliadin to reach the lamina propria, where gliadin-derived peptides engage HLA-DQ2 or HLA-DQ8 class II molecules and recruit CD4+ T cells for further injury.",
+        "whyWrongByChoice": {
+          "A": "Interferon-gamma activates macrophages, but the gliadin-triggered cytokine that stimulates CD8+ T cells in this enteropathy is IL-15.",
+          "B": "Interleukin-10 is an anti-inflammatory cytokine and would not drive the CD8+ T-cell activation that injures enterocytes here.",
+          "D": "Interleukin-4 drives B-cell responses and class switching; it is not the cytokine released by gliadin to stimulate CD8+ T cells.",
+          "E": "Tumor necrosis factor-alpha is a general mediator of inflammation, not the specific gliadin-triggered stimulus for CD8+ T cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "celiac disease",
+        "gliadin",
+        "cytokine"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-003",
+      "stem": "A 22-year-old woman has chronic diarrhea and iron deficiency. Duodenal biopsy shows villous atrophy, and her symptoms and histology resolve on a gluten-free diet. Her younger brother is now being evaluated, and HLA typing is ordered. Which pair of alleles is most strongly associated with her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HLA-DQ2 and HLA-DQ8"
+        },
+        {
+          "label": "B",
+          "text": "HLA-DR2 and HLA-DR3"
+        },
+        {
+          "label": "C",
+          "text": "HLA-A3 and HLA-B8"
+        },
+        {
+          "label": "D",
+          "text": "HLA-DR4 and HLA-DR1"
+        },
+        {
+          "label": "E",
+          "text": "HLA-B27 and HLA-B7"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Celiac disease is associated with the MHC class II alleles HLA-DQ2 and HLA-DQ8.",
+        "whyCorrect": "Once gliadin reaches the lamina propria, gliadin-derived peptides are presented by HLA-DQ2 or HLA-DQ8 MHC class II molecules. That presentation stimulates CD4+ T cells, generating the additional inflammation and tissue damage that produce villous atrophy.",
+        "whyWrongByChoice": {
+          "B": "HLA-DR2 is associated with Goodpasture syndrome and systemic lupus erythematosus rather than gluten-sensitive enteropathy.",
+          "C": "Neither allele is among the class II molecules that present gliadin peptides to CD4+ T cells in this disease.",
+          "D": "HLA-DR4 is associated with rheumatoid arthritis and has no role in presenting gliadin peptides.",
+          "E": "HLA-B27 is the allele linked to reactive arthritis, inflammatory bowel disease-associated arthritis, and ankylosing spondylitis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "celiac disease",
+        "HLA",
+        "MHC class II"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-004",
+      "stem": "A 31-year-old man with biopsy-proven celiac disease develops intensely itchy, grouped blisters over both elbows, the upper back, and the buttocks. Skin biopsy shows separation of the epithelium from the basement membrane. The IgA antibodies responsible are directed against dietary gluten but cross-react with a connective tissue protein that anchors the epidermal basement membrane. Which protein is that target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Desmoglein 3"
+        },
+        {
+          "label": "B",
+          "text": "Laminin 332"
+        },
+        {
+          "label": "C",
+          "text": "Plectin"
+        },
+        {
+          "label": "D",
+          "text": "Reticulin"
+        },
+        {
+          "label": "E",
+          "text": "Type VII collagen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dermatitis herpetiformis results from IgA antibodies to gluten that cross-react with reticulin in the skin.",
+        "whyCorrect": "In dermatitis herpetiformis, patients develop IgA antibodies to dietary gluten that cross-react with reticulin, a connective tissue protein important in anchoring the epidermal basement membrane. The IgA-mediated damage produces subepidermal blisters, classically on extensor surfaces as well as the upper back and buttocks.",
+        "whyWrongByChoice": {
+          "A": "Desmoglein 3 is an intercellular desmosomal protein, not the basement membrane anchoring protein targeted in this celiac-associated blistering disease.",
+          "B": "Laminin 332 resides in the lamina lucida and is not the cross-reactive target of the gluten-directed IgA.",
+          "C": "Plectin is a hemidesmosomal linker protein and is unrelated to the IgA cross-reactivity described here.",
+          "E": "Type VII collagen forms anchoring fibrils but is not the reticulin target implicated in dermatitis herpetiformis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dermatitis herpetiformis",
+        "celiac disease",
+        "IgA"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-005",
+      "stem": "A 28-year-old woman with chronic diarrhea and duodenal villous flattening develops grouped erythematous vesicles over the extensor surfaces of both elbows. Perilesional skin is submitted for direct immunofluorescence. Which finding is most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granular IgA at the tips of the dermal papillae"
+        },
+        {
+          "label": "B",
+          "text": "Granular IgM around the follicular openings"
+        },
+        {
+          "label": "C",
+          "text": "Intercellular IgG in a net-like epidermal pattern"
+        },
+        {
+          "label": "D",
+          "text": "Linear IgA along the epidermal basement membrane"
+        },
+        {
+          "label": "E",
+          "text": "Linear IgG along the dermoepidermal junction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dermatitis herpetiformis shows granular IgA deposits at the tips of the dermal papillae.",
+        "whyCorrect": "Dermatitis herpetiformis is an IgA-mediated condition associated with celiac disease. Microscopically there is separation of the epithelium from the basement membrane, producing a subepidermal blister, and immunofluorescence demonstrates granular IgA deposits at the tips of the dermal papillae.",
+        "whyWrongByChoice": {
+          "B": "Granular IgM at follicular openings is not the described finding; the immunoglobulin class in this disease is IgA.",
+          "C": "An intercellular net-like pattern reflects antibodies against desmosomal proteins, not the papillary-tip deposits seen here.",
+          "D": "The deposits in dermatitis herpetiformis are granular and confined to the papillary tips rather than a continuous linear band.",
+          "E": "A linear IgG band is not the pattern of this IgA-mediated disease, in which the deposits are granular and of IgA class."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dermatitis herpetiformis",
+        "immunofluorescence",
+        "IgA"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-006",
+      "stem": "A 27-year-old woman has chronic diarrhea, fatigue, and weight loss, and groups of erythematous blisters over both elbows. Duodenal biopsy shows flattening of the villi with loss of the normal finger-like projections. Which of the following is the cornerstone of her management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lifelong avoidance of dietary gluten"
+        },
+        {
+          "label": "B",
+          "text": "Lifelong avoidance of dietary lactose"
+        },
+        {
+          "label": "C",
+          "text": "Long-term oral metronidazole therapy"
+        },
+        {
+          "label": "D",
+          "text": "Long-term systemic corticosteroid therapy"
+        },
+        {
+          "label": "E",
+          "text": "Surgical resection of the affected bowel"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Avoidance of gluten is the mainstay of treatment for celiac disease and its associated dermatitis herpetiformis.",
+        "whyCorrect": "This patient has celiac disease, in which an immune response to gliadin produces duodenal villous atrophy and malabsorption, with dermatitis herpetiformis as a blistering extraintestinal manifestation. Because gliadin is the trigger, avoidance of dietary gluten is the cornerstone of treatment.",
+        "whyWrongByChoice": {
+          "B": "Lactose is not the trigger in this disease; the inflammation is driven by gliadin, a constituent of the grain protein gluten.",
+          "C": "Metronidazole targets infectious causes of diarrhea and does nothing for an immune response directed against a dietary protein.",
+          "D": "Systemic steroids are not the mainstay here, because withdrawing the inciting dietary antigen reverses the enteropathy.",
+          "E": "Resection is not indicated, since the villous atrophy is an immune response to a dietary antigen rather than a focal lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "celiac disease",
+        "treatment",
+        "gluten"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-007",
+      "stem": "A 40-year-old woman has several months of diarrhea, bloating, and fatigue. Serologic evaluation supports gluten-sensitive enteropathy, and duodenal biopsies are obtained. Which histologic finding is most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Non-caseating granulomas in the lamina propria"
+        },
+        {
+          "label": "B",
+          "text": "Owl's eye intranuclear viral inclusions"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomembranes of fibrin and neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Transmural inflammation with fissuring ulcers"
+        },
+        {
+          "label": "E",
+          "text": "Villous atrophy with flattening of the mucosa"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Celiac disease produces marked duodenal villous atrophy in place of the normal villous height-to-crypt ratio of at least 3:1.",
+        "whyCorrect": "Adult patients with celiac disease present with diarrhea, bloating, and fatigue. The ongoing gliadin-driven inflammation destroys enterocytes, and the normal finger-like duodenal villi are replaced by a flattened mucosa. Instead of a normal villous height-to-crypt ratio of at least 3:1, marked villous atrophy is seen.",
+        "whyWrongByChoice": {
+          "A": "Nodular histiocyte aggregates are the hallmark of Crohn disease and are not part of the celiac disease biopsy.",
+          "B": "Large intranuclear inclusions indicate cytomegalovirus infection, typically in immunosuppressed patients.",
+          "C": "Adherent fibrinopurulent membranes reflect toxin-mediated injury from Clostridium difficile rather than gluten sensitivity.",
+          "D": "Inflammation through the full thickness of the bowel wall is a feature of Crohn disease, not of a gliadin-driven enteropathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "celiac disease",
+        "villous atrophy",
+        "histology"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-008",
+      "stem": "A 24-year-old man is diagnosed with Crohn disease after presenting with chronic diarrhea, right lower quadrant pain, and weight loss. Although this disorder can involve any portion of the gastrointestinal tract from the mouth to the anus, which region is most commonly affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Esophagus and gastric cardia"
+        },
+        {
+          "label": "B",
+          "text": "Gastric antrum and duodenum"
+        },
+        {
+          "label": "C",
+          "text": "Jejunum and proximal ileum"
+        },
+        {
+          "label": "D",
+          "text": "Rectum and sigmoid colon"
+        },
+        {
+          "label": "E",
+          "text": "Terminal ileum and cecum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Crohn disease can involve any part of the gut but most commonly affects the terminal ileum, ileocecal valve, and cecum.",
+        "whyCorrect": "Crohn disease may affect any portion of the gastrointestinal tract, including the mouth and anus, but it most commonly involves the terminal ileum, the ileocecal valve, and the cecum. This distribution explains the right lower quadrant pain and is one of the features that distinguishes it from ulcerative colitis.",
+        "whyWrongByChoice": {
+          "A": "Esophageal and cardia involvement is possible given the full gastrointestinal range of the disease but is not the usual site.",
+          "B": "Gastroduodenal involvement can occur in Crohn disease but is far less common than ileocecal disease.",
+          "C": "Proximal small-bowel disease occurs but is not the classic distribution that defines this disorder.",
+          "D": "Rectal and distal colonic disease with continuous proximal extension is the pattern of ulcerative colitis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "crohn disease",
+        "distribution",
+        "terminal ileum"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-009",
+      "stem": "A 26-year-old man with Crohn disease develops feculent drainage from a perianal opening and, several months later, obstructive symptoms from a narrowed segment of terminal ileum. At operation, the serosa of the involved bowel is erythematous. Which feature of his disease best explains these complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continuous involvement of the colonic mucosa"
+        },
+        {
+          "label": "B",
+          "text": "Inflammation spanning the full thickness of the wall"
+        },
+        {
+          "label": "C",
+          "text": "Superficial ulceration limited to the mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Toxin-mediated injury of surface enterocytes"
+        },
+        {
+          "label": "E",
+          "text": "Villous atrophy from an immune response to gliadin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transmural inflammation in Crohn disease produces strictures, fistula tracts, perforations, and serositis.",
+        "whyCorrect": "The inflammation of Crohn disease is transmural, meaning it involves the entire thickness of the bowel wall. As a result, patients may develop strictures, which are areas of pathologic narrowing, fistula tracts, which are abnormal connections between organs, and even perforations. Because the process reaches the serosa, erythematous serositis is seen.",
+        "whyWrongByChoice": {
+          "A": "Continuous mucosal involvement describes ulcerative colitis, which does not typically produce fistulas or strictures.",
+          "C": "Disease confined to the mucosa and superficial submucosa is the pattern of ulcerative colitis and spares the deeper wall.",
+          "D": "Toxin-mediated surface injury produces pseudomembranes, not the deep tracts and fibrotic narrowing described here.",
+          "E": "An immune response to gliadin flattens duodenal villi and causes malabsorption rather than fistulas and strictures."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "crohn disease",
+        "transmural inflammation",
+        "fistula"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-010",
+      "stem": "A colectomy specimen from a 38-year-old woman shows red, granular mucosa extending continuously from the rectum to the splenic flexure, with inflammatory pseudopolyps and a sharp demarcation from uninvolved mucosa. Histology shows crypt abscesses and inflammation limited to the mucosa and superficial submucosa. Which additional gross finding is most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A fibrotic stricture of the terminal ileum"
+        },
+        {
+          "label": "B",
+          "text": "A normal-appearing serosal surface"
+        },
+        {
+          "label": "C",
+          "text": "Erythematous serositis of the bowel"
+        },
+        {
+          "label": "D",
+          "text": "Free perforation with fecal peritonitis"
+        },
+        {
+          "label": "E",
+          "text": "Multiple enteroenteric fistula tracts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because ulcerative colitis spares the deeper wall, the serosal surface appears normal.",
+        "whyCorrect": "In ulcerative colitis the inflammation is limited to the mucosa and superficial submucosa rather than being transmural. As a consequence, strictures, perforations, and fistulas would be unusual, and the serosal surface appears normal, in direct contrast to Crohn disease.",
+        "whyWrongByChoice": {
+          "A": "This disorder is limited to the colon and rectum, and fibrotic narrowing of the ileum is not part of its picture.",
+          "C": "Serosal inflammation indicates that disease has reached the outer wall, which is characteristic of Crohn disease instead.",
+          "D": "Perforation follows transmural injury and would be unusual in a process confined to the mucosa and superficial submucosa.",
+          "E": "Abnormal connections between bowel loops require inflammation through the full wall thickness, which this disease lacks."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ulcerative colitis",
+        "serosa",
+        "gross pathology"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-011",
+      "stem": "A resected ileal segment from a 33-year-old man with Crohn disease has a gross mucosal surface that resembles cobblestones. Which of the following best explains this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circumferential fibrous scars contracting the bowel into rings"
+        },
+        {
+          "label": "B",
+          "text": "Continuous mucosal inflammation extending from the rectum"
+        },
+        {
+          "label": "C",
+          "text": "Diseased mucosa separated by intervening uninvolved mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Regenerating islands of mucosa left by confluent ulceration"
+        },
+        {
+          "label": "E",
+          "text": "Submucosal lymphoid follicles enlarged by chronic antigen load"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cobblestone appearance of Crohn disease comes from diseased mucosa alternating with intervening uninvolved mucosa.",
+        "whyCorrect": "Crohn disease classically presents as skip lesions, areas of disease separated by uninvolved mucosa. Grossly this produces a surface resembling cobblestones, because diseased mucosa is interrupted by intervening non-involved mucosa. Aphthous ulcers in the bowel may also coalesce into linear, rake-like ulcers.",
+        "whyWrongByChoice": {
+          "A": "Fibrous narrowing produces a stricture, a separate complication of transmural inflammation, rather than a cobblestone surface.",
+          "B": "Continuous inflammation spreading proximally from the rectum characterizes ulcerative colitis, which does not cobblestone.",
+          "D": "Islands of regenerating mucosa describe inflammatory pseudopolyps, a non-specific finding seen in both forms of the disease.",
+          "E": "Enlarged submucosal lymphoid aggregates are not the basis of the cobblestone pattern described in this disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "crohn disease",
+        "skip lesions",
+        "cobblestoning"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa24-012",
+      "stem": "A colonic biopsy from a 30-year-old patient with active inflammatory bowel disease shows aggregates of neutrophils filling the tube-like glands of the colon, with distortion of those glands. What is this finding called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aphthous ulcer"
+        },
+        {
+          "label": "B",
+          "text": "Crypt abscess"
+        },
+        {
+          "label": "C",
+          "text": "Inflammatory pseudopolyp"
+        },
+        {
+          "label": "D",
+          "text": "Non-caseating granuloma"
+        },
+        {
+          "label": "E",
+          "text": "Owl's eye inclusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A crypt abscess is an aggregate of neutrophils within a colonic crypt, a marker of active inflammatory bowel disease.",
+        "whyCorrect": "Crypt abscesses are aggregates of neutrophils within colonic crypts, the tube-like glands of the colon, and they mark active disease. As a result of the inflammation the crypts also become distorted. Crypt abscesses are seen in both Crohn disease and ulcerative colitis.",
+        "whyWrongByChoice": {
+          "A": "An aphthous ulcer is a shallow surface ulceration of mucosa, seen in the mouth and the bowel in Crohn disease.",
+          "C": "A pseudopolyp is a gross projection of inflamed or regenerating mucosa rather than a collection of neutrophils in a gland.",
+          "D": "A nodular aggregate of histiocytes, not neutrophils within glands, defines the granuloma characteristic of Crohn disease.",
+          "E": "An owl's eye inclusion is a large intranuclear viral inclusion of cytomegalovirus infection, not a neutrophil aggregate."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "crypt abscess",
+        "inflammatory bowel disease",
+        "histology"
+      ],
+      "topicId": "immune-related-and-infectious-causes-of-diarrhea",
+      "topicName": "Immune-related and Infectious Causes of Diarrhea",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-001",
+      "stem": "A 47-year-old woman reports several months of fatigue and generalized itching. Physical exam is unremarkable except for mild scratch marks. Laboratory studies show a markedly elevated serum alkaline phosphatase with only mild transaminase elevation. Serologic testing is positive for anti-mitochondrial antibodies. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic hepatitis C"
+        },
+        {
+          "label": "C",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "D",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Unconjugated hyperbilirubinemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Anti-mitochondrial antibodies with a cholestatic (high alkaline phosphatase) picture in a middle-aged woman indicate primary biliary cholangitis.",
+        "whyCorrect": "Primary biliary cholangitis (PBC) is an autoimmune destruction of small and medium intrahepatic bile ducts with a 9:1 female predominance peaking at 40-50 years. Diagnosis rests on elevated alkaline phosphatase, supportive histology, and anti-mitochondrial antibodies (AMA), which are present in about 95% of cases. Early symptoms are fatigue and pruritus.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune hepatitis is associated with ANA, anti-smooth muscle actin, and anti-LKM-1 antibodies, not AMA, and produces a hepatitic (high transaminase) rather than a purely cholestatic pattern.",
+          "B": "Chronic hepatitis C produces anti-HCV antibodies and detectable HCV RNA, not anti-mitochondrial antibodies.",
+          "D": "Primary sclerosing cholangitis is associated with p-ANCA and predominantly affects men with ulcerative colitis, not AMA-positive women.",
+          "E": "Unconjugated hyperbilirubinemia is a laboratory classification of elevated bilirubin, not a specific antibody-associated disease."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "primary biliary cholangitis",
+        "AMA",
+        "cholestasis"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-002",
+      "stem": "A 34-year-old man with a 5-year history of ulcerative colitis develops fatigue, pruritus, and intermittent jaundice. Alkaline phosphatase is elevated. Magnetic resonance cholangiopancreatography shows a characteristic beaded appearance of the intrahepatic and extrahepatic bile ducts with strictures alternating with dilated segments. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune hepatitis, type 1"
+        },
+        {
+          "label": "B",
+          "text": "Chronic hepatitis C infection"
+        },
+        {
+          "label": "C",
+          "text": "Obstructing choledocholithiasis"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Primary sclerosing cholangitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A man with ulcerative colitis and beaded bile ducts on cholangiography has primary sclerosing cholangitis.",
+        "whyCorrect": "Primary sclerosing cholangitis (PSC) causes inflammation and obliterative fibrosis of extrahepatic and large intrahepatic bile ducts, producing strictures with dilation of preserved segments. It occurs mostly in men in the 3rd to 5th decades and has a strong association with inflammatory bowel disease (70%), particularly ulcerative colitis. The gold-standard finding is beading of the ducts on ERCP/MRCP.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune hepatitis is a hepatocellular disease with interface hepatitis, not an obliterative fibrosing disease of the bile ducts.",
+          "B": "Chronic hepatitis C causes portal lymphoplasmacytic inflammation of the parenchyma and is diagnosed by HCV RNA PCR, not by biliary beading.",
+          "C": "Choledocholithiasis produces a discrete obstructing stone, not diffuse multifocal strictures and beading throughout the biliary tree, and is not linked to ulcerative colitis.",
+          "D": "Primary biliary cholangitis attacks small intrahepatic ducts, has a 9:1 female predominance, and is diagnosed with AMA rather than by ductal beading on cholangiography."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary sclerosing cholangitis",
+        "ulcerative colitis",
+        "MRCP"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-003",
+      "stem": "A 28-year-old woman is evaluated for fatigue and anorexia. She has a history of autoimmune thyroiditis. Laboratory studies show markedly elevated AST and ALT and an elevated serum IgG. Liver biopsy shows inflammation and hepatocellular injury at the interface between the portal tract and parenchyma with numerous plasma cells in clusters. Which of the following autoantibodies is most likely to be positive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-centromere antinuclear antibody"
+        },
+        {
+          "label": "B",
+          "text": "Anti-hepatitis C virus antibody"
+        },
+        {
+          "label": "C",
+          "text": "Anti-mitochondrial M2 antibody"
+        },
+        {
+          "label": "D",
+          "text": "Anti-smooth muscle actin antibody"
+        },
+        {
+          "label": "E",
+          "text": "Perinuclear anti-neutrophil antibody"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Interface hepatitis with plasma cells and high IgG in a young woman with another autoimmune disease is autoimmune hepatitis, associated with anti-smooth muscle actin antibodies.",
+        "whyCorrect": "Autoimmune hepatitis (AIH) is a chronic progressive hepatitis with female predominance, elevated serum IgG, and histologic interface inflammation with clusters of plasma cells. Its typical autoantibodies are ANA, anti-smooth muscle actin (SMA, type I), and anti-LKM-1 (type II). Anti-SMA is more specific for AIH than the nonspecific ANA.",
+        "whyWrongByChoice": {
+          "A": "Anti-centromere antibody is associated with limited systemic sclerosis (CREST), not autoimmune hepatitis.",
+          "B": "Anti-HCV antibody indicates hepatitis C, which classically shows portal lymphoplasmacytic inflammation rather than the interface pattern with high IgG and autoimmune associations.",
+          "C": "Anti-mitochondrial antibody characterizes primary biliary cholangitis, a cholestatic bile duct disease, not the interface hepatitis described here.",
+          "E": "p-ANCA is associated with primary sclerosing cholangitis and vasculitis, not with plasma-cell-rich interface hepatitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autoimmune hepatitis",
+        "anti-smooth muscle actin",
+        "interface hepatitis"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-004",
+      "stem": "A 41-year-old man with a history of intravenous drug use has fatigue and persistently elevated transaminases documented over the past 8 months. You suspect chronic viral hepatitis. Which of the following is the best test to demonstrate active infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-HCV IgG antibody by immunoassay"
+        },
+        {
+          "label": "B",
+          "text": "Anti-mitochondrial antibody titer"
+        },
+        {
+          "label": "C",
+          "text": "HCV RNA by polymerase chain reaction"
+        },
+        {
+          "label": "D",
+          "text": "Serum alkaline phosphatase level"
+        },
+        {
+          "label": "E",
+          "text": "Serum total IgG concentration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HCV RNA by PCR is the best early test to confirm active hepatitis C infection.",
+        "whyCorrect": "Hepatitis C virus usually presents as a chronic infection with persistently elevated transaminases for more than 6 months and is spread parenterally, including via IV drug use. Diagnosis involves PCR testing for HCV RNA, which is the best early test demonstrating active infection, along with serologic testing for anti-HCV antibodies.",
+        "whyWrongByChoice": {
+          "A": "Anti-HCV IgG indicates exposure but cannot distinguish active from past infection; a positive antibody with negative PCR reflects prior, cleared infection.",
+          "B": "Anti-mitochondrial antibody is a marker of primary biliary cholangitis and has no role in diagnosing hepatitis C.",
+          "D": "Alkaline phosphatase is a marker of cholestatic bile duct disease such as PBC or PSC, not a test for active HCV replication.",
+          "E": "Serum IgG supports autoimmune hepatitis and does not demonstrate active viral replication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepatitis C",
+        "HCV RNA PCR",
+        "diagnosis"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-005",
+      "stem": "A liver biopsy from a 50-year-old woman with cholestatic liver disease shows a portal tract markedly expanded by lymphocytes and plasma cells surrounding a destructive granulomatous reaction centered on a bile duct. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute alcoholic hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic hepatitis C"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Primary sclerosing cholangitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A granulomatous reaction destroying a bile duct (the florid duct lesion) is characteristic of primary biliary cholangitis.",
+        "whyCorrect": "The characteristic histology of PBC is lymphocytic and/or granulomatous destruction of small and medium intrahepatic bile ducts. The classic florid duct lesion is a portal tract expanded by lymphocytes and plasma cells around a destructive granulomatous reaction centered on a bile duct, matching this biopsy in a middle-aged woman.",
+        "whyWrongByChoice": {
+          "A": "Alcoholic hepatitis shows steatosis, Mallory-Denk bodies, and neutrophilic infiltration, not granulomatous bile duct destruction.",
+          "B": "Autoimmune hepatitis shows interface hepatitis with plasma cells attacking hepatocytes, not a granulomatous reaction centered on a bile duct.",
+          "C": "Chronic hepatitis C shows portal lymphoplasmacytic inflammation with fibrosis of the parenchyma, without bile-duct-centered granulomas.",
+          "E": "Primary sclerosing cholangitis shows periductal onion-skin concentric fibrosis, not a granulomatous florid duct lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary biliary cholangitis",
+        "florid duct lesion",
+        "histology"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-006",
+      "stem": "A liver biopsy from a patient with a cholestatic bile duct disorder shows a degenerating bile duct entrapped within a dense concentric layer of fibrosis described as an onion-skin pattern. Which of the following diseases does this finding most strongly suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune hepatitis, type 1"
+        },
+        {
+          "label": "B",
+          "text": "Chronic hepatitis C virus infection"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic amyloidosis, AL type"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Primary sclerosing cholangitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The onion-skin concentric periductal fibrosis is the hallmark histology of primary sclerosing cholangitis.",
+        "whyCorrect": "In primary sclerosing cholangitis there is periductal inflammation in the portal tracts that leads to fibrosis (sclerosis) of the smaller bile ducts. The classic histologic finding is a degenerating bile duct entrapped in a dense onion-skin concentric scar, which progresses to stenosis of biliary ducts with dilation of segments behind the obstruction.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune hepatitis shows interface inflammation with plasma cells, not periductal onion-skin scarring.",
+          "B": "Chronic hepatitis C shows portal lymphoplasmacytic inflammation and bridging fibrosis on trichrome, not onion-skin duct scarring.",
+          "C": "Hepatic amyloidosis shows amorphous eosinophilic deposits that stain with Congo red, not periductal concentric fibrosis.",
+          "D": "Primary biliary cholangitis shows a granulomatous florid duct lesion, not concentric onion-skin periductal fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary sclerosing cholangitis",
+        "onion-skin fibrosis",
+        "histology"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-007",
+      "stem": "A 9-year-old girl presents with acute hepatitis and is found to have autoimmune hepatitis. Testing reveals a specific autoantibody more commonly seen in the pediatric form of this disease. Which of the following autoantibodies was most likely detected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-dsDNA antibody"
+        },
+        {
+          "label": "B",
+          "text": "Anti-HCV antibody"
+        },
+        {
+          "label": "C",
+          "text": "Anti-LKM-1 antibody"
+        },
+        {
+          "label": "D",
+          "text": "Anti-mitochondrial antibody"
+        },
+        {
+          "label": "E",
+          "text": "p-ANCA"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Anti-LKM-1 defines type II autoimmune hepatitis, which is more common in children.",
+        "whyCorrect": "Autoimmune hepatitis autoantibodies include ANA, anti-smooth muscle actin (type I), and anti-LKM-1 (anti-liver kidney microsome-1). Anti-LKM-1 antibodies mark type II AIH and are noted to be more common in children, making them the expected finding in this pediatric case.",
+        "whyWrongByChoice": {
+          "A": "Anti-dsDNA antibody is specific for systemic lupus erythematosus, not for autoimmune hepatitis subtypes.",
+          "B": "Anti-HCV antibody indicates hepatitis C infection, not autoimmune hepatitis.",
+          "D": "Anti-mitochondrial antibody characterizes primary biliary cholangitis, a disease of middle-aged women, not pediatric autoimmune hepatitis.",
+          "E": "p-ANCA is associated with primary sclerosing cholangitis and vasculitis, not type II AIH."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "autoimmune hepatitis",
+        "anti-LKM-1",
+        "type II AIH"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-008",
+      "stem": "During evaluation of a patient with suspected primary biliary cholangitis, anti-mitochondrial antibodies are found to be positive. Which of the following statements best describes the diagnostic value of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AMA is elevated in about 95% of PBC patients"
+        },
+        {
+          "label": "B",
+          "text": "AMA is entirely specific for PBC and never appears in other conditions"
+        },
+        {
+          "label": "C",
+          "text": "AMA is present in only a small subset of PBC cases and is usually absent"
+        },
+        {
+          "label": "D",
+          "text": "AMA is the confirmatory test for primary sclerosing cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "AMA titer correlates directly with the severity of bile duct destruction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "AMA is highly sensitive for PBC (about 95%) but is not perfectly specific, appearing in lupus and autoimmune hepatitis.",
+        "whyCorrect": "A diagnosis of PBC combines elevated serum alkaline phosphatase, characteristic histology, and anti-mitochondrial antibodies. AMA are elevated in 95% of patients with PBC but can also be seen in lupus and autoimmune hepatitis, so the diagnosis rests on the overall clinical, biochemical, and histologic picture.",
+        "whyWrongByChoice": {
+          "B": "AMA is not entirely specific; it can appear in lupus and autoimmune hepatitis.",
+          "C": "AMA is present in the large majority (about 95%) of PBC cases, not a small subset.",
+          "D": "The confirmatory approach for PSC is cholangiography (ERCP/MRCP), not AMA testing.",
+          "E": "The brick does not describe AMA titer as a direct measure of severity; diagnosis relies on the combined clinical picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary biliary cholangitis",
+        "AMA",
+        "test characteristics"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-009",
+      "stem": "A patient with primary sclerosing cholangitis is being discussed at a conference. A proposed mechanism of bile duct injury in this disease is described. Which of the following best represents this mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-mitochondrial antibodies directly lyse biliary epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Copper accumulation causing oxidative bile duct injury"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of immune complexes within hepatocyte cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "Direct viral cytopathic destruction of bile ducts by hepatitis C"
+        },
+        {
+          "label": "E",
+          "text": "T cells activated in the damaged colonic mucosa migrate to the liver"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In PSC, T cells activated in inflamed ulcerative colitis mucosa are proposed to migrate to the liver and cross-react with a bile duct antigen.",
+        "whyCorrect": "PSC has a genetic component (first-degree relatives at increased risk, association with HLA-B8) and a strong link to inflammatory bowel disease. A proposed mechanism is that T cells activated in the damaged mucosa of patients with ulcerative colitis migrate to the liver and cross-react with a bile duct antigen, driving the biliary injury.",
+        "whyWrongByChoice": {
+          "A": "Anti-mitochondrial antibodies are the marker of primary biliary cholangitis, and the brick does not describe them causing direct lysis in PSC.",
+          "B": "Copper accumulation describes Wilson disease, not the T-cell cross-reactivity mechanism proposed for PSC.",
+          "C": "Immune complex deposition in hepatocytes is not the described mechanism of PSC.",
+          "D": "PSC is not caused by direct hepatitis C viral cytopathic destruction; that describes a different, viral process."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "primary sclerosing cholangitis",
+        "pathogenesis",
+        "ulcerative colitis"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-010",
+      "stem": "A 55-year-old man is found to have positive anti-HCV IgG antibodies on routine screening. Follow-up HCV RNA polymerase chain reaction testing is negative. Which of the following best explains these results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A false-positive requiring anti-mitochondrial antibody testing"
+        },
+        {
+          "label": "B",
+          "text": "Active, actively replicating hepatitis C infection"
+        },
+        {
+          "label": "C",
+          "text": "Acute autoimmune hepatitis"
+        },
+        {
+          "label": "D",
+          "text": "Past hepatitis C infection that has resolved"
+        },
+        {
+          "label": "E",
+          "text": "Primary biliary cholangitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Positive anti-HCV IgG with negative HCV RNA PCR indicates a past, resolved hepatitis C infection.",
+        "whyCorrect": "Diagnosis of HCV uses PCR for HCV RNA to demonstrate active infection and serologic testing for anti-HCV antibodies. Positive anti-HCV IgG antibodies with a negative HCV PCR indicate past infection, because antibodies persist after the virus has been cleared.",
+        "whyWrongByChoice": {
+          "A": "The pattern is the expected serologic signature of resolved infection, not a false positive needing AMA testing.",
+          "B": "Active replication would show a positive HCV RNA PCR, but the PCR here is negative.",
+          "C": "Autoimmune hepatitis is diagnosed by autoantibodies and elevated IgG, not by anti-HCV antibodies.",
+          "E": "Primary biliary cholangitis is diagnosed by AMA and cholestatic labs and is unrelated to anti-HCV serology."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepatitis C",
+        "serology interpretation",
+        "past infection"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-011",
+      "stem": "A 30-year-old woman presents with acute onset nausea, vomiting, and jaundice progressing to confusion. Laboratory studies show markedly elevated liver transaminases consistent with acute liver failure. Autoimmune hepatitis is suspected. According to the diagnostic approach for this disease, which combination of features best establishes the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A positive HCV RNA polymerase chain reaction plus anti-HCV antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies, elevated serum IgG, exclusion of other causes, and supportive biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Beading of the intrahepatic and extrahepatic bile ducts plus p-ANCA positivity"
+        },
+        {
+          "label": "D",
+          "text": "Elevated alkaline phosphatase plus a positive anti-mitochondrial antibody titer"
+        },
+        {
+          "label": "E",
+          "text": "Isolated unconjugated hyperbilirubinemia with normal transaminases and a normal serum IgG"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "AIH is diagnosed by combining autoantibodies, elevated serum IgG, exclusion of other etiologies, and supportive histology.",
+        "whyCorrect": "A diagnosis of autoimmune hepatitis rests on the combination of four features: the presence of autoantibodies, elevation of serum IgG, exclusion of other etiologies such as viral hepatitis and drugs, and supportive histologic findings on liver biopsy. AIH can present acutely with life-threatening liver failure and markedly elevated transaminases, as in this patient.",
+        "whyWrongByChoice": {
+          "A": "HCV RNA PCR and anti-HCV antibodies diagnose hepatitis C, which must actually be excluded to diagnose AIH.",
+          "C": "Ductal beading and p-ANCA point to primary sclerosing cholangitis, not autoimmune hepatitis.",
+          "D": "Elevated alkaline phosphatase and AMA define primary biliary cholangitis, a cholestatic disease, not autoimmune hepatitis.",
+          "E": "Isolated unconjugated hyperbilirubinemia with normal transaminases is not the hepatitic picture of autoimmune hepatitis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "autoimmune hepatitis",
+        "diagnosis",
+        "acute liver failure"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    },
+    {
+      "id": "pa25-012",
+      "stem": "A medical student is reviewing why jaundice is an important physical finding. Which of the following statements best describes the pathophysiologic basis of jaundice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blue discoloration of the extremities caused by deoxygenated hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Bronze skin pigmentation caused by iron overload"
+        },
+        {
+          "label": "C",
+          "text": "Pallor caused by reduced red blood cell mass"
+        },
+        {
+          "label": "D",
+          "text": "Reddening of the palms caused by elevated estrogen"
+        },
+        {
+          "label": "E",
+          "text": "Yellow discoloration of skin caused by elevated bilirubin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Jaundice is yellow discoloration of skin, sclera, and mucous membranes due to elevated bilirubin.",
+        "whyCorrect": "Jaundice is a yellow discoloration of the skin, sclera, and mucous membranes caused by elevated bilirubin, and it may indicate serious underlying pathology. Hyperbilirubinemia can be classified into unconjugated and conjugated types, each with different causes, including the infectious and inflammatory liver diseases covered in this brick.",
+        "whyWrongByChoice": {
+          "A": "Blue discoloration from deoxygenated hemoglobin describes cyanosis, not jaundice.",
+          "B": "Bronze pigmentation from iron overload describes hemochromatosis, not the bilirubin-driven yellowing of jaundice.",
+          "C": "Pallor from reduced red cell mass describes anemia, not jaundice.",
+          "D": "Palmar erythema from elevated estrogen is a sign of chronic liver disease but is not the definition of jaundice."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "jaundice",
+        "bilirubin",
+        "clinical presentation"
+      ],
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "tier": "core"
+    }
+  ]
+}

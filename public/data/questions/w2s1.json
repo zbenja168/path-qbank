@@ -1,0 +1,2833 @@
+{
+  "categoryId": "w2s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "pa12-001",
+      "stem": "A 50-year-old man with liver cirrhosis secondary to alcohol use disorder presents for follow-up. On examination he has a large, protuberant abdomen, and he reports that his doctors told him there is fluid in his belly. Which of the following terms best describes this collection of fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anasarca"
+        },
+        {
+          "label": "B",
+          "text": "Ascites"
+        },
+        {
+          "label": "C",
+          "text": "Edema"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial effusion"
+        },
+        {
+          "label": "E",
+          "text": "Pleural effusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ascites is the accumulation of fluid within the abdominal cavity and is a classic finding in liver cirrhosis.",
+        "whyCorrect": "The brick defines an effusion as accumulation of fluid within a body cavity and names the fluid that collects in the abdominal cavity as ascites. Cirrhosis produces ascites through both portal hypertension and reduced albumin synthesis.",
+        "whyWrongByChoice": {
+          "A": "Anasarca is severe generalized edema of subcutaneous tissue, not a cavity fluid collection.",
+          "C": "Edema is the general term for accumulation of fluid within tissues, not fluid within a body cavity.",
+          "D": "A pericardial effusion is fluid within the pericardial sac around the heart, not the abdomen.",
+          "E": "A pleural effusion is fluid within the pleural cavity around the lungs, not the abdomen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "effusion",
+        "ascites"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-002",
+      "stem": "A 65-year-old man with a history of nephrotic syndrome presents with periorbital and lower extremity swelling. Laboratory studies show heavy proteinuria and a markedly low serum albumin. Which pathophysiologic category of edema best explains his findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased capillary hydrostatic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Increased vascular permeability from cytokines"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic obstruction by tumor or fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Reduced plasma colloid osmotic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Sodium and water retention by the kidney"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Loss of albumin lowers plasma colloid osmotic pressure, allowing fluid to leave the vasculature and produce edema.",
+        "whyCorrect": "The brick states that albumin, which makes up about 50% of total plasma protein, is the predominant contributor to osmotic pressure. In nephrotic syndrome, protein-losing glomerulopathy causes massive urinary loss of albumin, reducing the oncotic pull that keeps fluid in the vessel.",
+        "whyWrongByChoice": {
+          "A": "Increased hydrostatic pressure results from disorders that impair venous return, such as heart failure or cirrhosis, not from urinary protein loss.",
+          "B": "Increased vascular permeability is driven by inflammatory cytokines during inflammation, not by loss of plasma albumin.",
+          "C": "Lymphatic obstruction is caused by trauma, tumors, fibrosis, or filariasis blocking lymphatic drainage, not by proteinuria.",
+          "E": "Sodium and water retention causes edema through intravascular volume expansion; the primary defect here is albumin loss lowering oncotic pressure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "colloid osmotic pressure",
+        "nephrotic syndrome"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-003",
+      "stem": "A 72-year-old woman with longstanding congestive heart failure develops progressive bilateral lower extremity edema. Which of the following mechanisms is the most direct cause of her edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiogenesis producing leaky new vessels"
+        },
+        {
+          "label": "B",
+          "text": "Blockage of lymphatic channels by a tumor"
+        },
+        {
+          "label": "C",
+          "text": "Increased hydrostatic pressure"
+        },
+        {
+          "label": "D",
+          "text": "Inflammatory cytokines increasing vessel permeability"
+        },
+        {
+          "label": "E",
+          "text": "Loss of albumin in the urine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Disorders that impair venous return raise capillary hydrostatic pressure and push fluid into the interstitium.",
+        "whyCorrect": "The brick lists congestive heart failure among the disorders that increase hydrostatic pressure by impairing venous return. The resulting rise in capillary pressure drives fluid out of the vessel into the tissues, producing edema.",
+        "whyWrongByChoice": {
+          "A": "Leaky angiogenic vessels contribute to increased vascular permeability, not to hydrostatic edema from impaired venous return.",
+          "B": "Tumor blockage of lymphatics is a lymphatic obstruction mechanism, unrelated to venous congestion from heart failure.",
+          "D": "Inflammatory cytokines increasing permeability is the mechanism of inflammatory edema, not of heart-failure edema.",
+          "E": "Urinary albumin loss lowers colloid osmotic pressure and is the mechanism in nephrotic syndrome, not in heart failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "hydrostatic pressure",
+        "heart failure"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-004",
+      "stem": "A 34-year-old man from a region where filarial disease is endemic develops massive, chronic swelling and thickening of one leg, progressing over years to elephantiasis. Which mechanism of edema best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hydrostatic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Increased vascular permeability"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Reduced plasma colloid osmotic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Sodium and water retention"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Blocked lymphatic drainage of interstitial fluid produces lymphedema, which filariasis can advance to elephantiasis.",
+        "whyCorrect": "The brick states that movement of fluid from the interstitial space into lymphatic vessels can be blocked by conditions including trauma, fibrosis, invasive tumors, and filariasis from the Filarioidea roundworm, and it shows massive edema and elephantiasis of the leg as an example.",
+        "whyWrongByChoice": {
+          "A": "Increased hydrostatic pressure arises from impaired venous return, whereas here the lymphatic drainage is obstructed.",
+          "B": "Increased vascular permeability is inflammatory and mediated by cytokines, not by parasitic blockage of lymphatics.",
+          "D": "Reduced colloid osmotic pressure results from albumin loss and typically causes more generalized edema, not a filarial limb.",
+          "E": "Sodium and water retention expands intravascular volume via renal mechanisms, not via lymphatic blockage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "lymphatic obstruction",
+        "filariasis"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-005",
+      "stem": "A 40-year-old woman undergoes thoracentesis for a pleural effusion. Analysis of the fluid shows a high protein content, high cellularity with numerous white cells, and a high specific gravity. Cultures grow bacteria. Which of the following best characterizes this fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A transudate from heart failure"
+        },
+        {
+          "label": "B",
+          "text": "A transudate from hypoalbuminemia"
+        },
+        {
+          "label": "C",
+          "text": "A transudate from renal disease"
+        },
+        {
+          "label": "D",
+          "text": "An exudate from an inflammatory process"
+        },
+        {
+          "label": "E",
+          "text": "An ultrafiltrate of plasma with low protein"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Protein-rich, highly cellular fluid with high specific gravity arising from infection or inflammation is an exudate.",
+        "whyCorrect": "The brick defines exudates as inflammatory fluid collections that arise from increases in vascular permeability caused by inflammatory mediators; they are protein-rich with higher cellularity and specific gravity, and common causes include infections such as pneumonia and tuberculosis.",
+        "whyWrongByChoice": {
+          "A": "A transudate from heart failure has low protein and low cellularity, the opposite of the described fluid.",
+          "B": "A transudate from hypoalbuminemia is a low-protein ultrafiltrate, not a protein-rich, cellular fluid.",
+          "C": "A transudate from renal disease is non-inflammatory with low protein and specific gravity, unlike this fluid.",
+          "E": "A low-protein ultrafiltrate of plasma is by definition a transudate, not this protein-rich cellular fluid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "exudate",
+        "transudate",
+        "effusion"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-006",
+      "stem": "A pathologist reviews pleural fluid removed from a patient and must decide whether it is a transudate or an exudate. Which of the following findings is most compatible with a transudate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A background of underlying bacterial infection"
+        },
+        {
+          "label": "B",
+          "text": "A history of heart failure"
+        },
+        {
+          "label": "C",
+          "text": "High cellularity with abundant white cells"
+        },
+        {
+          "label": "D",
+          "text": "High protein content"
+        },
+        {
+          "label": "E",
+          "text": "High specific gravity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transudates are non-inflammatory, low-protein ultrafiltrates of plasma that occur in disorders such as heart failure.",
+        "whyCorrect": "The brick states that transudates are non-inflammatory fluid collections common in disorders such as heart failure, liver failure, renal disease, and malnutrition, and that they have low levels of protein, cellularity, and specific gravity.",
+        "whyWrongByChoice": {
+          "A": "An underlying bacterial infection points to an inflammatory exudate, not a transudate.",
+          "C": "High cellularity is a feature of exudates; transudates have low cellularity.",
+          "D": "High protein content characterizes exudates; transudates have low protein.",
+          "E": "High specific gravity is typical of exudates; transudates have low specific gravity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transudate",
+        "exudate",
+        "heart failure"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-007",
+      "stem": "A 48-year-old man develops a blood clot in his right popliteal vein. Over the next day his right lower leg becomes swollen and takes on a dusky, blue-red discoloration. Which of the following best describes the change in blood volume in his leg?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An exudative effusion in the leg"
+        },
+        {
+          "label": "B",
+          "text": "Congestion from reduced venous outflow"
+        },
+        {
+          "label": "C",
+          "text": "Hyperemia from an inflammatory stimulus"
+        },
+        {
+          "label": "D",
+          "text": "Hyperemia from arteriolar dilation"
+        },
+        {
+          "label": "E",
+          "text": "Increased arterial inflow from exercise"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Congestion is a passive increase in blood volume from reduced venous outflow and gives tissue a cyanotic appearance.",
+        "whyCorrect": "The brick defines congestion as a passive process resulting from reduced venous outflow from a tissue, which can be localized as in isolated venous obstruction. Congested tissues take on a cyanotic, reddish-blue appearance from accumulation of deoxygenated hemoglobin, matching this venous clot.",
+        "whyWrongByChoice": {
+          "A": "An exudative effusion is an inflammatory fluid collection in a cavity, not a change in blood volume within the leg.",
+          "C": "Hyperemia from inflammation produces red erythema from oxygenated blood, not the blue-red hue of venous obstruction.",
+          "D": "Hyperemia is an active process of arteriolar dilation increasing inflow, whereas a venous clot obstructs outflow.",
+          "E": "Increased arterial inflow from exercise describes hyperemia, the opposite mechanism of this venous outflow obstruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "congestion",
+        "hyperemia",
+        "venous obstruction"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-008",
+      "stem": "During a soccer match, a 28-year-old man exerts himself and his skin becomes flushed and red as blood flow to his muscles and skin increases. Which of the following statements about this process is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a passive process caused by reduced venous outflow from the tissue"
+        },
+        {
+          "label": "B",
+          "text": "It is characteristically associated with systemic or local cardiac failure"
+        },
+        {
+          "label": "C",
+          "text": "It leads directly to ischemic tissue injury and fibrosis of the tissue over time"
+        },
+        {
+          "label": "D",
+          "text": "It typically produces a cyanotic, blue-red discoloration of the skin"
+        },
+        {
+          "label": "E",
+          "text": "The tissue is red because of an active increase in oxygenated arterial inflow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hyperemia is an active increase in blood volume from arteriolar dilation that turns tissue red with oxygenated blood.",
+        "whyCorrect": "The brick describes hyperemia as an active process in which arteriolar dilation increases blood flow, and affected tissues turn red because of an influx of oxygenated blood. It arises at sites of inflammation, during exercise, and with other stimuli.",
+        "whyWrongByChoice": {
+          "A": "A passive process from reduced venous outflow describes congestion, not hyperemia.",
+          "B": "Association with systemic cardiac failure describes congestion, whereas hyperemia is seen with exercise and inflammation.",
+          "C": "Chronic congestion, not hyperemia, is what can lead to ischemic tissue injury and fibrosis over time.",
+          "D": "A cyanotic blue-red discoloration is characteristic of congestion from deoxygenated hemoglobin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hyperemia",
+        "congestion"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-009",
+      "stem": "A 25-year-old hiker is attacked by a mountain lion and sustains large, bleeding wounds to her arms and legs. In the emergency department her skin is cool and clammy, her heart rate is 140/min, and her blood pressure is 100/60 mmHg. Which type of shock is she most likely experiencing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylactic shock"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic shock"
+        },
+        {
+          "label": "C",
+          "text": "Hypovolemic shock"
+        },
+        {
+          "label": "D",
+          "text": "Neurogenic shock"
+        },
+        {
+          "label": "E",
+          "text": "Septic shock"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Massive hemorrhage lowers blood volume and cardiac output, producing hypovolemic shock.",
+        "whyCorrect": "The brick states that hypovolemic shock results from low cardiac output due to low blood volume, as in massive hemorrhage or fluid loss from severe burns. Her bleeding wounds, weak rapid pulse, and cool clammy skin fit this picture.",
+        "whyWrongByChoice": {
+          "A": "Anaphylactic shock is an IgE-mediated hypersensitivity reaction to an allergen, not a response to blood loss.",
+          "B": "Cardiogenic shock results from heart pump failure such as myocardial infarction, not from hemorrhage.",
+          "D": "Neurogenic shock follows spinal cord injury with acute vasodilation, which is not described here.",
+          "E": "Septic shock results from systemic inflammation due to infection and often produces warm, flushed skin, unlike her cool clammy skin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shock",
+        "hypovolemic shock",
+        "hemorrhage"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-010",
+      "stem": "A 68-year-old man is admitted with a large anterior myocardial infarction. Despite normal blood volume, his blood pressure falls to 80/50 mmHg, his pulse is weak and rapid, and his skin is cool and clammy. Which type of shock best explains his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylactic shock"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic shock"
+        },
+        {
+          "label": "C",
+          "text": "Hypovolemic shock"
+        },
+        {
+          "label": "D",
+          "text": "Neurogenic shock"
+        },
+        {
+          "label": "E",
+          "text": "Septic shock"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cardiogenic shock results from low cardiac output due to failure of the heart as a pump.",
+        "whyCorrect": "The brick defines cardiogenic shock as resulting from low cardiac output due to heart pump failure, giving myocardial infarction and arrhythmias as examples. Because volume is adequate but the infarcted heart cannot pump, he develops hypotension with a weak pulse and cool clammy skin.",
+        "whyWrongByChoice": {
+          "A": "Anaphylactic shock is an IgE-mediated allergic reaction, not a consequence of a myocardial infarction.",
+          "C": "Hypovolemic shock is caused by low blood volume from hemorrhage or burns, but his volume is normal.",
+          "D": "Neurogenic shock follows spinal cord injury with vasodilation, which is not present here.",
+          "E": "Septic shock arises from systemic inflammation due to infection and tends to cause warm, flushed skin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shock",
+        "cardiogenic shock",
+        "myocardial infarction"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-011",
+      "stem": "A 60-year-old man with severe necrotizing pancreatitis becomes hypotensive. Unlike a patient in hemorrhagic shock, his skin is warm and flushed rather than cool and clammy. Which type of shock and mechanism best account for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylactic shock from an allergen"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic shock from pump failure"
+        },
+        {
+          "label": "C",
+          "text": "Hypovolemic shock from fluid loss"
+        },
+        {
+          "label": "D",
+          "text": "Neurogenic shock from spinal cord injury"
+        },
+        {
+          "label": "E",
+          "text": "Septic shock with peripheral vasodilation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Septic shock arises from systemic inflammation and often produces warm, flushed skin from peripheral vasodilation.",
+        "whyCorrect": "The brick states that septic shock results from states of systemic inflammation, including pancreatitis, and its clinical correlation notes that patients with septic shock may have warm and flushed skin due to peripheral vasodilation, in contrast to the cool skin of hypovolemic or cardiogenic shock.",
+        "whyWrongByChoice": {
+          "A": "Anaphylactic shock is an IgE-mediated reaction to an allergen, not a response to systemic inflammation from pancreatitis.",
+          "B": "Cardiogenic shock is due to pump failure and, like hypovolemic shock, presents with cool clammy skin.",
+          "C": "Hypovolemic shock from fluid loss causes cool clammy skin, not the warm flushed skin described.",
+          "D": "Neurogenic shock follows spinal cord injury, which this patient with pancreatitis does not have."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "shock",
+        "septic shock",
+        "vasodilation"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-012",
+      "stem": "A 30-year-old man is stung by a bee and within minutes develops diffuse hives, wheezing, and a blood pressure of 75/40 mmHg from widespread vasodilation. Which type of shock is he experiencing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylactic shock"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic shock"
+        },
+        {
+          "label": "C",
+          "text": "Hypovolemic shock"
+        },
+        {
+          "label": "D",
+          "text": "Neurogenic shock"
+        },
+        {
+          "label": "E",
+          "text": "Septic shock"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anaphylactic shock is an IgE-mediated hypersensitivity reaction to an allergen causing acute vasodilation and hypotension.",
+        "whyCorrect": "The brick defines anaphylactic shock as an IgE-mediated hypersensitivity reaction to an allergen in which acute vasodilation leads to hypotension and tissue hypoperfusion. A bee sting triggering hives, wheezing, and profound hypotension is the classic example.",
+        "whyWrongByChoice": {
+          "B": "Cardiogenic shock arises from heart pump failure, which is not the mechanism in an allergic reaction.",
+          "C": "Hypovolemic shock is due to loss of blood volume, whereas this patient's volume is intact and vessels are dilated.",
+          "D": "Neurogenic shock is caused by spinal cord injury, not by an allergic reaction to a sting.",
+          "E": "Septic shock results from systemic inflammation due to infection, not from an IgE-mediated allergen response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shock",
+        "anaphylactic shock",
+        "hypersensitivity"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-001",
+      "stem": "A 62-year-old man with severe gram-negative sepsis develops oozing of blood from his gums and around his intravenous catheter sites. At the same time, the tips of several fingers become cold and dusky blue. Laboratory studies show thrombocytopenia and prolonged clotting times. Which of the following is the most likely explanation for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute anterior myocardial infarction"
+        },
+        {
+          "label": "B",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "C",
+          "text": "Hemophilia A (factor VIII deficiency)"
+        },
+        {
+          "label": "D",
+          "text": "Lower extremity deep venous thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Von Willebrand disease, type 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DIC is a thrombohemorrhagic disorder that produces simultaneous microvascular thrombosis and bleeding.",
+        "whyCorrect": "The brick describes DIC as uncontrolled activation of coagulation that forms microthrombi throughout small vessels while consuming platelets and clotting factors, so the patient bleeds and clots at the same time. It commonly complicates sepsis and presents with oozing from IV sites plus cyanosis of the extremities.",
+        "whyWrongByChoice": {
+          "A": "Acute myocardial infarction causes substernal chest pain radiating down the left arm, not diffuse bleeding with thrombocytopenia.",
+          "C": "Hemophilia A is an inherited bleeding disorder in which patients bleed into muscles and joints, and it is not triggered by sepsis.",
+          "D": "Deep venous thrombosis presents with a swollen, painful lower extremity, not bleeding from the gums and IV sites.",
+          "E": "Von Willebrand disease causes mucocutaneous bleeding but does not produce the cyanotic extremities or consumptive picture described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "coagulation",
+        "sepsis"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-002",
+      "stem": "A 40-year-old woman develops a pulmonary embolism arising from a deep vein thrombus in her leg. Follow-up evaluation reveals a Factor V Leiden mutation. Which component of Virchow's triad does this genetic finding represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial injury"
+        },
+        {
+          "label": "B",
+          "text": "Hypercoagulable state"
+        },
+        {
+          "label": "C",
+          "text": "Increased fibrinolytic activity"
+        },
+        {
+          "label": "D",
+          "text": "Stasis of blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Turbulent blood flow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor V Leiden is an inherited cause of hypercoagulability, one of the three factors in Virchow's triad.",
+        "whyCorrect": "The brick lists hypercoagulability as an abnormally high tendency of the blood to clot from a genetic disorder such as Factor V Leiden or a prothrombin gene mutation, distinct from endothelial injury and abnormal blood flow.",
+        "whyWrongByChoice": {
+          "A": "No vascular injury is described; endothelial injury involves exposure of tissue factor and von Willebrand factor.",
+          "C": "Increased fibrinolysis promotes clot breakdown and bleeding, the opposite of a prothrombotic mutation.",
+          "D": "Stasis is a form of abnormal blood flow, not the inherited clotting tendency represented by Factor V Leiden.",
+          "E": "Turbulent blood flow is another category of abnormal flow, not a genetic hypercoagulable state."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Virchow's triad",
+        "hypercoagulability",
+        "Factor V Leiden"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-003",
+      "stem": "A 24-year-old man sustains a femoral shaft fracture in a motorcycle collision. Two days later he becomes acutely dyspneic and confused, and laboratory studies show a low platelet count. Which type of embolism most likely accounts for his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air embolism"
+        },
+        {
+          "label": "B",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "C",
+          "text": "Fat embolism"
+        },
+        {
+          "label": "D",
+          "text": "Foreign body embolism"
+        },
+        {
+          "label": "E",
+          "text": "Thromboembolism from a leg vein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fat embolism follows long-bone fractures and can produce fat embolism syndrome.",
+        "whyCorrect": "The brick states that fat embolism results from microscopic fat globules and bone marrow entering the vasculature after fractures of long bones. Symptomatic patients develop fat embolism syndrome with pulmonary insufficiency, neurologic symptoms, anemia, and thrombocytopenia.",
+        "whyWrongByChoice": {
+          "A": "Air embolism arises from communication with outside air during procedures or chest wall injury.",
+          "B": "Amniotic fluid embolism occurs during labor or the postpartum period, not after a limb fracture.",
+          "D": "Foreign body embolism occurs when an object such as a bullet enters a vessel, which is not described here.",
+          "E": "A leg-vein thromboembolus is possible after trauma but does not explain the fat-globule syndrome with thrombocytopenia following a fracture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "embolism",
+        "fat embolism",
+        "fracture"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-004",
+      "stem": "A pathologist reviews a hemorrhagic (red) infarct on autopsy. Red infarcts are most likely to occur in which of the following organs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Heart"
+        },
+        {
+          "label": "C",
+          "text": "Kidney"
+        },
+        {
+          "label": "D",
+          "text": "Lung"
+        },
+        {
+          "label": "E",
+          "text": "Spleen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Red infarcts occur in tissues with a dual circulation, such as the lung.",
+        "whyCorrect": "The brick states that red infarcts occur in tissues with dual circulation, including the lung, liver, and small intestine, where blood from the unobstructed parallel supply flows into the necrotic zone.",
+        "whyWrongByChoice": {
+          "A": "The brain has an end-arterial circulation and is not the classic site of red infarcts described here.",
+          "B": "The heart has a single, end-arterial circulation and develops white infarcts.",
+          "C": "The kidney has an end-arterial supply and develops pale white infarcts.",
+          "E": "The spleen has an end-arterial supply and develops white infarcts."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "infarction",
+        "red infarct",
+        "dual blood supply"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-005",
+      "stem": "A 68-year-old man is placed on prolonged bed rest after abdominal surgery and develops a swollen, painful calf. Which component of Virchow's triad is most directly responsible for his venous thrombosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial injury from tissue factor exposure"
+        },
+        {
+          "label": "B",
+          "text": "Increased fibrinolysis"
+        },
+        {
+          "label": "C",
+          "text": "Inherited hypercoagulability"
+        },
+        {
+          "label": "D",
+          "text": "Recanalization of a prior thrombus"
+        },
+        {
+          "label": "E",
+          "text": "Stasis of blood flow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Prolonged immobilization causes venous stasis, a form of abnormal blood flow that predisposes to thrombosis.",
+        "whyCorrect": "The brick explains that abnormal blood flow includes stasis, which disrupts normal laminar flow and brings platelets into contact with the endothelium. Stasis is emphasized in prolonged bed rest and the post-operative setting, and venous thrombi begin at sites of stasis in the lower extremity.",
+        "whyWrongByChoice": {
+          "A": "No direct vascular injury exposing tissue factor is described; the immobility is the key factor.",
+          "B": "Increased fibrinolysis breaks down clots and would predispose to bleeding, not thrombosis.",
+          "C": "Nothing indicates an inherited clotting tendency such as Factor V Leiden.",
+          "D": "Recanalization is a fate of an existing thrombus, not a predisposing factor for a new one."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Virchow's triad",
+        "stasis",
+        "DVT"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-006",
+      "stem": "Several weeks after a lower-extremity thrombus formed, histology of the affected vessel shows fibroblasts and collagen deposition within the old clot along with several small new channels through the mass, partially restoring blood flow. Which fate of the thrombus does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcification of the thrombus"
+        },
+        {
+          "label": "B",
+          "text": "Complete dissolution by fibrinolysis"
+        },
+        {
+          "label": "C",
+          "text": "Embolization to a distant site"
+        },
+        {
+          "label": "D",
+          "text": "Organization and recanalization"
+        },
+        {
+          "label": "E",
+          "text": "Propagation of the thrombus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Organization and recanalization form new channels through a thrombus that partially restore flow.",
+        "whyCorrect": "The brick describes organization and recanalization as a process in which fibroblasts grow and deposit collagen fibers within the vessel (organization) and new lumina develop through the thrombus (recanalization), partially restoring flow in the blood vessel.",
+        "whyWrongByChoice": {
+          "A": "Calcification is not one of the fates of a thrombus taught in this brick.",
+          "B": "Dissolution is complete breakdown of the thrombus by fibrinolysis, not incorporation into the wall.",
+          "C": "Embolization is detachment of a fragment that travels to a distant site.",
+          "E": "Propagation is enlargement of the thrombus by additional platelets and fibrin, not channel formation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thrombus",
+        "organization",
+        "recanalization"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-007",
+      "stem": "A 59-year-old woman receiving heparin after surgery develops a falling platelet count and a new deep venous thrombosis on day 6 of therapy. Which of the following best explains the mechanism of her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An antibody forms against the heparin-platelet factor 4 complex"
+        },
+        {
+          "label": "B",
+          "text": "An inherited Factor V Leiden mutation is unmasked by exposure to heparin"
+        },
+        {
+          "label": "C",
+          "text": "Excessive plasmin-mediated fibrinolysis consumes circulating platelets"
+        },
+        {
+          "label": "D",
+          "text": "Heparin directly lyses circulating platelets by disrupting their membranes"
+        },
+        {
+          "label": "E",
+          "text": "Shiga-like toxin from an enteric infection damages the endothelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Heparin-induced thrombocytopenia is driven by antibodies against the heparin-PF4 complex that activate platelets and cause thrombosis.",
+        "whyCorrect": "The brick explains that in HIT heparin binds platelet factor 4 (PF4) on the platelet surface, and an antibody develops against the heparin-PF4 complex. Platelets become activated and aggregated, lowering the platelet count while forming clots, with thrombosis (commonly DVT or PE) as the major complication.",
+        "whyWrongByChoice": {
+          "B": "HIT is an acquired antibody-mediated disorder, not an unmasked inherited Factor V Leiden mutation.",
+          "C": "The thrombocytopenia is from platelet activation and aggregation, not excessive fibrinolysis.",
+          "D": "Heparin does not directly lyse platelets; the platelet drop results from antibody-mediated activation and consumption.",
+          "E": "Shiga-like toxin endothelial damage is the mechanism of hemolytic uremic syndrome, not HIT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIT",
+        "heparin",
+        "platelet factor 4"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-008",
+      "stem": "A 70-year-old man with a recent large anterior myocardial infarction develops sudden pain and pallor of the right leg. Imaging shows a mural thrombus in the left ventricle. This clinical picture is best explained by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A fat embolus from bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "A venous embolus traveling to the lungs"
+        },
+        {
+          "label": "C",
+          "text": "An air embolus from a chest wall injury"
+        },
+        {
+          "label": "D",
+          "text": "An amniotic fluid embolus"
+        },
+        {
+          "label": "E",
+          "text": "An arterial embolus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Arterial emboli predominantly originate from mural thrombi in the heart and lodge in distal arteries such as those of the limbs.",
+        "whyCorrect": "The brick states that arterial emboli predominantly originate from mural thrombi in the heart (thrombus in the heart chambers or aortic lumen) and continue along the flow of blood until they end up in a smaller artery, most commonly in the lower extremities and brain.",
+        "whyWrongByChoice": {
+          "A": "Fat emboli arise from long-bone fractures or trauma, not a cardiac mural thrombus.",
+          "B": "A venous embolus travels through the right heart to the lungs, causing pulmonary embolism, not limb ischemia.",
+          "C": "Air embolism follows communication with outside air, not a ventricular mural thrombus.",
+          "D": "Amniotic fluid embolism occurs during labor or the postpartum period."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "embolism",
+        "mural thrombus",
+        "arterial embolus"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-009",
+      "stem": "A 55-year-old man has sudden occlusion of a renal artery, and the kidney later shows a sharply demarcated, pale (white) area of necrosis. Which property of the kidney best explains why this infarct is white rather than red?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A dual blood supply with parallel circulation"
+        },
+        {
+          "label": "B",
+          "text": "A single, end-arterial blood supply"
+        },
+        {
+          "label": "C",
+          "text": "High resistance of renal tissue to hypoxia"
+        },
+        {
+          "label": "D",
+          "text": "Loose, spongy tissue architecture"
+        },
+        {
+          "label": "E",
+          "text": "Slow, gradual occlusion allowing collaterals"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "White infarcts occur in organs with a single, end-arterial circulation such as the kidney.",
+        "whyCorrect": "The brick states that white infarcts occur in tissues with single, end-arterial circulation, including the heart, spleen, and kidney, because no parallel supply can flow blood into the necrotic zone. The names refer to the color seen macroscopically.",
+        "whyWrongByChoice": {
+          "A": "A dual blood supply produces red infarcts, seen in the lung, liver, and small intestine.",
+          "C": "Tissue hypoxia tolerance affects whether infarction occurs, not the red-versus-white color.",
+          "D": "Tissue density relates to red infarcts in loose tissue, but the defining feature here is the end-arterial supply.",
+          "E": "Rate of occlusion influences whether an infarct forms, not its color; this occlusion was sudden."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "infarction",
+        "white infarct",
+        "end-arterial supply"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-010",
+      "stem": "A researcher compares how quickly different tissues suffer irreversible damage during ischemia. Which tissue is most vulnerable, undergoing irreversible injury after only a few minutes of hypoxia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac muscle"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Lung"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neural tissue is the most sensitive to hypoxia, dying within minutes.",
+        "whyCorrect": "The brick lists tissue vulnerability to hypoxia as a factor in infarction, noting that brain tissue undergoes irreversible damage after only a few minutes of hypoxia, whereas heart muscle starts to die after 20-30 minutes and skeletal muscle may survive a few hours.",
+        "whyWrongByChoice": {
+          "B": "Cardiac muscle begins to die after 20-30 minutes of ischemia, longer than the brain's few minutes.",
+          "C": "The liver has a dual blood supply and is comparatively protected from thromboembolic infarction.",
+          "D": "The lung has a dual blood supply and is not the most hypoxia-vulnerable tissue described.",
+          "E": "Skeletal muscle may survive a few hours before dying, making it relatively resistant."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "infarction",
+        "hypoxia",
+        "tissue vulnerability"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-011",
+      "stem": "A 31-year-old woman becomes acutely dyspneic and cyanotic and then goes into shock during delivery, followed by seizures. Which of the following is the most likely cause of her sudden deterioration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "B",
+          "text": "Deep venous thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Foreign body embolism"
+        },
+        {
+          "label": "D",
+          "text": "Post-fracture fat embolism"
+        },
+        {
+          "label": "E",
+          "text": "Procedural air embolism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amniotic fluid embolism is a rare but often fatal complication of labor and the immediate postpartum period.",
+        "whyCorrect": "The brick describes amniotic fluid embolism as infusion of amniotic fluid or fetal tissue into the maternal circulation through a tear in the placental membranes or rupture of uterine veins, presenting with dyspnea, cyanosis, and shock followed by neurologic impairment.",
+        "whyWrongByChoice": {
+          "B": "A deep venous thrombosis presents with a swollen, painful leg rather than acute peripartum collapse.",
+          "C": "Foreign body embolism results from an introduced object such as a bullet, not childbirth.",
+          "D": "Fat embolism follows long-bone fractures or trauma, not delivery.",
+          "E": "Air embolism arises from communication with outside air during procedures or chest wall injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "embolism",
+        "amniotic fluid embolism",
+        "obstetric"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-012",
+      "stem": "A 4-year-old child develops bloody diarrhea followed by thrombocytopenia, hemolytic anemia, and acute renal failure after eating undercooked ground beef. This thrombotic microangiopathy is most commonly caused by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid entering the maternal circulation"
+        },
+        {
+          "label": "B",
+          "text": "An inherited Factor V Leiden mutation"
+        },
+        {
+          "label": "C",
+          "text": "Antibody against the heparin-PF4 complex"
+        },
+        {
+          "label": "D",
+          "text": "Shiga-like toxin from E. coli O157:H7"
+        },
+        {
+          "label": "E",
+          "text": "Uncontrolled release of tissue factor in sepsis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hemolytic uremic syndrome is typically caused by Shiga-like toxin-producing E. coli O157:H7.",
+        "whyCorrect": "The brick teaches that HUS, a thrombotic microangiopathy on the differential with DIC, is typically associated with gastroenteritis caused by Shiga-like toxin-producing E. coli O157:H7. The toxin is absorbed from the gastrointestinal mucosa and damages endothelial function, causing platelet activation, bloody diarrhea, and acute renal failure, especially in children.",
+        "whyWrongByChoice": {
+          "A": "Amniotic fluid embolism is an obstetric emergency, unrelated to this child's illness.",
+          "B": "Factor V Leiden is an inherited hypercoagulable state, not the cause of toxin-mediated HUS.",
+          "C": "Antibodies against heparin-PF4 cause HIT, not the post-diarrheal renal failure described.",
+          "E": "Uncontrolled tissue factor release triggers DIC, which is a distinct disorder from toxin-mediated HUS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HUS",
+        "E. coli O157:H7",
+        "thrombotic microangiopathy"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-001",
+      "stem": "A hospitalized patient being treated for dehydration has an intravenous line delivering 5% dextrose in water (D5W). A nurse draws a blood sample from the arm containing the running IV without first turning it off. The chemistry laboratory reports a markedly and falsely elevated glucose level. This error occurred during which of the following phases of laboratory testing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Analytic phase"
+        },
+        {
+          "label": "B",
+          "text": "Interpretive phase"
+        },
+        {
+          "label": "C",
+          "text": "Post-analytic phase"
+        },
+        {
+          "label": "D",
+          "text": "Pre-analytic phase"
+        },
+        {
+          "label": "E",
+          "text": "Quality-control phase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Errors introduced before the specimen reaches the laboratory belong to the pre-analytic phase.",
+        "whyCorrect": "The pre-analytic phase spans from ordering the test to the specimen being received into the laboratory. Contamination of a blood draw by running IV dextrose fluid happens at collection, before the specimen ever reaches the lab, and most laboratory errors occur during this phase.",
+        "whyWrongByChoice": {
+          "A": "The analytic phase is the time actually spent performing the test on the specimen in the laboratory, which was not the source of this error.",
+          "B": "'Interpretive phase' is not a defined phase in the pre-/analytic/post-analytic model.",
+          "C": "The post-analytic phase is the time from reporting the result to the clinician reviewing it and making decisions.",
+          "E": "'Quality-control phase' is not one of the three phases of laboratory testing described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "laboratory phases",
+        "pre-analytic error",
+        "clinical chemistry"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-002",
+      "stem": "A technologist loads a properly collected serum tube onto an automated chemistry analyzer, which is now measuring the patient's electrolytes. This step of the total testing process best represents which of the following phases?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Analytic phase"
+        },
+        {
+          "label": "B",
+          "text": "Collection phase"
+        },
+        {
+          "label": "C",
+          "text": "Post-analytic phase"
+        },
+        {
+          "label": "D",
+          "text": "Pre-analytic phase"
+        },
+        {
+          "label": "E",
+          "text": "Reporting phase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The analytic phase is the time spent actually performing the test in the laboratory.",
+        "whyCorrect": "Once a valid specimen is in the laboratory and the instrument is running the assay to generate a measurement, the process is in the analytic phase, defined as the time spent performing the test.",
+        "whyWrongByChoice": {
+          "B": "'Collection phase' is not one of the three named phases; collection falls within the pre-analytic phase.",
+          "C": "The post-analytic phase begins only after the result is reported to the clinician.",
+          "D": "The pre-analytic phase already ended when the specimen was received into the laboratory.",
+          "E": "'Reporting phase' is not a named phase; reporting begins the post-analytic phase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "laboratory phases",
+        "analytic phase"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-003",
+      "stem": "A surgical patient is scheduled to receive packed red blood cells. A blood sample is drawn so the correct product can be prepared. To which section of the clinical laboratory is this specimen primarily sent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood Bank / Transfusion Medicine"
+        },
+        {
+          "label": "B",
+          "text": "Clinical Chemistry / Core Laboratory"
+        },
+        {
+          "label": "C",
+          "text": "Hematology / Coagulation Testing"
+        },
+        {
+          "label": "D",
+          "text": "Microbiology / Infectious Disease"
+        },
+        {
+          "label": "E",
+          "text": "Urinalysis / Body Fluid Analysis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Blood typing and preparation of blood products for transfusion are performed by the transfusion medicine (blood bank) laboratory.",
+        "whyCorrect": "The blood bank / transfusion medicine laboratory is concerned with blood transfusion, cellular therapies, and apheresis. It performs ABO and Rh typing and antibody screening so blood products such as red cells, platelets, and plasma can be transfused safely.",
+        "whyWrongByChoice": {
+          "B": "Clinical chemistry measures analytes such as electrolytes and glucose, not blood-product compatibility.",
+          "C": "Hematology performs the CBC and coagulation testing but does not prepare transfusion products.",
+          "D": "Microbiology diagnoses infections and does not manage transfusion.",
+          "E": "Urinalysis evaluates urine and accepts only urine specimens."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "laboratory sections",
+        "transfusion medicine"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-004",
+      "stem": "A recent medical school graduate undergoing residency orientation reveals a past infection with chicken pox (varicella-zoster virus). To confirm immunity, a blood sample is drawn to detect antibodies against the virus. This test is performed by which section of the clinical laboratory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood Bank / Transfusion Medicine"
+        },
+        {
+          "label": "B",
+          "text": "Clinical Chemistry"
+        },
+        {
+          "label": "C",
+          "text": "Hematology"
+        },
+        {
+          "label": "D",
+          "text": "Immunology and Serology"
+        },
+        {
+          "label": "E",
+          "text": "Urinalysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Detecting antibodies to confirm immunity or past infection is a function of the immunology and serology laboratory.",
+        "whyCorrect": "The immunology and serology laboratory identifies antibodies that can confirm current or past infection or establish immunity. Testing serum for antibodies against the varicella-zoster virus falls squarely within this section's role.",
+        "whyWrongByChoice": {
+          "A": "The blood bank types blood and prepares products for transfusion.",
+          "B": "Clinical chemistry measures analytes such as electrolytes and glucose, not immunity.",
+          "C": "Hematology counts blood cells and evaluates clotting, not viral antibodies.",
+          "E": "Urinalysis evaluates urine samples, not serum antibodies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "laboratory sections",
+        "serology",
+        "immunity"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-005",
+      "stem": "Blood is collected into a tube that contains an anticoagulant and is then centrifuged (spun down) to separate the cells. The fluid layer remaining above the packed red and white blood cells is used for analysis. This fluid is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cerebrospinal fluid"
+        },
+        {
+          "label": "B",
+          "text": "Cryoprecipitate"
+        },
+        {
+          "label": "C",
+          "text": "Plasma"
+        },
+        {
+          "label": "D",
+          "text": "Serum"
+        },
+        {
+          "label": "E",
+          "text": "Whole blood"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Plasma is the fluid left above the cells when anticoagulated blood is centrifuged.",
+        "whyCorrect": "Plasma analysis uses blood collected in a tube with an anticoagulant; once the specimen is centrifuged, the plasma is the fluid left over after the red and white blood cells are separated to the bottom.",
+        "whyWrongByChoice": {
+          "A": "Cerebrospinal fluid is collected from the spinal canal by lumbar puncture, not from a blood tube.",
+          "B": "Cryoprecipitate is a transfusion product, not the supernatant of a spun blood tube.",
+          "D": "Serum is obtained from blood collected WITHOUT an anticoagulant that is allowed to clot.",
+          "E": "Whole blood is analyzed directly and has not had its cells separated out."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "specimen types",
+        "plasma",
+        "blood processing"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-006",
+      "stem": "A blood specimen is drawn into a tube that contains NO anticoagulant and is allowed to clot. The straw-colored fluid that separates from the clot is then used for antibody testing. Which of the following specimens is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow aspirate"
+        },
+        {
+          "label": "B",
+          "text": "Buffy coat"
+        },
+        {
+          "label": "C",
+          "text": "Plasma"
+        },
+        {
+          "label": "D",
+          "text": "Serum"
+        },
+        {
+          "label": "E",
+          "text": "Whole blood"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Serum is the fluid that separates from blood after it clots, without any anticoagulant.",
+        "whyCorrect": "Serum analysis uses blood collected in a tube without an anticoagulant; serum is the fluid that separates from the blood when it clots. Serology (antibody testing) is performed on this clot-derived fluid.",
+        "whyWrongByChoice": {
+          "A": "A bone marrow aspirate is taken from inside a bone, not from a clotted blood tube.",
+          "B": "The buffy coat is the white-cell/platelet layer of centrifuged blood, not the clot supernatant.",
+          "C": "Plasma requires an anticoagulant in the tube and is obtained by centrifuging unclotted blood.",
+          "E": "Whole blood contains all cellular elements and is not separated from a clot."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "specimen types",
+        "serum",
+        "serology"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-007",
+      "stem": "A trauma patient is actively bleeding, and the team requests components of blood — red cells, platelets, plasma, and cryoprecipitate — to be issued urgently. Which section of the clinical laboratory is responsible for preparing and issuing these products?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood Bank / Transfusion Medicine"
+        },
+        {
+          "label": "B",
+          "text": "Clinical Chemistry / Core Laboratory"
+        },
+        {
+          "label": "C",
+          "text": "Hematology / Coagulation Testing"
+        },
+        {
+          "label": "D",
+          "text": "Immunology and Serology / HLA Typing"
+        },
+        {
+          "label": "E",
+          "text": "Microbiology / Infectious Disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Issuing blood components for transfusion is the role of the transfusion medicine (blood bank) laboratory.",
+        "whyCorrect": "A key aspect of the transfusion medicine laboratory is transfusing components of blood to a bleeding patient, such as giving red cells, platelets, plasma, and cryoprecipitate. This section also handles blood typing, antibody screening, and apheresis.",
+        "whyWrongByChoice": {
+          "B": "Clinical chemistry measures analytes like electrolytes and glucose.",
+          "C": "Hematology performs the CBC and coagulation studies but does not issue blood products.",
+          "D": "Immunology and serology detect antibodies and determine transplant compatibility, not transfusion issuance.",
+          "E": "Microbiology cultures specimens to diagnose infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "laboratory sections",
+        "transfusion medicine",
+        "blood products"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-008",
+      "stem": "During an annual physical, a healthy 45-year-old man has blood drawn for a routine test that measures cholesterol and triglyceride levels to assess his risk of developing atherosclerosis. This test is run by which section of the clinical laboratory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood Bank / Transfusion Medicine"
+        },
+        {
+          "label": "B",
+          "text": "Clinical Chemistry"
+        },
+        {
+          "label": "C",
+          "text": "Hematology"
+        },
+        {
+          "label": "D",
+          "text": "Microbiology"
+        },
+        {
+          "label": "E",
+          "text": "Urinalysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lipid testing to gauge atherosclerosis risk is a clinical chemistry test.",
+        "whyCorrect": "The clinical chemistry laboratory uses biochemical and molecular techniques and runs tests including lipid panels. A routine lipid test is ordered to assess a patient's risk of developing atherosclerosis, a stated clinical correlation for this section.",
+        "whyWrongByChoice": {
+          "A": "The blood bank types blood and prepares transfusion products.",
+          "C": "Hematology performs blood cell counts and coagulation testing, not lipid measurement.",
+          "D": "Microbiology cultures specimens to diagnose infection.",
+          "E": "Urinalysis evaluates urine, not serum lipids."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "laboratory sections",
+        "clinical chemistry",
+        "lipid panel"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-009",
+      "stem": "A physician orders a routine test that reports the numbers of red blood cells, white blood cells, and platelets along with a differential, and it reveals an unexpected anemia. Which section of the clinical laboratory performed this test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood Bank / Transfusion Medicine"
+        },
+        {
+          "label": "B",
+          "text": "Clinical Chemistry"
+        },
+        {
+          "label": "C",
+          "text": "Hematology"
+        },
+        {
+          "label": "D",
+          "text": "Immunology and Serology"
+        },
+        {
+          "label": "E",
+          "text": "Microbiology"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The complete blood count (CBC) with differential is a hematology test.",
+        "whyCorrect": "The hematology laboratory performs routine hematologic testing such as the complete blood count with differential. A CBC is routinely ordered on annual physical exams and may reveal an abnormality such as anemia that needs further evaluation.",
+        "whyWrongByChoice": {
+          "A": "The blood bank types blood and prepares transfusion products.",
+          "B": "Clinical chemistry measures analytes such as electrolytes and glucose, not blood cell counts.",
+          "D": "Immunology and serology detect antibodies and immune abnormalities.",
+          "E": "Microbiology cultures specimens to diagnose infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "laboratory sections",
+        "hematology",
+        "CBC"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-010",
+      "stem": "A disk diffusion (Kirby-Bauer) test is performed on Staphylococcus aureus isolated from a wound. Antibiotic-impregnated disks are placed on a lawn of the growing organism. After incubation, there is a clear zone of inhibited growth around most disks, but NO zone around the ampicillin (AM) disk. What does the absence of a zone around the ampicillin disk indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ampicillin disk was placed at the wrong concentration"
+        },
+        {
+          "label": "B",
+          "text": "The culture is contaminated with a second organism"
+        },
+        {
+          "label": "C",
+          "text": "The organism cannot grow on this medium"
+        },
+        {
+          "label": "D",
+          "text": "The organism is highly susceptible to ampicillin"
+        },
+        {
+          "label": "E",
+          "text": "The organism is resistant to ampicillin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "No zone of inhibition around an antibiotic disk means the organism is resistant to that drug.",
+        "whyCorrect": "In disk diffusion testing, a significant circle of inhibited growth around a disk indicates the antibiotic works against the organism. When there is no zone, such as around the ampicillin (AM) disk, it indicates the organism is resistant to that medication.",
+        "whyWrongByChoice": {
+          "A": "The absence of a zone reflects the organism's resistance, not a disk concentration error.",
+          "B": "Confluent growth up to the disk indicates resistance, not contamination by another organism.",
+          "C": "The organism clearly grew, since it formed a lawn and showed zones around other disks.",
+          "D": "Susceptibility is shown by a LARGE zone of inhibition, the opposite of what is described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "microbiology",
+        "susceptibility testing",
+        "disk diffusion"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-011",
+      "stem": "A hospital's microbiology laboratory compiles the antimicrobial susceptibility results from all cultures performed over the past year into a single summary report. A clinician consults this report when a patient presents with a serious infection before culture results are available. This report is best used for which of the following purposes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Confirming a single patient's blood type before transfusion"
+        },
+        {
+          "label": "B",
+          "text": "Counting red and white blood cells in a specimen"
+        },
+        {
+          "label": "C",
+          "text": "Detecting antibodies that confirm immunity to a virus"
+        },
+        {
+          "label": "D",
+          "text": "Guiding the choice of initial empiric antibiotic therapy"
+        },
+        {
+          "label": "E",
+          "text": "Measuring a patient's serum electrolyte concentrations"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An antibiogram summarizes local susceptibility data to guide empiric antibiotic selection.",
+        "whyCorrect": "An antibiogram is a compilation of antimicrobial susceptibility test results from cultures performed during a given time period in a particular hospital or reference lab. Hospitals use it to help clinicians pick the initial therapy and to understand local resistance patterns and trends.",
+        "whyWrongByChoice": {
+          "A": "Blood typing before transfusion is a blood bank function unrelated to an antibiogram.",
+          "B": "Counting blood cells is the role of the hematology CBC, not the antibiogram.",
+          "C": "Antibody testing for immunity is performed by immunology and serology.",
+          "E": "Electrolyte measurement is a clinical chemistry test, not a susceptibility summary."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "microbiology",
+        "antibiogram",
+        "empiric therapy"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa14-012",
+      "stem": "A patient presents with fever and dysuria, and a urinary tract infection is suspected. A urine sample is sent to the laboratory specifically to grow and identify the causative organism and to determine which antibiotic will be effective against it. To which section of the clinical laboratory should this sample be directed for that purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clinical Chemistry"
+        },
+        {
+          "label": "B",
+          "text": "Hematology"
+        },
+        {
+          "label": "C",
+          "text": "Immunology and Serology"
+        },
+        {
+          "label": "D",
+          "text": "Microbiology"
+        },
+        {
+          "label": "E",
+          "text": "Urinalysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Growing an organism from urine and testing its antibiotic susceptibility is a microbiology function.",
+        "whyCorrect": "The microbiology laboratory assists with diagnosis, treatment, and control of infectious disease, including urine culture and antimicrobial susceptibility testing. It identifies the organism causing the infection and determines which antibiotic will work against it.",
+        "whyWrongByChoice": {
+          "A": "Clinical chemistry measures analytes such as electrolytes and glucose.",
+          "B": "Hematology counts blood cells and assesses clotting.",
+          "C": "Immunology and serology detect antibodies rather than culturing organisms.",
+          "E": "Urinalysis can screen the urine for signs of infection but does not culture and identify the organism or its susceptibilities."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "microbiology",
+        "urinary tract infection",
+        "culture"
+      ],
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology for Patient Care",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-001",
+      "stem": "A 32-year-old man develops crampy abdominal pain and watery diarrhea two days after eating undercooked food at a picnic. Stool culture grows a bacterial pathogen. Which of the following is the most likely portal of entry for this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascension of the urethra"
+        },
+        {
+          "label": "B",
+          "text": "Direct inoculation through broken skin"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion via the fecal-oral route"
+        },
+        {
+          "label": "D",
+          "text": "Inhalation of aerosolized respiratory droplets"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde transport along peripheral nerves"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Most gastrointestinal pathogens enter through ingestion of food or water contaminated with fecal matter.",
+        "whyCorrect": "The GI tract is a common portal of entry when its defenses (gastric acid, peristalsis, IgA, and normal microbiota) are overcome. Food or water contaminated by feces delivers the organism, and abdominal pain with diarrhea points to a gut infection acquired by the fecal-oral route.",
+        "whyWrongByChoice": {
+          "A": "The urethra is the entry point for urinary tract, not gastrointestinal, pathogens.",
+          "B": "Broken skin is a portal for wound and catheter-associated infections, not enteric disease.",
+          "D": "Inhalation delivers respiratory pathogens to the airways, not organisms causing diarrhea.",
+          "E": "Retrograde neuronal transport is how certain viruses reach the CNS, not how gut bacteria are acquired."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "points of entry",
+        "fecal-oral",
+        "gastrointestinal"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-002",
+      "stem": "A physiologist studies how the upper airway resists infection. She observes that inhaled particles are trapped in a sticky mucus layer and swept by hair-like projections toward the throat, where they are cleared. Which of the following defense mechanisms is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antimicrobial fatty acids"
+        },
+        {
+          "label": "B",
+          "text": "Flushing flow of urine"
+        },
+        {
+          "label": "C",
+          "text": "Gastric acidity"
+        },
+        {
+          "label": "D",
+          "text": "Mucociliary clearance"
+        },
+        {
+          "label": "E",
+          "text": "Peristalsis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The respiratory tract relies on mucociliary clearance to trap and remove inhaled microbes.",
+        "whyCorrect": "Mucus traps large particles while cilia beat them toward the back of the throat for clearance; only small particles reach the alveoli, where immune cells phagocytose them. This trapping-and-sweeping description defines mucociliary clearance.",
+        "whyWrongByChoice": {
+          "A": "Antimicrobial fatty acids are a defense of the skin surface, not the airway.",
+          "B": "Urinary flushing is a urogenital defense that clears organisms from the urethra.",
+          "C": "Gastric acidity is a gastrointestinal defense that kills ingested organisms in the stomach.",
+          "E": "Peristalsis is the wave-like movement of the GI tract that prevents microbial overgrowth."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "points of entry",
+        "respiratory",
+        "mucociliary clearance"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-003",
+      "stem": "A 70-year-old woman hospitalized for pneumonia is treated with broad-spectrum antibiotics and then develops profuse watery diarrhea. Colonoscopy reveals adherent yellow-white plaques on the colonic mucosa, and toxin testing is positive. Which of the following best explains her increased susceptibility to this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breakdown of the keratinized epidermal barrier"
+        },
+        {
+          "label": "B",
+          "text": "Disruption of the normal gut microbiota"
+        },
+        {
+          "label": "C",
+          "text": "Impaired mucociliary clearance"
+        },
+        {
+          "label": "D",
+          "text": "Loss of gastric acid production"
+        },
+        {
+          "label": "E",
+          "text": "Obstruction of urine flow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Antibiotics disrupt the protective gut microbiota, allowing C. difficile overgrowth and pseudomembranous colitis.",
+        "whyCorrect": "The normal gut microbiota competes with arriving organisms and limits their colonization. Antibiotics kill this resident flora, letting C. difficile proliferate and release toxins A and B, which produce the inflammatory pseudomembrane seen on the mucosa.",
+        "whyWrongByChoice": {
+          "A": "The epidermal barrier guards the skin, not the gut lumen where this infection occurs.",
+          "C": "Mucociliary clearance is a respiratory defense, unrelated to colonic infection.",
+          "D": "Gastric acid protects against ingested organisms but is not the defense lost with antibiotic use.",
+          "E": "Urine flow is a urogenital defense and has no role in colonic colonization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gut microbiota",
+        "C. difficile",
+        "pseudomembranous colitis"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-004",
+      "stem": "A neonate develops purulent conjunctivitis three days after an uncomplicated vaginal delivery. The mother had an untreated sexually transmitted infection. Which of the following best describes how the pathogen was transmitted to the infant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exposure during passage through the birth canal"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous seeding from a distant maternal focus"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion of contaminated breast milk"
+        },
+        {
+          "label": "D",
+          "text": "Inhalation of maternal respiratory droplets"
+        },
+        {
+          "label": "E",
+          "text": "Transplacental spread during pregnancy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Some pathogens are transmitted vertically as the infant passes through the birth canal.",
+        "whyCorrect": "Exposure during passage through the birth canal transmits organisms such as Neisseria gonorrhoeae and Chlamydia trachomatis, leading to neonatal conjunctivitis. The timing right after vaginal delivery and the maternal genital infection point to this route.",
+        "whyWrongByChoice": {
+          "B": "Hematogenous seeding describes spread within a host's bloodstream, not mother-to-infant transmission.",
+          "C": "Breast milk transmits certain viruses (e.g., CMV, HIV, HBV) postnatally, not this early bacterial conjunctivitis.",
+          "D": "Respiratory droplet inhalation is a person-to-person route unrelated to this genital pathogen.",
+          "E": "Transplacental spread in utero characterizes TORCH agents and would cause congenital disease present at birth, not acquired during delivery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vertical transmission",
+        "birth canal",
+        "neonatal conjunctivitis"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-005",
+      "stem": "A 28-year-old man who injects drugs intravenously presents with fever and a new heart murmur. Echocardiography shows friable vegetations on a heart valve, and blood cultures are positive. Which of the following best explains how the organism reached the heart valve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct extension from an adjacent lung abscess"
+        },
+        {
+          "label": "B",
+          "text": "Fecal-oral ingestion"
+        },
+        {
+          "label": "C",
+          "text": "Hematogenous (bloodborne) dissemination"
+        },
+        {
+          "label": "D",
+          "text": "Mucociliary aspiration into the airway"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde axonal transport"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Infective endocarditis results from bloodborne spread of bacteria to the endocardium.",
+        "whyCorrect": "Intravenous drug use introduces skin flora directly into the bloodstream, producing septicemia that seeds the endocardium. This hematogenous dissemination allows bacteria to form friable valvular vegetations, the hallmark of infective endocarditis.",
+        "whyWrongByChoice": {
+          "A": "There is no adjacent lung abscess described, and endocarditis is not typically produced by direct extension.",
+          "B": "Fecal-oral ingestion is a portal for enteric infection, not for valve seeding.",
+          "D": "Aspiration deposits organisms in the airway, not on the endocardium.",
+          "E": "Retrograde axonal transport carries certain viruses to the CNS, not bacteria to heart valves."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dissemination",
+        "endocarditis",
+        "hematogenous spread"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-006",
+      "stem": "A 40-year-old man is bitten on the leg by a raccoon. Weeks later he develops difficulty swallowing, agitation, and a fatal encephalitis. By which of the following mechanisms did the causative virus most likely reach the central nervous system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct extension across intact skin"
+        },
+        {
+          "label": "B",
+          "text": "Fecal-oral spread to the gastrointestinal tract"
+        },
+        {
+          "label": "C",
+          "text": "Hematogenous spread through blood vessels"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic drainage to regional lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde axonal transport"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Some viruses travel to the CNS by retrograde axonal transport along peripheral nerves.",
+        "whyCorrect": "Certain viruses, including rabies, spread along nerves by retrograde axonal transport, moving from the bite site backward toward the central nervous system. The animal bite followed by fatal encephalitis is the classic presentation.",
+        "whyWrongByChoice": {
+          "A": "The virus is inoculated through the bite wound, not by extension across intact skin.",
+          "B": "Fecal-oral spread delivers enteric pathogens to the gut, not neurotropic viruses to the brain.",
+          "C": "Hematogenous spread uses the bloodstream and is not the route rabies takes to the brain.",
+          "D": "Lymphatic drainage carries organisms to lymph nodes, not directly along nerves to the CNS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dissemination",
+        "retrograde axonal transport",
+        "rabies"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-007",
+      "stem": "A 45-year-old man with chronic cough and night sweats undergoes lung biopsy, which shows aggregates of epithelioid macrophages and multinucleated giant cells surrounding a central zone of caseous necrosis. Which of the following histologic patterns of reaction does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A diffuse lymphocytic infiltrate without granulomas"
+        },
+        {
+          "label": "B",
+          "text": "Bland fibrous scarring"
+        },
+        {
+          "label": "C",
+          "text": "Cytopathic-cytoproliferative reaction"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Suppurative (purulent) inflammation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Epithelioid macrophages and giant cells around caseous necrosis define granulomatous inflammation.",
+        "whyCorrect": "Granulomatous inflammation features aggregates of activated (epithelioid) macrophages, often with giant cells; central caseating necrosis is characteristic of tuberculosis. The clinical picture of chronic cough and night sweats supports a mycobacterial granuloma.",
+        "whyWrongByChoice": {
+          "A": "A diffuse lymphocytic infiltrate lacks the organized epithelioid macrophages and giant cells that define a granuloma.",
+          "B": "Bland scarring is end-stage fibrosis and does not include active giant cells or caseous necrosis.",
+          "C": "Cytopathic-cytoproliferative reactions are caused by viruses and show inclusion bodies, not caseating granulomas.",
+          "E": "Suppurative inflammation is dominated by neutrophils and pus, not epithelioid macrophages and giant cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "granuloma",
+        "tuberculosis"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-008",
+      "stem": "A 60-year-old man with fever has a chest CT showing multiple lung lesions filled with pus. Biopsy of one lesion reveals a localized collection of neutrophils and necrotic debris consistent with an abscess. Which of the following types of organism most commonly produces this pattern of reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inert foreign material such as talc"
+        },
+        {
+          "label": "B",
+          "text": "Obligate intracellular viruses"
+        },
+        {
+          "label": "C",
+          "text": "Pyogenic (pus-forming) bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Slow-growing acid-fast mycobacteria"
+        },
+        {
+          "label": "E",
+          "text": "Spirochetes such as T. pallidum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Suppurative inflammation with abscess formation is most commonly caused by pyogenic bacteria.",
+        "whyCorrect": "Suppurative (purulent) inflammation is dominated by neutrophil infiltration, and pus is a collection of living and dying neutrophils and necrotic cells. Pyogenic bacteria are the classic cause, and an abscess is a localized collection of this pus.",
+        "whyWrongByChoice": {
+          "A": "Inert foreign material triggers granulomatous, not suppurative, inflammation.",
+          "B": "Viruses typically produce a cytopathic-cytoproliferative reaction, not neutrophil-rich abscesses.",
+          "D": "Mycobacteria produce granulomatous inflammation with caseating necrosis rather than pus-filled abscesses.",
+          "E": "Spirochetes such as T. pallidum characteristically elicit a mononuclear lymphocytic infiltrate."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "suppurative inflammation",
+        "abscess"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-009",
+      "stem": "An immunosuppressed patient undergoes tissue biopsy that shows enlarged cells containing intranuclear inclusion bodies, with no neutrophils or granulomas present. This cytopathic pattern is most characteristic of infection by which of the following classes of pathogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inert foreign material"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacteria"
+        },
+        {
+          "label": "C",
+          "text": "Pyogenic bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Spirochetes"
+        },
+        {
+          "label": "E",
+          "text": "Viruses"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Inclusion bodies and cytopathic change without pus or granulomas point to a viral infection.",
+        "whyCorrect": "The cytopathic-cytoproliferative pattern is produced by viruses, which cause changes such as inclusion bodies and cell lysis; CMV is a classic example in immunosuppressed patients. The absence of neutrophils and granulomas argues against bacterial or mycobacterial causes.",
+        "whyWrongByChoice": {
+          "A": "Foreign material provokes a granulomatous foreign-body reaction, not cytopathic viral change.",
+          "B": "Mycobacteria elicit granulomatous inflammation with epithelioid macrophages, which is absent here.",
+          "C": "Pyogenic bacteria produce neutrophil-rich suppurative inflammation, not intranuclear inclusions.",
+          "D": "Spirochetes cause a lymphocytic mononuclear infiltrate rather than viral inclusion bodies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "cytopathic",
+        "viral inclusion"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-010",
+      "stem": "A patient with a gram-negative bloodstream infection becomes hypotensive with signs of shock. The responsible molecule is a component of the bacterial outer membrane whose lipid portion is detected by macrophages, triggering a massive release of pro-inflammatory cytokines. Which of the following is this molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphtheria toxin (A-B exotoxin)"
+        },
+        {
+          "label": "B",
+          "text": "Lipopolysaccharide (endotoxin)"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcal enterotoxin B"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal exfoliative toxin"
+        },
+        {
+          "label": "E",
+          "text": "Toxic shock syndrome toxin-1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lipopolysaccharide (endotoxin) is the gram-negative outer-membrane molecule that drives septic shock.",
+        "whyCorrect": "LPS is an outer-membrane component of gram-negative bacteria whose Lipid A portion is detected by immune cells such as macrophages. This triggers pro-inflammatory and complement activation, and cytokine-induced hypotension can progress to shock.",
+        "whyWrongByChoice": {
+          "A": "Diphtheria toxin is a secreted A-B exotoxin of a gram-positive rod, not an outer-membrane lipid.",
+          "C": "Staphylococcal enterotoxin is a preformed superantigen causing food poisoning, not a gram-negative outer-membrane component.",
+          "D": "Exfoliative toxin is a Staphylococcus aureus protein that cleaves skin desmosomes, not an endotoxin.",
+          "E": "Toxic shock syndrome toxin is a secreted superantigen protein, not a structural gram-negative membrane molecule."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "endotoxin",
+        "septic shock"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-011",
+      "stem": "A child from an unvaccinated community develops a thick gray pseudomembrane over the pharynx and subsequently myocarditis. The responsible exotoxin is an A-B toxin. Which of the following best describes how its active subunit causes cell death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleavage of desmoglein-1"
+        },
+        {
+          "label": "B",
+          "text": "Degradation of secretory IgA"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of host protein synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Insertion of Lipid A to disrupt the membrane"
+        },
+        {
+          "label": "E",
+          "text": "Nonspecific massive cytokine release"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Diphtheria toxin is an A-B toxin whose A subunit inhibits protein synthesis, causing cell death.",
+        "whyCorrect": "In diphtheria, the B subunit binds and delivers the toxin into the host cell by endocytosis, and the A subunit then inhibits protein synthesis, leading to cell death. The toxin can enter the bloodstream and damage tissues such as myocardial cells, producing myocarditis.",
+        "whyWrongByChoice": {
+          "A": "Cleavage of desmoglein-1 is the mechanism of the staphylococcal exfoliative toxin, not diphtheria toxin.",
+          "B": "Degradation of secretory IgA is not the mechanism of diphtheria-toxin-mediated cell death.",
+          "D": "Lipid A membrane effects belong to gram-negative endotoxin, not to this gram-positive exotoxin.",
+          "E": "Nonspecific massive cytokine release describes superantigens, not the diphtheria A-B toxin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "diphtheria toxin",
+        "protein synthesis"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-012",
+      "stem": "A 3-year-old child develops widespread superficial blistering and peeling of the skin. The causative Staphylococcus aureus toxin cleaves desmoglein-1, a protein that anchors keratinocytes together. Which of the following conditions results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphtheritic myocarditis and neuritis"
+        },
+        {
+          "label": "B",
+          "text": "Gram-negative septic (endotoxic) shock"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomembranous colitis with diarrhea"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal scalded skin syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Superantigen toxic shock syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Exfoliative toxin cleaving desmoglein-1 produces staphylococcal scalded skin syndrome.",
+        "whyCorrect": "Exfoliative A and B toxins from S. aureus cleave desmoglein-1, a desmosomal protein, causing detachment of keratinocytes. The result is staphylococcal scalded skin syndrome, characterized by blistering and exfoliation that primarily affects pediatric patients.",
+        "whyWrongByChoice": {
+          "A": "Diphtheritic myocarditis results from diphtheria toxin inhibiting protein synthesis, not from cleaving skin proteins.",
+          "B": "Endotoxic shock is driven by gram-negative LPS, not by a staphylococcal skin toxin.",
+          "C": "Pseudomembranous colitis is a C. difficile toxin-mediated colonic disease, unrelated to desmoglein-1.",
+          "E": "Toxic shock syndrome is caused by a superantigen and produces hypotension, not desmoglein-mediated skin peeling."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "exfoliative toxin",
+        "scalded skin syndrome"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-001",
+      "stem": "A 68-year-old woman hospitalized for pneumonia is treated with broad-spectrum antibiotics. One week later she develops profuse watery diarrhea and crampy abdominal pain. Colonoscopy reveals yellow-white plaques overlying the colonic mucosa. Which of the following best explains why the responsible organism was able to establish this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficiency of secretory IgA antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Depletion of the normal gut microbiota"
+        },
+        {
+          "label": "C",
+          "text": "Impaired mucociliary clearance in the airways"
+        },
+        {
+          "label": "D",
+          "text": "Loss of the gastric acid barrier"
+        },
+        {
+          "label": "E",
+          "text": "Obstruction of urinary outflow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The normal gut microbiota competes with incoming organisms, and antibiotics disrupt it, permitting Clostridioides difficile overgrowth and pseudomembranous colitis.",
+        "whyCorrect": "The resident gut flora competes with newly arriving organisms for resources and limits colonization. Antibiotics disrupt this microbiota, allowing C. difficile to proliferate and release toxins A and B, which drive cytokine release, neutrophil recruitment, and the pseudomembrane of inflammatory cells and debris.",
+        "whyWrongByChoice": {
+          "A": "IgA deficiency is not the mechanism the brick attributes to antibiotic-associated C. difficile colitis.",
+          "C": "Mucociliary clearance is a respiratory tract defense and is unrelated to colonic infection.",
+          "D": "Gastric acid is a defense against ingested organisms, but the plaques and antibiotic history point to microbiota disruption, not achlorhydria.",
+          "E": "Urinary obstruction predisposes to urogenital infection, not to pseudomembranous colitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "portals of entry",
+        "gastrointestinal",
+        "C. difficile",
+        "microbiota"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-002",
+      "stem": "A 22-year-old man develops nausea, crampy abdominal pain, and watery diarrhea two days after a picnic where he ate ham sandwiches and potato salad. Which of the following is the most likely route by which the causative organism entered his body?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fecal-oral ingestion"
+        },
+        {
+          "label": "B",
+          "text": "Inhalation of respiratory droplets"
+        },
+        {
+          "label": "C",
+          "text": "Percutaneous inoculation through skin"
+        },
+        {
+          "label": "D",
+          "text": "Retrograde axonal transport"
+        },
+        {
+          "label": "E",
+          "text": "Sexual contact"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Most gastrointestinal pathogens enter with food or drink contaminated by fecal matter, known as fecal-oral transmission.",
+        "whyCorrect": "The brick states that most GI pathogens enter with food or drink contaminated by fecal matter (fecal-oral transmission), producing symptoms through toxin production or direct mucosal damage. Foodborne diarrheal illness after a shared meal fits this route.",
+        "whyWrongByChoice": {
+          "B": "Inhalation is the entry route for respiratory pathogens, not for foodborne gastroenteritis.",
+          "C": "Percutaneous inoculation involves breaks in the skin, such as bites or needle sticks, not ingestion of food.",
+          "D": "Retrograde axonal transport moves certain viruses along nerves to the CNS and does not cause food-related diarrhea.",
+          "E": "Sexual contact transmits pathogens such as HIV and N. gonorrhoeae, not foodborne diarrheal organisms."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transmission",
+        "fecal-oral",
+        "gastrointestinal"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-003",
+      "stem": "A 30-year-old man is bitten on the leg by a raccoon while camping. Several weeks later he develops agitation, difficulty swallowing, and a rapidly fatal encephalitis. By which mechanism did the responsible pathogen most likely reach the central nervous system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct extension across the intact skin"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous seeding through the bloodstream"
+        },
+        {
+          "label": "C",
+          "text": "Retrograde axonal transport"
+        },
+        {
+          "label": "D",
+          "text": "Spread through lymphatic channels"
+        },
+        {
+          "label": "E",
+          "text": "Transplacental transmission"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Some viruses spread along nerves to the CNS by retrograde axonal transport, as seen with rabies.",
+        "whyCorrect": "The brick teaches that viruses may spread along nerves to the central nervous system by retrograde axonal transport, listing rabies virus, poliovirus, varicella-zoster virus, and HSV. A fatal encephalitis after an animal bite reflects this neural route.",
+        "whyWrongByChoice": {
+          "A": "The pathogen does not extend across intact skin; it enters at the bite wound and travels up nerves.",
+          "B": "Hematogenous seeding spreads organisms via blood to sites such as heart valves, not the described neural route to the brain.",
+          "D": "Lymphatic spread carries pathogens to lymph nodes before the bloodstream and is not how these neurotropic viruses reach the CNS.",
+          "E": "Transplacental transmission passes organisms from mother to fetus and is irrelevant to an animal bite."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dissemination",
+        "retrograde axonal transport",
+        "rabies",
+        "nervous system"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-004",
+      "stem": "A 26-year-old man who injects heroin presents with fever and a new heart murmur. Blood cultures grow gram-positive cocci, and echocardiography shows a vegetation on the tricuspid valve. Which of the following best describes how the organism reached the heart valve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascending bacterial spread along the urethra"
+        },
+        {
+          "label": "B",
+          "text": "Fecal-oral ingestion of contaminated food"
+        },
+        {
+          "label": "C",
+          "text": "Hematogenous dissemination of skin flora"
+        },
+        {
+          "label": "D",
+          "text": "Mucociliary aspiration into the lower lungs"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde axonal transport along nerves"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Intravenous drug use can introduce skin bacteria into the bloodstream, which then seed a heart valve, producing endocarditis.",
+        "whyCorrect": "The brick explains that bloodborne dissemination lets pathogens seed distant sites and that endocarditis is a consequence of septicemia. Intravenous drug use with a hypodermic needle introduces bacteria from the skin into the blood, where they lodge on a valve and form a vegetation.",
+        "whyWrongByChoice": {
+          "A": "Ascending urethral spread causes urinary tract infection, not endocarditis.",
+          "B": "Fecal-oral ingestion is a route for gastrointestinal pathogens, not for valve seeding.",
+          "D": "Mucociliary mechanisms clear the airways and do not deliver organisms to the endocardium.",
+          "E": "Retrograde axonal transport carries certain viruses along nerves to the CNS, not bacteria to heart valves."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dissemination",
+        "hematogenous",
+        "endocarditis",
+        "IV drug use"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-005",
+      "stem": "A newborn is found to have cataracts, sensorineural deafness, and a patent ductus arteriosus. The mother recalls a febrile rash illness during the first trimester. Transmission of the responsible pathogen most likely occurred by which route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breast milk ingestion after delivery"
+        },
+        {
+          "label": "B",
+          "text": "Fecal-oral ingestion of contaminated water"
+        },
+        {
+          "label": "C",
+          "text": "Inhalation of infected respiratory droplets"
+        },
+        {
+          "label": "D",
+          "text": "Passage through the infected birth canal"
+        },
+        {
+          "label": "E",
+          "text": "Transplacental (vertical) transmission"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Placental (transplacental) transmission of TORCH agents such as rubella during pregnancy causes congenital developmental abnormalities.",
+        "whyCorrect": "The brick describes placenta-fetal (vertical) transmission of TORCH infections, which include rubella, and states these cause developmental abnormalities, eye damage, and skin manifestations, often with mild maternal symptoms. First-trimester maternal infection with congenital anomalies fits transplacental spread.",
+        "whyWrongByChoice": {
+          "A": "Breast milk transmits viruses such as CMV, HIV, and HBV to the newborn but does not explain first-trimester congenital malformations.",
+          "B": "Fecal-oral ingestion causes gastrointestinal infection and is unrelated to congenital anomalies.",
+          "C": "Respiratory droplet spread is a person-to-person mode and does not account for prenatal organ malformation.",
+          "D": "Birth canal exposure causes neonatal infections such as gonococcal or chlamydial conjunctivitis, not the congenital triad described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vertical transmission",
+        "TORCH",
+        "congenital",
+        "rubella"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-006",
+      "stem": "A tissue biopsy shows aggregates of epithelioid macrophages, some fused into multinucleated giant cells, surrounded by a rim of lymphocytes. Which histologic pattern of reaction to injury does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic scarring and fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Coagulative infarction"
+        },
+        {
+          "label": "C",
+          "text": "Cytopathic-cytoproliferative change"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Suppurative inflammation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Granulomatous inflammation is defined by activated epithelioid macrophages and multinucleated giant cells gathered around an insult.",
+        "whyCorrect": "The brick defines granulomatous inflammation as a special type of mononuclear inflammation in which activated macrophages gather around an infectious insult, some fusing into multinucleated giant cells; the accumulation is called a granuloma. This matches the described histology.",
+        "whyWrongByChoice": {
+          "A": "Chronic scarring is dominated by fibrosis, not by epithelioid macrophages and giant cells.",
+          "B": "Coagulative infarction reflects ischemic necrosis and is not the granulomatous pattern described.",
+          "C": "Cytopathic-cytoproliferative reactions involve single-cell viral changes or cell proliferation, not organized macrophage aggregates.",
+          "E": "Suppurative inflammation is neutrophil-rich pus, not epithelioid macrophages and giant cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "granuloma",
+        "macrophages"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-007",
+      "stem": "Autopsy of a patient with pneumonia reveals multiple localized areas of liquefactive necrosis rich in neutrophils, each surrounded by a fibrotic rim. Which type of organism most characteristically produces this pattern of reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A noninfectious autoimmune process"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular viruses"
+        },
+        {
+          "label": "C",
+          "text": "Parasitic helminths"
+        },
+        {
+          "label": "D",
+          "text": "Pyogenic bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Spirochetes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Suppurative inflammation with abscess formation is the hallmark reaction to pyogenic (pus-forming) bacteria.",
+        "whyCorrect": "The brick describes suppurative (purulent) inflammation as neutrophil-dominated, most commonly caused by pyogenic bacteria, with an abscess defined as localized liquefactive necrosis surrounded by a peripheral fibrotic deposit. This matches the described lung findings.",
+        "whyWrongByChoice": {
+          "A": "An autoimmune process would not typically produce this classic pyogenic abscess pattern of infection.",
+          "B": "Viruses typically produce cytopathic-cytoproliferative or mononuclear reactions, not neutrophilic abscesses.",
+          "C": "Helminths characteristically drive mononuclear and eosinophil-rich responses rather than pyogenic abscesses.",
+          "E": "Spirochetes such as T. pallidum elicit mononuclear (lymphocytic) inflammation, not suppuration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "suppurative",
+        "abscess",
+        "pyogenic"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-008",
+      "stem": "A 40-year-old man develops rough, cauliflower-like verrucous growths on his hands. Biopsy shows proliferation of epithelial cells with perinuclear halos and wrinkled, raisin-like nuclei. This lesion is an example of which pattern of tissue response to infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating (granulomatous) tissue necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic inflammation with dense scarring"
+        },
+        {
+          "label": "C",
+          "text": "Cytopathic-cytoproliferative reaction"
+        },
+        {
+          "label": "D",
+          "text": "Epithelioid granulomatous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Suppurative (purulent) inflammation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cytopathic-cytoproliferative pattern includes viral cell injury and virus-driven cell proliferation, such as HPV warts.",
+        "whyCorrect": "The brick describes the cytopathic-cytoproliferative reaction as involving single cells or small aggregates with cytopathic changes, and notes that some viruses cause cells to proliferate, such as the verrucous warts of human papillomavirus (HPV). The described warty proliferation fits this pattern.",
+        "whyWrongByChoice": {
+          "A": "Caseating necrosis is central cheese-like death seen in tuberculosis granulomas, not proliferative warts.",
+          "B": "Chronic inflammation with scarring produces fibrosis, not the proliferative warty lesion described.",
+          "D": "Granulomatous inflammation forms epithelioid macrophage aggregates, not virus-induced warts.",
+          "E": "Suppurative inflammation is neutrophilic pus formation, not verrucous epithelial proliferation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "cytopathic",
+        "HPV",
+        "viruses"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-009",
+      "stem": "An unvaccinated child develops a thick gray membrane over the pharynx and, several days later, cardiac arrhythmia. The toxin responsible for this illness damages host cells primarily by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acting as a superantigen to trigger cytokine release"
+        },
+        {
+          "label": "B",
+          "text": "Being recognized by macrophages via its Lipid A"
+        },
+        {
+          "label": "C",
+          "text": "Cleaving desmoglein-1 in desmosomes"
+        },
+        {
+          "label": "D",
+          "text": "Disrupting the enterocyte cytoskeleton"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting ribosomal protein synthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Diphtheria toxin is an A-B toxin whose A subunit inhibits protein synthesis, causing the pharyngeal pseudomembrane and myocarditis.",
+        "whyCorrect": "The brick explains that in diphtheria toxin the B component mediates entry by endocytosis and the A component inhibits protein synthesis in the ribosome, leading to cell death; local injury forms the pseudomembrane, and toxin entering the bloodstream can damage myocardial cells to cause acute myocarditis.",
+        "whyWrongByChoice": {
+          "A": "Superantigen activity is characteristic of staphylococcal enterotoxin and TSST, not diphtheria toxin.",
+          "B": "Lipid A recognition describes gram-negative endotoxin, not the A-B diphtheria exotoxin.",
+          "C": "Cleavage of desmoglein-1 is the mechanism of staphylococcal exfoliative toxin, not diphtheria toxin.",
+          "D": "Disruption of the enterocyte cytoskeleton describes Clostridioides difficile toxins A and B."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "diphtheria toxin",
+        "A-B toxin",
+        "protein synthesis"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-010",
+      "stem": "A 3-year-old child develops widespread superficial blistering and peeling of the skin following a staphylococcal infection. The toxin responsible for this presentation acts by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking neurotransmitter release at synapses"
+        },
+        {
+          "label": "B",
+          "text": "Cleaving desmoglein-1 in epidermal desmosomes"
+        },
+        {
+          "label": "C",
+          "text": "Forming membrane pores via Lipid A"
+        },
+        {
+          "label": "D",
+          "text": "Immobilizing respiratory cilia"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting ribosomal protein synthesis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Staphylococcal exfoliative toxins cleave desmoglein-1, detaching keratinocytes and causing scalded-skin syndrome.",
+        "whyCorrect": "The brick states that exfoliative A and B toxins produced by S. aureus cleave desmoglein-1, a desmosome protein important for keratinocyte adherence. The resulting detachment compromises the skin barrier, producing staphylococcal scalded-skin syndrome with blistering and exfoliation, primarily in pediatric patients.",
+        "whyWrongByChoice": {
+          "A": "Blocking neurotransmitter release describes clostridial neurotoxins, not exfoliative toxin.",
+          "C": "Lipid A pore/immune activation describes gram-negative endotoxin, not the skin-cleaving toxin.",
+          "D": "Ciliary immobility is associated with Mycoplasma pneumoniae, not staphylococcal skin disease.",
+          "E": "Inhibition of protein synthesis is the action of diphtheria toxin, not exfoliative toxin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "exfoliative toxin",
+        "scalded-skin syndrome",
+        "S. aureus"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-011",
+      "stem": "A young woman develops high fever, hypotension, a diffuse macular rash, and later desquamation of the palms. Cultures grow Staphylococcus aureus from an infected nasal packing. The toxin responsible produces disease by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleaving desmosomal proteins between keratinocytes"
+        },
+        {
+          "label": "B",
+          "text": "Disrupting the enterocyte cytoskeleton"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting ribosomal protein synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Nonspecifically activating many T cells"
+        },
+        {
+          "label": "E",
+          "text": "Signaling through the Lipid A of lipopolysaccharide"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Superantigen toxins cause toxic shock syndrome by driving nonspecific T-cell activation and a massive cytokine release.",
+        "whyCorrect": "The brick describes enterotoxin and TSST as superantigens that stimulate a robust immune response with release of massive amounts of cytokines, and it links toxic shock syndrome to massive cytokine release, including cases from infected nasal packing or postoperative wound materials.",
+        "whyWrongByChoice": {
+          "A": "Cleavage of desmosomal proteins describes exfoliative toxin causing scalded-skin syndrome, not TSS.",
+          "B": "Cytoskeletal disruption of enterocytes is the mechanism of C. difficile toxins.",
+          "C": "Protein synthesis inhibition is the diphtheria toxin mechanism, not superantigen action.",
+          "E": "Lipid A signaling is the mechanism of gram-negative endotoxin, not a staphylococcal superantigen."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "superantigen",
+        "toxic shock syndrome",
+        "S. aureus"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-012",
+      "stem": "A patient with gram-negative bacteremia develops fever and hypotension. The outer membrane component of the bacterium primarily responsible for triggering this systemic response is detected by macrophages through which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The A subunit of a secreted A-B exotoxin"
+        },
+        {
+          "label": "B",
+          "text": "The desmoglein-1 desmosomal protein"
+        },
+        {
+          "label": "C",
+          "text": "The Lipid A portion of lipopolysaccharide"
+        },
+        {
+          "label": "D",
+          "text": "The peptidoglycan layer of the cell wall"
+        },
+        {
+          "label": "E",
+          "text": "The teichoic acid of gram-positive cell walls"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Endotoxin (LPS), particularly its Lipid A portion, is sensed by macrophages and drives fever and cytokine-induced hypotension.",
+        "whyCorrect": "The brick identifies lipopolysaccharide (LPS), also called endotoxin, as an outer membrane component of gram-negative bacteria; its Lipid A portion is detected by immune cells such as macrophages, provoking pro-inflammatory cytokines and complement activation that cause fever and cytokine-induced hypotension.",
+        "whyWrongByChoice": {
+          "A": "A-B exotoxins are secreted toxins such as diphtheria toxin, not the outer membrane endotoxin sensed here.",
+          "B": "Desmoglein-1 is a host desmosomal protein targeted by exfoliative toxin, not a bacterial sensing component.",
+          "D": "Peptidoglycan is a cell wall component, but the brick attributes the gram-negative endotoxin response specifically to Lipid A of LPS.",
+          "E": "Teichoic acid is a gram-positive cell wall component and is not the gram-negative endotoxin described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "endotoxin",
+        "lipopolysaccharide",
+        "gram-negative"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    }
+  ]
+}

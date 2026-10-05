@@ -1,0 +1,2270 @@
+{
+  "categoryId": "w3s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "pa26-001",
+      "stem": "A pathologist reviewing a tumor specimen explains to a student that all of the cancer cells in the mass descend from a single 'mother' cell and are essentially copies of that original cell. This description best captures which fundamental property that defines neoplasia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Physiologic increase in cell number in response to demand"
+        },
+        {
+          "label": "B",
+          "text": "Polyclonal proliferation of several cell lineages"
+        },
+        {
+          "label": "C",
+          "text": "Programmed cell death of damaged cells"
+        },
+        {
+          "label": "D",
+          "text": "Reversible adaptive replacement of one cell type by another"
+        },
+        {
+          "label": "E",
+          "text": "Unregulated monoclonal proliferation of cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Neoplasia is the unregulated, monoclonal proliferation of cells.",
+        "whyCorrect": "Neoplasia literally means 'new growth' and refers to the unregulated monoclonal proliferation of cells. Monoclonal means the descendant cells all derive from a single original 'mother' cell and are copies of it, which is exactly the scenario described.",
+        "whyWrongByChoice": {
+          "A": "This describes hyperplasia, a controlled physiologic response, not the unregulated growth of a neoplasm.",
+          "B": "Neoplasms are monoclonal, not polyclonal; they arise from one transformed cell, not multiple separate lineages.",
+          "C": "This describes apoptosis, which is unrelated to the definition of a tumor.",
+          "D": "This describes metaplasia, an adaptive change, not neoplasia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neoplasia",
+        "definitions",
+        "monoclonality"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-002",
+      "stem": "A 58-year-old man has a lung mass biopsied. The pathology report notes cells with a high nuclear-to-cytoplasmic ratio, pleomorphism, and frequent mitotic figures, and states that the tumor has invaded adjacent tissue and seeded a distant lymph node. Which single feature most specifically establishes that this tumor is malignant rather than benign?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A poor overall clinical prognosis"
+        },
+        {
+          "label": "B",
+          "text": "A high mitotic figure count"
+        },
+        {
+          "label": "C",
+          "text": "Marked nuclear pleomorphism"
+        },
+        {
+          "label": "D",
+          "text": "A rapid overall rate of growth"
+        },
+        {
+          "label": "E",
+          "text": "The ability to metastasize"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The potential for metastasis is the characteristic feature that defines a malignant tumor.",
+        "whyCorrect": "The brick states that the potential for metastasis is the characteristic feature of a malignant tumor. Benign tumors, by definition, cannot metastasize. Spread to a distant lymph node therefore establishes malignancy.",
+        "whyWrongByChoice": {
+          "A": "Poor prognosis frequently accompanies malignancy but is a consequence, not the defining feature.",
+          "B": "High mitotic activity is common in malignancy but is a supportive finding, not the defining characteristic.",
+          "C": "Pleomorphism is a cytologic feature of malignant cells but does not by itself define malignancy the way metastatic potential does.",
+          "D": "Malignant tumors often grow quickly, but growth rate alone is not the defining feature; some benign tumors also grow."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "malignant",
+        "metastasis",
+        "benign-vs-malignant"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-003",
+      "stem": "A 44-year-old woman develops progressive headaches, seizures, and a visual field deficit. Imaging shows a well-circumscribed extra-axial mass arising from the meninges, and resection confirms a meningioma with no evidence of invasion or metastasis. Which principle best explains how this histologically benign tumor produced life-threatening symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A benign tumor can compress vital structures"
+        },
+        {
+          "label": "B",
+          "text": "Benign tumors always contain large areas of necrosis that damage the brain"
+        },
+        {
+          "label": "C",
+          "text": "Benign tumors frequently transform into carcinoma within the skull"
+        },
+        {
+          "label": "D",
+          "text": "Benign tumors typically lack a capsule and therefore invade brain tissue"
+        },
+        {
+          "label": "E",
+          "text": "The tumor must have metastasized to the brain to cause seizures"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Benign tumors can still be dangerous by compressing adjacent structures, especially in confined spaces like the skull.",
+        "whyCorrect": "The brick emphasizes that benign tumors are not necessarily harmless: a meningioma is a benign tumor of the meninges that can compress brain tissue and cause neurologic problems such as seizures, paralysis, and vision changes. The limited space of the skull makes benign brain tumors particularly dangerous.",
+        "whyWrongByChoice": {
+          "B": "Benign tumors typically do not contain areas of necrosis; that is a feature of malignant tumors.",
+          "C": "Benign tumors do not routinely transform into carcinoma; the harm here is from mass effect, not malignant transformation.",
+          "D": "Benign tumors are usually well demarcated and often encapsulated; they generally do not invade.",
+          "E": "There is no metastasis; the symptoms result from local compression of brain tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "benign",
+        "meningioma",
+        "clinical-correlation"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-004",
+      "stem": "A biopsy of a uterine mass is reported as a leiomyosarcoma. Applying the standard rules of tumor nomenclature, which of the following is true of this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a benign tumor of glandular cells"
+        },
+        {
+          "label": "B",
+          "text": "It is a benign tumor of smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "It is a malignant tumor of epithelial origin"
+        },
+        {
+          "label": "D",
+          "text": "It is a malignant tumor of skeletal muscle"
+        },
+        {
+          "label": "E",
+          "text": "It is a malignant tumor of smooth muscle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "'Leiomyo-' denotes smooth muscle and the '-sarcoma' suffix denotes a malignant mesenchymal tumor.",
+        "whyCorrect": "In tumor nomenclature the prefix indicates the cell of origin (leiomyo- = smooth muscle) and the suffix indicates the nature. Sarcoma is added for malignant tumors of mesenchymal tissue, so leiomyosarcoma is a malignant smooth muscle tumor.",
+        "whyWrongByChoice": {
+          "A": "A benign glandular tumor is an adenoma; leiomyo- refers to smooth muscle, not glands.",
+          "B": "A benign smooth muscle tumor would be a leiomyoma (-oma), not a sarcoma.",
+          "C": "Malignant epithelial tumors carry the suffix carcinoma, not sarcoma; smooth muscle is mesenchymal.",
+          "D": "Skeletal muscle uses the prefix rhabdomyo-; leiomyo- specifically denotes smooth muscle."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nomenclature",
+        "sarcoma",
+        "smooth-muscle"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-005",
+      "stem": "A 55-year-old man with a 10-year history of chronic acid reflux undergoes endoscopy. Biopsy of the distal esophagus shows that the normal stratified squamous epithelium has been replaced by simple columnar epithelium containing goblet cells. This change is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaplasia"
+        },
+        {
+          "label": "B",
+          "text": "Carcinoma in situ"
+        },
+        {
+          "label": "C",
+          "text": "Dysplasia"
+        },
+        {
+          "label": "D",
+          "text": "Invasive adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Metaplasia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Barrett esophagus is metaplasia: squamous epithelium is replaced by columnar epithelium in response to chronic acid injury.",
+        "whyCorrect": "Metaplasia is the replacement of one cell type by another as an adaptive response to chronic stress. In Barrett esophagus, chronic gastric acid exposure leads the squamous esophageal epithelium to be replaced by protective mucus-secreting columnar epithelium with goblet cells.",
+        "whyWrongByChoice": {
+          "A": "Anaplasia refers to undifferentiated tumor cells that do not resemble any tissue of origin, not an orderly epithelial switch.",
+          "B": "Carcinoma in situ requires cancerous cells confined by the basement membrane; the described cells are non-neoplastic.",
+          "C": "Dysplasia is disordered growth of atypical cells; here one mature cell type is orderly replaced by another, which is metaplasia.",
+          "D": "Invasive adenocarcinoma is a later complication that can arise in a minority of untreated cases, but the biopsy shows metaplasia, not invasion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metaplasia",
+        "barrett-esophagus",
+        "adaptation"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-006",
+      "stem": "A cervical biopsy shows epithelial cells with marked pleomorphism, hyperchromatic nuclei, a high nuclear-to-cytoplasmic ratio, loss of polarity, and disorderly architecture, but the changes do not extend through the full thickness and no invasion is present. The likelihood of this lesion progressing to cancer is most directly related to which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The degree (severity) of the dysplasia"
+        },
+        {
+          "label": "B",
+          "text": "The presence or absence of a fibrous capsule"
+        },
+        {
+          "label": "C",
+          "text": "The size of the biopsy specimen"
+        },
+        {
+          "label": "D",
+          "text": "Whether the cells are well-differentiated"
+        },
+        {
+          "label": "E",
+          "text": "Whether the tissue is epithelial or mesenchymal"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The degree of dysplasia is directly correlated with the likelihood of developing cancer.",
+        "whyCorrect": "The brick describes a spectrum of dysplasia (mild, moderate, severe; CIN I to CIN III) and states that the degree of dysplasia is directly correlated with the likelihood of developing cancer. Mild dysplasia may revert to normal, whereas severe dysplasia carries a very high chance that cancer will follow.",
+        "whyWrongByChoice": {
+          "B": "A capsule is a feature of benign tumors, not a determinant of dysplastic progression.",
+          "C": "The size of the biopsy is a sampling parameter and has no bearing on cancer risk.",
+          "D": "Differentiation describes how tumor cells resemble their origin; the dysplasia grade, not differentiation, predicts progression.",
+          "E": "Tissue class matters for naming a resulting cancer, but it is the severity of dysplasia that predicts progression here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dysplasia",
+        "CIN",
+        "progression"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-007",
+      "stem": "A 39-year-old woman has an abnormal Pap smear followed by a cervical biopsy read as carcinoma in situ. Which feature most accurately characterizes this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cancer cells have not breached the basement membrane"
+        },
+        {
+          "label": "B",
+          "text": "The cancer cells have penetrated the basement membrane into underlying tissue"
+        },
+        {
+          "label": "C",
+          "text": "The lesion has already metastasized to regional lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "The lesion is a benign tumor that cannot become invasive"
+        },
+        {
+          "label": "E",
+          "text": "The lesion represents an adaptive, fully reversible change"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carcinoma in situ is cancer that remains confined by the basement membrane and is therefore pre-invasive (stage 0).",
+        "whyCorrect": "The brick defines carcinoma in situ as cells that are cancerous but pre-invasive: they have not broken through the basement membrane into underlying tissue. It is the earliest stage of cancer (stage 0), and removal at this point is curative because the tumor has not metastasized.",
+        "whyWrongByChoice": {
+          "B": "Once cells breach the basement membrane the lesion becomes invasive carcinoma, not carcinoma in situ.",
+          "C": "By definition CIS has not metastasized; that is why excision is curative.",
+          "D": "CIS is a true early cancer, not a benign tumor, and can progress to invasive cancer if untreated.",
+          "E": "CIS cells are already cancerous, unlike a reversible adaptive change such as metaplasia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carcinoma-in-situ",
+        "basement-membrane",
+        "staging"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-008",
+      "stem": "Two patients have malignant tumors of the same organ. Tumor A is composed of cells that closely resemble the normal cells of that organ, whereas Tumor B is composed of cells so primitive that the tissue of origin cannot be identified. Based on differentiation, which statement is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both tumors must be benign because they arose from normal tissue"
+        },
+        {
+          "label": "B",
+          "text": "Differentiation has no relationship to prognosis in malignant tumors"
+        },
+        {
+          "label": "C",
+          "text": "Tumor A is anaplastic and Tumor B is well-differentiated"
+        },
+        {
+          "label": "D",
+          "text": "Tumor A is well-differentiated and tends to carry a better prognosis"
+        },
+        {
+          "label": "E",
+          "text": "Tumor B is well-differentiated and carries a better prognosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Well-differentiated malignant tumors resemble their origin and generally have a better prognosis than poorly differentiated or anaplastic tumors.",
+        "whyCorrect": "Differentiation is the degree to which tumor cells resemble their normal counterparts. Tumor A's cells look like the normal organ, so it is well-differentiated; Tumor B's cells show no resemblance and are anaplastic/undifferentiated. Well-differentiated malignant tumors tend to have a better prognosis.",
+        "whyWrongByChoice": {
+          "A": "Both are explicitly malignant; resemblance to normal tissue reflects differentiation, not benignity.",
+          "B": "Differentiation is prognostically important: better differentiation is associated with better outcomes.",
+          "C": "This reverses the terms: cells resembling the origin are well-differentiated, while unrecognizable cells are anaplastic.",
+          "E": "Tumor B is anaplastic, not well-differentiated, and carries a worse prognosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "differentiation",
+        "anaplasia",
+        "prognosis"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-009",
+      "stem": "A tumor arising from the glandular epithelium of the colon is found to invade through the bowel wall. Using the standard rules of tumor nomenclature, this malignant tumor is best termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Adenoma"
+        },
+        {
+          "label": "C",
+          "text": "Adenosarcoma"
+        },
+        {
+          "label": "D",
+          "text": "Glandular hamartoma"
+        },
+        {
+          "label": "E",
+          "text": "Leiomyosarcoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A malignant tumor of glandular (epithelial) cells is an adenocarcinoma.",
+        "whyCorrect": "Glandular cells are epithelial. Malignant tumors of epithelial tissue take the suffix carcinoma, and the prefix adeno- denotes glandular origin, giving adenocarcinoma.",
+        "whyWrongByChoice": {
+          "B": "Adenoma (-oma) is the benign glandular tumor; this lesion is malignant and invasive.",
+          "C": "Sarcoma applies to malignant mesenchymal tumors, not epithelial glands.",
+          "D": "A hamartoma is a non-neoplastic disorganized mass, not a malignant glandular tumor.",
+          "E": "Leiomyosarcoma is a malignant smooth muscle tumor, unrelated to glandular epithelium."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nomenclature",
+        "carcinoma",
+        "epithelial"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-010",
+      "stem": "A routine chest radiograph in a 50-year-old man reveals a solitary pulmonary nodule. Resection shows a well-circumscribed mass composed of disorganized but mature cartilage, fat, and respiratory epithelium that are all cell types normally found in the lung. This lesion is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Carcinoma in situ"
+        },
+        {
+          "label": "C",
+          "text": "Choristoma"
+        },
+        {
+          "label": "D",
+          "text": "Hamartoma"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell papilloma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A hamartoma is a non-neoplastic, disorganized mass of tissue elements indigenous to the site.",
+        "whyCorrect": "Hamartomas are non-neoplastic regions of disorganized tissue that are indigenous to the organ in which they are found. A pulmonary hamartoma is a localized area of disorganized but native tissue (such as cartilage) within the lung. Despite the -oma suffix, it is not a true neoplasm.",
+        "whyWrongByChoice": {
+          "A": "Adenocarcinoma is a malignant glandular tumor with invasion, not a well-circumscribed mass of mature native tissue.",
+          "B": "Carcinoma in situ is early confined cancer, whereas this lesion is non-neoplastic.",
+          "C": "A choristoma is normal tissue in an abnormal location; here the tissue is native to the lung, making it a hamartoma.",
+          "E": "A papilloma is a benign epithelial neoplasm with finger-like projections, not disorganized cartilage and fat."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hamartoma",
+        "non-neoplastic",
+        "nomenclature"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-011",
+      "stem": "During surgery, a small nodule of microscopically normal thyroid tissue is discovered within the thymus of a patient with no thyroid disease. Which term best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Choristoma"
+        },
+        {
+          "label": "C",
+          "text": "Hamartoma"
+        },
+        {
+          "label": "D",
+          "text": "Metaplasia"
+        },
+        {
+          "label": "E",
+          "text": "Teratoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A choristoma is growth of microscopically normal cells in an abnormal location.",
+        "whyCorrect": "The brick defines a choristoma as the growth of microscopically normal cells in an abnormal location. A nodule of normal-appearing thyroid tissue located within the thymus is the classic example given.",
+        "whyWrongByChoice": {
+          "A": "An adenoma is a benign glandular neoplasm, whereas this tissue is normal and non-neoplastic.",
+          "C": "A hamartoma is disorganized tissue that is native (indigenous) to the site; thyroid tissue is not native to the thymus.",
+          "D": "Metaplasia is replacement of one cell type by another at a single site, not normal tissue appearing at an ectopic site.",
+          "E": "A teratoma contains tissues from multiple germ layers; this is a single focus of normal thyroid tissue."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "choristoma",
+        "ectopic-tissue",
+        "nomenclature"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa26-012",
+      "stem": "A dermatologist removes a pigmented skin lesion and, when discussing tumor terminology, notes that a benign tumor of these cells is conventionally given a name that would normally suggest malignancy for other tissues. Which pair correctly reflects this naming exception for melanocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both the benign and malignant tumors are called melanomas"
+        },
+        {
+          "label": "B",
+          "text": "The benign tumor is a melanocarcinoma and the malignant tumor is a nevus"
+        },
+        {
+          "label": "C",
+          "text": "The benign tumor is a melanoma and the malignant tumor is a nevus"
+        },
+        {
+          "label": "D",
+          "text": "The benign tumor is a nevus and the malignant tumor is a melanoma"
+        },
+        {
+          "label": "E",
+          "text": "The benign tumor is a papilloma and the malignant tumor is a melanoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The benign melanocytic tumor is a nevus, while melanoma denotes the malignant form.",
+        "whyCorrect": "The brick explains that a nevus (mole) is a benign tumor of melanocytes. By the usual rules a benign melanocyte tumor would be called a 'melanoma,' but for historical reasons the term melanoma is reserved for the malignant version, so the benign tumor is called a nevus.",
+        "whyWrongByChoice": {
+          "A": "Only the malignant tumor is called melanoma; the benign tumor is a nevus.",
+          "B": "'Melanocarcinoma' is not the standard term; the benign melanocytic tumor is a nevus.",
+          "C": "This reverses the terms; melanoma is the malignant form and nevus is benign.",
+          "E": "A papilloma is a benign epithelial tumor, not a melanocytic lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nomenclature",
+        "melanoma",
+        "nevus"
+      ],
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-001",
+      "stem": "A 46-year-old woman presents with a mass in the upper outer quadrant of her breast. Mammography shows a nodule in that region, and core needle biopsy demonstrates invasive ductal carcinoma. At surgery a sentinel lymph node biopsy is planned. Based on the location of this tumor, which group of lymph nodes is most likely to be involved first?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary"
+        },
+        {
+          "label": "B",
+          "text": "Infraclavicular"
+        },
+        {
+          "label": "C",
+          "text": "Mediastinal"
+        },
+        {
+          "label": "D",
+          "text": "Submandibular"
+        },
+        {
+          "label": "E",
+          "text": "Supraclavicular"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lymph node involvement follows the path of lymphatic drainage from the primary tumor.",
+        "whyCorrect": "Breast cancers arising in the upper outer quadrant drain first to the nearby axillary lymph nodes because of the anatomy of lymphatic drainage. These are therefore the sentinel and most likely first-involved nodes.",
+        "whyWrongByChoice": {
+          "B": "Infraclavicular nodes are more distal and would typically be involved only later in the sequence of spread.",
+          "C": "Mediastinal (internal mammary) nodes are associated with drainage from the inner quadrants of the breast, not the upper outer quadrant.",
+          "D": "Submandibular nodes drain the head and neck and are rarely involved in breast cancer spread.",
+          "E": "Supraclavicular nodes are distal nodes that become involved later in metastatic progression."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lymphatic spread",
+        "breast cancer",
+        "sentinel node"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-002",
+      "stem": "A 65-year-old woman noticed a mole enlarging over the past several years. A dermatologist performs a biopsy that shows melanoma, and a sentinel lymph node biopsy reveals metastatic disease. Inactivation of which normal cell structure most directly permits tumor cells to detach from one another and begin invasion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actin filaments"
+        },
+        {
+          "label": "B",
+          "text": "Desmoplakin"
+        },
+        {
+          "label": "C",
+          "text": "E-cadherin"
+        },
+        {
+          "label": "D",
+          "text": "Gap junctions"
+        },
+        {
+          "label": "E",
+          "text": "Keratin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loss of E-cadherin frees tumor cells from one another, an early step in invasion.",
+        "whyCorrect": "E-cadherin connects epithelial cells to one another; its inactivation leads to loss of intercellular adhesion, one of the first steps of invasion. Loss of E-cadherin classically produces the single-file infiltration pattern of invasive lobular carcinoma.",
+        "whyWrongByChoice": {
+          "A": "Actin filaments drive migration of the tumor cell through the extracellular matrix rather than mediating cell-cell adhesion.",
+          "B": "Desmoplakin is part of the normal cell structure but does not itself trigger the invasion of tumor cells.",
+          "D": "Gap junctions mediate cell-to-cell communication; their inactivation would not lead to invasion.",
+          "E": "Keratin is an important structural component, but loss of keratin does not result in invasion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "invasion",
+        "E-cadherin",
+        "cell adhesion"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-003",
+      "stem": "A researcher is describing the metastatic cascade to a class of students. She defines one step as the tumor cell breaching the basement membrane, migrating through the extracellular matrix, and entering a vessel. Which step of metastasis is she describing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiogenesis at the primary tumor"
+        },
+        {
+          "label": "B",
+          "text": "Colonization of the secondary site"
+        },
+        {
+          "label": "C",
+          "text": "Extravasation"
+        },
+        {
+          "label": "D",
+          "text": "Intravasation"
+        },
+        {
+          "label": "E",
+          "text": "Tumor dormancy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intravasation is tumor cell invasion through the ECM and entry into a vessel.",
+        "whyCorrect": "The steps of metastasis are invasion, intravasation, extravasation, and growth at secondary sites. Intravasation corresponds to tumor cell invasion through the extracellular matrix and entry into the bloodstream or lymphatics to travel toward a secondary site.",
+        "whyWrongByChoice": {
+          "A": "Angiogenesis is new vessel formation and is not the step of entering a vessel described here.",
+          "B": "Colonization is the later outgrowth at a distant organ, which depends on a favorable stromal environment.",
+          "C": "Extravasation is the opposite directional step: tumor cells exit the bloodstream or lymphatics and infiltrate outside the capillaries.",
+          "E": "Tumor dormancy refers to failure to grow at a distant site, not entry into a vessel."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metastatic cascade",
+        "intravasation"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-004",
+      "stem": "A 60-year-old man with colon adenocarcinoma undergoes staging imaging that reveals multiple hepatic lesions consistent with metastases. Which feature best explains why the liver is the most common initial site of metastasis for colon cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colon cancer cells preferentially spread through the lymphatics to the liver"
+        },
+        {
+          "label": "B",
+          "text": "Portal venous blood from the colon drains into the liver"
+        },
+        {
+          "label": "C",
+          "text": "Seeding across the peritoneal cavity deposits cells directly onto the liver"
+        },
+        {
+          "label": "D",
+          "text": "The liver has an unusually high oxygen content that favors tumor growth"
+        },
+        {
+          "label": "E",
+          "text": "The liver secretes chemokines that specifically attract colonic tumor cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hematogenous spread often follows normal venous drainage to the first capillary bed.",
+        "whyCorrect": "In hematogenous spread, tumor cells follow the normal venous drainage pattern and embed in the first capillary bed they reach. All portal blood from the colon, stomach, and pancreas drains into the liver, which is why the liver is a common first site of metastasis for these cancers.",
+        "whyWrongByChoice": {
+          "A": "The described colon-to-liver pattern is hematogenous through the portal vein, not lymphatic.",
+          "C": "Seeding requires an open cavity and does not describe the venous drainage responsible for hepatic metastasis here.",
+          "D": "Arteries carry higher oxygen content, but this makes arterial spread less common; it does not explain hepatic metastasis.",
+          "E": "While tropism and chemokine receptors influence some metastases, the brick attributes colon-to-liver spread to anatomic vascular drainage, not liver-secreted chemokines."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hematogenous spread",
+        "portal drainage",
+        "liver metastasis"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-005",
+      "stem": "A pathologist notes that although most carcinomas spread through the lymphatics, a small group of carcinomas is classically known for spreading hematogenously. Which of the following carcinomas belongs to that group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colonic adenocarcinoma spreading to regional nodes"
+        },
+        {
+          "label": "B",
+          "text": "Gastric adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Invasive ductal carcinoma of the breast"
+        },
+        {
+          "label": "D",
+          "text": "Renal cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma of the lung"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Four carcinomas are classically known for hematogenous spread: follicular thyroid, choriocarcinoma, renal cell, and hepatocellular.",
+        "whyCorrect": "Although most carcinomas spread lymphatically, four are known for hematogenous spread: follicular thyroid carcinoma, choriocarcinoma, renal cell carcinoma, and hepatocellular carcinoma. Renal cell carcinoma is a member of this group.",
+        "whyWrongByChoice": {
+          "A": "Regional nodal spread of colon cancer is lymphatic; it is not part of the classic hematogenous carcinoma group.",
+          "B": "Gastric adenocarcinoma is not among the four carcinomas singled out for hematogenous spread.",
+          "C": "Breast carcinoma is the brick's classic example of lymphatic (axillary node) spread, not the hematogenous exception group.",
+          "E": "Squamous cell carcinoma is a carcinoma that follows the usual lymphatic route and is not in the four-carcinoma hematogenous group."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hematogenous spread",
+        "carcinoma exceptions",
+        "renal cell carcinoma"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-006",
+      "stem": "A 17-year-old boy is diagnosed with osteosarcoma of the distal femur. When counseling about the most likely route by which this tumor will disseminate, which pattern of spread should be emphasized?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct spread along nerve sheaths"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous spread"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic spread to regional nodes"
+        },
+        {
+          "label": "D",
+          "text": "Seeding of the peritoneal cavity"
+        },
+        {
+          "label": "E",
+          "text": "Seeding of the subarachnoid space"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sarcomas, being of mesenchymal origin, are associated with hematogenous spread.",
+        "whyCorrect": "Sarcomas are of mesenchymal origin and are associated with hematogenous spread through the bloodstream, in contrast to carcinomas, which are associated with lymphatic spread.",
+        "whyWrongByChoice": {
+          "A": "Perineural spread is not the route emphasized for sarcomas in the brick.",
+          "C": "Lymphatic spread is the pattern classically associated with carcinomas (epithelial-derived tumors), not sarcomas.",
+          "D": "Peritoneal seeding requires shedding into an open cavity, as with ovarian carcinoma, and is not the typical route for a bone sarcoma.",
+          "E": "Subarachnoid seeding is characteristic of CNS tumors such as glioblastoma, not osteosarcoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sarcoma",
+        "hematogenous spread"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-007",
+      "stem": "A 58-year-old woman with high-grade ovarian carcinoma is found at laparotomy to have numerous tumor nodules studding the omentum and peritoneal surfaces, without an intervening path through lymphatics or blood vessels. Which mechanism of tumor spread best accounts for this distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematogenous spread via veins"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic spread to nodes"
+        },
+        {
+          "label": "C",
+          "text": "Perineural invasion along nerves"
+        },
+        {
+          "label": "D",
+          "text": "Seeding of a body cavity"
+        },
+        {
+          "label": "E",
+          "text": "Tumor dormancy at distant sites"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Seeding disseminates tumor across an open body cavity such as the peritoneum.",
+        "whyCorrect": "Seeding requires an open space such as the peritoneal, pleural, subarachnoid, or joint cavities. Ovarian carcinoma is a classic example of a tumor that seeds the peritoneal cavity, producing widespread surface implants such as omental involvement.",
+        "whyWrongByChoice": {
+          "A": "Hematogenous spread deposits cells in capillary beds of organs, not as surface seeding across a cavity.",
+          "B": "Lymphatic spread travels through lymphatic channels to nodes and would not produce diffuse peritoneal surface implants.",
+          "C": "Perineural invasion is spread along nerves and does not explain diffuse peritoneal implants.",
+          "E": "Tumor dormancy describes failure to grow at a distant site, not the mechanism producing peritoneal implants."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seeding",
+        "ovarian carcinoma",
+        "peritoneal cavity"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-008",
+      "stem": "A 55-year-old man with glioblastoma develops new neurologic deficits, and imaging reveals tumor deposits within the spinal subarachnoid space. Which route of spread best explains dissemination of this tumor from the brain to the spinal cord?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct extension through vertebral bone"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous spread through the vertebral veins"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic spread through spinal lymphatics"
+        },
+        {
+          "label": "D",
+          "text": "Retrograde spread along peripheral nerves"
+        },
+        {
+          "label": "E",
+          "text": "Seeding through the cerebrospinal fluid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glioblastomas use the open subarachnoid space to seed the brain and spinal cord.",
+        "whyCorrect": "Seeding occurs within open spaces, and glioblastomas use the subarachnoid space to seed within the brain and spinal cord. The cerebrospinal fluid within this open space carries cells to distant CNS surfaces.",
+        "whyWrongByChoice": {
+          "A": "Direct extension through bone does not explain deposits floating within the subarachnoid space.",
+          "B": "The brick attributes CNS glioblastoma dissemination to seeding through the subarachnoid space rather than hematogenous venous spread.",
+          "C": "The CNS lacks conventional lymphatics used for this spread, and the brick describes seeding, not lymphatic dissemination.",
+          "D": "Retrograde perineural spread is not the mechanism the brick describes for glioblastoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seeding",
+        "glioblastoma",
+        "subarachnoid space"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-009",
+      "stem": "In an experiment, tumor cells are engineered to overexpress a receptor that binds a major component of the basement membrane, which markedly increases their adhesion to basement membranes and their ability to invade surrounding tissues and blood vessels. Overexpression of a receptor for which molecule best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albumin"
+        },
+        {
+          "label": "B",
+          "text": "Desmoplakin"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Keratin"
+        },
+        {
+          "label": "E",
+          "text": "Laminin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Laminin receptor overexpression promotes tumor adhesion to and invasion through basement membranes.",
+        "whyCorrect": "Cancer cells can overexpress laminin receptors. These receptors bind laminin, a major component of the basement membrane, facilitating tumor cell adhesion to basement membranes, migration, and invasion into surrounding tissues and blood vessels.",
+        "whyWrongByChoice": {
+          "A": "Albumin is a plasma transport protein and is not a basement membrane component mediating invasion.",
+          "B": "Desmoplakin is part of desmosomes and does not serve as the basement membrane ligand described here.",
+          "C": "Hemoglobin is an intracellular oxygen carrier in red blood cells and is unrelated to basement membrane adhesion.",
+          "D": "Keratin is an intracellular structural protein of epithelial cells, not a basement membrane ligand for an invasion-promoting receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "invasion",
+        "laminin receptor",
+        "basement membrane"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-010",
+      "stem": "During intravasation, most single circulating tumor cells die, yet some survive to establish distant metastases. According to the theory described, which behavior most improves a circulating tumor cell's chance of survival in the bloodstream?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Downregulating all surface adhesion molecules to travel as single cells"
+        },
+        {
+          "label": "B",
+          "text": "Preferentially entering high-shear arterial vessels"
+        },
+        {
+          "label": "C",
+          "text": "Shrinking below the diameter of a red blood cell"
+        },
+        {
+          "label": "D",
+          "text": "Suppressing coagulation factor activation"
+        },
+        {
+          "label": "E",
+          "text": "Traveling as multicellular aggregates bound to platelets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tumor cells that clump and bind platelets survive circulation better than lone cells.",
+        "whyCorrect": "A theory of which tumor cells ultimately metastasize holds that circulating cells are much more likely to migrate as multicellular aggregates than as single cells. Tumor cells bind to one another or to platelets to survive in the bloodstream and may activate coagulation factors, forming emboli.",
+        "whyWrongByChoice": {
+          "A": "Loss of adhesion promotes apoptosis, and single cells are far more likely to die than aggregates, so this reduces survival.",
+          "B": "High shear stress from flow kills circulating tumor cells rather than protecting them.",
+          "C": "Tumor cells are significantly larger than most blood cells; they do not shrink below a red blood cell, and their size helps them lodge in capillary beds.",
+          "D": "Tumor cells tend to activate coagulation factors to form protective emboli, so suppressing coagulation would not aid survival."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "intravasation",
+        "circulating tumor cells",
+        "platelets"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-011",
+      "stem": "A student asks why tumor cells more readily enter lymphatic vessels than blood vessels during metastasis. Which property of the lymphatic system best explains this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It actively secretes proteases that pull tumor cells inward"
+        },
+        {
+          "label": "B",
+          "text": "It carries a higher oxygen content that attracts tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "It directs all cells immediately to the liver and lungs"
+        },
+        {
+          "label": "D",
+          "text": "It has thicker, muscular walls that trap tumor cells"
+        },
+        {
+          "label": "E",
+          "text": "It lacks the tight junctions and basement membrane of blood vessels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lymphatics are a low-shear, loosely walled system that tumor cells enter easily.",
+        "whyCorrect": "The reason a tumor cell intravasates lymphatically is largely mechanical. The lymphatic pathway is a low-shear system that lacks the tight junctions and basement membrane associated with blood vessels, making it easier for a tumor cell to enter a lymphatic vessel than a blood vessel.",
+        "whyWrongByChoice": {
+          "A": "Lymphatics do not actively secrete proteases to pull in tumor cells; proteases come from tumor cells and nearby stromal cells.",
+          "B": "Higher oxygen content describes arterial blood; it is not a feature that draws tumor cells into lymphatics.",
+          "C": "Drainage to the liver and lungs reflects venous/portal hematogenous patterns, not lymphatic entry.",
+          "D": "Lymphatic vessels are thin-walled and low-shear, not thick and muscular; that is a feature of arteries."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lymphatic spread",
+        "vessel structure"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-012",
+      "stem": "To avoid the morbidity of a full axillary dissection, a breast surgeon injects tracer around a tumor and removes the first node that takes up the tracer to assess for metastasis. Which statement best describes the node being sampled?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a node that filters hematogenously spread tumor emboli"
+        },
+        {
+          "label": "B",
+          "text": "It is the contralateral supraclavicular node"
+        },
+        {
+          "label": "C",
+          "text": "It is the first node in a regional lymphatic basin"
+        },
+        {
+          "label": "D",
+          "text": "It is the first node the surgeon encounters on entering the axilla"
+        },
+        {
+          "label": "E",
+          "text": "It is the most distal node in the lymphatic chain draining the tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The sentinel node is the first node in a regional basin receiving lymph from the tumor.",
+        "whyCorrect": "In breast cancer, axillary lymph node assessment guides prognosis and therapy. To avoid the morbidity of a full dissection, the surgeon biopsies the sentinel lymph node, defined as the first node in a regional lymphatic basin that receives lymph flow from the primary tumor and is thus the likely first site of spread.",
+        "whyWrongByChoice": {
+          "A": "The sentinel node concept is based on lymphatic drainage, not on filtering hematogenous tumor emboli.",
+          "B": "A contralateral supraclavicular node is not the first regional draining node and is not the sentinel node of an axillary basin.",
+          "D": "The sentinel node is defined by tracer uptake and lymphatic drainage, not by which node the surgeon happens to encounter first.",
+          "E": "The sentinel node is the first, most proximal node receiving drainage, not the most distal node in the chain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sentinel lymph node",
+        "breast cancer",
+        "lymphatic drainage"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-001",
+      "stem": "Which of the following proto-oncogenes encodes a membrane-bound protein that binds guanosine triphosphate (GTP) in its active, on-state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABL"
+        },
+        {
+          "label": "B",
+          "text": "BRAF"
+        },
+        {
+          "label": "C",
+          "text": "EGFR"
+        },
+        {
+          "label": "D",
+          "text": "HRAS"
+        },
+        {
+          "label": "E",
+          "text": "PIK3CA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ras-family proteins are membrane-bound G proteins that are active when GTP-bound.",
+        "whyCorrect": "HRAS is a member of the Ras family of membrane-bound G proteins that toggle between an active GTP-bound state and an inactive GDP-bound state. In the GTP-bound state, Ras drives pro-growth signaling through the MAPK and PI3K/AKT pathways.",
+        "whyWrongByChoice": {
+          "A": "ABL encodes a nonreceptor tyrosine kinase, not a GTP-binding G protein.",
+          "B": "BRAF encodes a serine/threonine kinase that phosphorylates MEK; it does not bind GTP as its switch mechanism.",
+          "C": "EGFR encodes a receptor tyrosine kinase activated by ligand binding, not a GTP-binding G protein.",
+          "E": "PIK3CA encodes a catalytic subunit of PI3K, a lipid kinase, not a GTP-binding G protein."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Ras",
+        "oncogene",
+        "G protein",
+        "signal transduction"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-002",
+      "stem": "A 64-year-old man presents with insidious fatigue and is found to have 110,000 white blood cells/microL. A bone marrow biopsy is hypercellular with a predominance of granulocytes and increased small, hypolobated megakaryocytes. A therapy targeting which of the following oncogenic protein products would be most helpful?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCR::ABL"
+        },
+        {
+          "label": "B",
+          "text": "BRAF"
+        },
+        {
+          "label": "C",
+          "text": "EGFR"
+        },
+        {
+          "label": "D",
+          "text": "MEK"
+        },
+        {
+          "label": "E",
+          "text": "PIK3CA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic myeloid leukemia is driven by the BCR::ABL fusion, the target of imatinib.",
+        "whyCorrect": "The presentation of marked leukocytosis with a hypercellular, granulocyte-rich marrow and small hyposegmented megakaryocytes is classic for chronic myeloid leukemia, which is driven by the constitutively active BCR::ABL tyrosine kinase fusion. Imatinib (Gleevec) targets this fusion protein and is effective in many cases.",
+        "whyWrongByChoice": {
+          "B": "BRAF is targeted in cutaneous melanoma, not the myeloid disorder described.",
+          "C": "EGFR alterations are seen in lung adenocarcinoma, not chronic myeloid leukemia.",
+          "D": "MEK inhibitors such as trametinib are used in melanoma, not for this leukemia.",
+          "E": "PIK3CA is targeted in advanced breast carcinoma, not in this marrow disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic myeloid leukemia",
+        "BCR::ABL",
+        "imatinib",
+        "targeted therapy"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-003",
+      "stem": "A pediatric patient presents with an abdominal mass that undergoes biopsy. Microscopic examination shows small round blue cells arranged around a textured, acellular center, and molecular testing reveals MYCN amplification. What is the most likely identity of this neoplasm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Cutaneous melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Neuroblastoma"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic ductal adenocarcinoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Neuroblastoma is a neural crest tumor with Homer Wright rosettes and MYCN amplification.",
+        "whyCorrect": "Neuroblastoma is a malignant neural crest tumor, the most common neoplasm of the first year of life, that often arises in the adrenal gland or abdominal sites. It is composed of small round blue cells that may form Homer Wright rosettes (cells radially arranged around a fibrillar acellular center), and MYCN amplification is its major oncogenic driver and a poor prognostic factor.",
+        "whyWrongByChoice": {
+          "A": "Burkitt lymphoma shows a starry-sky pattern of B-cells with tingible-body macrophages and an IG::MYC rearrangement, not MYCN amplification.",
+          "B": "Chronic myeloid leukemia is a marrow-based myeloid malignancy driven by BCR::ABL, not a pediatric abdominal small round blue cell tumor.",
+          "C": "Cutaneous melanoma arises from melanocytes and shows brown melanin pigment, not small round blue cells with rosettes.",
+          "E": "Pancreatic ductal adenocarcinoma forms duct-like glandular spaces and is driven by KRAS, not MYCN."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neuroblastoma",
+        "MYCN",
+        "Homer Wright rosette",
+        "pediatric tumor"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-004",
+      "stem": "A never-smoker presents with cough and hemoptysis, and imaging reveals a lung mass. Biopsy confirms lung adenocarcinoma whose cells overexpress EGFR. Which of the following agents directly blocks the extracellular domain of this receptor to prevent ligand binding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpelisib"
+        },
+        {
+          "label": "B",
+          "text": "Dabrafenib"
+        },
+        {
+          "label": "C",
+          "text": "Imatinib"
+        },
+        {
+          "label": "D",
+          "text": "Necitumumab"
+        },
+        {
+          "label": "E",
+          "text": "Trametinib"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Necitumumab is a monoclonal antibody that blocks the extracellular domain of EGFR.",
+        "whyCorrect": "Lung adenocarcinomas that overexpress EGFR can be treated with necitumumab, a monoclonal antibody that binds the extracellular domain of EGFR and prevents ligand binding and subsequent receptor activation. Unlike squamous cell and small cell lung carcinoma, many lung adenocarcinomas occur in never-smokers.",
+        "whyWrongByChoice": {
+          "A": "Alpelisib is a PI3K inhibitor used for PIK3CA-mutated breast cancer, not an EGFR antibody.",
+          "B": "Dabrafenib is a small-molecule BRAF inhibitor used in melanoma, not an EGFR-blocking antibody.",
+          "C": "Imatinib is a tyrosine kinase inhibitor of the BCR::ABL fusion in CML, not an EGFR antibody.",
+          "E": "Trametinib is a MEK inhibitor and acts downstream in the MAPK pathway, not at the EGFR receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EGFR",
+        "lung adenocarcinoma",
+        "necitumumab",
+        "monoclonal antibody"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-005",
+      "stem": "A brown, irregular skin lesion is excised from an adult with a history of ultraviolet light exposure, and histology shows melanin pigment within transformed melanocytes. The tumor harbors an activating BRAF mutation. In the MAPK cascade, BRAF directly phosphorylates and activates which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AKT"
+        },
+        {
+          "label": "B",
+          "text": "ERK"
+        },
+        {
+          "label": "C",
+          "text": "MEK"
+        },
+        {
+          "label": "D",
+          "text": "PI3K"
+        },
+        {
+          "label": "E",
+          "text": "Ras"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In the MAPK pathway, BRAF phosphorylates MEK, which then activates ERK.",
+        "whyCorrect": "BRAF is a RAF-family kinase in the MAPK pathway. RAF kinases phosphorylate and activate MEK, which in turn phosphorylates and activates ERK; ERK then drives proliferation and survival through cyclin D1 and MYC. Cutaneous melanoma commonly carries activating BRAF mutations.",
+        "whyWrongByChoice": {
+          "A": "AKT is activated within the PI3K/AKT pathway downstream of PIP3, not directly by BRAF.",
+          "B": "ERK is activated by MEK, one step downstream of BRAF, not directly by BRAF.",
+          "D": "PI3K is activated by GTP-bound Ras, not by BRAF.",
+          "E": "Ras lies upstream of BRAF and activates it, so BRAF does not phosphorylate Ras."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BRAF",
+        "MAPK pathway",
+        "melanoma",
+        "MEK"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-006",
+      "stem": "A 68-year-old smoker reports decreased appetite, weight loss, altered bowel movements, and fatigue. A pancreatic biopsy shows neoplastic cells forming duct-like glandular spaces. Which of the following gene mutations is most commonly responsible for this malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCR::ABL"
+        },
+        {
+          "label": "B",
+          "text": "BRAF"
+        },
+        {
+          "label": "C",
+          "text": "KRAS"
+        },
+        {
+          "label": "D",
+          "text": "MYCN"
+        },
+        {
+          "label": "E",
+          "text": "PIK3CA"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pancreatic ductal adenocarcinoma is most commonly driven by KRAS mutation.",
+        "whyCorrect": "The clinical picture of weight loss, decreased appetite, and altered bowel habits in a smoker with pancreatic duct-like glandular spaces on biopsy indicates pancreatic ductal adenocarcinoma, in which KRAS mutations are extremely common. Cigarette smoking is the leading risk factor due to inhaled carcinogens that damage DNA.",
+        "whyWrongByChoice": {
+          "A": "BCR::ABL drives chronic myeloid leukemia, not pancreatic ductal adenocarcinoma.",
+          "B": "BRAF mutations characterize cutaneous melanoma and other tumors, not pancreatic ductal adenocarcinoma.",
+          "D": "MYCN amplification drives neuroblastoma, a pediatric tumor, not pancreatic adenocarcinoma.",
+          "E": "PIK3CA gain-of-function mutations are associated with breast carcinoma, not pancreatic ductal adenocarcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "KRAS",
+        "pancreatic ductal adenocarcinoma",
+        "smoking",
+        "oncogene"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-007",
+      "stem": "Which of the following best describes PTEN and its role in cellular signaling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A G protein that toggles between GTP- and GDP-bound states"
+        },
+        {
+          "label": "B",
+          "text": "A receptor tyrosine kinase activated by ligand binding"
+        },
+        {
+          "label": "C",
+          "text": "A transcription factor that drives cell-cycle gene expression"
+        },
+        {
+          "label": "D",
+          "text": "A tumor suppressor that converts PIP3 back to PIP2, shutting down signaling"
+        },
+        {
+          "label": "E",
+          "text": "An oncogene amplified in breast cancer that increases pro-growth signaling"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PTEN is a tumor suppressor that dephosphorylates PIP3 to PIP2 to shut off PI3K/AKT signaling.",
+        "whyCorrect": "PTEN is a negative regulator of the PI3K/AKT pathway. It converts PIP3 back to PIP2, shutting down the signaling cascade and preventing AKT activation; loss of PTEN therefore removes a brake on pro-growth signaling, consistent with its function as a tumor suppressor.",
+        "whyWrongByChoice": {
+          "A": "A GTP/GDP-toggling G protein describes Ras, not PTEN.",
+          "B": "A receptor tyrosine kinase description fits EGFR, not PTEN.",
+          "C": "A transcription factor that drives cell-cycle genes describes MYC, not PTEN.",
+          "E": "PTEN opposes growth signaling rather than promoting it; PIK3CA and AKT are the pro-growth players amplified in breast cancer."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PTEN",
+        "tumor suppressor",
+        "PI3K/AKT pathway"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-008",
+      "stem": "A biopsy of an enlarged lymph node shows a diffuse growth of medium-sized lymphocytes with a starry-sky appearance created by interspersed tingible-body macrophages. The characteristic t(8;14) translocation places which of the following genes under the control of the immunoglobulin heavy chain locus, causing its overexpression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABL"
+        },
+        {
+          "label": "B",
+          "text": "BRAF"
+        },
+        {
+          "label": "C",
+          "text": "EGFR"
+        },
+        {
+          "label": "D",
+          "text": "MYC"
+        },
+        {
+          "label": "E",
+          "text": "MYCN"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Burkitt lymphoma results from t(8;14), an IG::MYC rearrangement that overexpresses MYC.",
+        "whyCorrect": "The starry-sky pattern with tingible-body macrophages describes Burkitt lymphoma, a B-cell malignancy driven by the t(8;14) IG::MYC rearrangement. The immunoglobulin heavy chain locus normally produces high levels of IG in B-cells, so juxtaposition places MYC under its control and drives MYC overexpression as an oncogene.",
+        "whyWrongByChoice": {
+          "A": "ABL is involved in the BCR::ABL fusion of chronic myeloid leukemia, not Burkitt lymphoma.",
+          "B": "BRAF is an oncogene in melanoma and other tumors, not the gene rearranged in Burkitt lymphoma.",
+          "C": "EGFR is altered in lung adenocarcinoma and is not involved in the t(8;14) rearrangement.",
+          "E": "MYCN amplification drives neuroblastoma; Burkitt lymphoma involves MYC, not MYCN."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Burkitt lymphoma",
+        "MYC",
+        "t(8;14)",
+        "translocation"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-009",
+      "stem": "A woman with advanced breast carcinoma is found to have a gain-of-function mutation in PIK3CA, the gene encoding a catalytic subunit of PI3K. Which of the following targeted therapies is most appropriate for this molecular alteration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpelisib"
+        },
+        {
+          "label": "B",
+          "text": "Cetuximab"
+        },
+        {
+          "label": "C",
+          "text": "Dabrafenib"
+        },
+        {
+          "label": "D",
+          "text": "Imatinib"
+        },
+        {
+          "label": "E",
+          "text": "Trametinib"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PIK3CA-mutated breast cancer can be treated with the PI3K inhibitor alpelisib.",
+        "whyCorrect": "PIK3CA gain-of-function mutations cause overactivation of PI3K and downstream pro-growth signaling in breast carcinoma. Certain patients with advanced breast cancer demonstrating PIK3CA mutations can be treated with PI3K inhibitors such as alpelisib.",
+        "whyWrongByChoice": {
+          "B": "Cetuximab is a monoclonal antibody against EGFR approved for colorectal adenocarcinoma, not a PI3K inhibitor.",
+          "C": "Dabrafenib is a BRAF inhibitor used in melanoma, not for PIK3CA-mutated breast cancer.",
+          "D": "Imatinib targets the BCR::ABL fusion in chronic myeloid leukemia, not PI3K.",
+          "E": "Trametinib is a MEK inhibitor acting in the MAPK pathway, not on PI3K."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PIK3CA",
+        "PI3K/AKT pathway",
+        "alpelisib",
+        "breast carcinoma"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-010",
+      "stem": "Ras signaling is limited by GTPase-activating proteins (GAPs) that bind Ras and accelerate hydrolysis of GTP to GDP, returning Ras to its inactive state. A gene that encodes such a GAP would most appropriately be classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A guanine nucleotide exchange factor gene"
+        },
+        {
+          "label": "B",
+          "text": "A housekeeping gene unrelated to growth control"
+        },
+        {
+          "label": "C",
+          "text": "A proto-oncogene requiring gain-of-function to transform"
+        },
+        {
+          "label": "D",
+          "text": "A tumor suppressor gene"
+        },
+        {
+          "label": "E",
+          "text": "An oncogene"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A GAP turns Ras off, so its gene acts as a tumor suppressor.",
+        "whyCorrect": "GTPase-activating proteins accelerate the intrinsic GTPase activity of Ras, converting active GTP-bound Ras to inactive GDP-bound Ras and safeguarding against unchecked pro-growth signaling. Because this action restrains growth, loss of such a gene would promote tumorigenesis, which is the defining behavior of a tumor suppressor gene.",
+        "whyWrongByChoice": {
+          "A": "A guanine nucleotide exchange factor (GEF) removes GDP to activate Ras, the opposite function of a GAP.",
+          "B": "A GAP is directly involved in growth control by limiting Ras signaling, so it is not merely a housekeeping gene.",
+          "C": "Proto-oncogenes become harmful through activating (gain-of-function) mutations, whereas a GAP restrains signaling and is inactivated by loss-of-function.",
+          "E": "An oncogene promotes excessive growth; a GAP does the opposite by shutting Ras off."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Ras",
+        "GTPase-activating protein",
+        "tumor suppressor",
+        "signal transduction"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-011",
+      "stem": "A patient in their late 40s has fatigue, easy bleeding, weight loss, and splenomegaly. Peripheral blood shows leukocytosis, and a bone marrow biopsy shows hypercellularity with increased granulocytes, eosinophilia, and increased megakaryocytes of reduced size with nuclear hyposegmentation. Which cytogenetic abnormality is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BRAF V600E activating mutation"
+        },
+        {
+          "label": "B",
+          "text": "KRAS codon 12 point mutation"
+        },
+        {
+          "label": "C",
+          "text": "MYCN oncogene amplification"
+        },
+        {
+          "label": "D",
+          "text": "t(8;14) IG::MYC gene rearrangement"
+        },
+        {
+          "label": "E",
+          "text": "t(9;22) Philadelphia chromosome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic myeloid leukemia is caused by the t(9;22) Philadelphia chromosome producing BCR::ABL.",
+        "whyCorrect": "This presentation is chronic myeloid leukemia, which is driven by translocation of the ABL oncogene from chromosome 9 next to the BCR locus on chromosome 22, t(9;22). This Philadelphia chromosome creates the BCR::ABL fusion that constitutively activates tyrosine kinase signaling and drives the uncontrolled granulocytic proliferation seen here.",
+        "whyWrongByChoice": {
+          "A": "BRAF V600E is characteristic of cutaneous melanoma, not this leukemia.",
+          "B": "KRAS point mutation is common in pancreatic ductal adenocarcinoma, not chronic myeloid leukemia.",
+          "C": "MYCN amplification drives neuroblastoma, a pediatric solid tumor, not chronic myeloid leukemia.",
+          "D": "t(8;14) causes Burkitt lymphoma, a B-cell malignancy, not this myeloid marrow picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic myeloid leukemia",
+        "Philadelphia chromosome",
+        "t(9;22)",
+        "BCR::ABL"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa28-012",
+      "stem": "In the MAPK pathway, activation of ERK drives proliferation in part by promoting progression of the cell cycle from the G1 to the S phase. Which of the following proteins most directly mediates this G1-to-S transition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclin D1"
+        },
+        {
+          "label": "B",
+          "text": "Guanine nucleotide exchange factor (GEF)"
+        },
+        {
+          "label": "C",
+          "text": "mTOR"
+        },
+        {
+          "label": "D",
+          "text": "PIP3"
+        },
+        {
+          "label": "E",
+          "text": "PTEN"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ERK drives proliferation through cyclin D1, which moves the cell cycle from G1 to S phase.",
+        "whyCorrect": "In the MAPK cascade, RAF phosphorylates MEK, which activates ERK; ERK then drives proliferation and survival through cyclin D1, a protein that helps push the cell cycle from the G1 to the S phase, and through the transcription factor MYC.",
+        "whyWrongByChoice": {
+          "B": "A guanine nucleotide exchange factor activates Ras by removing GDP; it acts upstream and does not directly control cell-cycle phase transitions.",
+          "C": "mTOR contributes to cellular metabolism, growth, and survival in the PI3K/AKT pathway rather than directly driving G1-to-S progression.",
+          "D": "PIP3 is a lipid second messenger in the PI3K/AKT pathway that activates AKT, not a cell-cycle protein driving G1 to S.",
+          "E": "PTEN is a tumor suppressor that shuts down PI3K/AKT signaling and does not promote the G1-to-S transition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "MAPK pathway",
+        "ERK",
+        "cyclin D1",
+        "cell cycle"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-001",
+      "stem": "A healthy newborn is found to carry a germline mutation that inactivates one copy of a tumor suppressor gene. His cells currently divide and function normally, and he has no tumors. Which of the following best explains why his cells remain phenotypically normal at this time?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both alleles must be mutated in the germline for any cancer to develop"
+        },
+        {
+          "label": "B",
+          "text": "Epigenetic silencing has repaired the mutant allele"
+        },
+        {
+          "label": "C",
+          "text": "The gene has been converted into an activated oncogene"
+        },
+        {
+          "label": "D",
+          "text": "The intact wild-type allele preserves near-normal protein function"
+        },
+        {
+          "label": "E",
+          "text": "The mutation acts in a dominant-negative fashion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "By the two-hit (Knudson) hypothesis, one intact tumor suppressor allele is usually enough to maintain normal function.",
+        "whyCorrect": "In most cases the functionally intact tumor suppressor allele compensates for the mutant allele, resulting in relatively normal cellular function. The cell is now vulnerable to a 'second hit' that knocks out the remaining allele, at which point uncontrolled proliferation can occur.",
+        "whyWrongByChoice": {
+          "A": "Only one allele is mutated in the germline; the second hit occurs later as a somatic mutation, so germline biallelic mutation is not required.",
+          "B": "Epigenetic changes silence gene expression; they do not repair a mutated allele.",
+          "C": "Loss of function of a tumor suppressor is not the same as activation of a proto-oncogene into an oncogene.",
+          "E": "Tumor suppressors are typically lost through the two-hit loss-of-function model; a single mutant allele does not poison the wild-type product here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tumor suppressor",
+        "two-hit hypothesis",
+        "Knudson"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-002",
+      "stem": "A 14-month-old girl is diagnosed with retinoblastoma in both eyes. Her father was treated for retinoblastoma as a child. Compared with sporadic, unilateral disease, which of the following best explains this bilateral, familial presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A gain-of-function mutation in pRB promotes proliferation"
+        },
+        {
+          "label": "B",
+          "text": "A germline RB1 mutation is present in all retinal cells"
+        },
+        {
+          "label": "C",
+          "text": "Amplification of the RB1 gene drives tumor growth"
+        },
+        {
+          "label": "D",
+          "text": "Environmental carcinogen exposure caused simultaneous tumors in both eyes"
+        },
+        {
+          "label": "E",
+          "text": "Two independent somatic mutations occurred in a single retinal cell of each eye"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Inherited retinoblastoma carries a germline RB1 mutation in every retinal cell, so a single somatic 'second hit' can produce tumors, including bilateral disease.",
+        "whyCorrect": "In the inherited form, a faulty RB1 allele is present in all somatic (including all retinal) cells. Because only one additional somatic mutation is needed to knock out the remaining allele, tumors readily arise in both eyes, making bilateral disease much more likely than in the sporadic setting.",
+        "whyWrongByChoice": {
+          "A": "Retinoblastoma results from loss of pRB function, not a gain-of-function mutation.",
+          "C": "RB1 is a tumor suppressor that is inactivated (lost), not amplified.",
+          "D": "The familial, bilateral pattern reflects an inherited germline mutation, not environmental exposure.",
+          "E": "Requiring two separate somatic hits in the same cell describes the sporadic pathway, which typically produces unilateral, single tumors rather than bilateral disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retinoblastoma",
+        "RB1",
+        "two-hit hypothesis"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-003",
+      "stem": "A 2-year-old boy is brought in after his parents noticed his pupil appears white in photographs. On fundoscopic exam the normal red reflex is absent and is replaced by a white pupillary reflex (leukocoria). Which of the following neoplasms is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colonic adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Neurofibroma"
+        },
+        {
+          "label": "D",
+          "text": "Osteosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Retinoblastoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Leukocoria (a white pupillary reflex replacing the red reflex) is an important clinical sign of retinoblastoma.",
+        "whyCorrect": "Leukocoria refers to a white pupillary reflex on direct fundoscopic exam, in contrast to the normal red reflex, and is a key sign suggesting retinoblastoma, an intraocular tumor of childhood.",
+        "whyWrongByChoice": {
+          "A": "A colonic adenoma is a polypoid gastrointestinal lesion unrelated to the eye.",
+          "B": "Cutaneous melanoma is a skin malignancy and does not produce a white pupillary reflex.",
+          "C": "Neurofibromas are peripheral nerve tumors of neurofibromatosis 1 that present as cutaneous nodules, not an intraocular white reflex.",
+          "D": "Osteosarcoma is a malignant bone tumor (associated with Li-Fraumeni syndrome); it does not arise in the eye or cause leukocoria."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "retinoblastoma",
+        "leukocoria",
+        "clinical sign"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-004",
+      "stem": "Investigators study a retinal cell line in which functional pRB (the retinoblastoma protein) has been completely lost. Compared with normal cells, which of the following changes is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cells arrest permanently in G0"
+        },
+        {
+          "label": "B",
+          "text": "Cells become unable to replicate their DNA"
+        },
+        {
+          "label": "C",
+          "text": "Cells fail to progress from G1 into S phase"
+        },
+        {
+          "label": "D",
+          "text": "Cells pass unchecked from G1 into S phase"
+        },
+        {
+          "label": "E",
+          "text": "Cells undergo markedly increased apoptosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "pRB restrains the cell cycle at the G1/S checkpoint, so loss of pRB permits uncontrolled entry into S phase.",
+        "whyCorrect": "pRB plays an important role in halting the cell cycle, and loss of this protein is permissive to uncontrolled growth and proliferation. Without pRB, cells advance from G1 into S phase without restraint.",
+        "whyWrongByChoice": {
+          "A": "Loss of the pRB brake causes proliferation, not permanent arrest in G0.",
+          "B": "DNA replication proceeds (in fact excessively); it is not blocked.",
+          "C": "pRB loss removes the restraint on the G1/S transition, so cells advance rather than fail to.",
+          "E": "Loss of pRB favors proliferation; it does not primarily increase apoptosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pRB",
+        "cell cycle",
+        "RB1"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-005",
+      "stem": "In an unstressed, healthy cell, p53 protein is kept at very low levels. Which of the following mechanisms is most directly responsible for maintaining these low baseline levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATM phosphorylates p53 to stabilize it"
+        },
+        {
+          "label": "B",
+          "text": "BAX degrades p53 within the mitochondria"
+        },
+        {
+          "label": "C",
+          "text": "MDM2 ubiquitinates p53"
+        },
+        {
+          "label": "D",
+          "text": "p14/ARF binds and inhibits MDM2"
+        },
+        {
+          "label": "E",
+          "text": "p53 forms tetramers that activate transcription"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In healthy cells MDM2 tags p53 for ubiquitin-mediated proteasomal degradation, keeping p53 levels low.",
+        "whyCorrect": "Normally p53, a transcription factor, is controlled by MDM2, a protein that tags p53 for proteasomal degradation via ubiquitination. This keeps p53 at low levels until cellular stress downregulates MDM2 and frees p53.",
+        "whyWrongByChoice": {
+          "A": "ATM phosphorylation occurs in response to DNA damage and raises p53 levels, the opposite of baseline suppression.",
+          "B": "BAX is a downstream pro-apoptotic effector transcribed by p53; it does not degrade p53.",
+          "D": "p14/ARF stabilizes p53 during oncogenic stress; it is not the baseline mechanism keeping p53 low.",
+          "E": "Tetramer formation is the active state that follows stabilization, not the mechanism that keeps p53 low."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TP53",
+        "MDM2",
+        "ubiquitination"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-006",
+      "stem": "A 28-year-old woman is diagnosed with breast carcinoma. Her family history is notable for a brother who had osteosarcoma as a teenager and a mother with early-onset breast cancer. A germline mutation in which of the following genes is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "APC"
+        },
+        {
+          "label": "B",
+          "text": "KRAS"
+        },
+        {
+          "label": "C",
+          "text": "NF1"
+        },
+        {
+          "label": "D",
+          "text": "RB1"
+        },
+        {
+          "label": "E",
+          "text": "TP53"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Li-Fraumeni syndrome results from a germline TP53 mutation and predisposes to many cancers, including early breast carcinoma and osteosarcoma.",
+        "whyCorrect": "Li-Fraumeni syndrome is due to a germline mutation of TP53, leaving only one functioning tumor suppressor allele. These patients are at increased risk for developing many cancers, including breast carcinoma and osteosarcoma, matching this family's pattern.",
+        "whyWrongByChoice": {
+          "A": "A germline APC mutation causes familial adenomatous polyposis with hundreds of colonic polyps, not this breast/osteosarcoma cancer spectrum.",
+          "B": "KRAS is a proto-oncogene activated somatically in tumors; it is not the germline gene of this predisposition syndrome.",
+          "C": "NF1 mutations cause neurofibromatosis 1 with cafe-au-lait macules and neurofibromas, not this cancer pattern.",
+          "D": "A germline RB1 mutation classically presents with childhood retinoblastoma (leukocoria), which is absent from this family history."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Li-Fraumeni",
+        "TP53",
+        "predisposition syndrome"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-007",
+      "stem": "A cell sustains irreversible DNA damage, and stabilized p53 directs it toward programmed cell death. Which of the following best describes how p53 accomplishes this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds Fas ligand to activate death receptors of the extrinsic pathway"
+        },
+        {
+          "label": "B",
+          "text": "It directly cleaves executioner caspases in the cytoplasm"
+        },
+        {
+          "label": "C",
+          "text": "It methylates the promoters of anti-apoptotic genes"
+        },
+        {
+          "label": "D",
+          "text": "It phosphorylates MDM2 to prevent its own degradation"
+        },
+        {
+          "label": "E",
+          "text": "It transcribes pro-apoptotic genes such as BAX"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "For irreversible damage, p53 induces apoptosis by transcribing pro-apoptotic genes such as BAX, activating the intrinsic (mitochondrial) pathway.",
+        "whyCorrect": "For irreversible damage, p53 guides the cell to apoptosis by directing transcription of pro-apoptotic genes such as BAX, causing cell death through the intrinsic (mitochondrial) pathway and serving as an immediate safeguard against propagation of a damaged genome.",
+        "whyWrongByChoice": {
+          "A": "As taught here, p53 drives the intrinsic (mitochondrial) pathway through BAX rather than acting primarily through death-receptor/extrinsic signaling.",
+          "B": "p53 acts by transcription of target genes, not by directly cleaving caspases.",
+          "C": "p53 induces apoptosis by transcribing BAX, not by DNA methylation of anti-apoptotic gene promoters.",
+          "D": "p53 is a transcription factor; it does not phosphorylate MDM2. It is ATM/Chk2 that phosphorylates p53."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TP53",
+        "apoptosis",
+        "BAX"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-008",
+      "stem": "A colonic epithelial cell loses function of the APC protein. Which of the following is the most likely direct consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-catenin accumulates"
+        },
+        {
+          "label": "B",
+          "text": "Beta-catenin is degraded by the proteasome"
+        },
+        {
+          "label": "C",
+          "text": "p53 is stabilized and halts the cell cycle"
+        },
+        {
+          "label": "D",
+          "text": "Ras signaling is inhibited"
+        },
+        {
+          "label": "E",
+          "text": "WNT ligand can no longer bind its surface receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "APC normally directs degradation of beta-catenin; loss of APC lets beta-catenin accumulate and drive proliferation with TCF/LEF.",
+        "whyCorrect": "APC and the destruction complex normally direct proteasomal degradation of beta-catenin. When APC is lost, the destruction complex cannot form, so beta-catenin is released to interact with the TCF/LEF transcription factor and promote expression of pro-proliferation genes.",
+        "whyWrongByChoice": {
+          "B": "With APC lost, the destruction complex cannot form, so beta-catenin is NOT degraded; it accumulates.",
+          "C": "APC loss promotes proliferation; it does not stabilize p53 or arrest the cell cycle.",
+          "D": "The APC/WNT pathway is separate from Ras; loss of APC does not inhibit Ras signaling.",
+          "E": "APC acts intracellularly; its loss does not affect WNT ligand binding to the surface receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "APC",
+        "WNT pathway",
+        "beta-catenin"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-009",
+      "stem": "A 16-year-old boy undergoes colonoscopy because his father developed colon cancer at age 40. Hundreds of adenomatous polyps are found throughout the colon, and he is told he has an essentially 100% lifetime risk of colorectal adenocarcinoma. Which of the following is the most appropriate standard of care?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annual colonoscopic surveillance alone"
+        },
+        {
+          "label": "B",
+          "text": "Chemotherapy targeting KRAS"
+        },
+        {
+          "label": "C",
+          "text": "Prophylactic colectomy"
+        },
+        {
+          "label": "D",
+          "text": "Splenectomy"
+        },
+        {
+          "label": "E",
+          "text": "Topical corticosteroids"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Familial adenomatous polyposis carries an essentially 100% risk of colorectal cancer, so prophylactic colectomy is the standard of care.",
+        "whyCorrect": "This patient has familial adenomatous polyposis, with hundreds of adenomatous polyps and an essentially 100% risk of colorectal adenocarcinoma by age 45. For this reason, prophylactic colectomy (removal of the colon) before cancer develops is the standard of care.",
+        "whyWrongByChoice": {
+          "A": "Given the essentially 100% cancer risk, surveillance alone is insufficient; definitive colectomy is indicated.",
+          "B": "There is no standard chemoprevention that eliminates the near-certain cancer risk; definitive management is surgical.",
+          "D": "Splenectomy is unrelated to colonic polyposis.",
+          "E": "Corticosteroids do not address the neoplastic adenomatous polyps."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "FAP",
+        "APC",
+        "management"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-010",
+      "stem": "A 7-year-old child has multiple cafe-au-lait macules and several soft cutaneous nodules that are tumors of peripheral nerve cells. Genetic testing reveals a loss-of-function mutation on chromosome 17. The affected protein normally functions in which of the following ways?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It degrades beta-catenin in the WNT pathway"
+        },
+        {
+          "label": "B",
+          "text": "It is a cell-surface receptor tyrosine kinase"
+        },
+        {
+          "label": "C",
+          "text": "It is a GTPase-activating protein that inactivates Ras"
+        },
+        {
+          "label": "D",
+          "text": "It is a transcription factor that promotes apoptosis"
+        },
+        {
+          "label": "E",
+          "text": "It phosphorylates pRB to advance the cell cycle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neurofibromin 1 (NF1, chromosome 17) is a GTPase-activating protein that inactivates Ras; its loss leads to unchecked Ras signaling.",
+        "whyCorrect": "Neurofibromin 1 is a GTPase-activating protein that accelerates inactivation of Ras and is encoded by the NF1 gene on chromosome 17. Without its GTPase-activating action, Ras signaling is unchecked, producing the cafe-au-lait macules and neurofibromas of neurofibromatosis 1.",
+        "whyWrongByChoice": {
+          "A": "Degrading beta-catenin in the WNT pathway describes APC, not neurofibromin.",
+          "B": "Neurofibromin is an intracellular GTPase-activating protein, not a surface receptor tyrosine kinase.",
+          "D": "A transcription factor promoting apoptosis describes p53, not neurofibromin.",
+          "E": "Neurofibromin does not phosphorylate pRB; it regulates Ras."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NF1",
+        "Ras",
+        "neurofibromatosis"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-011",
+      "stem": "In the classic colonic adenoma-carcinoma sequence, which accounts for up to 80% of sporadic colorectal adenocarcinomas, which of the following is the initiating (first driver) mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of EGFR"
+        },
+        {
+          "label": "B",
+          "text": "Activation of KRAS"
+        },
+        {
+          "label": "C",
+          "text": "Loss of APC"
+        },
+        {
+          "label": "D",
+          "text": "Loss of RB1"
+        },
+        {
+          "label": "E",
+          "text": "Loss of TP53"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The classic colonic adenoma-carcinoma sequence begins with a 'first hit' that knocks out APC.",
+        "whyCorrect": "The sequence begins with a hit that knocks out the APC gene, either sporadically or inherited, predisposing the cell to a second hit that leads to unchecked beta-catenin-induced signaling and adenoma formation.",
+        "whyWrongByChoice": {
+          "A": "EGFR is a proto-oncogene altered in various sporadic cancers but is not the initiating mutation of this sequence.",
+          "B": "Oncogenic KRAS mutation classically follows APC loss to enlarge the adenoma; it is not the initiating event.",
+          "D": "RB1 loss is characteristic of retinoblastoma, not the colonic adenoma-carcinoma sequence.",
+          "E": "Loss of TP53 occurs later in the sequence, driving progression toward carcinoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adenoma-carcinoma sequence",
+        "APC",
+        "driver mutation"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa29-012",
+      "stem": "A colorectal cancer shows transcriptional silencing of a tumor suppressor gene despite an intact, non-mutated DNA coding sequence. Which of the following epigenetic mechanisms most likely explains the loss of expression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A chromosomal translocation creating a chimeric fusion protein"
+        },
+        {
+          "label": "B",
+          "text": "A point mutation within the gene's coding region"
+        },
+        {
+          "label": "C",
+          "text": "Amplification of the gene to many copies"
+        },
+        {
+          "label": "D",
+          "text": "Hypermethylation of CpG islands in the gene's promoter"
+        },
+        {
+          "label": "E",
+          "text": "Hypomethylation across the body of the gene"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Promoter CpG-island hypermethylation silences transcription without altering the DNA sequence and can inactivate a tumor suppressor.",
+        "whyCorrect": "Methyl groups at CpG islands normally silence gene promoter regions. DNA hypermethylation (abnormally increased methylation) of a promoter can silence a tumor suppressor gene without changing the coding sequence, matching this scenario.",
+        "whyWrongByChoice": {
+          "A": "A translocation is a structural genetic change, and the stem specifies the sequence is intact.",
+          "B": "The stem states the coding sequence is intact and non-mutated, excluding a point mutation.",
+          "C": "Gene amplification increases expression and is a genetic, not epigenetic, change.",
+          "E": "DNA hypomethylation de-represses promoters and can allow aberrant oncogene expression, rather than silencing a gene."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "epigenetics",
+        "hypermethylation",
+        "tumor suppressor"
+      ],
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "tier": "core"
+    }
+  ]
+}

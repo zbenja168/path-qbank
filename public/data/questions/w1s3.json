@@ -1,0 +1,2257 @@
+{
+  "categoryId": "w1s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "pa09-001",
+      "stem": "A 44-year-old man who works in a wood-preservation and pesticide facility presents with several weeks of abdominal cramping, diarrhea, and tingling and numbness in his hands and feet. On examination his breath has a garlic-like odor, and transverse white bands are noted across several fingernails. Which of the following toxins is most likely responsible for his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arsenic"
+        },
+        {
+          "label": "B",
+          "text": "Carbon monoxide"
+        },
+        {
+          "label": "C",
+          "text": "Lead"
+        },
+        {
+          "label": "D",
+          "text": "Mercury"
+        },
+        {
+          "label": "E",
+          "text": "Radon"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Arsenic exposure classically causes garlic-odor breath, gastrointestinal symptoms, transverse white nail bands (Mees' lines), and sensorimotor neuropathy.",
+        "whyCorrect": "Inorganic arsenic is found in soil and water and is used in herbicides, pesticides, and wood treatment and preservation. It inhibits sulfhydryl-containing enzymes and interferes with the electron transport chain. Clinical clues include garlicky breath, gastrointestinal symptoms, a transverse white band across the nail bed, and neurologic effects such as paresthesias that can appear weeks after exposure.",
+        "whyWrongByChoice": {
+          "B": "Carbon monoxide is a non-irritating, odorless gas that binds hemoglobin and causes hypoxia, not nail banding or garlic odor.",
+          "C": "Lead poisoning produces microcytic anemia with basophilic stippling, wrist drop, and a blue gingival line rather than garlic breath and Mees' lines.",
+          "D": "Mercury exposure comes largely from contaminated fish and dental amalgam vapors and causes neuromotor and cognitive dysfunction, not garlicky breath.",
+          "E": "Radon is a radioactive gas whose main consequence is lung cancer, not an acute garlic-breath and neuropathy syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxic-metals",
+        "arsenic",
+        "occupational-exposure"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-002",
+      "stem": "A 39-year-old painter who has spent several months renovating a house built in the 1950s presents with fatigue, abdominal pain, and difficulty extending both wrists. A peripheral blood smear shows a microcytic anemia with coarse basophilic stippling of red blood cells. Which of the following best explains the anemia in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-particle damage to erythrocyte DNA"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of red cell membranes"
+        },
+        {
+          "label": "C",
+          "text": "Formation of carboxyhemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Impaired enzymatic synthesis of heme"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine deficiency from malnutrition"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lead interferes with enzymes of heme synthesis, producing a microcytic anemia with basophilic stippling.",
+        "whyCorrect": "Lead has high affinity for sulfhydryl groups and interferes with enzymes involved in heme synthesis, impairing hemoglobin production. The resulting microcytic anemia is accompanied by basophilic stippling, which represents aggregates of ribosomes and ribosomal RNA that precipitate because of the impairment. The wrist drop reflects lead-induced peripheral neuropathy in adults.",
+        "whyWrongByChoice": {
+          "A": "Alpha-particle DNA damage is a feature of radon exposure and is linked to lung cancer, not this anemia.",
+          "B": "There is no autoimmune hemolysis here; the findings and old-paint exposure point to lead toxicity.",
+          "C": "Carboxyhemoglobin formation is the mechanism of carbon monoxide toxicity and causes hypoxia, not a microcytic anemia with stippling.",
+          "E": "Thiamine deficiency in alcoholism causes Wernicke encephalopathy, not microcytic anemia with basophilic stippling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxic-metals",
+        "lead",
+        "anemia"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-003",
+      "stem": "A 2-year-old child living in an old home with peeling paint is brought in for irritability, developmental regression, and vomiting. Imaging demonstrates cerebral edema, and the child is diagnosed with lead encephalopathy. Compared with adults, why are pediatric patients particularly prone to central nervous system injury from lead?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Their blood-brain barrier is more permeable"
+        },
+        {
+          "label": "B",
+          "text": "They eliminate lead more slowly through Phase II conjugation"
+        },
+        {
+          "label": "C",
+          "text": "They express more superoxide dismutase in neurons"
+        },
+        {
+          "label": "D",
+          "text": "They have higher hepatic cytochrome P-450 activity"
+        },
+        {
+          "label": "E",
+          "text": "They have increased carboxyhemoglobin binding capacity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pediatric blood-brain barrier is more permeable, facilitating lead entry into the CNS and increasing neurotoxicity.",
+        "whyCorrect": "In addition to greater absorption of ingested lead, the blood-brain barrier is more permeable in pediatric patients, facilitating lead toxicity in the central nervous system. Lead poisoning in children can cause cerebral edema, demyelination of white matter, and necrosis, leading to learning disabilities and delayed psychomotor development; high doses can cause blindness, seizures, coma, and death.",
+        "whyWrongByChoice": {
+          "B": "Slower conjugation is not the described mechanism; the key factor is barrier permeability and increased absorption.",
+          "C": "Superoxide dismutase handles reactive oxygen species and is not the reason children are more vulnerable to lead.",
+          "D": "Higher P-450 activity would relate to xenobiotic metabolism, not to the enhanced CNS susceptibility that comes from a permeable barrier.",
+          "E": "Carboxyhemoglobin binding pertains to carbon monoxide, not lead neurotoxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxic-metals",
+        "lead",
+        "pediatrics"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-004",
+      "stem": "A 30-year-old man is found unconscious in his car inside a closed garage with the engine running. He is unresponsive, and examination reveals a cherry-red discoloration of his skin and mucous membranes. Which of the following best explains the tissue hypoxia in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha particles generate free radicals in erythrocytes"
+        },
+        {
+          "label": "B",
+          "text": "Carbon monoxide binds hemoglobin and blocks oxygen transport"
+        },
+        {
+          "label": "C",
+          "text": "Nicotine causes systemic vasoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "Reactive oxygen species peroxidize cell membranes"
+        },
+        {
+          "label": "E",
+          "text": "Sulfhydryl enzyme inhibition halts the electron transport chain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Carbon monoxide has roughly 200-fold greater affinity for hemoglobin than oxygen, forming carboxyhemoglobin and preventing oxygen transport.",
+        "whyCorrect": "Carbon monoxide is a non-irritating, colorless, odorless gas produced by incomplete oxidation of hydrocarbons. Hemoglobin has about a 200-fold greater affinity for CO than for oxygen, and CO binding forms carboxyhemoglobin, a stable form that prevents the binding and transport of oxygen. Acute exposure in an enclosed running car can cause coma within minutes, and cherry-red discoloration may be seen.",
+        "whyWrongByChoice": {
+          "A": "Alpha-particle free radical generation describes radon toxicity, not carbon monoxide poisoning.",
+          "C": "Nicotine vasoconstriction impairs wound healing but does not produce carboxyhemoglobin or cherry-red skin.",
+          "D": "Membrane lipid peroxidation from ROS is a feature of alcohol and radiation injury, not the CO mechanism.",
+          "E": "Sulfhydryl enzyme inhibition of the electron transport chain describes arsenic, not carbon monoxide."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "air-pollutants",
+        "carbon-monoxide",
+        "hypoxia"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-005",
+      "stem": "A 58-year-old lifelong nonsmoker is diagnosed with lung cancer. His home was found to have elevated levels of a radioactive gas derived from uranium in the soil. Which of the following best describes how this exposure damaged his respiratory epithelium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha particles emitted during decay generate free radicals"
+        },
+        {
+          "label": "B",
+          "text": "It forms DNA adducts after activation by cytochrome P-450"
+        },
+        {
+          "label": "C",
+          "text": "It inhibits sulfhydryl-containing enzymes in the airway"
+        },
+        {
+          "label": "D",
+          "text": "Macrophages ingest the gas and release inflammatory mediators"
+        },
+        {
+          "label": "E",
+          "text": "The gas binds hemoglobin and starves cells of oxygen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Radon decays into polonium and emits alpha particles that generate free radicals and reactive oxygen species, damaging DNA.",
+        "whyCorrect": "Radon is a radioactive gas derived from uranium and is the number one cause of lung cancer among nonsmokers. It decays into polonium 214 and polonium 218, which cause ionizing radiation damage through the emission of alpha particles. Alpha particles release electrons that damage DNA, cells, and tissues through the generation of free radicals and reactive oxygen species.",
+        "whyWrongByChoice": {
+          "B": "P-450-activated DNA adduct formation describes tobacco smoke carcinogens rather than radon's ionizing radiation.",
+          "C": "Sulfhydryl enzyme inhibition characterizes heavy metals such as arsenic, mercury, and lead.",
+          "D": "Macrophage ingestion with inflammatory mediator release describes particulate matter, not a radioactive gas.",
+          "E": "Hemoglobin binding and oxygen starvation describe carbon monoxide, not radon."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "air-pollutants",
+        "radon",
+        "lung-cancer"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-006",
+      "stem": "A 62-year-old man who worked in coal mining for decades dies of unrelated causes. At autopsy, his lungs and hilar lymph nodes show accumulation of black carbon-containing pigment. Which of the following terms best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiosarcoma"
+        },
+        {
+          "label": "B",
+          "text": "Anthracosis"
+        },
+        {
+          "label": "C",
+          "text": "Emphysema"
+        },
+        {
+          "label": "D",
+          "text": "Mesothelioma"
+        },
+        {
+          "label": "E",
+          "text": "Silicosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anthracosis is the accumulation of carbon-containing black pigment in the lungs and lymph nodes after exposure to exhaust, tobacco smoke, and coal mining.",
+        "whyCorrect": "Particulate matter, or soot, is produced by coal- and oil-fired plants, fossil fuel burning, and diesel exhaust. Ultrafine particulate matter is ingested by macrophages, and its accumulation as black carbon pigment in the lungs and lymph nodes following exposure to exhaust, tobacco smoke, and coal mining is termed anthracosis.",
+        "whyWrongByChoice": {
+          "A": "Angiosarcoma is a vascular liver tumor linked to vinyl chloride, unrelated to lung pigment.",
+          "C": "Emphysema is irreversible enlargement of airspaces from tissue destruction, not pigment deposition.",
+          "D": "Mesothelioma is a malignant tumor associated with asbestos exposure, not benign carbon pigment accumulation.",
+          "E": "Silicosis is lung scarring caused by silica dust, not carbon-pigment accumulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "air-pollutants",
+        "particulate-matter",
+        "anthracosis"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-007",
+      "stem": "During Phase I metabolism of xenobiotics, cytochrome P-450 enzymes can generate superoxide, a reactive oxygen species. Which of the following enzymes is directly responsible for converting superoxide to hydrogen peroxide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Catalase"
+        },
+        {
+          "label": "C",
+          "text": "Cytochrome P-450"
+        },
+        {
+          "label": "D",
+          "text": "Glutathione peroxidase"
+        },
+        {
+          "label": "E",
+          "text": "Superoxide dismutase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Superoxide dismutase converts superoxide, a reactive oxygen species, to hydrogen peroxide.",
+        "whyCorrect": "The brick specifies that superoxide dismutase is responsible for converting superoxide to hydrogen peroxide. Both catalase and glutathione peroxidase are then capable of further processing hydrogen peroxide to water, a key step in detoxifying the reactive oxygen species that arise during xenobiotic metabolism.",
+        "whyWrongByChoice": {
+          "A": "Alcohol dehydrogenase metabolizes ethanol and has no role in superoxide detoxification.",
+          "B": "Catalase acts downstream, converting hydrogen peroxide to water, not superoxide to hydrogen peroxide.",
+          "C": "Cytochrome P-450 is a Phase I enzyme that can generate reactive oxygen species, not detoxify superoxide.",
+          "D": "Glutathione peroxidase also processes hydrogen peroxide to water rather than converting superoxide."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "xenobiotic-metabolism",
+        "reactive-oxygen-species",
+        "enzymes"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-008",
+      "stem": "A 55-year-old man who spent 20 years working in a plant that synthesizes plastic resins develops a malignant liver tumor of vascular endothelial origin. Exposure to which of the following agents is most strongly associated with this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asbestos"
+        },
+        {
+          "label": "B",
+          "text": "Carbon tetrachloride"
+        },
+        {
+          "label": "C",
+          "text": "Silica"
+        },
+        {
+          "label": "D",
+          "text": "Vinyl chloride"
+        },
+        {
+          "label": "E",
+          "text": "Wood dust"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Vinyl chloride, used to make polyvinyl chloride, is associated with hepatic angiosarcoma, a malignant tumor of vascular origin.",
+        "whyCorrect": "Vinyl chloride is a chemical used in the synthesis of polyvinyl chloride resins used in packaging and building products. It is associated with angiosarcoma of the liver, a malignant tumor of vascular origin, which fits this worker's endothelial-origin hepatic malignancy.",
+        "whyWrongByChoice": {
+          "A": "Asbestos is associated with mesothelioma and lung cancer, not hepatic angiosarcoma.",
+          "B": "Carbon tetrachloride is a solvent causing acute CNS depression rather than hepatic angiosarcoma.",
+          "C": "Silica causes silicosis and is associated with lung disease and cancer, not liver angiosarcoma.",
+          "E": "Prolonged wood dust exposure is linked to nasal cancers, not a vascular liver tumor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "occupational-exposure",
+        "vinyl-chloride",
+        "angiosarcoma"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-009",
+      "stem": "A 50-year-old woman who smokes one pack of cigarettes daily is scheduled for an elective procedure. Her surgeon strongly recommends smoking cessation beforehand, explaining that one component of tobacco smoke exerts vasoconstrictive effects that could compromise blood flow to the healing wound. Which component is he referring to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide"
+        },
+        {
+          "label": "B",
+          "text": "Nicotine"
+        },
+        {
+          "label": "C",
+          "text": "Nitrosamine"
+        },
+        {
+          "label": "D",
+          "text": "Polycyclic hydrocarbons"
+        },
+        {
+          "label": "E",
+          "text": "Radon"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nicotine exerts vasoconstrictive effects that reduce blood flow and impair wound healing.",
+        "whyCorrect": "Impaired wound healing in smokers is attributed to decreased oxygen availability and the vasoconstrictive effects of nicotine, which limits blood flow to a healing wound. This is why smoking cessation is advised before elective surgery.",
+        "whyWrongByChoice": {
+          "A": "Carbon monoxide reduces oxygen availability through carboxyhemoglobin but is not the vasoconstrictive component.",
+          "C": "Nitrosamines are carcinogens implicated in cancer development, not vasoconstriction.",
+          "D": "Polycyclic hydrocarbons are carcinogens implicated in cancer, not the vasoconstrictive agent.",
+          "E": "Radon is an environmental radioactive gas and is not a component of tobacco smoke affecting wound perfusion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tobacco",
+        "nicotine",
+        "wound-healing"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-010",
+      "stem": "A 68-year-old man with a 40-year history of heavy cigarette smoking has chronic cough, phlegm, and progressive dyspnea. Autopsy of a similar patient shows irreversible enlargement of the airspaces due to destruction of lung parenchyma. Which of the following pathologic changes is most associated with tobacco use?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cherry-red discoloration of the skin"
+        },
+        {
+          "label": "B",
+          "text": "Emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Gingival pigmentation"
+        },
+        {
+          "label": "D",
+          "text": "Hemorrhagic mammillary bodies"
+        },
+        {
+          "label": "E",
+          "text": "Macrosteatotic hepatocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tobacco smoke destroys lung parenchyma, producing emphysema, the irreversible enlargement of airspaces.",
+        "whyCorrect": "Emphysema is the irreversible enlargement of airspaces resulting from tissue destruction and is a component of chronic obstructive pulmonary disease, which also includes chronic bronchitis. Tissue destruction by tobacco is driven by oxidative stress and pro-inflammatory effects, making emphysema the pathologic change most associated with smoking.",
+        "whyWrongByChoice": {
+          "A": "Cherry-red discoloration of skin is characteristic of carbon monoxide poisoning, and would be unlikely in nonacute settings.",
+          "C": "Gingival pigmentation (a blue gingival line) is seen in lead poisoning, not tobacco use.",
+          "D": "Hemorrhagic mammillary bodies occur in Wernicke encephalopathy from thiamine deficiency in alcoholism.",
+          "E": "Macrosteatotic hepatocytes (fatty liver) are seen in alcohol use, not tobacco use."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tobacco",
+        "emphysema",
+        "COPD"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-011",
+      "stem": "A 47-year-old man with chronic heavy alcohol use is found to have an enlarged, fatty liver on imaging, with hepatocytes distended by lipid. Which of the following metabolic changes from alcohol dehydrogenase activity best explains the accumulation of fat in his liver?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficiency of thiamine impairing the citric acid cycle"
+        },
+        {
+          "label": "B",
+          "text": "Depletion of hepatic cytochrome P-450 enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Formation of DNA adducts by acetaldehyde"
+        },
+        {
+          "label": "D",
+          "text": "Increased NADH relative to NAD"
+        },
+        {
+          "label": "E",
+          "text": "Vasoconstriction reducing hepatic blood flow"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Alcohol dehydrogenase consumes NAD and raises NADH, and the reduced NAD availability shifts metabolism toward fat accumulation in the liver.",
+        "whyCorrect": "Processing of alcohol by alcohol dehydrogenase reduces the availability of NAD while increasing NADH. Because NAD is needed for fatty acid oxidation and for converting lactate to pyruvate, this shift leads to accumulation of fat in the liver as well as lactic acidosis.",
+        "whyWrongByChoice": {
+          "A": "Thiamine deficiency causes Wernicke encephalopathy, not hepatic steatosis.",
+          "B": "The MEOS pathway involves CYP2E1; alcohol does not simply deplete P-450 to cause steatosis.",
+          "C": "Acetaldehyde-DNA adducts are linked to laryngeal and esophageal cancer, not the fatty liver mechanism.",
+          "E": "Vasoconstriction reducing blood flow is a nicotine effect on wound healing, not the cause of fatty liver."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "alcohol",
+        "fatty-liver",
+        "NADH"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa09-012",
+      "stem": "A newborn whose mother drank alcohol during pregnancy is noted to have a thin upper lip, a smooth philtrum, and short palpebral fissures, along with microcephaly and growth restriction. Which of the following mechanisms is most likely responsible for this clinical phenotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An inherited single-gene disorder"
+        },
+        {
+          "label": "B",
+          "text": "Apoptosis of developing fetal cells"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis of neural tissue"
+        },
+        {
+          "label": "D",
+          "text": "Dysregulation of calcium metabolism"
+        },
+        {
+          "label": "E",
+          "text": "Hypoxia from carboxyhemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fetal alcohol spectrum disorder results from apoptosis of developing fetal cells triggered by reactive oxygen species during acetaldehyde metabolism.",
+        "whyCorrect": "A proposed mechanism for the teratogenic effects of alcohol is damage from reactive oxygen species produced during the metabolism of acetaldehyde to acetic acid, which in turn induces apoptosis, or programmed cell death, in developing fetal cells. This underlies the facial phenotype of a thin upper lip, smooth philtrum, and short palpebral fissures with microcephaly and growth restriction.",
+        "whyWrongByChoice": {
+          "A": "Fetal alcohol spectrum disorder is an acquired teratogenic exposure, not an inherited single-gene disorder.",
+          "C": "The mechanism is programmed cell death (apoptosis), not uncontrolled coagulative necrosis.",
+          "D": "Calcium metabolism dysregulation is seen in pediatric lead poisoning, not fetal alcohol effects.",
+          "E": "Carboxyhemoglobin hypoxia relates to carbon monoxide, not the teratogenic mechanism of alcohol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alcohol",
+        "fetal-alcohol-syndrome",
+        "apoptosis"
+      ],
+      "topicId": "environmental-disease-chemicals-and-substances",
+      "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-001",
+      "stem": "A 24-year-old man is brought to the emergency department after being thrown from his motorcycle onto asphalt. After his clothing is removed, a red, raw lesion is noted running along the lateral aspect of his left leg and forearm, which he calls \"road rash.\" There is no deep bleeding, and only the most superficial layers of skin appear to have been scraped away. Which of the following best classifies this injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abrasion"
+        },
+        {
+          "label": "B",
+          "text": "Contusion"
+        },
+        {
+          "label": "C",
+          "text": "Incised wound"
+        },
+        {
+          "label": "D",
+          "text": "Laceration"
+        },
+        {
+          "label": "E",
+          "text": "Stab wound"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An abrasion is removal of the superficial layers of skin by friction or compression.",
+        "whyCorrect": "Abrasions remove the top layers of skin through friction or compression, as with a \"skinned\" area of road rash after being dragged across pavement. There is no deep hemorrhage or penetration, consistent with loss of only the superficial skin.",
+        "whyWrongByChoice": {
+          "B": "A contusion is hemorrhage into soft tissue from ruptured blood vessels (a bruise) with the surface typically intact, not a scraping away of skin.",
+          "C": "An incised wound is a sharp cut or slash that is longer than it is deep, produced by a sharp edge rather than friction.",
+          "D": "A laceration is a tearing of tissue by blunt shearing or crushing forces and classically shows tissue bridging, which is absent here.",
+          "E": "A stab wound is penetration by a pointed object with depth greater than width, not a superficial surface scrape."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanical trauma",
+        "blunt injury",
+        "abrasion",
+        "forensic pathology"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-002",
+      "stem": "A 20-year-old man collapses near the end of a marathon on a hot, humid afternoon. He is confused and combative. His rectal temperature is 41.5 C (106.7 F). Which of the following findings would be most specific for his diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cessation of sweating"
+        },
+        {
+          "label": "B",
+          "text": "Cramping muscles"
+        },
+        {
+          "label": "C",
+          "text": "Decreased blood volume"
+        },
+        {
+          "label": "D",
+          "text": "Erythema of the skin"
+        },
+        {
+          "label": "E",
+          "text": "Shortness of breath"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Heat stroke reflects failure of thermoregulation, marked by profound mental status changes and cessation of sweating.",
+        "whyCorrect": "In heat stroke the core temperature rises above 40 C (104 F) and thermoregulation ceases, so sweating stops. Combined with profound mental status changes, cessation of sweating is the finding most specific for thermoregulatory failure.",
+        "whyWrongByChoice": {
+          "B": "Cramping muscles occur with heat cramps from loss of electrolytes during sweating and are not specific for heat stroke.",
+          "C": "Decreased blood volume from sweating-related hypovolemia characterizes heat exhaustion and can be seen in several heat illnesses, so it is not specific.",
+          "D": "Erythema of the skin is a nonspecific finding that can be seen in many settings.",
+          "E": "Shortness of breath is nonspecific and does not distinguish heat stroke from other conditions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperthermia",
+        "heat stroke",
+        "thermoregulation"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-003",
+      "stem": "A 68-year-old farmer with decades of outdoor sun exposure develops a scaly, ulcerated lesion on his lower lip; biopsy shows squamous cell carcinoma. The ultraviolet B radiation responsible for this malignancy characteristically causes which of the following forms of DNA damage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DNA-protein crosslinks"
+        },
+        {
+          "label": "B",
+          "text": "Double-stranded DNA breaks"
+        },
+        {
+          "label": "C",
+          "text": "Pyrimidine dimer formation"
+        },
+        {
+          "label": "D",
+          "text": "Reactive oxygen species from radiolysis of water"
+        },
+        {
+          "label": "E",
+          "text": "Single-stranded DNA breaks"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "UVB, a nonionizing radiation, is carcinogenic through pyrimidine dimer formation in DNA.",
+        "whyCorrect": "UVB exerts its carcinogenic effect by causing the formation of pyrimidine dimers, with covalent cross-linking of adjacent thymidine residues. This nonionizing mechanism underlies UV-associated skin cancers.",
+        "whyWrongByChoice": {
+          "A": "DNA-protein crosslinks result from ionizing radiation rather than ultraviolet exposure.",
+          "B": "Double-stranded DNA breaks are a form of direct damage caused by ionizing radiation, not UV light.",
+          "D": "Reactive oxygen species generated by radiolysis of water are an indirect mechanism of ionizing radiation.",
+          "E": "Single-stranded DNA breaks are among the direct DNA injuries produced by ionizing radiation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "radiation",
+        "nonionizing radiation",
+        "ultraviolet light",
+        "carcinogenesis"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-004",
+      "stem": "A 34-year-old woman is evaluated after a house fire. One burn on her forearm appears pale, waxy, and mottled. It does not blanch with pressure, but she can perceive deep pressure and pin-prick sensation over the area. Which of the following best classifies this burn?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chemical burn"
+        },
+        {
+          "label": "B",
+          "text": "Deep partial-thickness burn"
+        },
+        {
+          "label": "C",
+          "text": "Full-thickness burn"
+        },
+        {
+          "label": "D",
+          "text": "Superficial burn"
+        },
+        {
+          "label": "E",
+          "text": "Superficial partial-thickness burn"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Deep partial-thickness burns reach the reticular dermis and appear pale, waxy, and mottled with retained deep-pressure sensation.",
+        "whyCorrect": "Deep partial-thickness burns extend into the reticular dermis, producing a pale, waxy, mottled appearance that does not blanch. Pressure or pin-prick sensation from intact deep Pacinian corpuscles may still be felt, exactly as described.",
+        "whyWrongByChoice": {
+          "A": "\"Chemical burn\" describes a cause of injury from a corrosive substance, not a depth of thermal injury.",
+          "C": "Full-thickness burns extend into fat below the dermis and are painless with a leathery eschar, not a mottled dermis with retained sensation.",
+          "D": "Superficial (first-degree) burns are confined to the epidermis, are erythematous and painful, blanch to touch, and do not blister.",
+          "E": "Superficial partial-thickness burns involve the papillary dermis and are red, blistering, painful, and blanch to touch."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "burns",
+        "burn depth",
+        "deep partial-thickness"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-005",
+      "stem": "A construction worker sustains a burn on his thigh from prolonged contact with a hot metal surface. The area is dry, leathery, and white, and he reports no pain when the wound is examined. Which of the following best explains the absence of pain in this burn?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An intact epidermal barrier"
+        },
+        {
+          "label": "B",
+          "text": "Destruction of dermal nerve endings"
+        },
+        {
+          "label": "C",
+          "text": "Reflex vasoconstriction of dermal vessels"
+        },
+        {
+          "label": "D",
+          "text": "Release of endogenous endorphins"
+        },
+        {
+          "label": "E",
+          "text": "The superficial location of the injury"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Full-thickness burns are painless because destruction of tissue extends deep enough to destroy nerves.",
+        "whyCorrect": "A dry, leathery, white appearance with a firm eschar indicates a full-thickness (third-degree) burn extending into the fat below the dermis. These burns are painless due to destruction of the nerves within the injured tissue.",
+        "whyWrongByChoice": {
+          "A": "The epidermis is destroyed in a full-thickness burn, not intact.",
+          "C": "Vasoconstriction of dermal vessels does not account for the loss of pain sensation.",
+          "D": "Endorphin release is not the mechanism the source attributes to painlessness in these burns.",
+          "E": "The injury is deep, not superficial; superficial burns are in fact painful."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "burns",
+        "full-thickness burn",
+        "eschar"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-006",
+      "stem": "A 40-year-old man has a circumferential full-thickness burn encircling his entire right forearm. Over several hours the forearm becomes increasingly tense and firm, and the distal radial pulse weakens. Which of the following is the most appropriate intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Application of a tourniquet proximal to the forearm"
+        },
+        {
+          "label": "B",
+          "text": "Escharotomy of the forearm"
+        },
+        {
+          "label": "C",
+          "text": "Fasciotomy of the lower leg"
+        },
+        {
+          "label": "D",
+          "text": "Immediate amputation"
+        },
+        {
+          "label": "E",
+          "text": "Systemic anticoagulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A circumferential eschar can compromise limb circulation (compartment syndrome), treated by escharotomy.",
+        "whyCorrect": "An eschar that encompasses the circumference of an extremity can compromise blood supply, causing increased soft tissue pressures, ischemia, and compartment syndrome. Escharotomy is the surgical opening of the wound to relieve pressure and restore blood flow.",
+        "whyWrongByChoice": {
+          "A": "A tourniquet would further reduce distal perfusion and worsen ischemia.",
+          "C": "A fasciotomy opens the fascia and is directed at the affected limb; a fasciotomy of the uninjured lower leg does not address the forearm eschar.",
+          "D": "Amputation is not the appropriate first step for a threatened but salvageable limb with rising compartment pressure.",
+          "E": "Anticoagulation does not relieve the mechanical constriction produced by a circumferential eschar."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "burns",
+        "eschar",
+        "compartment syndrome",
+        "escharotomy"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-007",
+      "stem": "A 35-year-old electrician grasps a live wire and is unable to release it because of sustained muscle contraction. He is found pulseless and unresponsive. Which of the following is a recognized principal mechanism of death from electrocution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crystallization of intracellular water in frozen tissue"
+        },
+        {
+          "label": "B",
+          "text": "Disruption of the cardiac conduction system"
+        },
+        {
+          "label": "C",
+          "text": "Excessive collagen deposition during wound healing"
+        },
+        {
+          "label": "D",
+          "text": "Formation of pyrimidine dimers in epidermal DNA"
+        },
+        {
+          "label": "E",
+          "text": "Radiolysis of intracellular water generating free radicals"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Electrocution kills through disruption of cardiac conduction, disruption of neuronal activity, or asphyxia from respiratory muscle paralysis.",
+        "whyCorrect": "Electrical injury can produce ventricular fibrillation and cardiac arrest by disrupting the cardiac conduction system, one of the three principal mechanisms of death by electrocution. Alternating household current also causes muscle spasm that prevents release of the wire.",
+        "whyWrongByChoice": {
+          "A": "Crystallization of intracellular water mediates tissue damage in hypothermia.",
+          "C": "Excessive collagen deposition causes hypertrophic scarring after burns, not electrocution death.",
+          "D": "Pyrimidine dimer formation is the mechanism of UVB radiation injury, not electrocution.",
+          "E": "Radiolysis of water generating reactive oxygen species is a mechanism of ionizing radiation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "electrical injury",
+        "electrocution",
+        "ventricular fibrillation"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-008",
+      "stem": "A 60-year-old man treated months earlier with external-beam radiation therapy for a head and neck tumor develops progressive firmness of the irradiated tissue and reduced salivary flow. Histologic examination of the region shows narrowing of small blood vessels. Which of the following best explains this vascular change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "B",
+          "text": "Caseating granuloma formation"
+        },
+        {
+          "label": "C",
+          "text": "Fatty streak deposition"
+        },
+        {
+          "label": "D",
+          "text": "Fibrointimal thickening"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophilic vasculitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Vessels are sensitive to radiation and undergo narrowing through fibrointimal thickening, with surrounding tissue fibrosis.",
+        "whyCorrect": "Radiation damage makes vessels undergo narrowing through fibrointimal thickening, and attempts at repair throughout affected tissues commonly result in widespread fibrosis. This accounts for both the vessel narrowing and the firm, poorly functioning irradiated gland.",
+        "whyWrongByChoice": {
+          "A": "Amyloid deposition is not the radiation-associated mechanism of vessel narrowing.",
+          "B": "Caseating granulomas are characteristic of infections such as tuberculosis, not radiation-induced vascular change.",
+          "C": "Fatty streaks are early atherosclerotic lesions unrelated to the fibrointimal response described after radiation.",
+          "E": "Neutrophilic vasculitis reflects an inflammatory vasculitis rather than the fibrosing vascular injury of radiation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "radiation",
+        "ionizing radiation",
+        "therapeutic radiation",
+        "fibrosis"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-009",
+      "stem": "A 15-month-old child who recently began walking is brought to clinic after being noted to limp. Radiographs reveal a spiral fracture of the distal tibia. There is no other evidence of injury, and the history is consistent with an ordinary fall for a child of this age. Which of the following is the most likely explanation for this fracture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inflicted (abusive) trauma"
+        },
+        {
+          "label": "B",
+          "text": "Non-abusive toddler's fracture"
+        },
+        {
+          "label": "C",
+          "text": "Osteogenesis imperfecta"
+        },
+        {
+          "label": "D",
+          "text": "Pathologic fracture from malignancy"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D-deficient rickets"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A toddler's fracture is a non-abusive spiral fracture of the distal tibia that may occur when a child is learning to walk.",
+        "whyCorrect": "Not all pediatric spiral fractures are abusive. The toddler's fracture is a non-abusive spiral fracture of the distal tibia that occurs as a child learns to walk and may present without an inciting event beyond the common everyday falls of this age group.",
+        "whyWrongByChoice": {
+          "A": "Although spiral fractures can raise concern for abuse, an isolated distal tibial spiral fracture in a new walker with a consistent history and no other injuries favors a toddler's fracture.",
+          "C": "Osteogenesis imperfecta typically produces multiple or recurrent fractures with other features such as blue sclerae, not described here.",
+          "D": "A pathologic fracture from malignancy would be expected to show an underlying bony lesion, which is not present.",
+          "E": "Rickets causes bony deformities and metaphyseal changes rather than an isolated spiral fracture from a minor fall."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanical trauma",
+        "fractures",
+        "toddler's fracture",
+        "child abuse"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-010",
+      "stem": "A forensic pathologist examines a scalp wound with irregular margins. Strands of intact tissue are seen crossing the depth of the wound. Which of the following types of injury is most consistent with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abrasion"
+        },
+        {
+          "label": "B",
+          "text": "Contusion"
+        },
+        {
+          "label": "C",
+          "text": "Incised wound"
+        },
+        {
+          "label": "D",
+          "text": "Laceration"
+        },
+        {
+          "label": "E",
+          "text": "Stab wound"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tissue bridging is a classic sign of a laceration (blunt tearing) and is not expected in a sharp injury.",
+        "whyCorrect": "Tissue bridging, in which strands of tissue span the depth of the wound, is a classic sign of a laceration caused by blunt shearing or crushing forces. Distinguishing a laceration from an incised wound is important in a criminal investigation.",
+        "whyWrongByChoice": {
+          "A": "An abrasion is a superficial removal of skin by friction, not a deep wound with bridging strands.",
+          "B": "A contusion is hemorrhage into intact soft tissue (a bruise) rather than an open wound.",
+          "C": "Incised wounds are produced by a sharp edge, are longer than they are deep, and show clean margins without tissue bridging.",
+          "E": "Stab wounds are sharp penetrating injuries that are deeper than they are wide and do not exhibit tissue bridging."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanical trauma",
+        "laceration",
+        "tissue bridging",
+        "forensic pathology"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-011",
+      "stem": "A man experiencing homelessness is brought to the emergency department after a night spent outdoors in freezing weather. Several of his fingertips are hard, black, and shriveled with a mummified appearance. Which of the following best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dry gangrene from severe frostbite"
+        },
+        {
+          "label": "B",
+          "text": "Heat-related tissue necrosis from a burn"
+        },
+        {
+          "label": "C",
+          "text": "Hypertrophic scarring from excess collagen"
+        },
+        {
+          "label": "D",
+          "text": "Limited (superficial) frostbite with bullae"
+        },
+        {
+          "label": "E",
+          "text": "Paradoxical undressing during hypothermia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Severe frostbite causes deep tissue necrosis manifesting as dry gangrene with black mummification.",
+        "whyCorrect": "Frostbite is the freezing of tissue. Severe cases with deep injury result in necrosis, an example of dry gangrene that appears as black mummification of the affected part.",
+        "whyWrongByChoice": {
+          "B": "The injury results from freezing (cold), not heat.",
+          "C": "Hypertrophic scarring is an excessive collagen response seen in wound healing after burns, not cold injury.",
+          "D": "Limited frostbite appears pale and waxy with development of bullae and blisters, not black mummified tissue.",
+          "E": "Paradoxical undressing is a behavior seen in hypothermia in which victims remove clothing before death, not a description of tissue appearance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hypothermia",
+        "frostbite",
+        "dry gangrene"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa01-012",
+      "stem": "A 7-year-old boy with poorly controlled asthma lives in an older, poorly maintained home. On a home visit his physician notes visible mold on the walls and observes that the child's symptoms worsen indoors. Growth of this mold is most directly promoted by which of the following aspects of the indoor environment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide"
+        },
+        {
+          "label": "B",
+          "text": "Excessive cold"
+        },
+        {
+          "label": "C",
+          "text": "Excessive dampness"
+        },
+        {
+          "label": "D",
+          "text": "Excessive dryness"
+        },
+        {
+          "label": "E",
+          "text": "Excessive heat"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Damp, humid indoor air promotes mold growth, a socioeconomic environmental factor linked to respiratory disease.",
+        "whyCorrect": "Damp and humid indoor air contributes to mold growth, which is associated with a wide variety of respiratory symptoms, including asthma-related disease. Indoor environment is an important environmental factor with socioeconomic implications.",
+        "whyWrongByChoice": {
+          "A": "Carbon monoxide is a poisonous gas from incomplete combustion; it does not cause mold growth.",
+          "B": "Excessive cold is not the factor that drives mold growth in the home.",
+          "D": "Dryness inhibits rather than promotes mold growth.",
+          "E": "Excessive heat is not associated with the mold growth described here; moisture is the key factor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "socioeconomic factors",
+        "housing",
+        "mold",
+        "respiratory disease"
+      ],
+      "topicId": "environmental-disease-physical-agents",
+      "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-001",
+      "stem": "A 24-year-old man is brought to the morgue after a fatal assault. The medical examiner notes a wound on the scalp that has irregular, ragged margins with strands of intact tissue seen bridging the depths of the wound. There is surrounding abrasion and contusion of the skin. Which of the following terms best describes this wound?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abrasion"
+        },
+        {
+          "label": "B",
+          "text": "Contusion"
+        },
+        {
+          "label": "C",
+          "text": "Incised wound"
+        },
+        {
+          "label": "D",
+          "text": "Laceration"
+        },
+        {
+          "label": "E",
+          "text": "Puncture wound"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Blunt-force tearing of skin produces a laceration with jagged edges and characteristic tissue bridging.",
+        "whyCorrect": "A laceration results when blunt force overstretches and tears the skin. Because the tissue is torn rather than cut, the wound has irregular jagged margins and, diagnostically, intact strands of tissue (nerves, vessels) bridge the depths. Surrounding abrasion and contusion are common because the same blunt impact injures adjacent tissue.",
+        "whyWrongByChoice": {
+          "A": "An abrasion is a superficial graze that removes only epidermis; it does not have bridging strands.",
+          "B": "A contusion is bleeding into tissue beneath intact skin, not an open wound with torn margins.",
+          "C": "An incised wound is made by a sharp edge and has clean, straight margins with no tissue bridging.",
+          "E": "A puncture wound is narrow and deeper than it is wide, produced by a pointed instrument, not a tearing force."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanical injury",
+        "laceration",
+        "forensic pathology"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-002",
+      "stem": "A 3-year-old girl is evaluated for possible abuse. Examination reveals several areas of skin discoloration over the back and buttocks that range from bluish-purple to yellow-green. The overlying skin is intact. Which of the following processes best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A clean cut produced by a sharp edge"
+        },
+        {
+          "label": "B",
+          "text": "Coagulative necrosis from a thermal source"
+        },
+        {
+          "label": "C",
+          "text": "Removal of the superficial epidermis by friction"
+        },
+        {
+          "label": "D",
+          "text": "Rupture of small vessels with hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "Tearing of skin by an overstretching blunt force"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A contusion is hemorrhage into tissue from ruptured vessels beneath skin that remains intact.",
+        "whyCorrect": "A contusion (bruise) is produced by blunt force that ruptures small blood vessels while leaving the skin surface intact. Extravasated blood is progressively broken down, so the discoloration evolves through characteristic colors; the range of colors here indicates lesions of differing ages, which raises concern for repeated injury.",
+        "whyWrongByChoice": {
+          "A": "A clean cut by a sharp edge is an incised wound, not an area of discoloration under intact skin.",
+          "B": "Coagulative necrosis from heat describes a thermal burn, which produces blistering or eschar, not evolving bruises.",
+          "C": "Friction removal of epidermis describes an abrasion, which is an open superficial graze rather than subsurface bleeding.",
+          "E": "Tearing by blunt force describes a laceration, an open wound with jagged bridged margins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanical injury",
+        "contusion",
+        "child abuse"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-003",
+      "stem": "A 30-year-old man dies of a gunshot wound. On external examination, the medical examiner finds a round skin defect on the chest that is surrounded by a rim of abraded skin and a zone of surrounding soot deposition and punctate powder tattooing. Compared with the wound found on the back, this wound is smaller and more regular. Which of the following best characterizes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A blast injury from an explosion"
+        },
+        {
+          "label": "B",
+          "text": "A close-range entrance wound"
+        },
+        {
+          "label": "C",
+          "text": "A distant entrance wound with no residue"
+        },
+        {
+          "label": "D",
+          "text": "A puncture wound from a knife"
+        },
+        {
+          "label": "E",
+          "text": "An exit wound produced at long range"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Gunshot entrance wounds are round with an abrasion collar; soot and stippling indicate a close firing range.",
+        "whyCorrect": "A bullet entrance wound is typically smaller and rounder than the exit wound and is ringed by an abrasion collar where the projectile scrapes the skin. Deposition of soot and stippling (powder tattooing) around the defect indicates the muzzle was close to the skin, because these residues travel only a short distance.",
+        "whyWrongByChoice": {
+          "A": "A blast injury produces widespread irregular fragmentation and burns, not a single round collared defect.",
+          "C": "A distant entrance wound would still have an abrasion collar but would lack the soot and stippling seen here.",
+          "D": "A knife produces a sharp-edged stab wound without an abrasion collar or powder tattooing.",
+          "E": "Exit wounds are usually larger and more irregular than entrance wounds and lack an abrasion collar or powder residue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanical injury",
+        "gunshot wound",
+        "forensic pathology"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-004",
+      "stem": "A 45-year-old man is pulled from a house fire. On the anterior chest and abdomen the skin is dry, white, and leathery in texture, and the affected areas are notably insensate to pinprick, whereas adjacent reddened blistered areas are exquisitely painful. Which of the following best describes the white, insensate regions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An early contusion"
+        },
+        {
+          "label": "B",
+          "text": "Deep partial-thickness burn"
+        },
+        {
+          "label": "C",
+          "text": "First-degree (superficial) burn"
+        },
+        {
+          "label": "D",
+          "text": "Superficial partial-thickness burn"
+        },
+        {
+          "label": "E",
+          "text": "Third-degree (full-thickness) burn"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Full-thickness (third-degree) burns destroy the entire dermis and its nerves, producing painless, leathery, white eschar.",
+        "whyCorrect": "A third-degree (full-thickness) burn destroys the entire epidermis and dermis, including cutaneous nerve endings, so the burn is painless (anesthetic). The devitalized tissue appears white to charred and leathery (eschar), and because the dermal appendages that regenerate skin are gone, these areas require grafting.",
+        "whyWrongByChoice": {
+          "A": "A contusion is subsurface bleeding under intact skin and is unrelated to thermal eschar.",
+          "B": "A deep partial-thickness burn still spares part of the dermis and retains some sensation; it is not fully leathery and anesthetic.",
+          "C": "A first-degree burn involves only the epidermis and appears red and dry but remains painful with intact skin.",
+          "D": "A superficial partial-thickness burn is moist, red, and blistered and is very painful, not white and insensate."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "thermal injury",
+        "burns",
+        "burn classification"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-005",
+      "stem": "A 28-year-old woman is hospitalized with full-thickness burns over 40% of her body surface area. On the fourth day she develops hematemesis and melena. Endoscopy reveals multiple superficial gastric and duodenal ulcerations. Which of the following complications of severe burns does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Curative peptic ulcer from NSAIDs"
+        },
+        {
+          "label": "B",
+          "text": "Curling ulcer (stress ulceration)"
+        },
+        {
+          "label": "C",
+          "text": "Helicobacter pylori gastritis"
+        },
+        {
+          "label": "D",
+          "text": "Mallory-Weiss tear"
+        },
+        {
+          "label": "E",
+          "text": "Zollinger-Ellison syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Severe burns predispose to acute stress ulcers of the stomach and duodenum, classically called Curling ulcers.",
+        "whyCorrect": "Extensive burns cause splanchnic hypoperfusion and mucosal ischemia that lead to acute stress ulceration of the stomach and proximal duodenum, known as Curling ulcers. These superficial erosions can bleed, presenting as hematemesis and melena, as in this patient.",
+        "whyWrongByChoice": {
+          "A": "There is no history of NSAID use, and the ulcers here are the classic stress ulceration of severe burns.",
+          "C": "H. pylori causes chronic gastritis and peptic ulcers over time, not acute ulcers appearing days after a burn.",
+          "D": "A Mallory-Weiss tear is a mucosal laceration at the gastroesophageal junction from retching, not diffuse stress ulcers.",
+          "E": "Zollinger-Ellison syndrome is caused by a gastrin-secreting tumor with markedly elevated gastrin, not by burn-related ischemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thermal injury",
+        "burn complications",
+        "Curling ulcer"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-006",
+      "stem": "A 32-year-old man is recovering in the burn unit with extensive full-thickness burns. On hospital day 6 he becomes febrile and hypotensive. Examination of the burn eschar shows greenish discoloration with a fruity odor, and blood cultures grow a gram-negative rod. Infection with which of the following organisms is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Burn wounds are classically colonized and invaded by Pseudomonas aeruginosa, a leading cause of burn sepsis.",
+        "whyCorrect": "Loss of the skin barrier and the moist, protein-rich eschar make burn wounds highly susceptible to infection, and Pseudomonas aeruginosa is a characteristic pathogen. It is a gram-negative rod that produces pigments giving a greenish, sometimes fruity-smelling wound and can invade the bloodstream to cause life-threatening sepsis.",
+        "whyWrongByChoice": {
+          "A": "Candida is a fungus, not a gram-negative rod, and typically causes later fungal superinfection.",
+          "B": "E. coli is a gram-negative rod but is not the characteristic organism of invasive burn-wound sepsis and lacks the greenish pigment.",
+          "D": "S. aureus is a gram-positive coccus and does not produce the green pigment or fruity odor described.",
+          "E": "S. pyogenes is a gram-positive coccus causing cellulitis but does not match a gram-negative rod with green discoloration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thermal injury",
+        "burn complications",
+        "Pseudomonas"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-007",
+      "stem": "A 19-year-old football player collapses during practice on a hot, humid day. He is confused and combative. His skin is hot, and his rectal temperature is 41.2 C (106.2 F). Laboratory studies later show elevated creatine kinase and evidence of disseminated intravascular coagulation. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heat cramps"
+        },
+        {
+          "label": "B",
+          "text": "Heat exhaustion"
+        },
+        {
+          "label": "C",
+          "text": "Heat stroke"
+        },
+        {
+          "label": "D",
+          "text": "Malignant hyperthermia"
+        },
+        {
+          "label": "E",
+          "text": "Neuroleptic malignant syndrome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Heat stroke is failure of thermoregulation with core temperature above 40 C, CNS dysfunction, and multiorgan injury.",
+        "whyCorrect": "Heat stroke occurs when thermoregulatory mechanisms fail and the core temperature rises above 40 C. It presents with CNS dysfunction (confusion, combativeness) and can cause rhabdomyolysis (elevated CK) and DIC. It is a medical emergency requiring rapid cooling.",
+        "whyWrongByChoice": {
+          "A": "Heat cramps are painful muscle cramps from electrolyte loss with a normal core temperature and intact mental status.",
+          "B": "Heat exhaustion causes fatigue and dizziness with a temperature below 40 C and preserved mentation, without DIC.",
+          "D": "Malignant hyperthermia is triggered by inhaled anesthetics or succinylcholine during anesthesia, not by exertion in the heat.",
+          "E": "Neuroleptic malignant syndrome follows exposure to antipsychotic (dopamine-blocking) drugs, which this patient did not receive."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thermal injury",
+        "hyperthermia",
+        "heat stroke"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-008",
+      "stem": "A 20-year-old man undergoes general anesthesia with an inhaled halogenated agent and succinylcholine. Minutes later he develops generalized muscle rigidity, a rapidly rising temperature, and a markedly elevated end-tidal CO2. Which of the following underlying defects best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibodies against acetylcholine receptors"
+        },
+        {
+          "label": "B",
+          "text": "Deficiency of pseudocholinesterase"
+        },
+        {
+          "label": "C",
+          "text": "Impaired thermoregulation from hypothalamic injury"
+        },
+        {
+          "label": "D",
+          "text": "Loss-of-function mutation in the CFTR chloride channel"
+        },
+        {
+          "label": "E",
+          "text": "Mutation in the ryanodine receptor"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Malignant hyperthermia results from RYR1 (ryanodine receptor) mutations that trigger massive Ca2+ release after certain anesthetics.",
+        "whyCorrect": "Malignant hyperthermia is an inherited disorder, most often due to mutation of the skeletal muscle ryanodine receptor (RYR1). Exposure to inhaled halogenated anesthetics or succinylcholine causes uncontrolled Ca2+ release from the sarcoplasmic reticulum, producing sustained muscle contraction (rigidity), heat generation with hyperthermia, and increased CO2 production. Treatment is dantrolene.",
+        "whyWrongByChoice": {
+          "A": "Anti-acetylcholine-receptor antibodies cause myasthenia gravis (weakness), not hypermetabolic rigidity and hyperthermia.",
+          "B": "Pseudocholinesterase deficiency prolongs succinylcholine-induced paralysis (apnea) but does not cause rigidity or hyperthermia.",
+          "C": "Hypothalamic injury alters temperature set point but does not produce this acute anesthetic-triggered hypermetabolic crisis.",
+          "D": "CFTR mutations cause cystic fibrosis, unrelated to anesthetic-induced hyperthermia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thermal injury",
+        "malignant hyperthermia",
+        "RYR1"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-009",
+      "stem": "A 55-year-old man is found after being stranded outdoors overnight in freezing temperatures. His fingers and toes are hard, white, and insensate. Over the following days these digits become dusky and demarcate into blackened, mummified tissue. Which of the following best explains the initial cellular injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autonomic denervation of the extremities"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial exotoxin-mediated tissue destruction"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis from a thermal (heat) source"
+        },
+        {
+          "label": "D",
+          "text": "Ice-crystal formation and vascular injury"
+        },
+        {
+          "label": "E",
+          "text": "Immune-complex deposition in small vessels"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Frostbite injures tissue through ice-crystal formation and freezing-induced vascular damage, leading to distal gangrene.",
+        "whyCorrect": "Frostbite occurs when tissue freezes: intracellular and extracellular ice crystals form and injure cells directly, while freezing and vasoconstriction damage the local microvasculature and cause ischemia. The poorly perfused, most exposed distal parts (fingers, toes) undergo necrosis and can progress to dry gangrene with demarcation and mummification.",
+        "whyWrongByChoice": {
+          "A": "Autonomic denervation does not cause the acute freezing necrosis seen after cold exposure.",
+          "B": "There is no infection preceding the injury; exotoxin-mediated necrosis does not explain freezing of exposed digits.",
+          "C": "Coagulative necrosis from heat describes a burn, the opposite thermal extreme, not a freezing injury.",
+          "E": "Immune-complex vasculitis is an immunologic process unrelated to environmental cold exposure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thermal injury",
+        "frostbite",
+        "cold injury"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-010",
+      "stem": "A 40-year-old worker is accidentally exposed to a high dose of whole-body ionizing radiation. Two to three weeks later he develops fever, mucosal bleeding, and a serious bacterial infection. A complete blood count shows profound leukopenia, thrombocytopenia, and anemia. Injury to which of the following cell populations best accounts for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematopoietic progenitor cells"
+        },
+        {
+          "label": "B",
+          "text": "Hepatocytes of the liver lobule"
+        },
+        {
+          "label": "C",
+          "text": "Mature cardiac muscle cells"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral sensory neurons"
+        },
+        {
+          "label": "E",
+          "text": "Mature skeletal muscle fibers"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ionizing radiation preferentially kills rapidly dividing cells; loss of marrow progenitors produces the hematopoietic syndrome.",
+        "whyCorrect": "Ionizing radiation is most toxic to rapidly proliferating cells. The bone marrow hematopoietic progenitors are highly radiosensitive, so their loss produces the hematopoietic (bone marrow) syndrome: pancytopenia that manifests over 1-3 weeks as infection (leukopenia), bleeding (thrombocytopenia), and anemia.",
+        "whyWrongByChoice": {
+          "B": "Hepatocytes divide slowly and are relatively radioresistant compared with marrow precursors.",
+          "C": "Cardiac myocytes are terminally differentiated and relatively radioresistant; they do not explain acute pancytopenia.",
+          "D": "Peripheral neurons are non-dividing and relatively resistant; their injury would not cause cytopenias.",
+          "E": "Skeletal muscle fibers are non-proliferating and radioresistant, so they are not the source of these blood findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "radiation injury",
+        "acute radiation syndrome",
+        "hematopoietic syndrome"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-011",
+      "stem": "A cohort of survivors who received significant whole-body ionizing radiation exposure is followed for decades. Compared with the general population, these individuals have a substantially increased incidence of leukemia and various solid tumors appearing years after the exposure. Which of the following mechanisms best explains this delayed effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic hypersensitivity reaction to residual radioisotopes"
+        },
+        {
+          "label": "B",
+          "text": "Depletion of intestinal crypt stem cells"
+        },
+        {
+          "label": "C",
+          "text": "Direct thermal coagulation of tissue"
+        },
+        {
+          "label": "D",
+          "text": "DNA double-strand breaks and mutations in surviving cells"
+        },
+        {
+          "label": "E",
+          "text": "Immune tolerance to tumor antigens caused by radiation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Radiation is carcinogenic because it causes DNA damage and mutations that, in surviving cells, can drive malignant transformation years later.",
+        "whyCorrect": "Ionizing radiation damages DNA, characteristically causing double-strand breaks. Cells that survive with unrepaired or misrepaired mutations may accumulate oncogenic changes, so radiation is a well-established carcinogen. Malignancies such as leukemia and solid tumors arise after a long latency of years to decades.",
+        "whyWrongByChoice": {
+          "A": "Delayed cancer is due to mutagenesis, not a hypersensitivity (allergic) reaction to isotopes.",
+          "B": "Crypt stem cell depletion causes the acute gastrointestinal syndrome, not delayed carcinogenesis.",
+          "C": "Thermal coagulation is an acute effect of heat, not the mechanism of late radiation-induced cancer.",
+          "E": "Radiation does not induce tumor-specific immune tolerance; its carcinogenicity stems from DNA mutation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "radiation injury",
+        "carcinogenesis",
+        "leukemia"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa10-012",
+      "stem": "During winter, a family living in a poorly ventilated home with a faulty gas furnace develops headache, dizziness, nausea, and confusion. Several are found unconscious. Their skin and mucous membranes appear cherry-red, and pulse oximetry reads falsely normal. Which of the following best explains their condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide binding hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Cyanide inhibition of the electron transport chain from smoke"
+        },
+        {
+          "label": "C",
+          "text": "Hypersensitivity pneumonitis from mold spores"
+        },
+        {
+          "label": "D",
+          "text": "Methemoglobinemia from nitrite exposure"
+        },
+        {
+          "label": "E",
+          "text": "Radon-induced acute pulmonary injury"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Indoor combustion produces carbon monoxide, which binds hemoglobin with high affinity and causes hypoxic injury with cherry-red skin.",
+        "whyCorrect": "Carbon monoxide, a common indoor air pollutant from faulty heaters and incomplete combustion, binds hemoglobin with roughly 200 times the affinity of oxygen, forming carboxyhemoglobin and impairing oxygen carriage and delivery. This causes systemic hypoxia (headache, confusion, loss of consciousness), the classic cherry-red skin, and a falsely normal pulse oximetry reading because the device cannot distinguish carboxyhemoglobin from oxyhemoglobin.",
+        "whyWrongByChoice": {
+          "B": "Cyanide poisoning is chiefly from combustion of certain materials in fires, and this scenario points to CO from a gas furnace with the classic cherry-red hue.",
+          "C": "Hypersensitivity pneumonitis is an immunologic lung disease with cough and dyspnea, not acute cherry-red hypoxia in the whole family.",
+          "D": "Methemoglobinemia causes chocolate-brown blood and cyanosis, not cherry-red skin, and follows oxidizing agents rather than furnace fumes.",
+          "E": "Radon is a radioactive gas that raises long-term lung cancer risk; it does not cause acute cherry-red carbon monoxide-type poisoning."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "environmental disease",
+        "air pollution",
+        "carbon monoxide"
+      ],
+      "topicId": "environmental-disease-physical-injury",
+      "topicName": "Environmental Disease: Physical and Environmental Injury",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-001",
+      "stem": "A 24-year-old man is brought to the emergency department after being shot in the abdomen. Despite resuscitation he dies of massive hemorrhage. At autopsy, the gunshot wound to the abdomen is documented as the event that resulted in his death. This gunshot wound is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cause of death"
+        },
+        {
+          "label": "B",
+          "text": "Final anatomic diagnosis"
+        },
+        {
+          "label": "C",
+          "text": "Manner of death"
+        },
+        {
+          "label": "D",
+          "text": "Mechanism of death"
+        },
+        {
+          "label": "E",
+          "text": "Preliminary autopsy diagnosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cause of death is the injury or disease that resulted in death.",
+        "whyCorrect": "The cause of death is defined as the injury or disease that resulted in death. A gunshot wound that kills a patient is the classic example given in the brick, so it represents the cause of death.",
+        "whyWrongByChoice": {
+          "B": "The final anatomic diagnosis is a section of the autopsy report that lists pathologic findings, not a category of death.",
+          "C": "The manner of death is the medicolegal category (natural, homicide, suicide, accident, or undetermined) into which the death is placed, not the injury.",
+          "D": "The mechanism of death is the physiologic derangement produced by the cause; here that would be the exsanguination, not the wound itself.",
+          "E": "The preliminary autopsy diagnosis is an early autopsy report released within two working days, not a description of the fatal injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cause of death",
+        "definitions"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-002",
+      "stem": "A 58-year-old man collapses and dies. At autopsy, severe atherosclerotic coronary artery disease is found to have caused inadequate blood flow to the myocardium, producing lethal cardiac ischemia. Which of the following is the mechanism of death in this case?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic coronary artery disease"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac ischemia"
+        },
+        {
+          "label": "C",
+          "text": "Homicide"
+        },
+        {
+          "label": "D",
+          "text": "Natural"
+        },
+        {
+          "label": "E",
+          "text": "Undetermined"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The mechanism of death is the physiologic derangement produced by the cause of death.",
+        "whyCorrect": "Cardiac ischemia, the lack of blood flow to the heart, is a physiologic derangement rather than a specific disease, so it is the mechanism of death. The brick uses this exact example to contrast mechanism with cause and manner.",
+        "whyWrongByChoice": {
+          "A": "Atherosclerotic coronary artery disease is the underlying disease process that led to death, making it the cause of death, not the mechanism.",
+          "C": "Homicide is a manner of death and does not fit a death from intrinsic coronary disease.",
+          "D": "Natural is a manner of death, the medicolegal classification; it is not a physiologic derangement.",
+          "E": "Undetermined is a manner of death used when the category cannot be established, which does not apply to a clear ischemic cardiac death."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism of death",
+        "cardiac"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-003",
+      "stem": "A 26-year-old man slips on a dock, is knocked unconscious, and falls into a lake, where he drowns. After a thorough autopsy the pathologist concludes that the death occurred as an accident. This conclusion that the death was an accident represents which of the following aspects of the death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cause of death"
+        },
+        {
+          "label": "B",
+          "text": "Clinical summary"
+        },
+        {
+          "label": "C",
+          "text": "Gross findings"
+        },
+        {
+          "label": "D",
+          "text": "Manner of death"
+        },
+        {
+          "label": "E",
+          "text": "Mechanism of death"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The manner of death classifies how the death occurred into one of five medicolegal categories.",
+        "whyCorrect": "The manner of death explains how the cause of death occurred and is divided into natural, homicide, suicide, accident, and undetermined. Classifying this death as an accident is a determination of the manner of death.",
+        "whyWrongByChoice": {
+          "A": "The cause of death would be the injury or disease that killed him (e.g., drowning/head injury), not the label 'accident.'",
+          "B": "The clinical summary is a section of the autopsy report summarizing clinical information, not a category of manner.",
+          "C": "Gross findings are the macroscopic descriptions recorded in the report, not the manner of death.",
+          "E": "The mechanism of death would be the physiologic derangement, such as cerebral hypoxia from drowning."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "manner of death",
+        "medicolegal"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-004",
+      "stem": "A hospital pathologist is asked to review several deaths to decide which is most appropriate for a medical (clinical) autopsy rather than a forensic investigation. Which of the following cases would most likely qualify as a medical autopsy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 29-year-old who died in an unwitnessed motor vehicle collision"
+        },
+        {
+          "label": "B",
+          "text": "A 33-year-old found dead following a drug overdose"
+        },
+        {
+          "label": "C",
+          "text": "A 44-year-old found dead at a construction site"
+        },
+        {
+          "label": "D",
+          "text": "A 55-year-old who died of a gunshot wound"
+        },
+        {
+          "label": "E",
+          "text": "A 66-year-old who died of longstanding alcoholic cardiomyopathy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Medical autopsies investigate natural disease, whereas violent, unexpected, or traumatic deaths fall under forensic jurisdiction.",
+        "whyCorrect": "The medical autopsy documents and investigates a natural disease. Death from longstanding alcoholic cardiomyopathy is a natural death and is well suited to a medical autopsy to characterize the disease.",
+        "whyWrongByChoice": {
+          "A": "An unwitnessed motor vehicle collision is a violent/unexpected death subject to medicolegal investigation.",
+          "B": "A drug overdose is an unnatural death that would likely require medicolegal (forensic) review.",
+          "C": "A death found at a construction site suggests an industrial accident, a forensic case.",
+          "D": "A gunshot wound is a violent death that qualifies for forensic autopsy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "medical autopsy",
+        "forensic autopsy"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-005",
+      "stem": "A hospitalist is reviewing several deaths to determine which is least likely to fall under medical examiner or coroner jurisdiction. Which of the following deaths is least likely to require medicolegal investigation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 19-year-old found unconscious and pulseless in a public park"
+        },
+        {
+          "label": "B",
+          "text": "A 3-month-old found unresponsive in a crib"
+        },
+        {
+          "label": "C",
+          "text": "A 76-year-old with widely metastatic prostate cancer"
+        },
+        {
+          "label": "D",
+          "text": "A previously healthy adult who dies suddenly and unexpectedly"
+        },
+        {
+          "label": "E",
+          "text": "A stillborn fetus delivered to a mother with a suspected history of domestic abuse"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Expected deaths from known natural disease are least likely to require medicolegal investigation.",
+        "whyCorrect": "A death from widely metastatic prostate cancer is an expected natural death; it may undergo a medical autopsy but would be unlikely to fall under medical examiner or coroner jurisdiction.",
+        "whyWrongByChoice": {
+          "A": "An unwitnessed, unexpected death of a young person in a park would earn medicolegal investigation.",
+          "B": "An unexpected death of an otherwise healthy infant in a crib warrants medicolegal investigation.",
+          "D": "A sudden, unexpected death in a previously healthy person is a reportable, medicolegal event.",
+          "E": "A stillbirth in the context of possible maternal trauma or abuse may require medicolegal investigation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "medicolegal jurisdiction",
+        "reportable death"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-006",
+      "stem": "A medical student is comparing the coroner system with the medical examiner system in the United States. Which of the following statements most accurately describes a coroner?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A commonly elected lay official"
+        },
+        {
+          "label": "B",
+          "text": "A federal official who oversees organ donation registries"
+        },
+        {
+          "label": "C",
+          "text": "A hospital physician who signs consent for medical autopsies"
+        },
+        {
+          "label": "D",
+          "text": "A pathologist who performs all medicolegal autopsies for a state"
+        },
+        {
+          "label": "E",
+          "text": "An appointed physician who is a trained forensic pathologist"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A coroner is typically an elected lay official who investigates death but usually cannot perform autopsies.",
+        "whyCorrect": "In the most common coroner system the coroner is elected to the position and is not required to be a physician or medical expert; coroners are typically not qualified to perform autopsies but do assign cause and manner of death.",
+        "whyWrongByChoice": {
+          "B": "Organ donation is handled by separate donation registries, not by coroners.",
+          "C": "Signing consent for a medical autopsy is done by the decedent's next of kin, not the coroner.",
+          "D": "Performing medicolegal autopsies is the role of the medical examiner or a forensic pathologist, not a lay coroner.",
+          "E": "This describes a medical examiner, who is appointed and trained as a forensic pathologist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "coroner",
+        "medical examiner"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-007",
+      "stem": "A patient dies in the hospital of a suspected neurodegenerative disease, and the care team wishes to obtain a medical autopsy. The patient is survived by a spouse, an adult son, both parents, and a sister. From whom should the team first seek legal consent for the autopsy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A cousin"
+        },
+        {
+          "label": "B",
+          "text": "A parent"
+        },
+        {
+          "label": "C",
+          "text": "The adult son"
+        },
+        {
+          "label": "D",
+          "text": "The sister"
+        },
+        {
+          "label": "E",
+          "text": "The spouse"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Consent for autopsy follows a next-of-kin priority list, with the spouse ranked highest.",
+        "whyCorrect": "The legal next of kin authorized to give consent follows a priority order from highest to lowest: spouse, then adult son or daughter, then parent or guardian, then brother or sister. The spouse is highest and should be approached first.",
+        "whyWrongByChoice": {
+          "A": "A cousin is near the bottom of the next-of-kin priority list.",
+          "B": "A parent ranks below both the spouse and adult children.",
+          "C": "An adult child ranks below the spouse on the consent priority list.",
+          "D": "A sibling ranks below the spouse, children, and parents."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "consent",
+        "next of kin"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-008",
+      "stem": "A 40-year-old man dies unexpectedly in police custody at a county jail, and the case is accepted by the medical examiner for a forensic autopsy. The decedent's family objects and refuses to sign an autopsy consent form. Which of the following is the most accurate statement regarding consent in this situation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Consent must be obtained from the treating clinician instead"
+        },
+        {
+          "label": "B",
+          "text": "The medical examiner may perform only a partial autopsy without consent"
+        },
+        {
+          "label": "C",
+          "text": "The autopsy cannot proceed without the spouse's written consent"
+        },
+        {
+          "label": "D",
+          "text": "The family may authorize only a brain-only examination"
+        },
+        {
+          "label": "E",
+          "text": "The medical examiner may perform the autopsy without family consent"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Medical examiner and coroner cases do not require family consent for autopsy.",
+        "whyCorrect": "Deaths under medicolegal jurisdiction, such as a death at a jail, are reportable and become medical examiner cases, which do not require consent from the family for the autopsy to proceed.",
+        "whyWrongByChoice": {
+          "A": "A treating clinician cannot authorize consent, and no consent is needed for a medicolegal case.",
+          "B": "The full/partial distinction applies to consented medical autopsies, not to medicolegal cases.",
+          "C": "Family consent, including that of a spouse, is required for medical autopsies, not for medical examiner cases.",
+          "D": "A brain-only examination is an example of a family-restricted partial medical autopsy, which is irrelevant when no consent is required."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "consent",
+        "medicolegal jurisdiction"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-009",
+      "stem": "A hospital quality officer is identifying which in-hospital deaths must be reported to the medical examiner's office. Which of the following deaths is required to be reported?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A patient who dies 6 hours after admission for an unexplained illness"
+        },
+        {
+          "label": "B",
+          "text": "A patient who dies after a 3-week hospitalization for pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "A patient who dies of a documented, expected metastatic cancer"
+        },
+        {
+          "label": "D",
+          "text": "A patient who dies of a known chronic obstructive pulmonary disease exacerbation"
+        },
+        {
+          "label": "E",
+          "text": "A patient who dies of end-stage heart failure after a long chronic course"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sudden or unexpected deaths, including deaths within 24 hours of admission, are reportable to the medical examiner.",
+        "whyCorrect": "Reportable deaths include those that are sudden or unexplained and those occurring less than 24 hours after admission to a hospital. A patient dying 6 hours after admission for an unexplained illness meets both criteria.",
+        "whyWrongByChoice": {
+          "B": "A death after a 3-week hospitalization for a known infection is an expected natural death occurring well beyond 24 hours of admission.",
+          "C": "An expected death from documented metastatic cancer is a natural death and not reportable.",
+          "D": "A death from a known chronic disease following its expected course is not a reportable event.",
+          "E": "An expected death from a long chronic course of heart failure is a natural, non-reportable death."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reportable death",
+        "medicolegal"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-010",
+      "stem": "A pathologist is preparing an autopsy report and needs to record that the heart weighed 490 grams and the liver appeared cirrhotic. In which section of a standard medical autopsy report should these macroscopic observations be documented?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Case discussion"
+        },
+        {
+          "label": "B",
+          "text": "Clinical summary"
+        },
+        {
+          "label": "C",
+          "text": "Final anatomic diagnosis"
+        },
+        {
+          "label": "D",
+          "text": "Gross findings"
+        },
+        {
+          "label": "E",
+          "text": "Microscopic findings"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gross findings capture the macroscopic descriptions and organ weights of an autopsy.",
+        "whyCorrect": "The gross findings section records the macroscopic information, such as organ weights and appearance (for example, a cirrhotic liver), and may include photographs and radiographs.",
+        "whyWrongByChoice": {
+          "A": "The case discussion gives the pathologist's integrated opinion on the case, not the gross descriptions.",
+          "B": "The clinical summary provides pertinent clinical information from the medical record.",
+          "C": "The final anatomic diagnosis lists the diagnoses and pathologic findings, typically organized by organ system, rather than the raw macroscopic descriptions.",
+          "E": "Microscopic findings describe histologic observations made under the microscope, not organ weights."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autopsy report",
+        "gross findings"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-011",
+      "stem": "A patient's family calls the clinic after receiving an autopsy report noting 90% stenosis of the left anterior descending artery. They ask whether this finding was the cause of death. In which section of the report would the pathologist most likely provide an opinion on the significance of this stenosis within the clinical context?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additional findings"
+        },
+        {
+          "label": "B",
+          "text": "Case discussion"
+        },
+        {
+          "label": "C",
+          "text": "Final anatomic diagnosis"
+        },
+        {
+          "label": "D",
+          "text": "Gross findings"
+        },
+        {
+          "label": "E",
+          "text": "Microscopic findings"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The case discussion integrates clinical and pathologic findings and offers the pathologist's opinion on their significance.",
+        "whyCorrect": "The case discussion, or clinicopathologic correlation, is where the pathologist gives an opinion on the case and comments on the relevance of a finding, such as the significance of coronary stenosis, within the clinical context.",
+        "whyWrongByChoice": {
+          "A": "Additional findings cover ancillary studies such as toxicology and laboratory results.",
+          "C": "The final anatomic diagnosis would list the stenosis as a diagnosis but does not interpret its significance.",
+          "D": "Gross findings would describe the artery macroscopically but would not offer an interpretive opinion.",
+          "E": "Microscopic findings report histologic observations, not the clinical significance of a lesion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "autopsy report",
+        "case discussion"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-012",
+      "stem": "A treating clinician is completing a death certificate and must record the specific cause of death rather than a nonspecific terminal event. Which of the following would be least appropriate to list as the cause of death on the certificate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired immunodeficiency syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Asystole"
+        },
+        {
+          "label": "C",
+          "text": "Disseminated aspergillosis"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated fungal disease"
+        },
+        {
+          "label": "E",
+          "text": "Human immunodeficiency virus infection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Death certificates should record the specific cause, not nonspecific terminal events such as asystole or multiorgan failure.",
+        "whyCorrect": "A critical role of the death certificate is documenting the specific cause of death. In general, terminal events such as asystole (lack of a heartbeat) and nonspecific physiologic derangements such as multiorgan failure are not included; the specific cause and contributing conditions are recorded instead.",
+        "whyWrongByChoice": {
+          "A": "Acquired immunodeficiency syndrome is a specific contributing condition that can be listed as an underlying cause.",
+          "C": "Disseminated aspergillosis is a specific disease and an appropriate immediate cause of death, as shown in the brick's example.",
+          "D": "Disseminated fungal disease is a specific disease process appropriate for recording as a cause of death.",
+          "E": "Human immunodeficiency virus infection is a specific underlying cause that can appear in the causal sequence."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "death certificate",
+        "cause of death"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    }
+  ]
+}
