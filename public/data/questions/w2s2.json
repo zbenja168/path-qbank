@@ -3,6 +3,2836 @@
   "categoryName": "Session 2",
   "questions": [
     {
+      "id": "pa41-001",
+      "stem": "A 34-year-old man develops a painful, fluctuant swelling on his thigh several days after a scrape. Incision drains thick yellow material, and culture grows gram-positive cocci in clusters consistent with staphylococci. Which cell type would most likely dominate the inflammatory infiltrate in the lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epithelioid macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Multinucleated giant cells"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pyogenic bacteria such as staphylococci elicit suppurative inflammation dominated by neutrophils.",
+        "whyCorrect": "Suppurative (purulent) inflammation follows increased vascular permeability that lets leukocytes infiltrate, and the infiltrate is dominated by neutrophils. Pyogenic, pus-forming bacteria such as staphylococci are the most common cause. The neutrophil is therefore the cell that best distinguishes suppurative from mononuclear inflammation.",
+        "whyWrongByChoice": {
+          "A": "Epithelioid macrophages characterize granulomatous inflammation, not a pyogenic abscess.",
+          "B": "Lymphocytes dominate chronic (mononuclear) inflammation, as in viral infections, syphilis, or Sjogren disease.",
+          "C": "Multinucleated giant cells form from fused macrophages in granulomas, not in suppurative inflammation.",
+          "E": "Plasma cells accompany lymphocytes in lymphoplasmacytic inflammation such as primary and secondary syphilis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "suppurative inflammation",
+        "abscess",
+        "neutrophils"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-002",
+      "stem": "A 58-year-old man has a destructive lesion of the palate. He reports a painless genital ulcer about 18 years ago that was never treated, and treponemal serology is positive. Which histologic pattern would a biopsy of the palatal lesion most likely show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense fibrosis without inflammatory cells"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation (a gumma)"
+        },
+        {
+          "label": "C",
+          "text": "Multinucleation with nuclear molding"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil-rich abscess with pus"
+        },
+        {
+          "label": "E",
+          "text": "Perivascular lymphoplasmacytic infiltrate only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tertiary syphilis, years to decades after untreated infection, shifts to a granulomatous pattern called a gumma.",
+        "whyCorrect": "In primary and secondary syphilis, lymphocytes and plasma cells predominate around blood vessels. Tertiary syphilis occurs at least 5 years and often 15-20 years after an untreated infection, and the inflammation becomes granulomatous; these granulomas are clinically called gummas. An 18-year interval places this lesion in the tertiary stage.",
+        "whyWrongByChoice": {
+          "A": "Scarring occurs with chronic inflammation, but tertiary syphilis is defined by granulomatous inflammation.",
+          "C": "Multinucleation with nuclear molding is a viral cytopathic change, as in HSV infection.",
+          "D": "Neutrophil-rich abscesses reflect pyogenic bacteria such as staphylococci, not Treponema pallidum.",
+          "E": "A purely perivascular lymphoplasmacytic pattern is the picture of primary and secondary syphilis, not the tertiary stage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "syphilis",
+        "gumma",
+        "granulomatous inflammation"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-003",
+      "stem": "A 47-year-old man has an upper-lobe lung nodule. Biopsy shows granulomas with central necrosis and multinucleated giant cells. The pathologist wants to evaluate whether mycobacteria are present within the granulomas. Which special stain is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acid-fast bacilli (AFB) stain"
+        },
+        {
+          "label": "B",
+          "text": "Examination under polarized light"
+        },
+        {
+          "label": "C",
+          "text": "Immunofluorescence for IgA"
+        },
+        {
+          "label": "D",
+          "text": "Prussian blue iron stain"
+        },
+        {
+          "label": "E",
+          "text": "Silver stain for spirochetes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An AFB stain highlights mycobacteria, whose mycolic acid-rich waxy wall retains stain after acid alcohol.",
+        "whyCorrect": "Mycobacterium tuberculosis is an aerobic rod whose waxy cell wall contains mycolic acid, which lets it retain stain after treatment with acid alcohol; hence it is 'acid-fast.' An AFB stain is used to evaluate whether mycobacteria are present in a granuloma, especially one with central (caseous) necrosis.",
+        "whyWrongByChoice": {
+          "B": "Polarized light reveals birefringent foreign material such as talc, not mycobacteria.",
+          "C": "IgA immunofluorescence demonstrates the deposits of Henoch-Schonlein purpura.",
+          "D": "Prussian blue highlights hemosiderin in macrophages after hemorrhage, as in Goodpasture syndrome.",
+          "E": "Silver staining shows the corkscrew spirochetes of Treponema pallidum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tuberculosis",
+        "AFB stain",
+        "caseating granuloma"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-004",
+      "stem": "A 29-year-old man with a history of injecting crushed pills and heroin has progressive dyspnea. Lung biopsy shows epithelioid and multinucleated giant cells clustered near small blood vessels around white, jagged particles that appear bright under polarized light. Which is the most likely cause of these granulomas?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fungal infection of the lung"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "C",
+          "text": "Mycobacterium tuberculosis infection"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoidosis of the lung"
+        },
+        {
+          "label": "E",
+          "text": "Talc foreign body reaction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Injected drugs can carry talc into the lungs, provoking a perivascular foreign body granulomatous reaction with birefringent material.",
+        "whyCorrect": "Inhaled or injected drugs such as heroin or cocaine can introduce foreign material such as talc into the bloodstream and lungs. Classically, the foreign body granulomatous reaction is seen near blood vessels, and the birefringent material (two refractive indices) appears bright under polarized light.",
+        "whyWrongByChoice": {
+          "A": "Fungi can cause granulomas, but they do not account for bright, jagged polarizable material.",
+          "B": "GPA shows necrotizing granulomatous vasculitis with PR3-ANCA, not birefringent particles.",
+          "C": "Tuberculous granulomas show caseous necrosis and acid-fast organisms, not polarizable particles.",
+          "D": "Sarcoidosis forms non-necrotizing granulomas without foreign material and is a diagnosis of exclusion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "foreign body granuloma",
+        "talc",
+        "polarized light"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-005",
+      "stem": "A 25-year-old woman has painful vesicles on the vulva. A smear from the base of a lesion shows epithelial cells with several nuclei that press against and conform to one another, with chromatin condensed into dark peripheral rims. Which agent is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of HSV infection.",
+        "whyCorrect": "Viruses that replicate within cells produce a cytopathic-cytoproliferative reaction. In herpes simplex virus infection, cytopathic changes include multinucleation, nuclear molding (shape-conforming of adjacent nuclei) and nuclear margination (condensation of chromatin into dark peripheral rings). Damaged epithelium can detach with serous effusion, forming blisters.",
+        "whyWrongByChoice": {
+          "A": "Longstanding hepatitis B infection causes chronic inflammation and scarring of the liver (cirrhosis).",
+          "C": "HPV causes cell proliferation, producing verrucous warts rather than molded multinucleated cells.",
+          "D": "Staphylococci are pyogenic and produce neutrophil-rich suppurative inflammation.",
+          "E": "Treponema pallidum causes perivascular lymphoplasmacytic inflammation, not viral cytopathic change."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cytopathic change",
+        "HSV",
+        "viral infection"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-006",
+      "stem": "A 27-year-old woman has a butterfly-shaped rash across her cheeks, joint pain, oral ulcers and proteinuria. Testing shows antinuclear and anti-double-stranded DNA antibodies. Which mechanism is primarily responsible for her widespread tissue inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ANCA-driven neutrophil injury to endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Antibodies binding a fixed basement membrane protein"
+        },
+        {
+          "label": "C",
+          "text": "Helper T-cell activation of macrophages into granulomas"
+        },
+        {
+          "label": "D",
+          "text": "IgE-mediated mast cell degranulation"
+        },
+        {
+          "label": "E",
+          "text": "Immune complex deposition activating complement"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SLE is a type 3 hypersensitivity disease: immune complexes deposit and activate complement, causing widespread inflammation.",
+        "whyCorrect": "Systemic lupus erythematosus is due to a type 3 hypersensitivity reaction (immune complex deposition), which activates complement and leads to widespread inflammation. This accounts for its multiform presentation, including malar rash, arthritis, serositis, renal injury and oral ulcers.",
+        "whyWrongByChoice": {
+          "A": "ANCA (PR3) activation of neutrophils that damage endothelium is the mechanism of GPA.",
+          "B": "Antibodies against a basement membrane component (type IV collagen) cause Goodpasture syndrome.",
+          "C": "Helper T-cell activation of macrophages producing non-necrotizing granulomas describes sarcoidosis.",
+          "D": "IgE-mediated mast cell degranulation is not the mechanism of SLE."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SLE",
+        "type 3 hypersensitivity",
+        "immune complex"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-007",
+      "stem": "A 22-year-old man presents with coughing up blood, and chest imaging shows focal consolidations. Over the next two weeks his creatinine rises rapidly and urinalysis shows hematuria. He has no sinus or nasal symptoms. Circulating autoantibodies in this condition are most likely directed against which target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A component of type IV collagen"
+        },
+        {
+          "label": "B",
+          "text": "Double-stranded DNA in nuclei"
+        },
+        {
+          "label": "C",
+          "text": "Proteinase 3 in neutrophil granules"
+        },
+        {
+          "label": "D",
+          "text": "Smith (Sm) nuclear antigen"
+        },
+        {
+          "label": "E",
+          "text": "SS-A (Ro) and SS-B (La) antigens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Goodpasture syndrome is caused by autoantibodies to a component of type IV collagen, injuring lung and kidney.",
+        "whyCorrect": "Goodpasture (anti-glomerular basement membrane) syndrome is an uncommon autoimmune disease, most often in the teens or 20s and with a male predominance, in which circulating autoantibodies target a component of type IV collagen, the collagen of the basement membrane. Most cases begin with hemoptysis and lung consolidation from alveolar wall destruction, followed by glomerulonephritis that rapidly progresses to renal failure.",
+        "whyWrongByChoice": {
+          "B": "Anti-dsDNA antibodies support SLE, an immune complex disease.",
+          "C": "PR3-ANCA causes GPA, which classically also involves the upper respiratory tract.",
+          "D": "Anti-Sm antibodies are found in SLE, not in pulmonary-renal anti-basement membrane disease.",
+          "E": "SS-A (Ro) and SS-B (La) are the targets in Sjogren disease, which causes dry eyes and mouth."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Goodpasture syndrome",
+        "type IV collagen",
+        "pulmonary-renal"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-008",
+      "stem": "A 52-year-old woman has months of purulent and bloody nasal discharge and a collapsing nasal bridge. Chest imaging shows cavitary lung nodules, and urinalysis shows red cells with edema. Which laboratory finding is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-basement membrane collagen antibody"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA antibody"
+        },
+        {
+          "label": "C",
+          "text": "Anti-SS-A (Ro) antibody"
+        },
+        {
+          "label": "D",
+          "text": "Elevated serum angiotensin-converting enzyme"
+        },
+        {
+          "label": "E",
+          "text": "PR3-ANCA (previously c-ANCA)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "GPA presents with the upper respiratory, lung and kidney triad and is mediated by PR3-ANCA (previously c-ANCA).",
+        "whyCorrect": "Granulomatosis with polyangiitis is an autoimmune small-vessel vasculitis caused by antibodies to proteinase 3 (PR3-ANCA, previously c-ANCA). Its classic triad is upper respiratory tract, lung and kidney involvement: nasal or sinus inflammation causing purulent or bloody discharge and saddle nose deformity, lung nodules or cavities, and nephritic syndrome.",
+        "whyWrongByChoice": {
+          "A": "Anti-basement membrane antibodies cause Goodpasture syndrome, which spares the upper airway.",
+          "B": "Anti-dsDNA supports SLE, which does not cause saddle nose deformity or cavitary nodules.",
+          "C": "Anti-SS-A (Ro) is the antibody of Sjogren disease, which causes dry eyes and mouth.",
+          "D": "Elevated serum ACE supports sarcoidosis, which typically shows bilateral hilar lymphadenopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPA",
+        "PR3-ANCA",
+        "vasculitis"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-009",
+      "stem": "A 6-year-old boy has raised purpuric lesions on his buttocks and the extensor surfaces of his legs, crampy abdominal pain with blood in the stool, knee pain and microscopic hematuria. Skin biopsy shows small-vessel vasculitis with immune deposits. Which deposit composition is most characteristic of his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-dsDNA IgG with complement"
+        },
+        {
+          "label": "B",
+          "text": "IgA with complement C3"
+        },
+        {
+          "label": "C",
+          "text": "IgE bound to dermal mast cells"
+        },
+        {
+          "label": "D",
+          "text": "IgG against type IV collagen"
+        },
+        {
+          "label": "E",
+          "text": "PR3-ANCA with necrotizing granulomas"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Henoch-Schonlein purpura (IgA vasculitis) is an immune complex disease with IgA (with or without IgG) and C3.",
+        "whyCorrect": "Henoch-Schonlein purpura is a childhood syndrome (most common at 3-8 years) of purpuric skin lesions on the extensor arms and legs and buttocks, abdominal pain and intestinal bleeding, arthralgias and renal abnormalities. Like SLE it is due to immune complex deposition, but the complexes usually contain IgA, with or without IgG, and complement (C3).",
+        "whyWrongByChoice": {
+          "A": "Anti-dsDNA immune complexes point to SLE; the IgA-dominant complexes here define HSP.",
+          "C": "IgE bound to mast cells is not the deposit in this immune complex vasculitis.",
+          "D": "IgG against type IV collagen is the autoantibody of Goodpasture syndrome.",
+          "E": "PR3-ANCA with necrotizing granulomatous vasculitis defines GPA, which is not an IgA immune complex disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Henoch-Schonlein purpura",
+        "IgA vasculitis",
+        "immune complex"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-010",
+      "stem": "A 31-year-old African-American woman has cough and dyspnea. Chest x-ray shows bilateral hilar lymphadenopathy, and transbronchial biopsy shows non-necrotizing granulomas, one containing a star-shaped body within a cleared space. Serum ACE is elevated. Which statement best describes how a diagnosis of sarcoidosis is established?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A negative PPD skin test confirms it"
+        },
+        {
+          "label": "B",
+          "text": "An elevated serum ACE level confirms it"
+        },
+        {
+          "label": "C",
+          "text": "Asteroid bodies in histiocytes confirm it"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral hilar lymphadenopathy confirms it"
+        },
+        {
+          "label": "E",
+          "text": "Other causes such as infection must be excluded"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sarcoidosis is a diagnosis of exclusion; other causes of granulomas, such as infection, must be ruled out.",
+        "whyCorrect": "Sarcoidosis is an idiopathic systemic granulomatous disease, and its diagnosis is one of exclusion: every other possibility for the granulomatous inflammation, such as infectious etiologies, must be excluded. Asteroid bodies, bilateral hilar lymphadenopathy and an elevated serum ACE are supportive, but none is specific on its own.",
+        "whyWrongByChoice": {
+          "A": "A negative PPD alone does not exclude every infectious or other cause of granulomas.",
+          "B": "Elevated serum ACE is a helpful laboratory finding, not a confirmatory test.",
+          "C": "Asteroid bodies may be seen in sarcoidosis but are not specific.",
+          "D": "Bilateral hilar lymphadenopathy is the classic imaging finding but does not exclude other granulomatous causes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sarcoidosis",
+        "diagnosis of exclusion",
+        "granuloma"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-011",
+      "stem": "A 45-year-old woman has a solitary lung nodule. Biopsy shows a granuloma with central necrosis surrounded by epithelioid macrophages and giant cells. An AFB stain on the section is negative. Which conclusion is most appropriate at this point?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A foreign body reaction is confirmed by the giant cells"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune disease is excluded because necrosis is present"
+        },
+        {
+          "label": "C",
+          "text": "Fungal or parasitic infection remains in the differential"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoidosis is confirmed because the AFB stain is negative"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculosis is confirmed because necrosis is present"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Necrotic granulomas are not diagnostic of tuberculosis; fungi, parasites and immune-related diseases can also produce them.",
+        "whyCorrect": "Infectious granulomas often show central necrosis, but granulomas also form in response to certain fungi and parasites, so identifying necrotic granulomas is not diagnostic of tuberculosis. Some autoimmune granulomatous diseases also feature necrosis. The pattern narrows the differential rather than making the diagnosis, so other infectious causes must still be considered.",
+        "whyWrongByChoice": {
+          "A": "Giant cells occur in granulomas of many causes; a foreign body reaction needs identifiable foreign material.",
+          "B": "Some autoimmune granulomatous diseases, such as GPA, feature necrosis, so necrosis does not exclude them.",
+          "D": "Sarcoidosis produces non-necrotizing granulomas and requires excluding infection; a necrotic granuloma argues against it.",
+          "E": "Necrotic granulomas also occur with fungi, parasites and some autoimmune diseases, so necrosis alone does not confirm tuberculosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "granuloma",
+        "necrosis",
+        "differential diagnosis"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-012",
+      "stem": "A 40-year-old man has chronic sinus congestion with nasal crusting, recent hemoptysis and a creatinine that has doubled over three weeks. Urinalysis shows red cell casts. Which biopsy finding would most strongly support the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granulomas with acid-fast organisms"
+        },
+        {
+          "label": "B",
+          "text": "Mesangial IgA deposits on immunofluorescence"
+        },
+        {
+          "label": "C",
+          "text": "Necrotizing granulomatous inflammation of small vessels"
+        },
+        {
+          "label": "D",
+          "text": "Non-necrotizing granulomas with asteroid bodies"
+        },
+        {
+          "label": "E",
+          "text": "Perivascular lymphoplasmacytic cuffs with spirochetes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GPA shows a necrotizing granulomatous vasculitis of small-to-medium vessels with rapidly progressive glomerulonephritis.",
+        "whyCorrect": "Upper respiratory, lung and kidney involvement is the classic triad of granulomatosis with polyangiitis. Histologically GPA shows a necrotizing, granulomatous vasculitis of small-to-medium sized vessels, often with multinucleated giant cells, together with rapidly progressive glomerulonephritis.",
+        "whyWrongByChoice": {
+          "A": "Caseating granulomas with acid-fast organisms indicate tuberculosis, not vasculitis.",
+          "B": "Mesangial IgA deposits indicate Henoch-Schonlein purpura, which lacks upper airway disease and usually affects children.",
+          "D": "Non-necrotizing granulomas with asteroid bodies suggest sarcoidosis, which is not a necrotizing vasculitis.",
+          "E": "Perivascular lymphoplasmacytic cuffs with spirochetes indicate primary or secondary syphilis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "GPA",
+        "necrotizing granulomatous vasculitis",
+        "pulmonary-renal"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-001",
+      "stem": "A 24-year-old man with end-stage renal disease receives a kidney donated by his identical twin brother. Which of the following terms best describes this type of graft?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allograft"
+        },
+        {
+          "label": "B",
+          "text": "Autograft"
+        },
+        {
+          "label": "C",
+          "text": "Homograft"
+        },
+        {
+          "label": "D",
+          "text": "Isograft"
+        },
+        {
+          "label": "E",
+          "text": "Xenograft"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An isograft is tissue transferred between genetically identical individuals of the same species, such as identical twins.",
+        "whyCorrect": "The brick defines an isograft as tissue transferred between individuals of the same species who are genetically identical. Because identical twins share the same genome, a transplant between them is an isograft, which minimizes the risk of immune rejection.",
+        "whyWrongByChoice": {
+          "A": "An allograft is between genetically different individuals of the same species, not identical twins.",
+          "B": "An autograft transfers tissue from one body site to another on the same individual, not between two people.",
+          "C": "Homograft is not one of the four graft types defined in this brick (autograft, isograft, allograft, xenograft).",
+          "E": "A xenograft is between different species, such as animal tissue placed into a human."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transplantation",
+        "graft types",
+        "isograft"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-002",
+      "stem": "A 58-year-old woman with cirrhosis receives a liver from a deceased, genetically unrelated human donor. Which of the following terms best describes this type of graft, which represents the most common transplant performed in medicine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allograft"
+        },
+        {
+          "label": "B",
+          "text": "Autograft"
+        },
+        {
+          "label": "C",
+          "text": "Intergraft"
+        },
+        {
+          "label": "D",
+          "text": "Isograft"
+        },
+        {
+          "label": "E",
+          "text": "Xenograft"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An allograft is tissue transferred between genetically different individuals of the same species and is the most common transplant type.",
+        "whyCorrect": "The brick states that an allograft is tissue transferred between genetically different individuals of the same species. Because most donors and recipients are non-identical humans, allografting is the most common transplant performed in medicine.",
+        "whyWrongByChoice": {
+          "B": "An autograft moves tissue from one part of a patient's body to another on the same person.",
+          "C": "Intergraft is a horticultural term for grafting plants, not a category of human transplantation.",
+          "D": "An isograft is between genetically identical individuals such as identical twins.",
+          "E": "A xenograft is between different species, not two humans."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transplantation",
+        "graft types",
+        "allograft"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-003",
+      "stem": "A transplant team struggles to find a compatible donor for a patient because of the extremely high genetic variability (polymorphism) of a particular gene family. Which of the following genes is most responsible for making the donor-recipient matching process so difficult?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABO blood group genes"
+        },
+        {
+          "label": "B",
+          "text": "Antinuclear antibody genes"
+        },
+        {
+          "label": "C",
+          "text": "HLA genes"
+        },
+        {
+          "label": "D",
+          "text": "IgE gene"
+        },
+        {
+          "label": "E",
+          "text": "Interleukin-1 gene"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HLA genes are highly polymorphic, which makes finding a compatible donor difficult.",
+        "whyCorrect": "The brick emphasizes that HLA genes have high genetic variability (polymorphism), which often makes it difficult to find compatible donors. HLA genes encode MHC molecules used to distinguish self from non-self, and mismatches drive rejection.",
+        "whyWrongByChoice": {
+          "A": "ABO genes are important in matching but are not highly polymorphic like HLA genes.",
+          "B": "Antinuclear antibodies are seen in autoimmune disease such as lupus and are not involved in transplant compatibility.",
+          "D": "IgE is an antibody notable in type 1 hypersensitivity, not transplant matching.",
+          "E": "Interleukin-1 is a circulating cytokine of inflammation; its gene is not involved in transplant compatibility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA",
+        "polymorphism",
+        "transplant matching"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-004",
+      "stem": "The HLA gene complex is located on the short arm of chromosome 6 and is organized into three classes. Which of the following correctly pairs an HLA class with the genes it contains?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Class I contains HLA-A, HLA-B, and HLA-C"
+        },
+        {
+          "label": "B",
+          "text": "Class I contains HLA-DP, HLA-DQ, and HLA-DR"
+        },
+        {
+          "label": "C",
+          "text": "Class II contains HLA-A, HLA-B, and HLA-C"
+        },
+        {
+          "label": "D",
+          "text": "Class II encodes cytokines rather than MHC molecules"
+        },
+        {
+          "label": "E",
+          "text": "Class III contains HLA-DR only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Class I HLA genes are HLA-A, HLA-B, and HLA-C; class II genes are HLA-DP, HLA-DQ, and HLA-DR.",
+        "whyCorrect": "Per the brick, there are three class I HLA genes (HLA-A, HLA-B, HLA-C) and three class II HLA genes (HLA-DP, HLA-DQ, HLA-DR). Both class I and class II genes encode MHC molecules and are critical to transplant matching.",
+        "whyWrongByChoice": {
+          "B": "HLA-DP, HLA-DQ, and HLA-DR are class II genes, not class I.",
+          "C": "HLA-A, HLA-B, and HLA-C are class I genes, not class II.",
+          "D": "Class II genes encode MHC molecules; it is the class III genes that encode cytokines.",
+          "E": "Class III genes encode other molecules such as cytokines and do not contain HLA-DR."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA",
+        "MHC",
+        "chromosome 6"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-005",
+      "stem": "An organ procurement organization notes that a deceased donor's blood type lacks A and B antigens, allowing donation to recipients of any ABO type. Which of the following blood types did this donor most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rh-negative"
+        },
+        {
+          "label": "B",
+          "text": "Type A"
+        },
+        {
+          "label": "C",
+          "text": "Type AB"
+        },
+        {
+          "label": "D",
+          "text": "Type B"
+        },
+        {
+          "label": "E",
+          "text": "Type O"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Type O individuals lack A and B antigens, making them universal donors.",
+        "whyCorrect": "The brick explains that people with type O blood do not have A or B antigens on their red blood cells. Because recipient anti-AB antibodies will not react against O-type cells, type O donors are considered 'universal' transplant donors.",
+        "whyWrongByChoice": {
+          "A": "Rh status refers to a separate antigen system and does not define the universal donor concept described here for ABO.",
+          "B": "Type A blood carries the A antigen, which would react with anti-A antibodies in some recipients.",
+          "C": "Type AB carries both A and B antigens and is the least universal donor.",
+          "D": "Type B blood carries the B antigen, which would react with anti-B antibodies in some recipients."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ABO",
+        "blood type",
+        "universal donor"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-006",
+      "stem": "A 40-year-old kidney transplant recipient is started on an immunosuppressive medication that prevents rejection specifically by inhibiting lymphocyte proliferation. Which of the following drugs is most consistent with this mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous immunoglobulin (IVIG)"
+        },
+        {
+          "label": "B",
+          "text": "Mycophenolate mofetil"
+        },
+        {
+          "label": "C",
+          "text": "Plasmapheresis"
+        },
+        {
+          "label": "D",
+          "text": "Prednisone"
+        },
+        {
+          "label": "E",
+          "text": "Tacrolimus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mycophenolate mofetil is an immunosuppressant that inhibits lymphocyte proliferation.",
+        "whyCorrect": "The brick specifically states that mycophenolate mofetil inhibits lymphocyte proliferation, whereas tacrolimus inhibits T-cell responses. Blocking lymphocyte proliferation dampens the recipient immune response against the graft.",
+        "whyWrongByChoice": {
+          "A": "IVIG is used to treat rejection, not as a maintenance drug that inhibits lymphocyte proliferation.",
+          "C": "Plasmapheresis removes offending antibodies from the circulation and is a treatment for rejection, not a lymphocyte-proliferation inhibitor.",
+          "D": "Steroids such as prednisone are broad anti-inflammatory immunosuppressants and are not described as inhibiting lymphocyte proliferation specifically.",
+          "E": "Tacrolimus inhibits T-cell responses rather than acting primarily by blocking lymphocyte proliferation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunosuppression",
+        "mycophenolate",
+        "pharmacology"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-007",
+      "stem": "A 55-year-old woman with cirrhosis is being ranked for a liver transplant. Her physician calculates a numeric score from her bilirubin, sodium, albumin, creatinine, and INR to determine medical urgency. Which of the following scores is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extended criteria donor score"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocyte cross-match"
+        },
+        {
+          "label": "C",
+          "text": "MELD score"
+        },
+        {
+          "label": "D",
+          "text": "PELD score"
+        },
+        {
+          "label": "E",
+          "text": "Status 1 designation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The MELD score ranks liver transplant urgency in patients age 12 or older using bilirubin, sodium, albumin, creatinine, and INR.",
+        "whyCorrect": "The brick describes the MELD (Model for End-Stage Liver Disease) score as a numeric score used in patients age 12 or older that includes bilirubin, sodium, albumin, creatinine, and prothrombin time expressed as INR.",
+        "whyWrongByChoice": {
+          "A": "Extended criteria donor refers to risk features of a deceased donor, not a recipient urgency score.",
+          "B": "Lymphocyte cross-matching detects recipient antibodies against donor lymphocytes; it is not a liver urgency score.",
+          "D": "The PELD score is used in patients younger than 12 and includes height and weight, which are not listed here.",
+          "E": "Status 1 is a categorical highest-priority designation for fulminant failure, not a numeric score calculated from these labs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "liver allocation",
+        "MELD",
+        "medical urgency"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-008",
+      "stem": "A 30-year-old man develops fulminant hepatic failure and is at the highest risk of death without immediate transplantation. He is given a listing designation that supersedes his MELD score. Which of the following best describes this designation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extended criteria donor"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocyte cross-match positive"
+        },
+        {
+          "label": "C",
+          "text": "PELD score"
+        },
+        {
+          "label": "D",
+          "text": "Status 1 designation"
+        },
+        {
+          "label": "E",
+          "text": "Universal donor status"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Status 1 designation is given to patients in fulminant hepatic failure and supersedes the MELD score.",
+        "whyCorrect": "The brick states that patients can be designated Status 1, usually those in fulminant hepatic failure, and that this designation supersedes the MELD score to prioritize them for a liver.",
+        "whyWrongByChoice": {
+          "A": "Extended criteria donor describes a deceased donor with certain risk factors, not a recipient priority listing.",
+          "B": "A positive lymphocyte cross-match indicates preformed recipient antibodies and does not confer transplant priority.",
+          "C": "The PELD score is a numeric urgency score for children under 12, not a designation that overrides MELD.",
+          "E": "Universal donor refers to a type O blood donor, unrelated to liver listing priority."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "liver allocation",
+        "Status 1",
+        "fulminant hepatic failure"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-009",
+      "stem": "A transplant surgeon requests a rapid assessment of a donor liver's viability at the time of procurement so that a decision to use the organ can be made quickly. Which of the following is the primary method used to evaluate pre-transplant organs for viability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Electron microscopy"
+        },
+        {
+          "label": "B",
+          "text": "Frozen section evaluation"
+        },
+        {
+          "label": "C",
+          "text": "Gross evaluation alone"
+        },
+        {
+          "label": "D",
+          "text": "Immunofluorescence staining"
+        },
+        {
+          "label": "E",
+          "text": "Routine (permanent) histology"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Frozen section evaluation provides the rapid microscopic assessment needed to judge a donor organ's viability at procurement.",
+        "whyCorrect": "The brick explains that frozen section, in which a portion of tissue is frozen and cut, gives a more immediate microscopic evaluation of pathology, which is what the transplant surgeon needs to quickly decide whether the organ is ready for transplant.",
+        "whyWrongByChoice": {
+          "A": "Electron microscopy is a slow, specialized technique not used for rapid intraoperative viability decisions.",
+          "C": "Gross evaluation may be performed but does not provide the microscopic assessment of the degree of pathology.",
+          "D": "Immunofluorescence is used to detect immune deposits and is not the primary rapid method for donor organ viability.",
+          "E": "Routine permanent histology gives microscopic detail but takes much longer, so it cannot provide the quick assessment needed at procurement."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "donor evaluation",
+        "frozen section",
+        "organ viability"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-010",
+      "stem": "During frozen-section evaluation of a potential donor liver, the pathologist reports 65% macrovesicular steatosis. Based on standard criteria described for donor liver assessment, this finding is best interpreted as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absolute contraindication"
+        },
+        {
+          "label": "B",
+          "text": "Acceptable finding with no impact on transplant"
+        },
+        {
+          "label": "C",
+          "text": "Diagnostic of acute graft rejection"
+        },
+        {
+          "label": "D",
+          "text": "Evidence of donor viral infection"
+        },
+        {
+          "label": "E",
+          "text": "Relative contraindication only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Greater than 60% macrovesicular steatosis is an absolute contraindication to using a donor liver.",
+        "whyCorrect": "The brick states that greater than 30% macrovesicular steatosis is a relative contraindication associated with poor early graft function, while greater than 60% macrovesicular steatosis is an absolute contraindication, meaning the organ will not be used. At 65%, this liver crosses the absolute threshold.",
+        "whyWrongByChoice": {
+          "B": "Steatosis of this degree is not benign; it strongly predicts poor early graft function.",
+          "C": "Rejection is assessed after transplantation, not during pre-transplant donor evaluation, and steatosis is not a rejection finding.",
+          "D": "Steatosis reflects fat accumulation within hepatocytes, not viral infection of the donor liver.",
+          "E": "A relative contraindication applies at greater than 30%; at greater than 60% the finding becomes absolute."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "donor liver",
+        "steatosis",
+        "contraindication"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-011",
+      "stem": "During frozen-section evaluation of a donor kidney, the pathologist identifies glomeruli showing scarring and hyalinization involving more than half of the glomerular tuft. Which of the following best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute tubular necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Arterial sclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Arteriolar hyalinization"
+        },
+        {
+          "label": "D",
+          "text": "Global glomerulosclerosis"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial fibrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Global glomerulosclerosis is scarring or hyalinization of more than half of the glomerulus.",
+        "whyCorrect": "The brick defines global glomerulosclerosis as scarring/hyalinization of more than half of the glomerulus. It is one of the common donor kidney pathologies assessed on frozen section to determine organ viability.",
+        "whyWrongByChoice": {
+          "A": "Acute tubular necrosis involves tubular epithelial injury and is not the glomerular scarring described here.",
+          "B": "Arterial sclerosis is intimal thickening of arteries between the endothelium and internal elastic lamina.",
+          "C": "Arteriolar hyalinization is thickening of arteriole walls by homogenous eosinophilic protein material, not scarring of the glomerulus.",
+          "E": "Interstitial fibrosis affects the interstitium and tubules, not the glomerular tuft."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "donor kidney",
+        "glomerulosclerosis",
+        "renal pathology"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa22-012",
+      "stem": "A 48-year-old man who received a kidney transplant 3 years ago remains on lifelong immunosuppressive therapy. He is counseled about the long-term consequences of his medications. Which of the following is the MOST common long-term consequence of his immunosuppressive therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "B",
+          "text": "Increased risk of infection"
+        },
+        {
+          "label": "C",
+          "text": "Increased risk of malignancy"
+        },
+        {
+          "label": "D",
+          "text": "Organ rejection"
+        },
+        {
+          "label": "E",
+          "text": "Recurrence of the primary disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Long-term immunosuppression most commonly increases the risk of infection, which is more common than malignancy.",
+        "whyCorrect": "The brick states that transplant patients on long-term immunosuppressive therapy are prone to an increased risk of infection and an increased risk of malignancy, but that infections are much more common than malignancy.",
+        "whyWrongByChoice": {
+          "A": "Graft-versus-host disease is not described as a common long-term consequence of solid-organ immunosuppression in this brick.",
+          "C": "Increased malignancy risk (particularly EBV-related lymphoma) is a real consequence but is less common than infection.",
+          "D": "Organ rejection is a risk that is decreased, not increased, by immunosuppressive therapy.",
+          "E": "Recurrence of the primary disease relates to the original disease process rather than to the immunosuppressive therapy itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunosuppression",
+        "long-term consequences",
+        "infection"
+      ],
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-001",
+      "stem": "A 48-year-old man undergoes kidney transplantation. Within minutes of vascular anastomosis, the surgeon notes that the graft becomes mottled, cyanotic, and flaccid. Biopsy shows platelet-fibrin thrombi and severe ischemic injury within glomeruli. Which of the following best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD8+ T-cell-mediated destruction of graft parenchymal cells"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of IgE antibodies on mast cells"
+        },
+        {
+          "label": "C",
+          "text": "Donor T cells attacking recipient tissues"
+        },
+        {
+          "label": "D",
+          "text": "Intimal smooth muscle proliferation causing vessel occlusion"
+        },
+        {
+          "label": "E",
+          "text": "Pre-formed recipient antibodies"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hyperacute rejection occurs within minutes to 24 hours due to pre-formed recipient antibodies.",
+        "whyCorrect": "Hyperacute rejection occurs within minutes to 24 hours after transplant when the recipient already has pre-formed antibodies that react against ABO blood group antigens or type I MHC molecules on graft endothelial cells. These antibodies trigger the complement cascade, producing thrombosis, ischemia, and necrosis, which matches the platelet-fibrin thrombi seen on biopsy.",
+        "whyWrongByChoice": {
+          "A": "CD8+ T-cell destruction of graft cells describes acute cellular rejection, which occurs one week to several months later, not within minutes.",
+          "B": "IgE on mast cells mediates type I hypersensitivity (anaphylaxis, allergy), not antibody-mediated graft thrombosis.",
+          "C": "Donor T cells attacking recipient tissue describes graft-versus-host disease, seen mainly after bone marrow transplant, not immediate kidney graft failure.",
+          "D": "Intimal proliferation and vessel occlusion characterize chronic rejection, which develops over months to years."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperacute rejection",
+        "complement",
+        "transplant"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-002",
+      "stem": "A 52-year-old man received an allogeneic bone marrow transplant for acute leukemia. Two weeks later he develops a maculopapular skin rash and watery diarrhea. Which of the following cells is most directly responsible for his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Donor plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Donor T cells"
+        },
+        {
+          "label": "C",
+          "text": "Recipient B cells"
+        },
+        {
+          "label": "D",
+          "text": "Recipient natural killer cells"
+        },
+        {
+          "label": "E",
+          "text": "Recipient T cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GVHD is caused by donor T cells that recognize recipient tissue as foreign.",
+        "whyCorrect": "These symptoms are graft-versus-host disease after bone marrow transplant. Bone marrow transplant tissue contains many T cells, and in GVHD the donor's transplanted T cells recognize the recipient's tissues as foreign and attack organs such as the skin and gut, producing rash and diarrhea. GVHD is a type IV hypersensitivity reaction mediated by donor T cells.",
+        "whyWrongByChoice": {
+          "A": "Donor plasma cells produce antibody; GVHD injury results from donor T-cell cytotoxicity and cytokine release, not humoral immunity.",
+          "C": "Donor B cells have not been found to cause the symptoms of GVHD; the reaction is T-cell mediated.",
+          "D": "Recipient natural killer cells are not the described mediator of GVHD.",
+          "E": "Recipient T cells drive graft rejection, in which the recipient attacks the graft, the opposite direction of GVHD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GVHD",
+        "bone marrow transplant",
+        "donor T cells"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-003",
+      "stem": "A 45-year-old woman with diabetic nephropathy receives a kidney transplant. Intraoperatively the surgeon notes the organ is pale and poorly perfused; a thrombus has formed and is preventing perfusion of the graft. Which type of rejection is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute rejection"
+        },
+        {
+          "label": "B",
+          "text": "Chronic rejection"
+        },
+        {
+          "label": "C",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "D",
+          "text": "Hyperacute rejection"
+        },
+        {
+          "label": "E",
+          "text": "Subacute rejection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rejection occurring within minutes of transplantation is hyperacute.",
+        "whyCorrect": "The type of rejection described is hyperacute because it occurred within minutes of transplantation, with thrombosis and poor perfusion caused by pre-formed antibodies activating complement on the graft endothelium.",
+        "whyWrongByChoice": {
+          "A": "Acute rejection occurs about one week to several months after the transplant, not intraoperatively.",
+          "B": "Chronic rejection occurs months to years later and manifests as graft arteriosclerosis.",
+          "C": "Graft-versus-host disease occurs weeks to months after transplant and results mainly from bone marrow transplant, not from an immediate kidney thrombosis.",
+          "E": "Subacute rejection is not one of the recognized categories of transplant rejection described in the brick."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hyperacute rejection",
+        "kidney transplant",
+        "timing"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-004",
+      "stem": "A 39-year-old kidney transplant recipient develops rising creatinine 6 weeks after surgery. Biopsy shows inflammatory cells infiltrating between the epithelial cells of the tubules (tubulitis) and CD8+ T cells destroying graft cells. Which of the following best describes this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute antibody-mediated rejection"
+        },
+        {
+          "label": "B",
+          "text": "Acute cellular rejection"
+        },
+        {
+          "label": "C",
+          "text": "Chronic rejection"
+        },
+        {
+          "label": "D",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "E",
+          "text": "Hyperacute rejection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tubulitis with CD8+ T-cell-mediated graft cell killing defines acute cellular rejection.",
+        "whyCorrect": "Acute cellular rejection occurs when CD8+ T cells directly destroy graft cells or CD4+ T cells secrete cytokines and induce inflammation. On kidney biopsy it manifests as tubulitis, with inflammatory cells between the epithelial cells of the tubules, matching this patient's findings weeks after transplant.",
+        "whyWrongByChoice": {
+          "A": "Acute antibody-mediated rejection involves antibodies binding endothelium with complement activation and shows C4d deposition and capillaritis, not primarily T-cell tubulitis.",
+          "C": "Chronic rejection develops over months to years with graft arteriosclerosis and fibrosis.",
+          "D": "GVHD involves donor T cells attacking recipient tissue and is characteristic of bone marrow, not kidney, transplants.",
+          "E": "Hyperacute rejection occurs within minutes to 24 hours and shows thrombosis, not a T-cell tubulitis weeks later."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute cellular rejection",
+        "tubulitis",
+        "CD8 T cells"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-005",
+      "stem": "A 60-year-old kidney transplant recipient has worsening graft function 2 months post-transplant. Biopsy shows peritubular capillaritis, and an immunoperoxidase stain reveals C4d deposition in peritubular capillaries. Which mechanism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies binding vascular endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Direct CD8+ T-cell killing of tubular cells"
+        },
+        {
+          "label": "C",
+          "text": "Donor T cells attacking recipient endothelium"
+        },
+        {
+          "label": "D",
+          "text": "IgE-mediated release of mast cell mediators"
+        },
+        {
+          "label": "E",
+          "text": "Intimal smooth muscle proliferation occluding vessels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "C4d deposition marks acute antibody-mediated rejection.",
+        "whyCorrect": "In acute antibody-mediated rejection, antibodies bind to vascular endothelium and activate complement; the resulting inflammation and endothelial damage cause graft failure. The complement split product C4d deposited in peritubular capillaries, demonstrated by immunoperoxidase staining, is the diagnostic marker.",
+        "whyWrongByChoice": {
+          "B": "Direct CD8+ T-cell killing describes acute cellular rejection with tubulitis, which is not marked by C4d deposition.",
+          "C": "Donor T cells attacking the recipient describe GVHD, not antibody-mediated rejection of a kidney graft.",
+          "D": "IgE and mast cell mediators drive type I hypersensitivity, not complement-fixing antibody rejection of a graft.",
+          "E": "Intimal proliferation with vessel occlusion is a feature of chronic rejection, not C4d-positive antibody-mediated injury."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "antibody-mediated rejection",
+        "C4d",
+        "complement"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-006",
+      "stem": "A 55-year-old man who received a heart transplant 4 years ago develops progressive graft dysfunction. Angiography shows diffuse narrowing of the coronary arteries, and biopsy reveals graft arteriosclerosis with intimal smooth muscle proliferation. Which type of rejection does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute antibody-mediated rejection"
+        },
+        {
+          "label": "B",
+          "text": "Acute cellular rejection"
+        },
+        {
+          "label": "C",
+          "text": "Chronic rejection"
+        },
+        {
+          "label": "D",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "E",
+          "text": "Hyperacute rejection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Graft arteriosclerosis developing years after transplant is chronic rejection.",
+        "whyCorrect": "Chronic rejection can occur months to years after transplant and involves both cellular and humoral immune responses. It produces graft arteriosclerosis, with intimal smooth muscle proliferation and vessel occlusion, plus interstitial fibrosis and tubular atrophy, matching the coronary narrowing years after a heart transplant.",
+        "whyWrongByChoice": {
+          "A": "Acute antibody-mediated rejection occurs within weeks to months with C4d deposition, not years-long vascular remodeling.",
+          "B": "Acute cellular rejection occurs within weeks to months and shows T-cell tubulitis or endothelitis, not chronic arteriosclerosis.",
+          "D": "GVHD is a bone marrow transplant complication in which donor cells attack the recipient, not chronic coronary graft arteriosclerosis.",
+          "E": "Hyperacute rejection occurs within minutes to 24 hours with thrombosis, not slowly progressive arteriosclerosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic rejection",
+        "graft arteriosclerosis",
+        "heart transplant"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-007",
+      "stem": "A 30-year-old woman develops anaphylaxis after a bee sting, with hypotension, urticaria, and bronchospasm. This reaction is mediated by IgE causing release of mast cell mediators. Which type of hypersensitivity reaction is this, and which type of transplant rejection shares the antibody-mediated category most analogous to hyperacute rejection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I hypersensitivity; hyperacute rejection is type II"
+        },
+        {
+          "label": "B",
+          "text": "Type I hypersensitivity; hyperacute rejection is type IV"
+        },
+        {
+          "label": "C",
+          "text": "Type II hypersensitivity; hyperacute rejection is type I"
+        },
+        {
+          "label": "D",
+          "text": "Type III hypersensitivity; hyperacute rejection is type IV"
+        },
+        {
+          "label": "E",
+          "text": "Type IV hypersensitivity; hyperacute rejection is type III"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anaphylaxis is type I; hyperacute rejection is a type II (antibody-mediated) reaction.",
+        "whyCorrect": "Type I hypersensitivity is immediate, mediated by IgE antibodies that trigger release of mast cell mediators, producing anaphylaxis, allergies, and bronchial asthma. Hyperacute rejection, caused by pre-formed antibodies activating complement against graft endothelium, is classified as a type II hypersensitivity reaction.",
+        "whyWrongByChoice": {
+          "B": "Anaphylaxis is correctly type I, but hyperacute rejection is type II, not type IV.",
+          "C": "Anaphylaxis is not type II; type II involves IgG/IgM injuring cells, and hyperacute rejection is type II, not type I.",
+          "D": "Anaphylaxis is not type III (immune-complex); hyperacute rejection is not type IV.",
+          "E": "Anaphylaxis is not type IV (T-cell mediated); hyperacute rejection is not type III."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hypersensitivity",
+        "type I",
+        "type II"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-008",
+      "stem": "A 26-year-old man develops an intensely pruritic, vesicular rash 48 hours after his skin contacts poison ivy. Biopsy shows a T-cell-rich infiltrate with macrophage activation and no antibody deposition. Which type of hypersensitivity reaction is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I hypersensitivity"
+        },
+        {
+          "label": "B",
+          "text": "Type II hypersensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Type III hypersensitivity"
+        },
+        {
+          "label": "D",
+          "text": "Type IV hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "Type V hypersensitivity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Contact dermatitis is a delayed, T-cell-mediated type IV hypersensitivity reaction.",
+        "whyCorrect": "Type IV hypersensitivity reactions occur when T cells cause either direct cytotoxicity (CD8+ T cells) or induce inflammation and cytokine release (CD4+ T cells) with macrophage activation. Examples include contact dermatitis, type I diabetes, and graft-versus-host disease, consistent with this delayed poison ivy reaction.",
+        "whyWrongByChoice": {
+          "A": "Type I is IgE-mediated and immediate (anaphylaxis, allergy), not a delayed T-cell reaction.",
+          "B": "Type II involves IgG or IgM injuring cells by phagocytosis or lysis, not T-cell contact dermatitis.",
+          "C": "Type III involves immune-complex deposition (e.g., lupus, post-streptococcal glomerulonephritis), not cell-mediated contact dermatitis.",
+          "E": "Type V is not among the four hypersensitivity categories described in the brick."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "type IV hypersensitivity",
+        "contact dermatitis",
+        "T cells"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-009",
+      "stem": "A hematologist is counseling a patient before an allogeneic bone marrow transplant about the risk of graft-versus-host disease. Which of the following best explains why GVHD develops in this setting but is rare after solid organ transplants such as kidney?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow transplant tissue contains abundant donor T cells"
+        },
+        {
+          "label": "B",
+          "text": "Donor IgE triggers mast cell degranulation in the recipient"
+        },
+        {
+          "label": "C",
+          "text": "Immune complexes deposit in the recipient's bone marrow"
+        },
+        {
+          "label": "D",
+          "text": "Recipient CD8+ T cells reject the donor marrow"
+        },
+        {
+          "label": "E",
+          "text": "The recipient's pre-formed antibodies react against donor marrow"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "GVHD occurs because bone marrow grafts are rich in donor T cells that recognize recipient tissue as foreign.",
+        "whyCorrect": "Bone marrow transplant tissue typically contains a large number of T cells. Unlike graft rejection, in which the recipient's immune cells recognize the graft as foreign, in GVHD the donor's transplanted T cells recognize the recipient's tissues as foreign and attack the recipient's organs, causing severe organ dysfunction. This is why GVHD is characteristic of allogeneic bone marrow, not solid organ, transplants.",
+        "whyWrongByChoice": {
+          "B": "Donor IgE and mast cells describe type I hypersensitivity, which does not mediate GVHD.",
+          "C": "Immune-complex deposition is a type III hypersensitivity mechanism, not the basis of GVHD.",
+          "D": "Recipient CD8+ T cells rejecting the graft describes host-versus-graft rejection, the opposite of GVHD.",
+          "E": "Pre-formed recipient antibodies against a graft cause hyperacute rejection, not GVHD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GVHD",
+        "bone marrow transplant",
+        "donor T cells"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-010",
+      "stem": "A 47-year-old woman with GVHD after bone marrow transplant develops jaundice with a rising direct bilirubin. Which of the following histopathologic changes best accounts for her jaundice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Destruction of small bile ducts"
+        },
+        {
+          "label": "B",
+          "text": "Graft arteriosclerosis of hepatic arteries"
+        },
+        {
+          "label": "C",
+          "text": "Mucosal ulceration of the gut"
+        },
+        {
+          "label": "D",
+          "text": "Patchy epithelial cell death in the epidermis"
+        },
+        {
+          "label": "E",
+          "text": "Platelet-fibrin thrombi in hepatic sinusoids"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Jaundice in GVHD results from immune destruction of small bile ducts.",
+        "whyCorrect": "Patients with GVHD may present with jaundice caused by destruction of the small bile ducts, which impairs bile flow and raises bilirubin. This reflects donor T-cell-mediated attack on recipient hepatic tissue.",
+        "whyWrongByChoice": {
+          "B": "Graft arteriosclerosis is a feature of chronic solid-organ rejection, not the cause of GVHD-related jaundice.",
+          "C": "Mucosal ulceration of the gut causes the diarrhea of GVHD, not jaundice.",
+          "D": "Patchy epidermal cell death produces the maculopapular skin rash of GVHD, not jaundice.",
+          "E": "Platelet-fibrin thrombi characterize hyperacute rejection of a solid organ graft, not GVHD hepatic injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GVHD",
+        "jaundice",
+        "bile ducts"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-011",
+      "stem": "A 60-year-old man is being evaluated for a bone marrow transplant and asks about his risk of graft-versus-host disease. Which of the following is a recognized risk factor for developing GVHD?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of any prior chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Autologous stem cell transplant"
+        },
+        {
+          "label": "C",
+          "text": "Complete depletion of donor T cells from the graft"
+        },
+        {
+          "label": "D",
+          "text": "Prior exposure to radiation"
+        },
+        {
+          "label": "E",
+          "text": "Young donor age with fully matched HLA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "GVHD occurs most frequently in recipients exposed to radiation or with leukemia, autoimmune disease, or immunodeficiency.",
+        "whyCorrect": "GVHD occurs most frequently in recipients who have been exposed to radiation or who have leukemia, autoimmune diseases, or immunodeficiencies. Other contributing factors include transplantation from female donors to male recipients. Some of this risk relates to immunosuppression of the recipient, reducing the ability to neutralize the donor T-lymphocyte attack.",
+        "whyWrongByChoice": {
+          "A": "Recipients are typically conditioned with chemotherapy to eradicate marrow; absence of chemotherapy is not a listed GVHD risk factor.",
+          "B": "GVHD requires an allogeneic (non-identical donor) graft; autologous transplants use the patient's own cells and do not cause GVHD.",
+          "C": "Depleting donor T cells removes the very cells that mediate GVHD, lowering the risk.",
+          "E": "A young, fully HLA-matched donor reduces rather than increases the alloreactivity that drives GVHD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GVHD",
+        "risk factors",
+        "radiation"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa23-012",
+      "stem": "A transplant team manages a kidney recipient on multiple immunosuppressive drugs. The team notes that standardized histologic criteria are used to diagnose and grade rejection across organs. Which criteria are used specifically for grading rejection in kidney transplants?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Banff criteria"
+        },
+        {
+          "label": "B",
+          "text": "Child-Pugh criteria"
+        },
+        {
+          "label": "C",
+          "text": "ISHLT criteria"
+        },
+        {
+          "label": "D",
+          "text": "Ranson criteria"
+        },
+        {
+          "label": "E",
+          "text": "TNM staging"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The Banff criteria are used to grade kidney transplant rejection.",
+        "whyCorrect": "Several histologic criteria have been created to diagnose and grade rejection for organ transplants. The Banff criteria are used for kidney transplants, while the ISHLT criteria are applied to heart transplants.",
+        "whyWrongByChoice": {
+          "B": "Child-Pugh criteria grade chronic liver disease severity, not graft rejection.",
+          "C": "ISHLT criteria are used for heart transplant rejection, not kidney.",
+          "D": "Ranson criteria assess the severity of acute pancreatitis, not transplant rejection.",
+          "E": "TNM staging describes cancer extent, not transplant rejection grading."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Banff criteria",
+        "kidney transplant",
+        "grading"
+      ],
+      "topicId": "transplant-rejection",
+      "topicName": "Diseases of the Immune System: Transplant Rejection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-001",
+      "stem": "A 32-year-old man develops crampy abdominal pain and watery diarrhea two days after eating undercooked food at a picnic. Stool culture grows a bacterial pathogen. Which of the following is the most likely portal of entry for this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascension of the urethra"
+        },
+        {
+          "label": "B",
+          "text": "Direct inoculation through broken skin"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion via the fecal-oral route"
+        },
+        {
+          "label": "D",
+          "text": "Inhalation of aerosolized respiratory droplets"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde transport along peripheral nerves"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Most gastrointestinal pathogens enter through ingestion of food or water contaminated with fecal matter.",
+        "whyCorrect": "The GI tract is a common portal of entry when its defenses (gastric acid, peristalsis, IgA, and normal microbiota) are overcome. Food or water contaminated by feces delivers the organism, and abdominal pain with diarrhea points to a gut infection acquired by the fecal-oral route.",
+        "whyWrongByChoice": {
+          "A": "The urethra is the entry point for urinary tract, not gastrointestinal, pathogens.",
+          "B": "Broken skin is a portal for wound and catheter-associated infections, not enteric disease.",
+          "D": "Inhalation delivers respiratory pathogens to the airways, not organisms causing diarrhea.",
+          "E": "Retrograde neuronal transport is how certain viruses reach the CNS, not how gut bacteria are acquired."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "points of entry",
+        "fecal-oral",
+        "gastrointestinal"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-002",
+      "stem": "A physiologist studies how the upper airway resists infection. She observes that inhaled particles are trapped in a sticky mucus layer and swept by hair-like projections toward the throat, where they are cleared. Which of the following defense mechanisms is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antimicrobial fatty acids"
+        },
+        {
+          "label": "B",
+          "text": "Flushing flow of urine"
+        },
+        {
+          "label": "C",
+          "text": "Gastric acidity"
+        },
+        {
+          "label": "D",
+          "text": "Mucociliary clearance"
+        },
+        {
+          "label": "E",
+          "text": "Peristalsis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The respiratory tract relies on mucociliary clearance to trap and remove inhaled microbes.",
+        "whyCorrect": "Mucus traps large particles while cilia beat them toward the back of the throat for clearance; only small particles reach the alveoli, where immune cells phagocytose them. This trapping-and-sweeping description defines mucociliary clearance.",
+        "whyWrongByChoice": {
+          "A": "Antimicrobial fatty acids are a defense of the skin surface, not the airway.",
+          "B": "Urinary flushing is a urogenital defense that clears organisms from the urethra.",
+          "C": "Gastric acidity is a gastrointestinal defense that kills ingested organisms in the stomach.",
+          "E": "Peristalsis is the wave-like movement of the GI tract that prevents microbial overgrowth."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "points of entry",
+        "respiratory",
+        "mucociliary clearance"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-003",
+      "stem": "A 70-year-old woman hospitalized for pneumonia is treated with broad-spectrum antibiotics and then develops profuse watery diarrhea. Colonoscopy reveals adherent yellow-white plaques on the colonic mucosa, and toxin testing is positive. Which of the following best explains her increased susceptibility to this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breakdown of the keratinized epidermal barrier"
+        },
+        {
+          "label": "B",
+          "text": "Disruption of the normal gut microbiota"
+        },
+        {
+          "label": "C",
+          "text": "Impaired mucociliary clearance"
+        },
+        {
+          "label": "D",
+          "text": "Loss of gastric acid production"
+        },
+        {
+          "label": "E",
+          "text": "Obstruction of urine flow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Antibiotics disrupt the protective gut microbiota, allowing C. difficile overgrowth and pseudomembranous colitis.",
+        "whyCorrect": "The normal gut microbiota competes with arriving organisms and limits their colonization. Antibiotics kill this resident flora, letting C. difficile proliferate and release toxins A and B, which produce the inflammatory pseudomembrane seen on the mucosa.",
+        "whyWrongByChoice": {
+          "A": "The epidermal barrier guards the skin, not the gut lumen where this infection occurs.",
+          "C": "Mucociliary clearance is a respiratory defense, unrelated to colonic infection.",
+          "D": "Gastric acid protects against ingested organisms but is not the defense lost with antibiotic use.",
+          "E": "Urine flow is a urogenital defense and has no role in colonic colonization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gut microbiota",
+        "C. difficile",
+        "pseudomembranous colitis"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-004",
+      "stem": "A neonate develops purulent conjunctivitis three days after an uncomplicated vaginal delivery. The mother had an untreated sexually transmitted infection. Which of the following best describes how the pathogen was transmitted to the infant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exposure during passage through the birth canal"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous seeding from a distant maternal focus"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion of contaminated breast milk"
+        },
+        {
+          "label": "D",
+          "text": "Inhalation of maternal respiratory droplets"
+        },
+        {
+          "label": "E",
+          "text": "Transplacental spread during pregnancy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Some pathogens are transmitted vertically as the infant passes through the birth canal.",
+        "whyCorrect": "Exposure during passage through the birth canal transmits organisms such as Neisseria gonorrhoeae and Chlamydia trachomatis, leading to neonatal conjunctivitis. The timing right after vaginal delivery and the maternal genital infection point to this route.",
+        "whyWrongByChoice": {
+          "B": "Hematogenous seeding describes spread within a host's bloodstream, not mother-to-infant transmission.",
+          "C": "Breast milk transmits certain viruses (e.g., CMV, HIV, HBV) postnatally, not this early bacterial conjunctivitis.",
+          "D": "Respiratory droplet inhalation is a person-to-person route unrelated to this genital pathogen.",
+          "E": "Transplacental spread in utero characterizes TORCH agents and would cause congenital disease present at birth, not acquired during delivery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vertical transmission",
+        "birth canal",
+        "neonatal conjunctivitis"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-005",
+      "stem": "A 28-year-old man who injects drugs intravenously presents with fever and a new heart murmur. Echocardiography shows friable vegetations on a heart valve, and blood cultures are positive. Which of the following best explains how the organism reached the heart valve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct extension from an adjacent lung abscess"
+        },
+        {
+          "label": "B",
+          "text": "Fecal-oral ingestion"
+        },
+        {
+          "label": "C",
+          "text": "Hematogenous (bloodborne) dissemination"
+        },
+        {
+          "label": "D",
+          "text": "Mucociliary aspiration into the airway"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde axonal transport"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Infective endocarditis results from bloodborne spread of bacteria to the endocardium.",
+        "whyCorrect": "Intravenous drug use introduces skin flora directly into the bloodstream, producing septicemia that seeds the endocardium. This hematogenous dissemination allows bacteria to form friable valvular vegetations, the hallmark of infective endocarditis.",
+        "whyWrongByChoice": {
+          "A": "There is no adjacent lung abscess described, and endocarditis is not typically produced by direct extension.",
+          "B": "Fecal-oral ingestion is a portal for enteric infection, not for valve seeding.",
+          "D": "Aspiration deposits organisms in the airway, not on the endocardium.",
+          "E": "Retrograde axonal transport carries certain viruses to the CNS, not bacteria to heart valves."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dissemination",
+        "endocarditis",
+        "hematogenous spread"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-006",
+      "stem": "A 40-year-old man is bitten on the leg by a raccoon. Weeks later he develops difficulty swallowing, agitation, and a fatal encephalitis. By which of the following mechanisms did the causative virus most likely reach the central nervous system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct extension across intact skin"
+        },
+        {
+          "label": "B",
+          "text": "Fecal-oral spread to the gastrointestinal tract"
+        },
+        {
+          "label": "C",
+          "text": "Hematogenous spread through blood vessels"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic drainage to regional lymph nodes"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde axonal transport"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Some viruses travel to the CNS by retrograde axonal transport along peripheral nerves.",
+        "whyCorrect": "Certain viruses, including rabies, spread along nerves by retrograde axonal transport, moving from the bite site backward toward the central nervous system. The animal bite followed by fatal encephalitis is the classic presentation.",
+        "whyWrongByChoice": {
+          "A": "The virus is inoculated through the bite wound, not by extension across intact skin.",
+          "B": "Fecal-oral spread delivers enteric pathogens to the gut, not neurotropic viruses to the brain.",
+          "C": "Hematogenous spread uses the bloodstream and is not the route rabies takes to the brain.",
+          "D": "Lymphatic drainage carries organisms to lymph nodes, not directly along nerves to the CNS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dissemination",
+        "retrograde axonal transport",
+        "rabies"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-007",
+      "stem": "A 45-year-old man with chronic cough and night sweats undergoes lung biopsy, which shows aggregates of epithelioid macrophages and multinucleated giant cells surrounding a central zone of caseous necrosis. Which of the following histologic patterns of reaction does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A diffuse lymphocytic infiltrate without granulomas"
+        },
+        {
+          "label": "B",
+          "text": "Bland fibrous scarring"
+        },
+        {
+          "label": "C",
+          "text": "Cytopathic-cytoproliferative reaction"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Suppurative (purulent) inflammation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Epithelioid macrophages and giant cells around caseous necrosis define granulomatous inflammation.",
+        "whyCorrect": "Granulomatous inflammation features aggregates of activated (epithelioid) macrophages, often with giant cells; central caseating necrosis is characteristic of tuberculosis. The clinical picture of chronic cough and night sweats supports a mycobacterial granuloma.",
+        "whyWrongByChoice": {
+          "A": "A diffuse lymphocytic infiltrate lacks the organized epithelioid macrophages and giant cells that define a granuloma.",
+          "B": "Bland scarring is end-stage fibrosis and does not include active giant cells or caseous necrosis.",
+          "C": "Cytopathic-cytoproliferative reactions are caused by viruses and show inclusion bodies, not caseating granulomas.",
+          "E": "Suppurative inflammation is dominated by neutrophils and pus, not epithelioid macrophages and giant cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "granuloma",
+        "tuberculosis"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-008",
+      "stem": "A 60-year-old man with fever has a chest CT showing multiple lung lesions filled with pus. Biopsy of one lesion reveals a localized collection of neutrophils and necrotic debris consistent with an abscess. Which of the following types of organism most commonly produces this pattern of reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inert foreign material such as talc"
+        },
+        {
+          "label": "B",
+          "text": "Obligate intracellular viruses"
+        },
+        {
+          "label": "C",
+          "text": "Pyogenic (pus-forming) bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Slow-growing acid-fast mycobacteria"
+        },
+        {
+          "label": "E",
+          "text": "Spirochetes such as T. pallidum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Suppurative inflammation with abscess formation is most commonly caused by pyogenic bacteria.",
+        "whyCorrect": "Suppurative (purulent) inflammation is dominated by neutrophil infiltration, and pus is a collection of living and dying neutrophils and necrotic cells. Pyogenic bacteria are the classic cause, and an abscess is a localized collection of this pus.",
+        "whyWrongByChoice": {
+          "A": "Inert foreign material triggers granulomatous, not suppurative, inflammation.",
+          "B": "Viruses typically produce a cytopathic-cytoproliferative reaction, not neutrophil-rich abscesses.",
+          "D": "Mycobacteria produce granulomatous inflammation with caseating necrosis rather than pus-filled abscesses.",
+          "E": "Spirochetes such as T. pallidum characteristically elicit a mononuclear lymphocytic infiltrate."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "suppurative inflammation",
+        "abscess"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-009",
+      "stem": "An immunosuppressed patient undergoes tissue biopsy that shows enlarged cells containing intranuclear inclusion bodies, with no neutrophils or granulomas present. This cytopathic pattern is most characteristic of infection by which of the following classes of pathogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inert foreign material"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacteria"
+        },
+        {
+          "label": "C",
+          "text": "Pyogenic bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Spirochetes"
+        },
+        {
+          "label": "E",
+          "text": "Viruses"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Inclusion bodies and cytopathic change without pus or granulomas point to a viral infection.",
+        "whyCorrect": "The cytopathic-cytoproliferative pattern is produced by viruses, which cause changes such as inclusion bodies and cell lysis; CMV is a classic example in immunosuppressed patients. The absence of neutrophils and granulomas argues against bacterial or mycobacterial causes.",
+        "whyWrongByChoice": {
+          "A": "Foreign material provokes a granulomatous foreign-body reaction, not cytopathic viral change.",
+          "B": "Mycobacteria elicit granulomatous inflammation with epithelioid macrophages, which is absent here.",
+          "C": "Pyogenic bacteria produce neutrophil-rich suppurative inflammation, not intranuclear inclusions.",
+          "D": "Spirochetes cause a lymphocytic mononuclear infiltrate rather than viral inclusion bodies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "cytopathic",
+        "viral inclusion"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-010",
+      "stem": "A patient with a gram-negative bloodstream infection becomes hypotensive with signs of shock. The responsible molecule is a component of the bacterial outer membrane whose lipid portion is detected by macrophages, triggering a massive release of pro-inflammatory cytokines. Which of the following is this molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphtheria toxin (A-B exotoxin)"
+        },
+        {
+          "label": "B",
+          "text": "Lipopolysaccharide (endotoxin)"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcal enterotoxin B"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal exfoliative toxin"
+        },
+        {
+          "label": "E",
+          "text": "Toxic shock syndrome toxin-1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lipopolysaccharide (endotoxin) is the gram-negative outer-membrane molecule that drives septic shock.",
+        "whyCorrect": "LPS is an outer-membrane component of gram-negative bacteria whose Lipid A portion is detected by immune cells such as macrophages. This triggers pro-inflammatory and complement activation, and cytokine-induced hypotension can progress to shock.",
+        "whyWrongByChoice": {
+          "A": "Diphtheria toxin is a secreted A-B exotoxin of a gram-positive rod, not an outer-membrane lipid.",
+          "C": "Staphylococcal enterotoxin is a preformed superantigen causing food poisoning, not a gram-negative outer-membrane component.",
+          "D": "Exfoliative toxin is a Staphylococcus aureus protein that cleaves skin desmosomes, not an endotoxin.",
+          "E": "Toxic shock syndrome toxin is a secreted superantigen protein, not a structural gram-negative membrane molecule."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "endotoxin",
+        "septic shock"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-011",
+      "stem": "A child from an unvaccinated community develops a thick gray pseudomembrane over the pharynx and subsequently myocarditis. The responsible exotoxin is an A-B toxin. Which of the following best describes how its active subunit causes cell death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleavage of desmoglein-1"
+        },
+        {
+          "label": "B",
+          "text": "Degradation of secretory IgA"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of host protein synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Insertion of Lipid A to disrupt the membrane"
+        },
+        {
+          "label": "E",
+          "text": "Nonspecific massive cytokine release"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Diphtheria toxin is an A-B toxin whose A subunit inhibits protein synthesis, causing cell death.",
+        "whyCorrect": "In diphtheria, the B subunit binds and delivers the toxin into the host cell by endocytosis, and the A subunit then inhibits protein synthesis, leading to cell death. The toxin can enter the bloodstream and damage tissues such as myocardial cells, producing myocarditis.",
+        "whyWrongByChoice": {
+          "A": "Cleavage of desmoglein-1 is the mechanism of the staphylococcal exfoliative toxin, not diphtheria toxin.",
+          "B": "Degradation of secretory IgA is not the mechanism of diphtheria-toxin-mediated cell death.",
+          "D": "Lipid A membrane effects belong to gram-negative endotoxin, not to this gram-positive exotoxin.",
+          "E": "Nonspecific massive cytokine release describes superantigens, not the diphtheria A-B toxin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "diphtheria toxin",
+        "protein synthesis"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa15-012",
+      "stem": "A 3-year-old child develops widespread superficial blistering and peeling of the skin. The causative Staphylococcus aureus toxin cleaves desmoglein-1, a protein that anchors keratinocytes together. Which of the following conditions results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphtheritic myocarditis and neuritis"
+        },
+        {
+          "label": "B",
+          "text": "Gram-negative septic (endotoxic) shock"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomembranous colitis with diarrhea"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal scalded skin syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Superantigen toxic shock syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Exfoliative toxin cleaving desmoglein-1 produces staphylococcal scalded skin syndrome.",
+        "whyCorrect": "Exfoliative A and B toxins from S. aureus cleave desmoglein-1, a desmosomal protein, causing detachment of keratinocytes. The result is staphylococcal scalded skin syndrome, characterized by blistering and exfoliation that primarily affects pediatric patients.",
+        "whyWrongByChoice": {
+          "A": "Diphtheritic myocarditis results from diphtheria toxin inhibiting protein synthesis, not from cleaving skin proteins.",
+          "B": "Endotoxic shock is driven by gram-negative LPS, not by a staphylococcal skin toxin.",
+          "C": "Pseudomembranous colitis is a C. difficile toxin-mediated colonic disease, unrelated to desmoglein-1.",
+          "E": "Toxic shock syndrome is caused by a superantigen and produces hypotension, not desmoglein-mediated skin peeling."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "exfoliative toxin",
+        "scalded skin syndrome"
+      ],
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-001",
+      "stem": "A 68-year-old woman hospitalized for pneumonia is treated with broad-spectrum antibiotics. One week later she develops profuse watery diarrhea and crampy abdominal pain. Colonoscopy reveals yellow-white plaques overlying the colonic mucosa. Which of the following best explains why the responsible organism was able to establish this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficiency of secretory IgA antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Depletion of the normal gut microbiota"
+        },
+        {
+          "label": "C",
+          "text": "Impaired mucociliary clearance in the airways"
+        },
+        {
+          "label": "D",
+          "text": "Loss of the gastric acid barrier"
+        },
+        {
+          "label": "E",
+          "text": "Obstruction of urinary outflow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The normal gut microbiota competes with incoming organisms, and antibiotics disrupt it, permitting Clostridioides difficile overgrowth and pseudomembranous colitis.",
+        "whyCorrect": "The resident gut flora competes with newly arriving organisms for resources and limits colonization. Antibiotics disrupt this microbiota, allowing C. difficile to proliferate and release toxins A and B, which drive cytokine release, neutrophil recruitment, and the pseudomembrane of inflammatory cells and debris.",
+        "whyWrongByChoice": {
+          "A": "IgA deficiency is not the mechanism the brick attributes to antibiotic-associated C. difficile colitis.",
+          "C": "Mucociliary clearance is a respiratory tract defense and is unrelated to colonic infection.",
+          "D": "Gastric acid is a defense against ingested organisms, but the plaques and antibiotic history point to microbiota disruption, not achlorhydria.",
+          "E": "Urinary obstruction predisposes to urogenital infection, not to pseudomembranous colitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "portals of entry",
+        "gastrointestinal",
+        "C. difficile",
+        "microbiota"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-002",
+      "stem": "A 22-year-old man develops nausea, crampy abdominal pain, and watery diarrhea two days after a picnic where he ate ham sandwiches and potato salad. Which of the following is the most likely route by which the causative organism entered his body?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fecal-oral ingestion"
+        },
+        {
+          "label": "B",
+          "text": "Inhalation of respiratory droplets"
+        },
+        {
+          "label": "C",
+          "text": "Percutaneous inoculation through skin"
+        },
+        {
+          "label": "D",
+          "text": "Retrograde axonal transport"
+        },
+        {
+          "label": "E",
+          "text": "Sexual contact"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Most gastrointestinal pathogens enter with food or drink contaminated by fecal matter, known as fecal-oral transmission.",
+        "whyCorrect": "The brick states that most GI pathogens enter with food or drink contaminated by fecal matter (fecal-oral transmission), producing symptoms through toxin production or direct mucosal damage. Foodborne diarrheal illness after a shared meal fits this route.",
+        "whyWrongByChoice": {
+          "B": "Inhalation is the entry route for respiratory pathogens, not for foodborne gastroenteritis.",
+          "C": "Percutaneous inoculation involves breaks in the skin, such as bites or needle sticks, not ingestion of food.",
+          "D": "Retrograde axonal transport moves certain viruses along nerves to the CNS and does not cause food-related diarrhea.",
+          "E": "Sexual contact transmits pathogens such as HIV and N. gonorrhoeae, not foodborne diarrheal organisms."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transmission",
+        "fecal-oral",
+        "gastrointestinal"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-003",
+      "stem": "A 30-year-old man is bitten on the leg by a raccoon while camping. Several weeks later he develops agitation, difficulty swallowing, and a rapidly fatal encephalitis. By which mechanism did the responsible pathogen most likely reach the central nervous system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct extension across the intact skin"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous seeding through the bloodstream"
+        },
+        {
+          "label": "C",
+          "text": "Retrograde axonal transport"
+        },
+        {
+          "label": "D",
+          "text": "Spread through lymphatic channels"
+        },
+        {
+          "label": "E",
+          "text": "Transplacental transmission"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Some viruses spread along nerves to the CNS by retrograde axonal transport, as seen with rabies.",
+        "whyCorrect": "The brick teaches that viruses may spread along nerves to the central nervous system by retrograde axonal transport, listing rabies virus, poliovirus, varicella-zoster virus, and HSV. A fatal encephalitis after an animal bite reflects this neural route.",
+        "whyWrongByChoice": {
+          "A": "The pathogen does not extend across intact skin; it enters at the bite wound and travels up nerves.",
+          "B": "Hematogenous seeding spreads organisms via blood to sites such as heart valves, not the described neural route to the brain.",
+          "D": "Lymphatic spread carries pathogens to lymph nodes before the bloodstream and is not how these neurotropic viruses reach the CNS.",
+          "E": "Transplacental transmission passes organisms from mother to fetus and is irrelevant to an animal bite."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dissemination",
+        "retrograde axonal transport",
+        "rabies",
+        "nervous system"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-004",
+      "stem": "A 26-year-old man who injects heroin presents with fever and a new heart murmur. Blood cultures grow gram-positive cocci, and echocardiography shows a vegetation on the tricuspid valve. Which of the following best describes how the organism reached the heart valve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascending bacterial spread along the urethra"
+        },
+        {
+          "label": "B",
+          "text": "Fecal-oral ingestion of contaminated food"
+        },
+        {
+          "label": "C",
+          "text": "Hematogenous dissemination of skin flora"
+        },
+        {
+          "label": "D",
+          "text": "Mucociliary aspiration into the lower lungs"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde axonal transport along nerves"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Intravenous drug use can introduce skin bacteria into the bloodstream, which then seed a heart valve, producing endocarditis.",
+        "whyCorrect": "The brick explains that bloodborne dissemination lets pathogens seed distant sites and that endocarditis is a consequence of septicemia. Intravenous drug use with a hypodermic needle introduces bacteria from the skin into the blood, where they lodge on a valve and form a vegetation.",
+        "whyWrongByChoice": {
+          "A": "Ascending urethral spread causes urinary tract infection, not endocarditis.",
+          "B": "Fecal-oral ingestion is a route for gastrointestinal pathogens, not for valve seeding.",
+          "D": "Mucociliary mechanisms clear the airways and do not deliver organisms to the endocardium.",
+          "E": "Retrograde axonal transport carries certain viruses along nerves to the CNS, not bacteria to heart valves."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dissemination",
+        "hematogenous",
+        "endocarditis",
+        "IV drug use"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-005",
+      "stem": "A newborn is found to have cataracts, sensorineural deafness, and a patent ductus arteriosus. The mother recalls a febrile rash illness during the first trimester. Transmission of the responsible pathogen most likely occurred by which route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breast milk ingestion after delivery"
+        },
+        {
+          "label": "B",
+          "text": "Fecal-oral ingestion of contaminated water"
+        },
+        {
+          "label": "C",
+          "text": "Inhalation of infected respiratory droplets"
+        },
+        {
+          "label": "D",
+          "text": "Passage through the infected birth canal"
+        },
+        {
+          "label": "E",
+          "text": "Transplacental (vertical) transmission"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Placental (transplacental) transmission of TORCH agents such as rubella during pregnancy causes congenital developmental abnormalities.",
+        "whyCorrect": "The brick describes placenta-fetal (vertical) transmission of TORCH infections, which include rubella, and states these cause developmental abnormalities, eye damage, and skin manifestations, often with mild maternal symptoms. First-trimester maternal infection with congenital anomalies fits transplacental spread.",
+        "whyWrongByChoice": {
+          "A": "Breast milk transmits viruses such as CMV, HIV, and HBV to the newborn but does not explain first-trimester congenital malformations.",
+          "B": "Fecal-oral ingestion causes gastrointestinal infection and is unrelated to congenital anomalies.",
+          "C": "Respiratory droplet spread is a person-to-person mode and does not account for prenatal organ malformation.",
+          "D": "Birth canal exposure causes neonatal infections such as gonococcal or chlamydial conjunctivitis, not the congenital triad described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vertical transmission",
+        "TORCH",
+        "congenital",
+        "rubella"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-006",
+      "stem": "A tissue biopsy shows aggregates of epithelioid macrophages, some fused into multinucleated giant cells, surrounded by a rim of lymphocytes. Which histologic pattern of reaction to injury does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic scarring and fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Coagulative infarction"
+        },
+        {
+          "label": "C",
+          "text": "Cytopathic-cytoproliferative change"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Suppurative inflammation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Granulomatous inflammation is defined by activated epithelioid macrophages and multinucleated giant cells gathered around an insult.",
+        "whyCorrect": "The brick defines granulomatous inflammation as a special type of mononuclear inflammation in which activated macrophages gather around an infectious insult, some fusing into multinucleated giant cells; the accumulation is called a granuloma. This matches the described histology.",
+        "whyWrongByChoice": {
+          "A": "Chronic scarring is dominated by fibrosis, not by epithelioid macrophages and giant cells.",
+          "B": "Coagulative infarction reflects ischemic necrosis and is not the granulomatous pattern described.",
+          "C": "Cytopathic-cytoproliferative reactions involve single-cell viral changes or cell proliferation, not organized macrophage aggregates.",
+          "E": "Suppurative inflammation is neutrophil-rich pus, not epithelioid macrophages and giant cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "granuloma",
+        "macrophages"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-007",
+      "stem": "Autopsy of a patient with pneumonia reveals multiple localized areas of liquefactive necrosis rich in neutrophils, each surrounded by a fibrotic rim. Which type of organism most characteristically produces this pattern of reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A noninfectious autoimmune process"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular viruses"
+        },
+        {
+          "label": "C",
+          "text": "Parasitic helminths"
+        },
+        {
+          "label": "D",
+          "text": "Pyogenic bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Spirochetes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Suppurative inflammation with abscess formation is the hallmark reaction to pyogenic (pus-forming) bacteria.",
+        "whyCorrect": "The brick describes suppurative (purulent) inflammation as neutrophil-dominated, most commonly caused by pyogenic bacteria, with an abscess defined as localized liquefactive necrosis surrounded by a peripheral fibrotic deposit. This matches the described lung findings.",
+        "whyWrongByChoice": {
+          "A": "An autoimmune process would not typically produce this classic pyogenic abscess pattern of infection.",
+          "B": "Viruses typically produce cytopathic-cytoproliferative or mononuclear reactions, not neutrophilic abscesses.",
+          "C": "Helminths characteristically drive mononuclear and eosinophil-rich responses rather than pyogenic abscesses.",
+          "E": "Spirochetes such as T. pallidum elicit mononuclear (lymphocytic) inflammation, not suppuration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "suppurative",
+        "abscess",
+        "pyogenic"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-008",
+      "stem": "A 40-year-old man develops rough, cauliflower-like verrucous growths on his hands. Biopsy shows proliferation of epithelial cells with perinuclear halos and wrinkled, raisin-like nuclei. This lesion is an example of which pattern of tissue response to infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating (granulomatous) tissue necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic inflammation with dense scarring"
+        },
+        {
+          "label": "C",
+          "text": "Cytopathic-cytoproliferative reaction"
+        },
+        {
+          "label": "D",
+          "text": "Epithelioid granulomatous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Suppurative (purulent) inflammation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cytopathic-cytoproliferative pattern includes viral cell injury and virus-driven cell proliferation, such as HPV warts.",
+        "whyCorrect": "The brick describes the cytopathic-cytoproliferative reaction as involving single cells or small aggregates with cytopathic changes, and notes that some viruses cause cells to proliferate, such as the verrucous warts of human papillomavirus (HPV). The described warty proliferation fits this pattern.",
+        "whyWrongByChoice": {
+          "A": "Caseating necrosis is central cheese-like death seen in tuberculosis granulomas, not proliferative warts.",
+          "B": "Chronic inflammation with scarring produces fibrosis, not the proliferative warty lesion described.",
+          "D": "Granulomatous inflammation forms epithelioid macrophage aggregates, not virus-induced warts.",
+          "E": "Suppurative inflammation is neutrophilic pus formation, not verrucous epithelial proliferation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histologic patterns",
+        "cytopathic",
+        "HPV",
+        "viruses"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-009",
+      "stem": "An unvaccinated child develops a thick gray membrane over the pharynx and, several days later, cardiac arrhythmia. The toxin responsible for this illness damages host cells primarily by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acting as a superantigen to trigger cytokine release"
+        },
+        {
+          "label": "B",
+          "text": "Being recognized by macrophages via its Lipid A"
+        },
+        {
+          "label": "C",
+          "text": "Cleaving desmoglein-1 in desmosomes"
+        },
+        {
+          "label": "D",
+          "text": "Disrupting the enterocyte cytoskeleton"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting ribosomal protein synthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Diphtheria toxin is an A-B toxin whose A subunit inhibits protein synthesis, causing the pharyngeal pseudomembrane and myocarditis.",
+        "whyCorrect": "The brick explains that in diphtheria toxin the B component mediates entry by endocytosis and the A component inhibits protein synthesis in the ribosome, leading to cell death; local injury forms the pseudomembrane, and toxin entering the bloodstream can damage myocardial cells to cause acute myocarditis.",
+        "whyWrongByChoice": {
+          "A": "Superantigen activity is characteristic of staphylococcal enterotoxin and TSST, not diphtheria toxin.",
+          "B": "Lipid A recognition describes gram-negative endotoxin, not the A-B diphtheria exotoxin.",
+          "C": "Cleavage of desmoglein-1 is the mechanism of staphylococcal exfoliative toxin, not diphtheria toxin.",
+          "D": "Disruption of the enterocyte cytoskeleton describes Clostridioides difficile toxins A and B."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "diphtheria toxin",
+        "A-B toxin",
+        "protein synthesis"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-010",
+      "stem": "A 3-year-old child develops widespread superficial blistering and peeling of the skin following a staphylococcal infection. The toxin responsible for this presentation acts by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking neurotransmitter release at synapses"
+        },
+        {
+          "label": "B",
+          "text": "Cleaving desmoglein-1 in epidermal desmosomes"
+        },
+        {
+          "label": "C",
+          "text": "Forming membrane pores via Lipid A"
+        },
+        {
+          "label": "D",
+          "text": "Immobilizing respiratory cilia"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting ribosomal protein synthesis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Staphylococcal exfoliative toxins cleave desmoglein-1, detaching keratinocytes and causing scalded-skin syndrome.",
+        "whyCorrect": "The brick states that exfoliative A and B toxins produced by S. aureus cleave desmoglein-1, a desmosome protein important for keratinocyte adherence. The resulting detachment compromises the skin barrier, producing staphylococcal scalded-skin syndrome with blistering and exfoliation, primarily in pediatric patients.",
+        "whyWrongByChoice": {
+          "A": "Blocking neurotransmitter release describes clostridial neurotoxins, not exfoliative toxin.",
+          "C": "Lipid A pore/immune activation describes gram-negative endotoxin, not the skin-cleaving toxin.",
+          "D": "Ciliary immobility is associated with Mycoplasma pneumoniae, not staphylococcal skin disease.",
+          "E": "Inhibition of protein synthesis is the action of diphtheria toxin, not exfoliative toxin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "exfoliative toxin",
+        "scalded-skin syndrome",
+        "S. aureus"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-011",
+      "stem": "A young woman develops high fever, hypotension, a diffuse macular rash, and later desquamation of the palms. Cultures grow Staphylococcus aureus from an infected nasal packing. The toxin responsible produces disease by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleaving desmosomal proteins between keratinocytes"
+        },
+        {
+          "label": "B",
+          "text": "Disrupting the enterocyte cytoskeleton"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting ribosomal protein synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Nonspecifically activating many T cells"
+        },
+        {
+          "label": "E",
+          "text": "Signaling through the Lipid A of lipopolysaccharide"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Superantigen toxins cause toxic shock syndrome by driving nonspecific T-cell activation and a massive cytokine release.",
+        "whyCorrect": "The brick describes enterotoxin and TSST as superantigens that stimulate a robust immune response with release of massive amounts of cytokines, and it links toxic shock syndrome to massive cytokine release, including cases from infected nasal packing or postoperative wound materials.",
+        "whyWrongByChoice": {
+          "A": "Cleavage of desmosomal proteins describes exfoliative toxin causing scalded-skin syndrome, not TSS.",
+          "B": "Cytoskeletal disruption of enterocytes is the mechanism of C. difficile toxins.",
+          "C": "Protein synthesis inhibition is the diphtheria toxin mechanism, not superantigen action.",
+          "E": "Lipid A signaling is the mechanism of gram-negative endotoxin, not a staphylococcal superantigen."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "superantigen",
+        "toxic shock syndrome",
+        "S. aureus"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
+      "id": "pa18-012",
+      "stem": "A patient with gram-negative bacteremia develops fever and hypotension. The outer membrane component of the bacterium primarily responsible for triggering this systemic response is detected by macrophages through which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The A subunit of a secreted A-B exotoxin"
+        },
+        {
+          "label": "B",
+          "text": "The desmoglein-1 desmosomal protein"
+        },
+        {
+          "label": "C",
+          "text": "The Lipid A portion of lipopolysaccharide"
+        },
+        {
+          "label": "D",
+          "text": "The peptidoglycan layer of the cell wall"
+        },
+        {
+          "label": "E",
+          "text": "The teichoic acid of gram-positive cell walls"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Endotoxin (LPS), particularly its Lipid A portion, is sensed by macrophages and drives fever and cytokine-induced hypotension.",
+        "whyCorrect": "The brick identifies lipopolysaccharide (LPS), also called endotoxin, as an outer membrane component of gram-negative bacteria; its Lipid A portion is detected by immune cells such as macrophages, provoking pro-inflammatory cytokines and complement activation that cause fever and cytokine-induced hypotension.",
+        "whyWrongByChoice": {
+          "A": "A-B exotoxins are secreted toxins such as diphtheria toxin, not the outer membrane endotoxin sensed here.",
+          "B": "Desmoglein-1 is a host desmosomal protein targeted by exfoliative toxin, not a bacterial sensing component.",
+          "D": "Peptidoglycan is a cell wall component, but the brick attributes the gram-negative endotoxin response specifically to Lipid A of LPS.",
+          "E": "Teichoic acid is a gram-positive cell wall component and is not the gram-negative endotoxin described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxins",
+        "endotoxin",
+        "lipopolysaccharide",
+        "gram-negative"
+      ],
+      "topicId": "introduction-to-infection-b18",
+      "topicName": "Introduction to Infection",
+      "tier": "core"
+    },
+    {
       "id": "pa16-001",
       "stem": "A 29-year-old woman reports several months of pain in her wrists, hands, elbows, and knees that improves with ibuprofen but never fully resolves. She has a red rash across both cheeks and the bridge of her nose, along with painful oral ulcers. Her temperature is 39.1 C (102.4 F). Laboratory studies show a decreased white blood cell count, hemoglobin, and platelet count. Which of the following is the most likely diagnosis?",
       "choices": [
@@ -2833,570 +5663,6 @@
       ],
       "topicId": "chronic-infections-2-lyme-hiv-aids",
       "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-001",
-      "stem": "A 34-year-old man develops a painful, fluctuant swelling on his thigh several days after a scrape. Incision drains thick yellow material, and culture grows gram-positive cocci in clusters consistent with staphylococci. Which cell type would most likely dominate the inflammatory infiltrate in the lesion?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epithelioid macrophages"
-        },
-        {
-          "label": "B",
-          "text": "Lymphocytes"
-        },
-        {
-          "label": "C",
-          "text": "Multinucleated giant cells"
-        },
-        {
-          "label": "D",
-          "text": "Neutrophils"
-        },
-        {
-          "label": "E",
-          "text": "Plasma cells"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Pyogenic bacteria such as staphylococci elicit suppurative inflammation dominated by neutrophils.",
-        "whyCorrect": "Suppurative (purulent) inflammation follows increased vascular permeability that lets leukocytes infiltrate, and the infiltrate is dominated by neutrophils. Pyogenic, pus-forming bacteria such as staphylococci are the most common cause. The neutrophil is therefore the cell that best distinguishes suppurative from mononuclear inflammation.",
-        "whyWrongByChoice": {
-          "A": "Epithelioid macrophages characterize granulomatous inflammation, not a pyogenic abscess.",
-          "B": "Lymphocytes dominate chronic (mononuclear) inflammation, as in viral infections, syphilis, or Sjogren disease.",
-          "C": "Multinucleated giant cells form from fused macrophages in granulomas, not in suppurative inflammation.",
-          "E": "Plasma cells accompany lymphocytes in lymphoplasmacytic inflammation such as primary and secondary syphilis."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "suppurative inflammation",
-        "abscess",
-        "neutrophils"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-002",
-      "stem": "A 58-year-old man has a destructive lesion of the palate. He reports a painless genital ulcer about 18 years ago that was never treated, and treponemal serology is positive. Which histologic pattern would a biopsy of the palatal lesion most likely show?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Dense fibrosis without inflammatory cells"
-        },
-        {
-          "label": "B",
-          "text": "Granulomatous inflammation (a gumma)"
-        },
-        {
-          "label": "C",
-          "text": "Multinucleation with nuclear molding"
-        },
-        {
-          "label": "D",
-          "text": "Neutrophil-rich abscess with pus"
-        },
-        {
-          "label": "E",
-          "text": "Perivascular lymphoplasmacytic infiltrate only"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Tertiary syphilis, years to decades after untreated infection, shifts to a granulomatous pattern called a gumma.",
-        "whyCorrect": "In primary and secondary syphilis, lymphocytes and plasma cells predominate around blood vessels. Tertiary syphilis occurs at least 5 years and often 15-20 years after an untreated infection, and the inflammation becomes granulomatous; these granulomas are clinically called gummas. An 18-year interval places this lesion in the tertiary stage.",
-        "whyWrongByChoice": {
-          "A": "Scarring occurs with chronic inflammation, but tertiary syphilis is defined by granulomatous inflammation.",
-          "C": "Multinucleation with nuclear molding is a viral cytopathic change, as in HSV infection.",
-          "D": "Neutrophil-rich abscesses reflect pyogenic bacteria such as staphylococci, not Treponema pallidum.",
-          "E": "A purely perivascular lymphoplasmacytic pattern is the picture of primary and secondary syphilis, not the tertiary stage."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "syphilis",
-        "gumma",
-        "granulomatous inflammation"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-003",
-      "stem": "A 47-year-old man has an upper-lobe lung nodule. Biopsy shows granulomas with central necrosis and multinucleated giant cells. The pathologist wants to evaluate whether mycobacteria are present within the granulomas. Which special stain is most appropriate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Acid-fast bacilli (AFB) stain"
-        },
-        {
-          "label": "B",
-          "text": "Examination under polarized light"
-        },
-        {
-          "label": "C",
-          "text": "Immunofluorescence for IgA"
-        },
-        {
-          "label": "D",
-          "text": "Prussian blue iron stain"
-        },
-        {
-          "label": "E",
-          "text": "Silver stain for spirochetes"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "An AFB stain highlights mycobacteria, whose mycolic acid-rich waxy wall retains stain after acid alcohol.",
-        "whyCorrect": "Mycobacterium tuberculosis is an aerobic rod whose waxy cell wall contains mycolic acid, which lets it retain stain after treatment with acid alcohol; hence it is 'acid-fast.' An AFB stain is used to evaluate whether mycobacteria are present in a granuloma, especially one with central (caseous) necrosis.",
-        "whyWrongByChoice": {
-          "B": "Polarized light reveals birefringent foreign material such as talc, not mycobacteria.",
-          "C": "IgA immunofluorescence demonstrates the deposits of Henoch-Schonlein purpura.",
-          "D": "Prussian blue highlights hemosiderin in macrophages after hemorrhage, as in Goodpasture syndrome.",
-          "E": "Silver staining shows the corkscrew spirochetes of Treponema pallidum."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "tuberculosis",
-        "AFB stain",
-        "caseating granuloma"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-004",
-      "stem": "A 29-year-old man with a history of injecting crushed pills and heroin has progressive dyspnea. Lung biopsy shows epithelioid and multinucleated giant cells clustered near small blood vessels around white, jagged particles that appear bright under polarized light. Which is the most likely cause of these granulomas?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Fungal infection of the lung"
-        },
-        {
-          "label": "B",
-          "text": "Granulomatosis with polyangiitis"
-        },
-        {
-          "label": "C",
-          "text": "Mycobacterium tuberculosis infection"
-        },
-        {
-          "label": "D",
-          "text": "Sarcoidosis of the lung"
-        },
-        {
-          "label": "E",
-          "text": "Talc foreign body reaction"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Injected drugs can carry talc into the lungs, provoking a perivascular foreign body granulomatous reaction with birefringent material.",
-        "whyCorrect": "Inhaled or injected drugs such as heroin or cocaine can introduce foreign material such as talc into the bloodstream and lungs. Classically, the foreign body granulomatous reaction is seen near blood vessels, and the birefringent material (two refractive indices) appears bright under polarized light.",
-        "whyWrongByChoice": {
-          "A": "Fungi can cause granulomas, but they do not account for bright, jagged polarizable material.",
-          "B": "GPA shows necrotizing granulomatous vasculitis with PR3-ANCA, not birefringent particles.",
-          "C": "Tuberculous granulomas show caseous necrosis and acid-fast organisms, not polarizable particles.",
-          "D": "Sarcoidosis forms non-necrotizing granulomas without foreign material and is a diagnosis of exclusion."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "foreign body granuloma",
-        "talc",
-        "polarized light"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-005",
-      "stem": "A 25-year-old woman has painful vesicles on the vulva. A smear from the base of a lesion shows epithelial cells with several nuclei that press against and conform to one another, with chromatin condensed into dark peripheral rims. Which agent is most likely responsible?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Hepatitis B virus"
-        },
-        {
-          "label": "B",
-          "text": "Herpes simplex virus"
-        },
-        {
-          "label": "C",
-          "text": "Human papillomavirus"
-        },
-        {
-          "label": "D",
-          "text": "Staphylococcus aureus"
-        },
-        {
-          "label": "E",
-          "text": "Treponema pallidum"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of HSV infection.",
-        "whyCorrect": "Viruses that replicate within cells produce a cytopathic-cytoproliferative reaction. In herpes simplex virus infection, cytopathic changes include multinucleation, nuclear molding (shape-conforming of adjacent nuclei) and nuclear margination (condensation of chromatin into dark peripheral rings). Damaged epithelium can detach with serous effusion, forming blisters.",
-        "whyWrongByChoice": {
-          "A": "Longstanding hepatitis B infection causes chronic inflammation and scarring of the liver (cirrhosis).",
-          "C": "HPV causes cell proliferation, producing verrucous warts rather than molded multinucleated cells.",
-          "D": "Staphylococci are pyogenic and produce neutrophil-rich suppurative inflammation.",
-          "E": "Treponema pallidum causes perivascular lymphoplasmacytic inflammation, not viral cytopathic change."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "cytopathic change",
-        "HSV",
-        "viral infection"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-006",
-      "stem": "A 27-year-old woman has a butterfly-shaped rash across her cheeks, joint pain, oral ulcers and proteinuria. Testing shows antinuclear and anti-double-stranded DNA antibodies. Which mechanism is primarily responsible for her widespread tissue inflammation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "ANCA-driven neutrophil injury to endothelium"
-        },
-        {
-          "label": "B",
-          "text": "Antibodies binding a fixed basement membrane protein"
-        },
-        {
-          "label": "C",
-          "text": "Helper T-cell activation of macrophages into granulomas"
-        },
-        {
-          "label": "D",
-          "text": "IgE-mediated mast cell degranulation"
-        },
-        {
-          "label": "E",
-          "text": "Immune complex deposition activating complement"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "SLE is a type 3 hypersensitivity disease: immune complexes deposit and activate complement, causing widespread inflammation.",
-        "whyCorrect": "Systemic lupus erythematosus is due to a type 3 hypersensitivity reaction (immune complex deposition), which activates complement and leads to widespread inflammation. This accounts for its multiform presentation, including malar rash, arthritis, serositis, renal injury and oral ulcers.",
-        "whyWrongByChoice": {
-          "A": "ANCA (PR3) activation of neutrophils that damage endothelium is the mechanism of GPA.",
-          "B": "Antibodies against a basement membrane component (type IV collagen) cause Goodpasture syndrome.",
-          "C": "Helper T-cell activation of macrophages producing non-necrotizing granulomas describes sarcoidosis.",
-          "D": "IgE-mediated mast cell degranulation is not the mechanism of SLE."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "SLE",
-        "type 3 hypersensitivity",
-        "immune complex"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-007",
-      "stem": "A 22-year-old man presents with coughing up blood, and chest imaging shows focal consolidations. Over the next two weeks his creatinine rises rapidly and urinalysis shows hematuria. He has no sinus or nasal symptoms. Circulating autoantibodies in this condition are most likely directed against which target?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A component of type IV collagen"
-        },
-        {
-          "label": "B",
-          "text": "Double-stranded DNA in nuclei"
-        },
-        {
-          "label": "C",
-          "text": "Proteinase 3 in neutrophil granules"
-        },
-        {
-          "label": "D",
-          "text": "Smith (Sm) nuclear antigen"
-        },
-        {
-          "label": "E",
-          "text": "SS-A (Ro) and SS-B (La) antigens"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Goodpasture syndrome is caused by autoantibodies to a component of type IV collagen, injuring lung and kidney.",
-        "whyCorrect": "Goodpasture (anti-glomerular basement membrane) syndrome is an uncommon autoimmune disease, most often in the teens or 20s and with a male predominance, in which circulating autoantibodies target a component of type IV collagen, the collagen of the basement membrane. Most cases begin with hemoptysis and lung consolidation from alveolar wall destruction, followed by glomerulonephritis that rapidly progresses to renal failure.",
-        "whyWrongByChoice": {
-          "B": "Anti-dsDNA antibodies support SLE, an immune complex disease.",
-          "C": "PR3-ANCA causes GPA, which classically also involves the upper respiratory tract.",
-          "D": "Anti-Sm antibodies are found in SLE, not in pulmonary-renal anti-basement membrane disease.",
-          "E": "SS-A (Ro) and SS-B (La) are the targets in Sjogren disease, which causes dry eyes and mouth."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Goodpasture syndrome",
-        "type IV collagen",
-        "pulmonary-renal"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-008",
-      "stem": "A 52-year-old woman has months of purulent and bloody nasal discharge and a collapsing nasal bridge. Chest imaging shows cavitary lung nodules, and urinalysis shows red cells with edema. Which laboratory finding is most likely?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Anti-basement membrane collagen antibody"
-        },
-        {
-          "label": "B",
-          "text": "Anti-double-stranded DNA antibody"
-        },
-        {
-          "label": "C",
-          "text": "Anti-SS-A (Ro) antibody"
-        },
-        {
-          "label": "D",
-          "text": "Elevated serum angiotensin-converting enzyme"
-        },
-        {
-          "label": "E",
-          "text": "PR3-ANCA (previously c-ANCA)"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "GPA presents with the upper respiratory, lung and kidney triad and is mediated by PR3-ANCA (previously c-ANCA).",
-        "whyCorrect": "Granulomatosis with polyangiitis is an autoimmune small-vessel vasculitis caused by antibodies to proteinase 3 (PR3-ANCA, previously c-ANCA). Its classic triad is upper respiratory tract, lung and kidney involvement: nasal or sinus inflammation causing purulent or bloody discharge and saddle nose deformity, lung nodules or cavities, and nephritic syndrome.",
-        "whyWrongByChoice": {
-          "A": "Anti-basement membrane antibodies cause Goodpasture syndrome, which spares the upper airway.",
-          "B": "Anti-dsDNA supports SLE, which does not cause saddle nose deformity or cavitary nodules.",
-          "C": "Anti-SS-A (Ro) is the antibody of Sjogren disease, which causes dry eyes and mouth.",
-          "D": "Elevated serum ACE supports sarcoidosis, which typically shows bilateral hilar lymphadenopathy."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "GPA",
-        "PR3-ANCA",
-        "vasculitis"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-009",
-      "stem": "A 6-year-old boy has raised purpuric lesions on his buttocks and the extensor surfaces of his legs, crampy abdominal pain with blood in the stool, knee pain and microscopic hematuria. Skin biopsy shows small-vessel vasculitis with immune deposits. Which deposit composition is most characteristic of his condition?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Anti-dsDNA IgG with complement"
-        },
-        {
-          "label": "B",
-          "text": "IgA with complement C3"
-        },
-        {
-          "label": "C",
-          "text": "IgE bound to dermal mast cells"
-        },
-        {
-          "label": "D",
-          "text": "IgG against type IV collagen"
-        },
-        {
-          "label": "E",
-          "text": "PR3-ANCA with necrotizing granulomas"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Henoch-Schonlein purpura (IgA vasculitis) is an immune complex disease with IgA (with or without IgG) and C3.",
-        "whyCorrect": "Henoch-Schonlein purpura is a childhood syndrome (most common at 3-8 years) of purpuric skin lesions on the extensor arms and legs and buttocks, abdominal pain and intestinal bleeding, arthralgias and renal abnormalities. Like SLE it is due to immune complex deposition, but the complexes usually contain IgA, with or without IgG, and complement (C3).",
-        "whyWrongByChoice": {
-          "A": "Anti-dsDNA immune complexes point to SLE; the IgA-dominant complexes here define HSP.",
-          "C": "IgE bound to mast cells is not the deposit in this immune complex vasculitis.",
-          "D": "IgG against type IV collagen is the autoantibody of Goodpasture syndrome.",
-          "E": "PR3-ANCA with necrotizing granulomatous vasculitis defines GPA, which is not an IgA immune complex disease."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Henoch-Schonlein purpura",
-        "IgA vasculitis",
-        "immune complex"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-010",
-      "stem": "A 31-year-old African-American woman has cough and dyspnea. Chest x-ray shows bilateral hilar lymphadenopathy, and transbronchial biopsy shows non-necrotizing granulomas, one containing a star-shaped body within a cleared space. Serum ACE is elevated. Which statement best describes how a diagnosis of sarcoidosis is established?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A negative PPD skin test confirms it"
-        },
-        {
-          "label": "B",
-          "text": "An elevated serum ACE level confirms it"
-        },
-        {
-          "label": "C",
-          "text": "Asteroid bodies in histiocytes confirm it"
-        },
-        {
-          "label": "D",
-          "text": "Bilateral hilar lymphadenopathy confirms it"
-        },
-        {
-          "label": "E",
-          "text": "Other causes such as infection must be excluded"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Sarcoidosis is a diagnosis of exclusion; other causes of granulomas, such as infection, must be ruled out.",
-        "whyCorrect": "Sarcoidosis is an idiopathic systemic granulomatous disease, and its diagnosis is one of exclusion: every other possibility for the granulomatous inflammation, such as infectious etiologies, must be excluded. Asteroid bodies, bilateral hilar lymphadenopathy and an elevated serum ACE are supportive, but none is specific on its own.",
-        "whyWrongByChoice": {
-          "A": "A negative PPD alone does not exclude every infectious or other cause of granulomas.",
-          "B": "Elevated serum ACE is a helpful laboratory finding, not a confirmatory test.",
-          "C": "Asteroid bodies may be seen in sarcoidosis but are not specific.",
-          "D": "Bilateral hilar lymphadenopathy is the classic imaging finding but does not exclude other granulomatous causes."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "sarcoidosis",
-        "diagnosis of exclusion",
-        "granuloma"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-011",
-      "stem": "A 45-year-old woman has a solitary lung nodule. Biopsy shows a granuloma with central necrosis surrounded by epithelioid macrophages and giant cells. An AFB stain on the section is negative. Which conclusion is most appropriate at this point?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A foreign body reaction is confirmed by the giant cells"
-        },
-        {
-          "label": "B",
-          "text": "Autoimmune disease is excluded because necrosis is present"
-        },
-        {
-          "label": "C",
-          "text": "Fungal or parasitic infection remains in the differential"
-        },
-        {
-          "label": "D",
-          "text": "Sarcoidosis is confirmed because the AFB stain is negative"
-        },
-        {
-          "label": "E",
-          "text": "Tuberculosis is confirmed because necrosis is present"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Necrotic granulomas are not diagnostic of tuberculosis; fungi, parasites and immune-related diseases can also produce them.",
-        "whyCorrect": "Infectious granulomas often show central necrosis, but granulomas also form in response to certain fungi and parasites, so identifying necrotic granulomas is not diagnostic of tuberculosis. Some autoimmune granulomatous diseases also feature necrosis. The pattern narrows the differential rather than making the diagnosis, so other infectious causes must still be considered.",
-        "whyWrongByChoice": {
-          "A": "Giant cells occur in granulomas of many causes; a foreign body reaction needs identifiable foreign material.",
-          "B": "Some autoimmune granulomatous diseases, such as GPA, feature necrosis, so necrosis does not exclude them.",
-          "D": "Sarcoidosis produces non-necrotizing granulomas and requires excluding infection; a necrotic granuloma argues against it.",
-          "E": "Necrotic granulomas also occur with fungi, parasites and some autoimmune diseases, so necrosis alone does not confirm tuberculosis."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "granuloma",
-        "necrosis",
-        "differential diagnosis"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
-      "tier": "core"
-    },
-    {
-      "id": "pa41-012",
-      "stem": "A 40-year-old man has chronic sinus congestion with nasal crusting, recent hemoptysis and a creatinine that has doubled over three weeks. Urinalysis shows red cell casts. Which biopsy finding would most strongly support the most likely diagnosis?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Caseating granulomas with acid-fast organisms"
-        },
-        {
-          "label": "B",
-          "text": "Mesangial IgA deposits on immunofluorescence"
-        },
-        {
-          "label": "C",
-          "text": "Necrotizing granulomatous inflammation of small vessels"
-        },
-        {
-          "label": "D",
-          "text": "Non-necrotizing granulomas with asteroid bodies"
-        },
-        {
-          "label": "E",
-          "text": "Perivascular lymphoplasmacytic cuffs with spirochetes"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "GPA shows a necrotizing granulomatous vasculitis of small-to-medium vessels with rapidly progressive glomerulonephritis.",
-        "whyCorrect": "Upper respiratory, lung and kidney involvement is the classic triad of granulomatosis with polyangiitis. Histologically GPA shows a necrotizing, granulomatous vasculitis of small-to-medium sized vessels, often with multinucleated giant cells, together with rapidly progressive glomerulonephritis.",
-        "whyWrongByChoice": {
-          "A": "Caseating granulomas with acid-fast organisms indicate tuberculosis, not vasculitis.",
-          "B": "Mesangial IgA deposits indicate Henoch-Schonlein purpura, which lacks upper airway disease and usually affects children.",
-          "D": "Non-necrotizing granulomas with asteroid bodies suggest sarcoidosis, which is not a necrotizing vasculitis.",
-          "E": "Perivascular lymphoplasmacytic cuffs with spirochetes indicate primary or secondary syphilis."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "GPA",
-        "necrotizing granulomatous vasculitis",
-        "pulmonary-renal"
-      ],
-      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
-      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
       "tier": "core"
     }
   ]

@@ -3,1716 +3,2259 @@
   "categoryName": "Session 1",
   "questions": [
     {
-      "id": "pa03-001",
-      "stem": "In an animal model, a renal artery is clamped briefly and then released. A biopsy taken during the clamp shows tubular epithelial cells that are swollen with pale, watery cytoplasm; the nuclei appear intact, and the swelling resolves after blood flow is restored. Which of the following best explains the reversible swelling of these cells?",
+      "id": "pa38-001",
+      "stem": "A 52-year-old woman has had several months of gradually worsening weakness that began in her thighs and has since progressed; she now has difficulty rising from a chair. She is diagnosed with polymyositis and started on a glucocorticoid. In this disease, the inflammatory attack is centered on which connective tissue layer of skeletal muscle?",
       "choices": [
         {
           "label": "A",
-          "text": "Deposition of homogeneous pink hyaline protein"
+          "text": "Endomysium"
         },
         {
           "label": "B",
-          "text": "Failure of ATP-dependent Na+/K+ pumps"
+          "text": "Epimysium"
         },
         {
           "label": "C",
-          "text": "Fragmentation of nuclear chromatin (karyorrhexis)"
+          "text": "Perimysium"
         },
         {
           "label": "D",
-          "text": "Release of lysosomal DNases digesting the nucleus"
+          "text": "Perineurium"
         },
         {
           "label": "E",
-          "text": "Rupture of the plasma membrane with loss of cellular contents"
+          "text": "Sarcolemma"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Cellular swelling is the classic morphologic change of reversible injury and stems from ATP depletion.",
-        "whyCorrect": "When hypoxia depletes ATP, the Na+/K+ pumps that maintain osmotic balance can no longer be powered, so ions and water accumulate and the cell swells. Because this is early and the stimulus is transient, restoring ATP returns the cell to normal osmotic balance, making swelling the hallmark of reversible injury.",
+        "summary": "Polymyositis is an inflammatory muscle disease that attacks skeletal muscle at the endomysium.",
+        "whyCorrect": "The endomysium is the delicate connective tissue surrounding each individual muscle cell. Polymyositis attacks muscle specifically at the endomysium, producing gradual loss of muscle tissue and weakness that begins in the thighs and progresses; it may respond to glucocorticoids.",
         "whyWrongByChoice": {
-          "A": "Hyaline change is an intracellular protein accumulation, not the mechanism of acute swelling.",
-          "C": "Karyorrhexis is a nuclear change of cell death, not the cause of reversible swelling.",
-          "D": "Leakage of lysosomal enzymes reflects membrane damage in irreversible injury.",
-          "E": "Plasma membrane rupture is a hallmark of irreversible injury, not a reversible change."
+          "B": "The epimysium is the dense outer layer around the whole muscle, not the target described in polymyositis.",
+          "C": "The perimysium surrounds fascicles; the lecture places the polymyositis attack at the endomysium around individual cells.",
+          "D": "The perineurium is a connective tissue covering that bundles axons in peripheral nerve, not a muscle layer.",
+          "E": "The sarcolemma is the muscle cell membrane, not a connective tissue layer."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "cell injury",
-        "reversible injury",
-        "cellular swelling",
-        "ATP"
+        "skeletal muscle",
+        "polymyositis",
+        "endomysium"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
       "tier": "core"
     },
     {
-      "id": "pa03-002",
-      "stem": "A cardiac myocyte is subjected to prolonged, severe hypoxia. Which of the following morphologic findings would most reliably indicate that the injury has become irreversible?",
+      "id": "pa38-002",
+      "stem": "A researcher stimulates one cardiac contractile myocyte in a culture of connected cells. The electrical impulse spreads to neighboring myocytes and they contract together, even though no nerve fibers are present in the culture. Which component of the intercalated discs directly permits this spread?",
       "choices": [
         {
           "label": "A",
-          "text": "Cytoplasmic swelling"
+          "text": "Dense bodies"
         },
         {
           "label": "B",
-          "text": "Mild reversible mitochondrial swelling"
+          "text": "Fascia adherens"
         },
         {
           "label": "C",
-          "text": "Restoration of normal osmotic balance after reoxygenation"
+          "text": "Gap junctions"
         },
         {
           "label": "D",
-          "text": "Rupture of the plasma membrane"
+          "text": "Spot desmosomes (maculae adherens)"
         },
         {
           "label": "E",
-          "text": "Transient increase in cell volume"
+          "text": "Tight junctions"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gap junctions in intercalated discs let current pass between cardiac myocytes, allowing contraction without direct nerve input to each cell.",
+        "whyCorrect": "Intercalated discs contain gap junctions, spot desmosomes, and fascia adherens. Gap junctions provide a passage between cells that conducts electrical signals (and some ions) from one myocyte to the next, so cardiac cells can transmit impulses among themselves without input from innervating nerves.",
+        "whyWrongByChoice": {
+          "A": "Dense bodies anchor actin and myosin to the sarcolemma in smooth muscle; they are not part of intercalated discs.",
+          "B": "Fascia adherens join groups of myocytes like a broad belt for mechanical binding, not electrical conduction.",
+          "D": "Spot desmosomes bind cardiac cells firmly together with cadherin-family proteins; they do not pass current.",
+          "E": "Tight junctions are not among the three junction types the lecture lists in intercalated discs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardiac muscle",
+        "intercalated discs",
+        "gap junctions"
+      ],
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa38-003",
+      "stem": "A section of urinary bladder wall from a 60-year-old man shows tightly packed, spindle-shaped cells with centrally located, elongated nuclei and no cross-striations. The actin and myosin filaments in these cells are anchored to the sarcolemma by which structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense bodies"
+        },
+        {
+          "label": "B",
+          "text": "Fascia adherens"
+        },
+        {
+          "label": "C",
+          "text": "Intercalated discs"
+        },
+        {
+          "label": "D",
+          "text": "Myofibrils"
+        },
+        {
+          "label": "E",
+          "text": "Sarcomeres"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Smooth muscle has actin and myosin but no sarcomeres or myofibrils; the filaments are anchored to the sarcolemma by dense bodies.",
+        "whyCorrect": "The described cells are smooth muscle (spindle-shaped, central nuclei, no striations), which lines distensible organs like the bladder. Even without sarcomeres, smooth muscle contains actin and myosin, and these contractile proteins are anchored to the sarcolemma by dense bodies.",
+        "whyWrongByChoice": {
+          "B": "Fascia adherens are belt-like junctions of cardiac intercalated discs, not filament anchors in smooth muscle.",
+          "C": "Intercalated discs are found only in cardiac muscle; smooth muscle cells are linked by gap junctions instead.",
+          "D": "Smooth muscle lacks myofibrils; that absence is why it is not striated.",
+          "E": "Smooth muscle has no sarcomeres; actin and myosin are present but not arranged in sarcomeres."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "smooth muscle",
+        "dense bodies"
+      ],
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa38-004",
+      "stem": "A tissue block is taken from the sinoatrial node of a donor heart. Which statement correctly describes the autorhythmic cells it contains?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are long multinucleated cells with nuclei under the sarcolemma"
+        },
+        {
+          "label": "B",
+          "text": "They generate the heart's force by actin-myosin sliding in sarcomeres"
+        },
+        {
+          "label": "C",
+          "text": "They lack all innervation, so the brain cannot alter the heart rate"
+        },
+        {
+          "label": "D",
+          "text": "They link to contractile myocytes by gap junctions but do not contract"
+        },
+        {
+          "label": "E",
+          "text": "They make up the large majority of all cardiac muscle cells in the heart"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Membrane rupture is a defining feature of irreversible cellular injury.",
-        "whyCorrect": "The brick teaches that a major defining feature of irreversible injury is membrane rupture, which allows leakage of cellular contents and, when lysosomal membranes fail, releases destructive enzymes. Once the membrane is breached the cell cannot recover.",
+        "summary": "Autorhythmic (pacemaker) cells of the SA and AV nodes set heart rate, are autonomically innervated, connect to contractile cells by gap junctions, and do not contract.",
+        "whyCorrect": "Cardiac muscle has autorhythmic and contractile cells. Autorhythmic cells, including the SA and AV nodes, act as pacemakers that set the heart rate and are innervated by autonomic neurons. Gap junctions connect them to the surrounding contractile cells, but the pacemaker cells themselves do not contract.",
         "whyWrongByChoice": {
-          "A": "Cytoplasmic swelling is the classic change of reversible injury.",
-          "B": "Mild, reversible mitochondrial swelling does not by itself signal irreversibility.",
-          "C": "Recovery of osmotic balance after reoxygenation indicates the injury was reversible.",
-          "E": "A transient volume increase is a reversible osmotic change."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "cell injury",
-        "irreversible injury",
-        "membrane rupture"
-      ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
-    },
-    {
-      "id": "pa03-003",
-      "stem": "A 20-month-old infant is found to have a retinoblastoma driven by biallelic inactivation of the RB tumor-suppressor gene. When the pathologist identifies this loss-of-function mutation as the event that initiated the disease, which core aspect of pathologic inquiry is being described?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Clinical manifestations"
-        },
-        {
-          "label": "B",
-          "text": "Etiology"
-        },
-        {
-          "label": "C",
-          "text": "Morphologic changes"
-        },
-        {
-          "label": "D",
-          "text": "Pathogenesis"
-        },
-        {
-          "label": "E",
-          "text": "Prognosis"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Etiology is the initiating cause of a disease, which is typically genetic or environmental.",
-        "whyCorrect": "The brick defines etiology as the initiation of disease, often a genetic event such as an inherited or acquired mutation. Biallelic RB inactivation is the genetic event that starts the tumor, making it the etiology.",
-        "whyWrongByChoice": {
-          "A": "Clinical manifestations are the observed results, such as leukocoria on examination.",
-          "C": "Morphologic changes are the microscopic findings such as poorly differentiated cells and rosettes.",
-          "D": "Pathogenesis is the mechanism by which the unchecked cell cycle leads to tumor growth, not the initiating cause.",
-          "E": "Prognosis refers to the expected disease course, such as the favorable survival rate."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "pathology basics",
-        "etiology",
-        "four core aspects"
-      ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
-    },
-    {
-      "id": "pa03-004",
-      "stem": "A firefighter is pulled unconscious from a burning building. Cyanide poisoning from smoke inhalation is suspected. Cyanide injures cells primarily by which of the following mechanisms?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Activating lysosomal proteases at the plasma membrane"
-        },
-        {
-          "label": "B",
-          "text": "Depleting intracellular calcium stores"
-        },
-        {
-          "label": "C",
-          "text": "Directly cross-linking nuclear DNA strands"
-        },
-        {
-          "label": "D",
-          "text": "Generating free radicals through ionizing radiation"
-        },
-        {
-          "label": "E",
-          "text": "Inhibiting mitochondrial cytochrome oxidase"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Cyanide blocks mitochondrial cytochrome oxidase, halting aerobic ATP production.",
-        "whyCorrect": "The brick states that cyanide, a product of incomplete combustion, inhibits mitochondrial cytochrome oxidase and thereby inhibits oxidative phosphorylation, decreasing ATP production through aerobic respiration. This energy failure is what damages cells.",
-        "whyWrongByChoice": {
-          "A": "Cyanide's target is the mitochondrial electron transport chain, not lysosomal proteases.",
-          "B": "Injury tends to raise cytosolic calcium; cyanide does not primarily deplete calcium stores.",
-          "C": "Cyanide does not act by directly cross-linking DNA.",
-          "D": "Ionizing radiation, not cyanide, generates free radicals that cause oxidative stress."
+          "A": "Multiple peripheral nuclei describe skeletal muscle cells.",
+          "B": "Force generation by sliding filaments is the job of contractile cells; pacemaker cells do not themselves contract.",
+          "C": "Autorhythmic cells are innervated by autonomic neurons, which is how the brain controls the heart.",
+          "E": "Contractile cells, not autorhythmic cells, compose the vast majority of cardiac muscle cells."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "cell injury",
-        "chemical injury",
-        "cyanide",
-        "mitochondria",
-        "ATP"
+        "cardiac muscle",
+        "autorhythmic cells",
+        "SA node"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
       "tier": "core"
     },
     {
-      "id": "pa03-005",
-      "stem": "A patient's occluded coronary artery is successfully reopened. Paradoxically, myocardial tissue damage worsens after blood flow is restored. Which of the following best explains this ischemia-reperfusion injury?",
+      "id": "pa38-005",
+      "stem": "A pathologist compares myelin in a biopsy of a peripheral (sural) nerve with myelin in the optic nerve at autopsy. Which feature is true of the cell that produced the myelin in the sural nerve?",
       "choices": [
         {
           "label": "A",
-          "text": "A sudden fall in systemic calcium levels"
+          "text": "It contains GFAP intermediate filaments that maintain its form"
         },
         {
           "label": "B",
-          "text": "Continued complete absence of oxygen delivery"
+          "text": "It extends processes that blanket several axons at once"
         },
         {
           "label": "C",
-          "text": "Depletion of intracellular glycogen stores"
+          "text": "It forms thin sheaths around sensory neuron cell bodies"
         },
         {
           "label": "D",
-          "text": "Returning blood delivers oxygen and inflammation"
+          "text": "It lines the central canal and moves fluid with its cilia"
         },
         {
           "label": "E",
-          "text": "Reversal of anaerobic glycolysis to aerobic respiration"
+          "text": "It myelinates only one segment of a single axon"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In the PNS, Schwann cells produce myelin, each covering one segment of one axon, unlike oligodendrocytes, which myelinate multiple CNS axons.",
+        "whyCorrect": "Peripheral nerve myelin is made by Schwann cells, which derive from the neural crest and migrate alongside developing axons. Unlike oligodendrocytes, which can myelinate multiple axons, a Schwann cell myelinates only one segment of one axon.",
+        "whyWrongByChoice": {
+          "A": "GFAP maintains the structure of astrocytes, which do not produce myelin.",
+          "B": "Myelinating multiple axons with processes is characteristic of oligodendrocytes in the CNS, such as the optic nerve.",
+          "C": "That describes satellite cells, which surround cell bodies in ganglia and do not myelinate axons.",
+          "D": "That describes ependymal cells of the CNS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glial cells",
+        "Schwann cells",
+        "myelin"
+      ],
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa38-006",
+      "stem": "A 29-year-old woman has painful blurred vision in her right eye. Over the next year she develops numbness and tingling in her legs, poor coordination, and fatigue, with periods of remission in between. MRI shows lesions in the brain and spinal cord. Loss of myelin made by which cell type best explains her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Astrocytes"
+        },
+        {
+          "label": "B",
+          "text": "Microglia"
+        },
+        {
+          "label": "C",
+          "text": "Oligodendrocytes"
+        },
+        {
+          "label": "D",
+          "text": "Satellite cells"
+        },
+        {
+          "label": "E",
+          "text": "Schwann cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Multiple sclerosis is an autoimmune demyelination of the CNS, where myelin is produced by oligodendrocytes.",
+        "whyCorrect": "Multiple sclerosis demyelinates neurons of the brain, spinal cord, and optic nerves, all CNS. CNS myelin, a phospholipid-protein insulator that increases conduction speed, is made by oligodendrocytes. Without it, neurons communicate poorly, producing optic neuritis, incoordination, numbness and tingling, and fatigue, with relapses and remissions.",
+        "whyWrongByChoice": {
+          "A": "Astrocytes provide support, transport metabolites, and help form the blood-brain barrier, but they do not make myelin.",
+          "B": "Microglia are CNS macrophages that scavenge debris; they do not produce myelin.",
+          "D": "Satellite cells surround neuron cell bodies in PNS ganglia and do not make myelin.",
+          "E": "Schwann cells myelinate PNS axons; the lesions here are in the brain, spinal cord, and optic nerve (CNS)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "multiple sclerosis",
+        "oligodendrocytes",
+        "demyelination"
+      ],
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa38-007",
+      "stem": "An H&E section of spinal cord shows a large neuron cell body with a single nucleus containing a prominent nucleolus. Its cytoplasm is filled with coarse, deep-purple granular material. This granular material is composed mainly of which organelle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Golgi apparatus"
+        },
+        {
+          "label": "B",
+          "text": "Lysosomes"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondria"
+        },
+        {
+          "label": "D",
+          "text": "Rough endoplasmic reticulum"
+        },
+        {
+          "label": "E",
+          "text": "Smooth endoplasmic reticulum"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Reperfusion can worsen injury because restored blood brings oxygen and inflammatory cells that generate ROS.",
-        "whyCorrect": "The brick explains that restoring blood flow not only brings nutrients but also an influx of oxygen and inflammation that lead to ROS-mediated injury of the already stressed tissue. This is the mechanism of ischemia-reperfusion injury.",
+        "summary": "Nissl substance, the deep-purple granular material in neuron cell bodies, is abundant rough endoplasmic reticulum.",
+        "whyCorrect": "Neuron cell bodies contain a single nucleus, often with a prominent nucleolus, and cytoplasm with abundant rough endoplasmic reticulum. This appears deep purple and granular and is called Nissl substance.",
         "whyWrongByChoice": {
-          "A": "Ischemia-reperfusion injury is driven by ROS, not by a drop in systemic calcium.",
-          "B": "Reperfusion restores, rather than continues to withhold, oxygen delivery.",
-          "C": "Glycogen depletion is not the described mechanism of reperfusion injury.",
-          "E": "A return to aerobic respiration is beneficial and does not explain the added damage."
+          "A": "The lecture identifies Nissl substance as rough endoplasmic reticulum, not Golgi.",
+          "B": "Lysosomes are not the basis of the purple granular Nissl substance.",
+          "C": "The deep-purple granular Nissl substance is rough endoplasmic reticulum, not mitochondria.",
+          "E": "Nissl substance is rough, not smooth, endoplasmic reticulum; its granularity reflects ribosomes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neurons",
+        "Nissl substance"
+      ],
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa38-008",
+      "stem": "Two processes leave the cell body of a neuron in an H&E section. At the base of process 1, the cytoplasm looks like the rest of the cell body, with purple granules. At the base of process 2, the cytoplasm is pale and free of granules. Which interpretation is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Process 1 conducts impulses onward to other neurons"
+        },
+        {
+          "label": "B",
+          "text": "Process 1 is the axon, which arises at the axon hillock"
+        },
+        {
+          "label": "C",
+          "text": "Process 2 is a dendrite that gathers incoming stimuli"
+        },
+        {
+          "label": "D",
+          "text": "Process 2 is a glial process that lacks Nissl substance"
+        },
+        {
+          "label": "E",
+          "text": "Process 2 is the axon, which arises at the axon hillock"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The axon hillock is pale because it lacks Nissl substance, whereas the base of a dendrite looks like the rest of the cell body.",
+        "whyCorrect": "Axons and dendrites can look alike, so the lecture says to examine where each branches from the cell body. A dendrite's base resembles the cell body, but the axon's base (the axon hillock) is pale because it is devoid of Nissl substance. The axon conducts impulses to other neurons.",
+        "whyWrongByChoice": {
+          "A": "Conducting impulses to other neurons is the axon's job; process 1 is a dendrite that receives stimuli.",
+          "B": "The axon hillock is pale because it lacks Nissl substance; process 1 has Nissl-like cytoplasm at its base, so it is a dendrite.",
+          "C": "Dendrites have bases that resemble the cell body; the pale, Nissl-free base marks an axon.",
+          "D": "Both processes leave the neuron's own cell body; the pale base is the axon hillock, not a glial process."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neurons",
+        "axon hillock",
+        "axon vs dendrite"
+      ],
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa38-009",
+      "stem": "A biopsy of a spinal (dorsal root) ganglion is examined. The sensory neurons whose cell bodies lie in this ganglion would be expected to have which arrangement of processes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No axon and many branched dendrites"
+        },
+        {
+          "label": "B",
+          "text": "One axon and one dendrite only"
+        },
+        {
+          "label": "C",
+          "text": "One process that splits into two axons"
+        },
+        {
+          "label": "D",
+          "text": "Several axons and a single dendrite"
+        },
+        {
+          "label": "E",
+          "text": "Several dendrites and a single axon"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sensory neurons of spinal and cranial ganglia are pseudounipolar: one process leaves the cell body and splits into two axons, one acting as a dendrite.",
+        "whyCorrect": "By morphology, pseudounipolar neurons are sensory neurons in spinal and cranial ganglia. A single process emerges from the cell body and splits into two axons, one of which acts as a dendrite.",
+        "whyWrongByChoice": {
+          "A": "The lecture describes no neuron type lacking an axon; spinal ganglion neurons are pseudounipolar.",
+          "B": "Two separate processes (one axon, one dendrite) describe bipolar neurons of the retina, olfactory mucosa, and inner ear.",
+          "D": "No neuron type in the lecture has this arrangement; multipolar neurons have several dendrites and one axon.",
+          "E": "Several dendrites with one axon describe multipolar neurons such as motor neurons and CNS interneurons."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neurons",
+        "pseudounipolar",
+        "spinal ganglia"
+      ],
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa38-010",
+      "stem": "At autopsy, a 74-year-old man who had a stroke years earlier has an old cerebral infarct walled off by dense fibers. A silver stain shows that the cells forming this wall have innumerable cytoplasmic processes that were barely visible on H&E. Which other function is performed by this cell type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conducting action potentials to effector sites"
+        },
+        {
+          "label": "B",
+          "text": "Forming thin sheaths around ganglion cell bodies"
+        },
+        {
+          "label": "C",
+          "text": "Lining the ventricles to move fluid with cilia"
+        },
+        {
+          "label": "D",
+          "text": "Producing myelin for several CNS axons"
+        },
+        {
+          "label": "E",
+          "text": "Taking up potassium and neurotransmitters"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Astrocytes form glial scars around old infarcts and also take up potassium and neurotransmitters, move metabolites, modulate blood flow, and help form the blood-brain barrier.",
+        "whyCorrect": "Star-shaped astrocytes have processes whose GFAP stains well with silver but are inconspicuous on H&E; they form the dense glial scar around an old infarct. Astrocytes also provide structural support, modulate blood flow, move metabolites between capillaries and neurons with their perivascular feet, take up potassium and neurotransmitters, and help form the blood-brain barrier.",
+        "whyWrongByChoice": {
+          "A": "Glial cells, including astrocytes, do not conduct electrical impulses.",
+          "B": "That is the role of satellite cells in the PNS.",
+          "C": "Lining ventricles and moving CSF with cilia is done by ependymal cells.",
+          "D": "Myelinating multiple CNS axons is the role of oligodendrocytes, not the cells that form glial scars."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "cell injury",
-        "ischemia",
-        "reperfusion injury",
-        "reactive oxygen species"
+        "astrocytes",
+        "glial scar",
+        "GFAP"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
       "tier": "core"
     },
     {
-      "id": "pa03-006",
-      "stem": "Aerobic cells continuously produce superoxide, a reactive oxygen species. Which of the following enzymes catalyzes the first step of neutralizing superoxide by converting it into hydrogen peroxide?",
+      "id": "pa38-011",
+      "stem": "A brain biopsy from a region of tissue injury shows small, irregularly shaped cells with condensed chromatin migrating toward and clustering around cell debris. When activated, these cells can also perform which function?",
       "choices": [
         {
           "label": "A",
-          "text": "Catalase"
+          "text": "Conducting action potentials"
         },
         {
           "label": "B",
-          "text": "Cytochrome oxidase"
+          "text": "Forming the glial scar"
         },
         {
           "label": "C",
-          "text": "Glutathione peroxidase"
+          "text": "Myelinating several axons"
         },
         {
           "label": "D",
-          "text": "Lactate dehydrogenase"
+          "text": "Presenting antigen"
         },
         {
           "label": "E",
-          "text": "Superoxide dismutase"
+          "text": "Producing cerebrospinal fluid"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Superoxide dismutase converts superoxide to hydrogen peroxide, the first step in radical scavenging.",
-        "whyCorrect": "The brick describes that superoxide is converted to hydrogen peroxide by superoxide dismutase, and that hydrogen peroxide is then further converted to water by glutathione peroxidase and catalase. Superoxide dismutase performs the initial conversion.",
+        "summary": "Microglia are the specialized macrophages of the CNS: they migrate, scavenge debris, infectious agents, and damaged tissue, and present antigen when activated.",
+        "whyCorrect": "Small, irregular cells with condensed chromatin that migrate to injured tissue are microglia, the macrophages of the CNS. They scavenge cell debris, infectious agents, and damaged tissue, and when activated they can also present antigen.",
         "whyWrongByChoice": {
-          "A": "Catalase acts downstream, converting hydrogen peroxide to water, not superoxide.",
-          "B": "Cytochrome oxidase is a mitochondrial electron-transport enzyme, not a radical scavenger.",
-          "C": "Glutathione peroxidase also acts on hydrogen peroxide, a later step.",
-          "D": "Lactate dehydrogenase functions in anaerobic glycolysis, not radical detoxification."
+          "A": "Glial cells do not conduct electrical impulses; neurons do.",
+          "B": "The dense-fiber glial scar around an old infarct is formed by astrocytes.",
+          "C": "Myelinating CNS axons is the role of oligodendrocytes.",
+          "E": "CSF production involves ependymal cells and the choroid plexus, not microglia."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "cell injury",
-        "oxidative stress",
-        "reactive oxygen species",
-        "superoxide dismutase"
+        "microglia",
+        "glial cells"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
       "tier": "core"
     },
     {
-      "id": "pa03-007",
-      "stem": "A 63-year-old man has had a blood pressure of 160/100 mm Hg for several years without treatment. Which of the following cellular adaptations is most likely present in his myocardium?",
+      "id": "pa38-012",
+      "stem": "A section through the wall of a lateral ventricle shows a single layer of columnar to cuboidal epithelial cells, some bearing cilia, lining the ventricular space. Which statement about these cells is accurate?",
       "choices": [
         {
           "label": "A",
-          "text": "Atrophy"
+          "text": "Modified forms of them contribute to the choroid plexus"
         },
         {
           "label": "B",
-          "text": "Hyperplasia"
+          "text": "Their GFAP-filled processes form glial scars"
         },
         {
           "label": "C",
-          "text": "Hypertrophy"
+          "text": "They also line fascicles of peripheral nerves"
         },
         {
           "label": "D",
-          "text": "Metaplasia"
+          "text": "They are resident macrophages that scavenge debris"
         },
         {
           "label": "E",
-          "text": "No adaptive change"
+          "text": "They myelinate axons running in nearby white matter"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Chronic pressure overload causes cardiac myocytes to enlarge (hypertrophy).",
-        "whyCorrect": "The brick teaches that hypertrophy is an increase in cell size from increased protein production in response to functional demand, such as cardiac muscle facing an increased workload. Because muscle cells cannot replicate, the heart adapts to sustained hypertension by enlarging its existing myocytes.",
+        "summary": "Ependymal cells line the ventricles and central canal, use cilia to move CSF, and in modified form help make up the CSF-producing choroid plexus.",
+        "whyCorrect": "Ependymal cells are columnar or cuboidal epithelial cells lining the brain's ventricles and the central canal of the spinal cord; some have cilia that move cerebrospinal fluid. Modified ependymal cells help form the choroid plexus, the network of blood vessels in the ventricles that produces CSF.",
         "whyWrongByChoice": {
-          "A": "Atrophy is a response to decreased demand, the opposite of the increased workload here.",
-          "B": "Hyperplasia requires cell division, but cardiac muscle cells cannot replicate.",
-          "D": "Metaplasia is a change of one cell type to another and does not occur in the heart in this setting.",
-          "E": "Sustained hypertension produces a definite adaptive change over time."
+          "B": "GFAP and glial scars are features of astrocytes.",
+          "C": "Ependymal cells line the brain ventricles and the spinal central canal, a CNS location; perineurium bundles peripheral axons.",
+          "D": "Scavenging macrophages of the CNS are microglia, not the epithelial cells lining ventricles.",
+          "E": "CNS myelin is produced by oligodendrocytes."
         }
       },
-      "difficulty": "easy",
+      "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "cellular adaptation",
-        "hypertrophy",
-        "hypertension",
-        "myocardium"
+        "ependymal cells",
+        "choroid plexus",
+        "CSF"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
       "tier": "core"
     },
     {
-      "id": "pa03-008",
-      "stem": "A postmenopausal woman on unopposed estrogen therapy presents with abnormal uterine bleeding. An endometrial biopsy shows an increased number of endometrial glands compared with normal tissue. Which cellular adaptation does this represent?",
+      "id": "pa37-001",
+      "stem": "A pathology resident reviews an H&E-stained section and notices a cell whose cytoplasm is packed with ribosomes; the cytoplasm stains deep blue-purple rather than pink. Which of the following best explains this staining pattern?",
       "choices": [
         {
           "label": "A",
-          "text": "Atrophy"
+          "text": "Eosin binding to basic structures (eosinophilia)"
         },
         {
           "label": "B",
-          "text": "Dystrophic calcification"
+          "text": "Hematoxylin binding to acidic structures (basophilia)"
         },
         {
           "label": "C",
-          "text": "Hyperplasia"
+          "text": "Periodic acid reacting with carbohydrate-rich molecules"
         },
         {
           "label": "D",
-          "text": "Hypertrophy"
+          "text": "Silver impregnation of fine reticulin fiber networks"
         },
         {
           "label": "E",
-          "text": "Metaplasia"
+          "text": "Trichrome dye binding to the cell's collagen fibers"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "Excess estrogen stimulation increases endometrial cell number, producing hyperplasia.",
-        "whyCorrect": "The brick states that hyperplasia is an increase in cell number, and that pathologic hyperplasia from excess estrogen stimulation causes endometrial hyperplasia, which can present clinically as abnormal uterine bleeding. The increased number of glands reflects added cells.",
+        "summary": "Hematoxylin stains acidic (basophilic) structures such as nuclei and ribosomes blue-purple.",
+        "whyCorrect": "In H&E, hematoxylin binds acidic structures, which are therefore called basophilic; nuclei and ribosomes are the classic examples and stain blue-purple. Eosin binds basic (eosinophilic) structures such as cytoplasm and many extracellular proteins, staining them pink-red. A ribosome-rich cytoplasm therefore appears blue-purple.",
         "whyWrongByChoice": {
-          "A": "Atrophy is a decrease in cell size or number, the opposite of what is seen.",
-          "B": "Dystrophic calcification is calcium deposition in damaged tissue, unrelated to glandular proliferation.",
-          "D": "Hypertrophy is an increase in cell size, not cell number.",
-          "E": "Metaplasia is replacement of one cell type by another, not an increase in glands."
+          "A": "Eosin stains basic structures such as most cytoplasm and extracellular proteins pink-red, not blue-purple.",
+          "C": "PAS is a separate stain for carbohydrate-rich structures; it is not part of a routine H&E.",
+          "D": "Silver stains are used to show type III (reticulin) fibers, which are invisible on H&E.",
+          "E": "Masson's trichrome stains collagen blue, but it is not part of H&E and ribosomes are not collagen."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "cellular adaptation",
-        "hyperplasia",
-        "endometrium",
-        "estrogen"
+        "staining",
+        "H&E",
+        "basophilia"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
       "tier": "core"
     },
     {
-      "id": "pa03-009",
-      "stem": "A long-term smoker undergoes bronchial biopsy, which shows the normal ciliated columnar respiratory epithelium replaced by tougher stratified squamous epithelium. This change is best described as which of the following?",
+      "id": "pa37-002",
+      "stem": "A 64-year-old man undergoes an abdominal fat pad biopsy for suspected amyloidosis. Congo red staining shows salmon-pink extracellular deposits. Which additional finding, seen when the same slide is examined under polarized light, is the hallmark of this condition?",
       "choices": [
         {
           "label": "A",
-          "text": "Anthracosis"
+          "text": "Apple-green birefringence of the deposits"
         },
         {
           "label": "B",
-          "text": "Atrophy"
+          "text": "Blue-purple staining of the deposits' nuclei"
         },
         {
           "label": "C",
-          "text": "Hyperplasia"
+          "text": "Bright blue granular pigment in the deposits"
         },
         {
           "label": "D",
-          "text": "Hypertrophy"
+          "text": "Dark black outlining of fine fibers in the deposits"
         },
         {
           "label": "E",
-          "text": "Metaplasia"
+          "text": "Deep blue staining of collagen in the deposits"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Replacement of one differentiated epithelium by another is metaplasia.",
-        "whyCorrect": "The brick teaches that metaplasia is a reversible change in which one differentiated cell type is replaced by another, using the example of tobacco smoke inducing metaplasia of ciliated columnar respiratory epithelium into more resistant squamous cells. Removing the stimulus can reverse the change.",
+        "summary": "Congo red stains amyloid salmon-pink to orange-red, with apple-green birefringence under polarized light.",
+        "whyCorrect": "Congo red is a water-soluble diazo dye that stains amyloid deposits salmon-pink to orange-red. Under polarized light the deposits show characteristic apple-green birefringence, which is the hallmark of amyloidosis.",
         "whyWrongByChoice": {
-          "A": "Anthracosis is accumulation of black carbon pigment, not a change in epithelial type.",
-          "B": "Atrophy is a decrease in cell size or number.",
-          "C": "Hyperplasia is an increase in cell number, not a switch in cell type.",
-          "D": "Hypertrophy is an increase in cell size."
+          "B": "Blue-purple nuclei reflect hematoxylin binding acidic structures; amyloid deposits are extracellular.",
+          "C": "Bright blue pigment is the Prussian blue result for iron, not a polarized-light finding with Congo red.",
+          "D": "Dark fine fibers are the silver-stain appearance of reticulin, unrelated to amyloid.",
+          "E": "Blue collagen is the result of Masson's trichrome, not of Congo red under polarized light."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "cellular adaptation",
-        "metaplasia",
-        "smoking",
+        "staining",
+        "Congo red",
+        "amyloidosis"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-003",
+      "stem": "All four basic tissue types are made of cells and extracellular matrix. Which tissue type differs from the other three in that its extracellular matrix is abundant and carries out the tissue's main functions, while its cells are sparse and largely supportive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac muscle tissue"
+        },
+        {
+          "label": "B",
+          "text": "Connective tissue"
+        },
+        {
+          "label": "C",
+          "text": "Epithelial tissue"
+        },
+        {
+          "label": "D",
+          "text": "Nervous tissue"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle tissue"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Connective tissue is the tissue in which abundant ECM (fibers + ground substance) performs the main functions.",
+        "whyCorrect": "In epithelial, muscle and nervous tissue, cells form the bulk of the tissue and carry out its unique functions, while the extracellular matrix is sparse and supportive. Connective tissue is the exception: its ECM of fibers and ground substance is abundant and does the main work, and its cells are typically sparse and supportive.",
+        "whyWrongByChoice": {
+          "A": "Cardiac muscle, like other muscle, is dominated by its contractile cells rather than by matrix.",
+          "C": "In epithelium, cells make up the bulk of the tissue and carry out its functions; the matrix is sparse.",
+          "D": "Nervous tissue function is carried out by its cells (neurons supported by glial cells), not by matrix.",
+          "E": "In muscle, contractile cells form the bulk and perform the tissue's function."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tissue types",
+        "extracellular matrix",
+        "connective tissue"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-004",
+      "stem": "A 30-year-old woman has a deep forearm laceration repaired. A biopsy of the healing wound edge two weeks later shows plump spindle-shaped cells depositing new collagen, several of which are in mitosis. Which statement best describes these cells in normal, uninjured connective tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pluripotent cells that mainly regulate capillary blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Resident cells that divide continuously to renew matrix"
+        },
+        {
+          "label": "C",
+          "text": "Resident cells that normally do not divide"
+        },
+        {
+          "label": "D",
+          "text": "Resident cells that store, synthesize and release lipid"
+        },
+        {
+          "label": "E",
+          "text": "Transient cells that migrate in from the circulation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fibroblasts are resident connective tissue cells that divide only when wound healing is required.",
+        "whyCorrect": "The collagen-producing cells of a healing wound are fibroblasts, which make collagen, elastic fibers and much of the ground substance. They are resident cells (originating within connective tissue) and do not normally undergo mitosis; the only time they divide is when wound healing is required.",
+        "whyWrongByChoice": {
+          "A": "This describes pericytes, which resemble fibroblasts but may modify capillary flow.",
+          "B": "Fibroblasts do not normally undergo mitosis; division is reserved for wound healing.",
+          "D": "This describes adipocytes, not the collagen-producing cells of a healing wound.",
+          "E": "Fibroblasts are resident cells; they originate within connective tissue and stay there."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "connective tissue cells",
+        "fibroblast",
+        "wound healing"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-005",
+      "stem": "A 24-year-old sprinter feels a pop at the back of his ankle and is found to have ruptured his Achilles tendon. Which collagen type predominates in the injured structure, and what is that collagen's key mechanical function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I collagen, resisting tension"
+        },
+        {
+          "label": "B",
+          "text": "Type II collagen, resisting pressure"
+        },
+        {
+          "label": "C",
+          "text": "Type II collagen, resisting tension"
+        },
+        {
+          "label": "D",
+          "text": "Type III collagen, forming web-like stroma"
+        },
+        {
+          "label": "E",
+          "text": "Type IV collagen, anchoring epithelial cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tendons are dense regular connective tissue built of type I collagen, whose key function is resisting tension.",
+        "whyCorrect": "Type I collagen is the most common subtype, making up about 90% of the body's collagen. It is found in bone, skin, tendons, ligaments and organ capsules, and its key function is to resist tension. The tendon is the classic example of dense regular connective tissue made of parallel type I bundles.",
+        "whyWrongByChoice": {
+          "B": "Type II resists pressure but is found in hyaline cartilage, the vitreous body and nucleus pulposus, not tendon.",
+          "C": "Tendon is not type II, and type II's role is resisting pressure rather than tension.",
+          "D": "Type III (reticulin) forms delicate networks in hematopoietic organs and around smooth muscle.",
+          "E": "Type IV is in the basal lamina of basement membranes and the lens capsule."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "collagen",
+        "type I collagen",
+        "tendon"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-006",
+      "stem": "A 41-year-old man undergoes surgery for a herniated lumbar disc, and the extruded gelatinous nucleus pulposus is sent to pathology. The predominant collagen in this material is the same type found in the vitreous body of the eye. What is the primary mechanical role of this collagen type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allowing stretch and recoil of the tissue"
+        },
+        {
+          "label": "B",
+          "text": "Anchoring epithelium to underlying tissue"
+        },
+        {
+          "label": "C",
+          "text": "Forming a web-like stroma for marrow cells"
+        },
+        {
+          "label": "D",
+          "text": "Resisting pressure"
+        },
+        {
+          "label": "E",
+          "text": "Resisting tension along one axis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Type II collagen (hyaline cartilage, nucleus pulposus, vitreous body) primarily resists pressure.",
+        "whyCorrect": "The nucleus pulposus and vitreous body both contain type II collagen, which is found primarily in hyaline cartilage matrix. The primary function of type II collagen fibers is to resist pressure, in contrast to type I collagen, which resists tension.",
+        "whyWrongByChoice": {
+          "A": "Stretch and recoil are properties of elastic fibers, due to elastin.",
+          "B": "Anchoring epithelium and aiding filtration are roles of type IV collagen in the basal lamina.",
+          "C": "Web-like stroma in bone marrow, spleen and lymph nodes is formed by type III (reticulin) collagen.",
+          "E": "Resisting tension is the key function of type I collagen, as in tendons and ligaments."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "collagen",
+        "type II collagen",
+        "nucleus pulposus"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-007",
+      "stem": "A 26-year-old woman with thin, translucent, easily bruised skin and recurrent joint dislocations from hyperflexible joints presents with sudden severe abdominal pain; imaging shows a spontaneous perforation of the sigmoid colon. Her mother died of a ruptured aorta at age 38. A genetic defect in which fibers best explains her risk of bowel and large-artery rupture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elastic fibers cross-linked by desmosine in artery walls"
+        },
+        {
+          "label": "B",
+          "text": "Type I collagen fibers of bone, tendon and ligament"
+        },
+        {
+          "label": "C",
+          "text": "Type II collagen fibers of the hyaline cartilage matrix"
+        },
+        {
+          "label": "D",
+          "text": "Type III collagen fibers surrounding smooth muscle cells"
+        },
+        {
+          "label": "E",
+          "text": "Type IV collagen meshwork of the epithelial basal lamina"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Vascular Ehlers-Danlos syndrome results from defective type III collagen, which surrounds smooth muscle of the bowel and large arteries.",
+        "whyCorrect": "Vascular EDS is caused by a genetic defect in transcribing or translating the DNA or mRNA that encodes type III collagen. Patients have thin, easily bruised, fragile skin and hyperflexible joints that may dislocate. Because type III fibers surround the smooth muscle cells of the bowel and large arteries, these patients are at risk of bowel and arterial rupture, so early diagnosis matters.",
+        "whyWrongByChoice": {
+          "A": "Elastic fibers allow stretch and recoil; the lecture ties vascular EDS to type III collagen.",
+          "B": "Type I resists tension in bone and tendon; it is not the fiber surrounding smooth muscle in bowel and artery walls.",
+          "C": "Type II is found in cartilage, vitreous and nucleus pulposus and would not explain vessel or bowel rupture.",
+          "E": "Type IV anchors epithelium in basement membranes; it is not the defect in vascular EDS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "collagen",
+        "type III collagen",
+        "Ehlers-Danlos syndrome"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-008",
+      "stem": "A research group identifies an inherited defect in the collagen that forms the capsule of the lens of the eye. The same collagen type would also be expected to be abnormal in which of the following locations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basal lamina of epithelial basement membranes"
+        },
+        {
+          "label": "B",
+          "text": "Dentin and cementum of the permanent teeth"
+        },
+        {
+          "label": "C",
+          "text": "Nucleus pulposus of the intervertebral discs"
+        },
+        {
+          "label": "D",
+          "text": "Parallel bundles of tendons and ligaments"
+        },
+        {
+          "label": "E",
+          "text": "Reticular stroma of lymph nodes and spleen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Type IV collagen is found in the lens capsule and the basal lamina of basement membranes.",
+        "whyCorrect": "Type IV collagen forms a meshwork of fibers in the basal lamina of basement membranes and is also found in the lens capsule. In basement membranes it supports and anchors epithelial cells, aids filtration and acts as a scaffold for cell migration.",
+        "whyWrongByChoice": {
+          "B": "Dentin and cementum contain type I collagen.",
+          "C": "The nucleus pulposus contains type II collagen.",
+          "D": "Tendons and ligaments are made of type I collagen.",
+          "E": "Lymph node and splenic stroma are built of type III (reticulin) collagen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "collagen",
+        "type IV collagen",
+        "basement membrane"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-009",
+      "stem": "A punch biopsy of skin shows a deep layer composed of densely packed bundles of type I collagen oriented in a seemingly random fashion, with relatively few fibroblasts and minimal ground substance. For which mechanical demand is this arrangement best suited?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Permitting stretch to 150% followed by recoil"
+        },
+        {
+          "label": "B",
+          "text": "Providing a framework for hematopoietic cells"
+        },
+        {
+          "label": "C",
+          "text": "Resisting compressive pressure on the tissue"
+        },
+        {
+          "label": "D",
+          "text": "Resisting tension applied along a single axis"
+        },
+        {
+          "label": "E",
+          "text": "Resisting tension applied from many directions"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dense irregular connective tissue (skin, organ capsules) resists multidirectional tension.",
+        "whyCorrect": "Dense irregular connective tissue, like dense regular, is mostly densely packed type I collagen with few fibroblasts and little ground substance, but its bundles run in many directions. This irregular arrangement makes it good at resisting tension from all directions, so it is found in places exposed to multidirectional pulling forces, such as the skin and organ capsules.",
+        "whyWrongByChoice": {
+          "A": "Stretch and recoil depend on elastic fibers, not on dense type I bundles.",
+          "B": "That is the role of reticular connective tissue made of type III fibers.",
+          "C": "Resisting pressure is the role of type II collagen in cartilage.",
+          "D": "Single-direction tension is handled by dense regular tissue with parallel bundles, as in tendons."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "connective tissue proper",
+        "dense irregular",
+        "skin"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-010",
+      "stem": "An endoscopic biopsy of the colon is taken, and the pathologist examines the lamina propria that supports the thin surface epithelium. Which histologic features would be expected in this supporting layer on H&E?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fine fibers, many cell types, abundant clear ground substance"
+        },
+        {
+          "label": "B",
+          "text": "Interwoven type III net visible only with silver stain"
+        },
+        {
+          "label": "C",
+          "text": "Smooth glassy matrix of type II fibers blended with GAGs"
+        },
+        {
+          "label": "D",
+          "text": "Thick parallel type I bundles with few interspersed cells"
+        },
+        {
+          "label": "E",
+          "text": "Thick randomly oriented type I bundles with few cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The lamina propria is loose (areolar) connective tissue: fine fibers, many cells, abundant clear ground substance.",
+        "whyCorrect": "Loose (areolar) connective tissue forms the lamina propria that supports the thin epithelial lining of the gastrointestinal and respiratory tracts. It contains fine collagen and elastic fibers, numerous cells such as fibroblasts, plasma cells and macrophages, and abundant optically clear ground substance that gives it an appearance of many little empty spaces.",
+        "whyWrongByChoice": {
+          "B": "This is reticular connective tissue of the marrow, lymph nodes and spleen.",
+          "C": "This describes hyaline cartilage, a specialized connective tissue.",
+          "D": "This is dense regular connective tissue, as in tendons and ligaments.",
+          "E": "This is dense irregular connective tissue, as in the skin and organ capsules."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "connective tissue proper",
+        "loose areolar",
+        "lamina propria"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-011",
+      "stem": "A lymph node is excised from a 50-year-old woman. On H&E, sheets of small lymphocytes are well seen, but the delicate fiber framework that supports them cannot be identified. Which stain would best demonstrate this framework?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congo red stain"
+        },
+        {
+          "label": "B",
+          "text": "Giemsa stain"
+        },
+        {
+          "label": "C",
+          "text": "Gram stain"
+        },
+        {
+          "label": "D",
+          "text": "Prussian blue stain"
+        },
+        {
+          "label": "E",
+          "text": "Silver stain"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Reticular (type III) fibers are invisible on H&E but easily identified with silver stains.",
+        "whyCorrect": "The supporting framework of lymph nodes, bone marrow and spleen is reticular connective tissue, made of type III collagen (reticulin) fibers in an interwoven net. These fibers are invisible on regular H&E sections but are easily identified with silver stains, which show them as fine, darkly staining fibers.",
+        "whyWrongByChoice": {
+          "A": "Congo red identifies amyloid deposits, not supporting fibers.",
+          "B": "Giemsa is used for marrow, plasma cells, mast cells and blood parasites, not reticulin fibers.",
+          "C": "Gram stain differentiates bacteria by their cell walls.",
+          "D": "Prussian blue highlights iron deposits."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "connective tissue proper",
+        "reticular",
+        "silver stain"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa37-012",
+      "stem": "A 58-year-old woman who plays tennis has months of posterior heel pain that has not improved with stretching, ice, and NSAIDs. Ultrasound shows Achilles tendinopathy with disorganized fibers and edema. She is referred to physical therapy for an eccentric calf-strengthening program and told to avoid jumping and sprinting for now. By which mechanism is this program expected to help?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Converting tendon collagen from type I to type III fibers"
+        },
+        {
+          "label": "B",
+          "text": "Increasing ground substance to cushion the tendon"
+        },
+        {
+          "label": "C",
+          "text": "Promoting a random, multidirectional collagen orientation"
+        },
+        {
+          "label": "D",
+          "text": "Reducing tendon load so its collagen fibers can realign"
+        },
+        {
+          "label": "E",
+          "text": "Replacing damaged tendon collagen with elastic fibers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In tendinopathy, eccentric strengthening offloads the tendon so its type I collagen can realign into parallel bundles.",
+        "whyCorrect": "A tendon is dense regular connective tissue whose type I collagen bundles should run parallel, without edema. In tendinopathy the fibers are disorganized, making the tendon less flexible and painful. Eccentric strengthening strengthens the calf muscle, reducing load on the tendon, reducing edema and allowing realignment of the collagen fibers; ballistic motion is avoided in the meantime.",
+        "whyWrongByChoice": {
+          "A": "Healthy tendon is type I collagen; the goal is realignment, not conversion to reticulin.",
+          "B": "Tendon has little ground substance; therapy aims to reduce edema and realign fibers.",
+          "C": "Tendon is dense regular tissue; its fibers should be parallel, not random.",
+          "E": "Tendon strength comes from parallel type I bundles, not elastic fibers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "connective tissue proper",
+        "dense regular",
+        "tendinopathy"
+      ],
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "pa39-001",
+      "stem": "A 9-year-old boy has had recurrent pneumonia and chronic sinus infections since infancy. A chest radiograph shows the cardiac apex on the right side, and CT shows dilated bronchi. A nasal mucosal biopsy is sent for electron microscopy. Which of the following findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of laminin within the lamina lucida"
+        },
+        {
+          "label": "B",
+          "text": "Absence of the lamina densa beneath the epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Loss of villin cross-links in microvillus cores"
+        },
+        {
+          "label": "D",
+          "text": "Missing dynein arms on the ciliary axonemes"
+        },
+        {
+          "label": "E",
+          "text": "Replacement of columnar cells by stratified squamous cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Primary ciliary dyskinesia (Kartagener subtype: situs inversus, chronic sinusitis, bronchiectasis) results from axonemes lacking the dynein motor protein.",
+        "whyCorrect": "In primary ciliary dyskinesia the ciliary axonemes lack dynein, the motor protein that drives the ciliary beat, so ciliary movement is ineffective. Respiratory cilia cannot clear inhaled particulates, producing recurrent lower respiratory infections, chronic sinusitis, and bronchiectasis; situs inversus marks the classic Kartagener subtype.",
+        "whyWrongByChoice": {
+          "A": "Laminin in the lamina lucida anchors hemidesmosomes; it has no role in ciliary beating.",
+          "B": "The lamina densa (type IV collagen) is part of the basal lamina; its loss is not the defect behind recurrent infections with situs inversus.",
+          "C": "Villin cross-links the actin core of microvilli, which serve absorption and secretion, not airway clearance or organ laterality.",
+          "E": "A change to stratified squamous lining is not the lesion of this inherited syndrome; the biopsy in primary ciliary dyskinesia shows ciliated pseudostratified columnar epithelium with defective axonemes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cilia",
+        "primary ciliary dyskinesia",
+        "Kartagener syndrome",
+        "dynein"
+      ],
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa39-002",
+      "stem": "A pathology student examining a section of normal skin notes that blood vessels are present only in the connective tissue beneath the epithelium, and none are seen among the epithelial cells themselves. Which of the following best describes how these epithelial cells obtain oxygen and nutrients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterioles that terminate within the lamina lucida"
+        },
+        {
+          "label": "B",
+          "text": "Capillaries running between the lateral membranes of the cells"
+        },
+        {
+          "label": "C",
+          "text": "Diffusion from dermal vessels across the basement membrane"
+        },
+        {
+          "label": "D",
+          "text": "Small vessels penetrating the lamina densa into the epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Uptake from the skin surface through apical microvilli"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Epithelium is avascular; its oxygen and nutrients diffuse from vessels in the underlying connective tissue across the basement membrane.",
+        "whyCorrect": "Epithelial tissues contain no blood vessels. Vessels in the underlying connective tissue (the dermis in skin, the lamina propria in most internal organs) supply oxygen, nutrients, and signaling molecules, which passively diffuse through the connective tissue and across the basement membrane to the epithelial cells.",
+        "whyWrongByChoice": {
+          "A": "The lamina lucida is part of the basal lamina and contains laminins, not terminating arterioles.",
+          "B": "No capillaries lie between epithelial cells; epithelium is avascular.",
+          "D": "Vessels do not penetrate the basal lamina into the epithelium; molecules diffuse across it instead.",
+          "E": "Epithelial nutrition comes from underlying vessels, not from the external surface."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "avascular",
+        "basement membrane",
+        "dermis",
+        "diffusion"
+      ],
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa39-003",
+      "stem": "An investigator applies a fluorescent antibody against type IV collagen to a section of intestinal mucosa. The label will be concentrated in which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apical brush border"
+        },
+        {
+          "label": "B",
+          "text": "Lamina densa"
+        },
+        {
+          "label": "C",
+          "text": "Lamina lucida"
+        },
+        {
+          "label": "D",
+          "text": "Reticular lamina"
+        },
+        {
+          "label": "E",
+          "text": "Terminal bar"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Type IV collagen is a component of the lamina densa of the basal lamina.",
+        "whyCorrect": "The basal lamina has two zones. The lamina densa sits beneath the lamina lucida and contains type IV collagen plus various glycoproteins and proteoglycans, forming a network within the basement membrane.",
+        "whyWrongByChoice": {
+          "A": "The brush border is formed by microvilli with actin cores cross-linked by villin.",
+          "C": "The lamina lucida, next to the plasma membrane, is characterized by laminins that bind hemidesmosomes.",
+          "D": "The reticular lamina lies beneath the basal lamina and is derived from connective tissue; reticular fibers are type III collagen.",
+          "E": "The terminal bar is a complex of tight and adherent junctions near the apical surface."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "basement membrane",
+        "lamina densa",
+        "type IV collagen"
+      ],
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa39-004",
+      "stem": "Electron microscopy of a skin biopsy from a 25-year-old woman shows hemidesmosomes along the basal plasma membrane of the deepest epithelial cells. These structures attach the cells to the underlying basal lamina by binding which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laminin in the lamina lucida"
+        },
+        {
+          "label": "B",
+          "text": "Laminin in the reticular lamina"
+        },
+        {
+          "label": "C",
+          "text": "Type III collagen in the reticular lamina"
+        },
+        {
+          "label": "D",
+          "text": "Type IV collagen in the lamina densa"
+        },
+        {
+          "label": "E",
+          "text": "Villin in the lamina lucida"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hemidesmosomes bind laminins of the lamina lucida, the basal lamina zone directly against the epithelial cell.",
+        "whyCorrect": "The lamina lucida lies right next to the epithelial cell's plasma membrane and contains laminins, glycoproteins that bind hemidesmosomes, the bridging structures linking the basal lamina to the epithelial cell. Laminins also maintain structural architecture and take part in development, wound healing, and cancer cell invasion.",
+        "whyWrongByChoice": {
+          "B": "Laminins are located in the lamina lucida, not the connective-tissue-derived reticular lamina.",
+          "C": "The reticular lamina lies beneath the basal lamina and is derived from connective tissue; hemidesmosomes do not bind it.",
+          "D": "Type IV collagen is in the lamina densa, deeper than the zone that hemidesmosomes bind.",
+          "E": "Villin cross-links actin in microvilli; it is not a basal lamina component."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "basement membrane",
+        "lamina lucida",
+        "laminin",
+        "hemidesmosome"
+      ],
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa39-005",
+      "stem": "A tracheal biopsy shows tall cells with apical cilia. The nuclei sit at several different heights, giving a layered look, but careful examination shows that every cell rests on the basal lamina. Which of the following best classifies this epithelium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pseudostratified columnar"
+        },
+        {
+          "label": "B",
+          "text": "Simple columnar"
+        },
+        {
+          "label": "C",
+          "text": "Stratified columnar"
+        },
+        {
+          "label": "D",
+          "text": "Stratified cuboidal"
+        },
+        {
+          "label": "E",
+          "text": "Transitional"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pseudostratified columnar epithelium is a single layer of columnar cells, all on the basal lamina, whose staggered nuclei falsely suggest stratification.",
+        "whyCorrect": "Pseudostratified epithelium is one layer of columnar cells that all rest on the basal lamina; because the nuclei do not line up, it falsely appears to have multiple layers. It is the respiratory epithelium of the trachea, bronchi, and nasal cavity, and bears cilia.",
+        "whyWrongByChoice": {
+          "B": "Simple columnar epithelium has nuclei lined up in a uniform row, without the false layered appearance.",
+          "C": "Stratified columnar epithelium has truly multiple layers, with not every cell reaching the basal lamina; it lines large salivary excretory ducts and parts of the male urethra.",
+          "D": "Stratified cuboidal epithelium has cube-shaped surface cells and lines sweat gland ducts.",
+          "E": "Transitional epithelium is truly multilayered and lines the urinary tract, not the trachea."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "classification",
+        "pseudostratified columnar",
         "respiratory epithelium"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
       "tier": "core"
     },
     {
-      "id": "pa03-010",
-      "stem": "At autopsy of an elderly patient, hard, chalky deposits are found within a heavily damaged, atherosclerotic aortic valve. Review of records shows the patient's serum calcium and phosphate were normal. This calcification is best classified as which of the following?",
+      "id": "pa39-006",
+      "stem": "Two samples of bladder wall are fixed for histology, one while the bladder was filled to full distension and one while it was empty. Comparing the most superficial epithelial cells in the two samples, which of the following is expected?",
       "choices": [
         {
           "label": "A",
-          "text": "Dystrophic calcification"
+          "text": "Ciliated when empty, nonciliated when distended"
         },
         {
           "label": "B",
-          "text": "Hemosiderin deposition"
+          "text": "Columnar when distended, flattened when empty"
         },
         {
           "label": "C",
-          "text": "Hyaline change"
+          "text": "Cuboidal in both, since cell shape is fixed"
         },
         {
           "label": "D",
-          "text": "Lipofuscin accumulation"
+          "text": "Flattened in both, with only basal cells changing"
         },
         {
           "label": "E",
-          "text": "Metastatic calcification"
+          "text": "Flattened when distended, cuboidal when empty"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Calcification of damaged tissue with normal serum calcium is dystrophic calcification.",
-        "whyCorrect": "The brick defines dystrophic calcification as deposition occurring in damaged tissues under normal systemic calcium homeostasis, using the example of a damaged, atherosclerotic aortic valve. Normal serum calcium plus locally damaged tissue fits this definition.",
+        "summary": "Superficial cells of transitional epithelium look cuboidal in an empty bladder and squamous when the bladder is stretched.",
+        "whyCorrect": "Transitional epithelium (urothelium) is a stratified epithelium in tissues that must stretch. Its basal cells are cuboidal or columnar, while its superficial cells change appearance with stretch: cuboidal without stretch (empty bladder) and squamous (flattened) during stretch (full bladder).",
         "whyWrongByChoice": {
-          "B": "Hemosiderin is an iron-rich blood-breakdown pigment, not calcification.",
-          "C": "Hyaline change is a pink, glassy protein accumulation, not a calcium deposit.",
-          "D": "Lipofuscin is a brown wear-and-tear pigment of aging, not a calcium deposit.",
-          "E": "Metastatic calcification deposits in otherwise normal tissue due to hypercalcemia, such as excess parathyroid hormone; serum calcium here is normal."
+          "A": "Urothelium is not a ciliated epithelium; distension alters cell shape, not surface projections.",
+          "B": "This reverses the pattern; stretch flattens the surface cells rather than making them columnar.",
+          "C": "The superficial cells do change shape with distension; that is the hallmark of transitional epithelium.",
+          "D": "The shape change occurs in the superficial cells; the empty bladder shows cuboidal surface cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transitional epithelium",
+        "urothelium",
+        "bladder"
+      ],
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa39-007",
+      "stem": "A 64-year-old man who worked for 30 years in an industrial chemical plant is found to have a malignant bladder mass. The tumor most likely arose from which of the following epithelia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pseudostratified columnar"
+        },
+        {
+          "label": "B",
+          "text": "Simple columnar"
+        },
+        {
+          "label": "C",
+          "text": "Simple cuboidal"
+        },
+        {
+          "label": "D",
+          "text": "Stratified squamous"
+        },
+        {
+          "label": "E",
+          "text": "Transitional"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bladder transitional epithelium, in steady contact with urine that can carry ingested toxins like industrial chemicals, gives rise to urothelial carcinoma.",
+        "whyCorrect": "The bladder is lined by transitional epithelium (urothelium), which is notorious for transforming into urothelial carcinoma (formerly transitional cell carcinoma). Because it is in constant contact with urine, which can contain toxins such as industrial chemicals, it can undergo malignant transformation.",
+        "whyWrongByChoice": {
+          "A": "Pseudostratified columnar epithelium is respiratory epithelium.",
+          "B": "Simple columnar epithelium lines the stomach and intestines.",
+          "C": "Simple cuboidal epithelium lines renal tubules and the ovary surface, not the bladder.",
+          "D": "Stratified squamous epithelium lines the vagina, esophagus, and mouth, not the bladder."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transitional epithelium",
+        "urothelial carcinoma",
+        "clinical correlation"
+      ],
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa39-008",
+      "stem": "Electron microscopy of a small-intestinal absorptive cell shows short, densely packed apical projections that together give a brush-like appearance. The core of each projection is made of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 9 + 2 microtubule axoneme moved by dynein"
+        },
+        {
+          "label": "B",
+          "text": "Actin filaments cross-linked by villin"
+        },
+        {
+          "label": "C",
+          "text": "Laminin glycoproteins anchored to hemidesmosomes"
+        },
+        {
+          "label": "D",
+          "text": "Tight and adherent junction complexes"
+        },
+        {
+          "label": "E",
+          "text": "Type IV collagen with associated proteoglycans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Microvilli have a core of actin filaments cross-linked by villin; packed together they form the brush border.",
+        "whyCorrect": "Microvilli are tightly spaced finger-like extensions that increase surface area for absorption and secretion. Their core is actin filaments cross-linked by villin. Because they are short and numerous, intestinal cells bearing them are said to have a brush border.",
+        "whyWrongByChoice": {
+          "A": "The 9 + 2 axoneme driven by dynein is the internal structure of motile cilia.",
+          "C": "Laminins lie in the lamina lucida at the base of the cell, not in apical projections.",
+          "D": "Tight and adherent junction complexes form the terminal bar between cells.",
+          "E": "Type IV collagen and proteoglycans make up the lamina densa of the basal lamina."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "microvilli",
+        "villin",
+        "actin",
+        "brush border"
+      ],
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa39-009",
+      "stem": "A section of the male reproductive tract shows epithelial cells bearing unusually long apical projections. On electron microscopy, these projections contain actin filaments and no axoneme. Which of the following best describes the nature and role of these projections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anchoring fibers that bind the lamina lucida"
+        },
+        {
+          "label": "B",
+          "text": "Junctional complexes that seal adjacent cell borders"
+        },
+        {
+          "label": "C",
+          "text": "Long modified microvilli specialized for absorption"
+        },
+        {
+          "label": "D",
+          "text": "Motile projections that sweep mucus and particulates"
+        },
+        {
+          "label": "E",
+          "text": "True cilia that propel fluid and sperm by beating"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Stereocilia are not true cilia but unusually long microvilli specialized for absorption, found in the male reproductive tract and the inner ear.",
+        "whyCorrect": "Despite their name, stereocilia are not cilia; they are unique, long microvilli specialized for absorption. They occur in only a few places, including the male reproductive tract and the sensory components of the inner ear. Lacking an axoneme, they do not beat.",
+        "whyWrongByChoice": {
+          "A": "Hemidesmosomes bind laminin in the lamina lucida at the basal, not apical, surface.",
+          "B": "Apical junctional complexes (the terminal bar) are tight and adherent junctions, not long surface projections.",
+          "D": "Sweeping of particulates is the role of motile cilia, which need a dynein-driven axoneme.",
+          "E": "Beating that moves fluid and sperm toward the epididymis is done by true motile cilia of the efferent ductules, which contain 9 + 2 axonemes."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "intracellular accumulations",
-        "dystrophic calcification",
-        "calcium"
+        "stereocilia",
+        "microvilli",
+        "male reproductive tract"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
       "tier": "core"
     },
     {
-      "id": "pa03-011",
-      "stem": "A pathologist examines the heart of an elderly patient and notes a brown, granular pigment accumulating within cardiomyocytes. The pigment is composed of oxidized proteins and lipids, builds up with age particularly in non-dividing cells, and is not harmful to the cell. Which pigment is this?",
+      "id": "pa39-010",
+      "stem": "Renal tubular epithelial cells move ions and molecules from the tubular lumen through the cell to the interstitium, where vessels absorb them. Which property of these epithelial cells makes this one-way transport possible?",
       "choices": [
         {
           "label": "A",
-          "text": "Anthracotic (carbon) pigment"
+          "text": "Absence of blood vessels within the epithelial layer"
         },
         {
           "label": "B",
-          "text": "Bilirubin"
+          "text": "Different transporters on the apical and basolateral sides"
         },
         {
           "label": "C",
-          "text": "Hemosiderin"
+          "text": "Identical channels spread evenly over all membrane faces"
         },
         {
           "label": "D",
-          "text": "Lipofuscin"
+          "text": "Lack of a basement membrane beneath the tubule cells"
         },
         {
           "label": "E",
-          "text": "Melanin"
+          "text": "Villin-linked microvilli covering every membrane surface"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "Lipofuscin is the brown wear-and-tear pigment of aging, seen in non-dividing cells.",
-        "whyCorrect": "The brick describes lipofuscin as a brown wear-and-tear pigment of proteins and lipids that accumulates with aging, particularly in non-dividing cells such as skeletal muscle, neurons, and cardiomyocytes, and notes it is not harmful to cells.",
+        "summary": "Epithelial polarity, with distinct transporters on apical and basolateral membranes, allows directional transport across renal tubular cells.",
+        "whyCorrect": "Epithelial cells are polarized: the apical membrane (facing away from the basement membrane) and the basolateral membrane carry different receptors, channels, and transporters. In the renal tubule this lets the cell take molecules up from the lumen and release them on the opposite side, after which they pass through the basement membrane into the interstitium.",
         "whyWrongByChoice": {
-          "A": "Anthracotic pigment is inhaled black carbon that accumulates in the lung and lymph nodes.",
-          "B": "Bilirubin is a yellow-brown bile pigment from abnormal bile excretion.",
-          "C": "Hemosiderin is a yellow-brown iron pigment from blood breakdown, not an aging pigment of oxidized lipids.",
-          "E": "Melanin is a brown-black pigment produced by melanocytes."
+          "A": "Epithelium is avascular, but that explains its nutrient supply, not the direction of transport.",
+          "C": "Identical channels everywhere would be the opposite of polarity and would not support one-way transport.",
+          "D": "Renal tubules do have a basement membrane surrounding them; transported molecules cross it.",
+          "E": "Microvilli are apical specializations that enlarge surface area; they are not on every surface and do not confer directionality."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "intracellular accumulations",
-        "pigments",
-        "lipofuscin",
-        "aging"
+        "polarity",
+        "apical membrane",
+        "basolateral membrane",
+        "renal tubule"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
       "tier": "core"
     },
     {
-      "id": "pa03-012",
-      "stem": "To estimate how rapidly a lymphoma is proliferating, a pathologist orders a stain in which antibodies target a cell-cycle antigen, turning positive nuclei brown. Which of the following techniques is being used?",
+      "id": "pa39-011",
+      "stem": "A 55-year-old woman undergoes upper endoscopy for reflux symptoms, and a biopsy is taken from normal-appearing mucosa of the mid-esophagus. Which epithelium is expected in this specimen?",
       "choices": [
         {
           "label": "A",
-          "text": "Eosin counterstain alone"
+          "text": "Pseudostratified columnar"
         },
         {
           "label": "B",
-          "text": "Hematoxylin alone"
+          "text": "Simple columnar"
         },
         {
           "label": "C",
-          "text": "Hematoxylin and eosin (H&E)"
+          "text": "Stratified columnar"
         },
         {
           "label": "D",
-          "text": "Ki-67 immunohistochemistry"
+          "text": "Stratified squamous"
         },
         {
           "label": "E",
-          "text": "Periodic acid-Schiff (PAS-D) special stain"
+          "text": "Transitional"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Ki-67 immunohistochemistry uses antibodies against a cell-cycle antigen to estimate proliferation.",
-        "whyCorrect": "The brick explains that immunohistochemistry deploys antibodies against a protein of interest, staining it brown or red, and that Ki-67 is an immunostain targeting an antigen involved in the cell cycle used to estimate cellular proliferation. Brown nuclear positivity in a lymphoma is a classic Ki-67 result.",
+        "summary": "The esophagus is lined by stratified squamous epithelium, as are the mouth, vagina, and true vocal cords.",
+        "whyCorrect": "Stratified squamous epithelium has more than one layer with flat surface cells and is tough and resistant to trauma. It lines the vagina, esophagus, mouth, and true vocal cords.",
         "whyWrongByChoice": {
-          "A": "Eosin stains proteins in the cytoplasm pink and is not a proliferation marker.",
-          "B": "Hematoxylin stains nucleic acids blue-purple but does not measure cell-cycle activity.",
-          "C": "H&E shows general morphology but does not specifically quantify proliferation.",
-          "E": "PAS-D highlights substances such as glycogen or alpha-1 antitrypsin globules, not proliferation."
+          "A": "Pseudostratified columnar epithelium lines the trachea, bronchi, and nasal cavity.",
+          "B": "Simple columnar epithelium lines the stomach and intestines, not the normal esophagus.",
+          "C": "Stratified columnar epithelium lines large salivary excretory ducts and parts of the male urethra.",
+          "E": "Transitional epithelium lines the renal pelvis, ureters, bladder, and part of the urethra."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "stratified squamous",
+        "esophagus",
+        "locations"
+      ],
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa39-012",
+      "stem": "A biopsy taken where the rectum meets the anus shows simple columnar epithelium abruptly changing to stratified squamous epithelium. Which of the following best explains why the two sides differ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both sides absorb water, but the squamous side has more microvilli"
+        },
+        {
+          "label": "B",
+          "text": "The columnar side is ciliated to move stool; the squamous side absorbs ions"
+        },
+        {
+          "label": "C",
+          "text": "The columnar side resists abrasion; the squamous side absorbs water"
+        },
+        {
+          "label": "D",
+          "text": "The columnar side stretches with filling; the squamous side secretes mucus"
+        },
+        {
+          "label": "E",
+          "text": "The columnar side transports water; the squamous side resists trauma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "At the anorectal junction, absorptive rectal columnar epithelium meets the tough, trauma-resistant stratified squamous lining of the anus, an extension of the skin.",
+        "whyCorrect": "The rectum is still part of the absorptive intestine, so its simple columnar epithelium is important in transporting water. The anus is an extension of the outside skin and is lined by tough stratified squamous epithelium that is more resistant to trauma.",
+        "whyWrongByChoice": {
+          "A": "The stratified squamous anal lining is protective, not an absorptive surface with microvilli.",
+          "B": "Rectal columnar epithelium is absorptive, not ciliated; motile cilia line airways, fallopian tubes, and efferent ductules.",
+          "C": "This reverses the functions: the squamous lining provides toughness, and the columnar lining handles water transport.",
+          "D": "Stretching with filling is the property of transitional epithelium in the urinary tract."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "simple columnar",
+        "stratified squamous",
+        "rectum",
+        "anus",
+        "structure-function"
+      ],
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa40-001",
+      "stem": "A histology student compares two epithelial glands. Gland X releases its product into the space around its cells, where nearby capillaries take it up for circulation to distant organs. Gland Y delivers its product through a duct onto the luminal surface of the duodenum, and the product cannot be detected in the blood. Which of the following glands belongs to the same category as Gland Y?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal cortex"
+        },
+        {
+          "label": "B",
+          "text": "Anterior pituitary"
+        },
+        {
+          "label": "C",
+          "text": "Exocrine pancreas"
+        },
+        {
+          "label": "D",
+          "text": "Islets of Langerhans"
+        },
+        {
+          "label": "E",
+          "text": "Parathyroid glands"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Exocrine glands secrete through ducts onto epithelial surfaces; endocrine glands release hormones into the blood.",
+        "whyCorrect": "Gland Y secretes onto an epithelial surface (the GI lumen) via a duct, the defining feature of an exocrine gland. The exocrine pancreas secretes digestive enzymes (lipase, trypsinogen, amylase) into the GI tract. Its products are not hormones because they do not circulate.",
+        "whyWrongByChoice": {
+          "A": "The adrenal cortex is an endocrine gland whose hormones circulate in the bloodstream.",
+          "B": "The anterior pituitary is an endocrine gland that secretes hormones into the circulation.",
+          "D": "The islets are the endocrine part of the pancreas; they release hormones into the blood, like Gland X.",
+          "E": "The parathyroid glands are endocrine; their hormones are carried by the blood to target organs."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "pathology basics",
-        "immunohistochemistry",
-        "Ki-67",
+        "glands",
+        "exocrine vs endocrine"
+      ],
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa40-002",
+      "stem": "An H&E section of a salivary gland shows a cluster of secretory cells with round, basally located nuclei. The basal cytoplasm of these cells stains an intense purple-blue, while the apical cytoplasm contains small pink granules. The purple-blue staining of the basal cytoplasm is best explained by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abundant lipid droplets dissolved out during processing"
+        },
+        {
+          "label": "B",
+          "text": "Dense bundles of cytokeratin filaments binding the dye"
+        },
+        {
+          "label": "C",
+          "text": "Mucin glycoprotein in the cytoplasm retaining hematoxylin"
+        },
+        {
+          "label": "D",
+          "text": "Ribosomal RNA on abundant rough ER binding hematoxylin"
+        },
+        {
+          "label": "E",
+          "text": "Stored enzyme granules in the cytoplasm binding eosin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Serous cell basophilia comes from rRNA on abundant RER binding the basic dye hematoxylin.",
+        "whyCorrect": "These are serous cells. Their cytoplasm is basophilic because they are packed with rough endoplasmic reticulum studded with ribosomes. Ribosomes contain large amounts of negatively charged rRNA, which binds the basic dye hematoxylin; the pink apical granules store proteins and enzymes.",
+        "whyWrongByChoice": {
+          "A": "Washed-out contents produce pale or clear cytoplasm, not intense basophilia.",
+          "B": "Cytokeratins are intermediate filaments anchoring spot desmosomes; they are not the source of serous basophilia.",
+          "C": "Mucin does not retain most common stains, so mucous cells look clear, not purple-blue.",
+          "E": "Eosin stains the apical secretory granules pink; it does not produce purple-blue staining."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glands",
+        "serous",
         "staining"
       ],
-      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
-      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
       "tier": "core"
     },
     {
-      "id": "pa04-001",
-      "stem": "A 58-year-old man collapses with crushing substernal chest pain and dies before reaching the hospital. At autopsy, a firm, pale, wedge-shaped area is seen in the left ventricular wall. On microscopy the myocytes in this region retain their cellular outlines but have lost their nuclei, and the underlying tissue architecture is preserved. Which pattern of necrosis is most consistent with these findings?",
+      "id": "pa40-003",
+      "stem": "A biopsy of the uterine cervix shows glandular epithelium in which the secretory cells have pale, almost empty-appearing cytoplasm, with flattened nuclei pressed toward the outer edge of each cell. Which of the following best describes the main product of these cells?",
       "choices": [
         {
           "label": "A",
-          "text": "Caseous necrosis"
+          "text": "A hormone taken up by nearby capillaries for circulation"
         },
         {
           "label": "B",
-          "text": "Coagulative necrosis"
+          "text": "A lipid-rich secretion released as whole cells break apart"
         },
         {
           "label": "C",
-          "text": "Fat necrosis"
+          "text": "A protein-rich fluid released with part of the apical cytoplasm"
         },
         {
           "label": "D",
-          "text": "Fibrinoid necrosis"
+          "text": "A viscous glycoprotein secretion that lubricates surfaces"
         },
         {
           "label": "E",
-          "text": "Liquefactive necrosis"
+          "text": "A watery protein-rich fluid containing digestive enzymes"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Ischemic infarction of a solid organ such as the heart produces coagulative necrosis, in which tissue architecture is preserved.",
-        "whyCorrect": "Coagulative necrosis results from loss of blood supply (ischemia) and is defined by preservation of the underlying tissue architecture of the dead cells. A localized area of coagulative necrosis is an infarct, classically seen as a firm, pale wedge in the heart after a myocardial infarction, where anucleate myocytes still retain their outlines.",
+        "summary": "Mucous cells appear clear with flattened peripheral nuclei because mucin does not retain common stains.",
+        "whyCorrect": "Mucous cells secrete mucus containing the glycoprotein mucin, which is excellent at lubricating surfaces. Mucin does not retain commonly used stains, so the cytoplasm appears clear, with nuclei flattened toward the outer edge. The cervix is one of the listed sites of mucous glands.",
         "whyWrongByChoice": {
-          "A": "Caseous necrosis produces friable, cheese-like debris within a granuloma and is associated with tuberculosis, not ischemic myocardium.",
-          "C": "Fat necrosis produces chalky-white saponified deposits from lipase action on adipose tissue, as in pancreatitis.",
-          "D": "Fibrinoid necrosis is a pattern of vessel-wall injury with deposited fibrin and immune complexes, not a myocardial infarct pattern.",
-          "E": "Liquefactive necrosis digests dead cells into a viscous liquid and does not preserve tissue architecture; it is characteristic of the central nervous system, not the heart."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "necrosis",
-        "coagulative necrosis",
-        "myocardial infarction"
-      ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
-    },
-    {
-      "id": "pa04-002",
-      "stem": "An autopsy of a 69-year-old man with a history of atherosclerosis reveals an infarct of brain parenchyma perfused by the middle cerebral artery. The affected region is softened and has been converted into a fluid-filled cavity. Which type of necrosis is most closely associated with his cause of death?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Caseous necrosis"
-        },
-        {
-          "label": "B",
-          "text": "Coagulative necrosis"
-        },
-        {
-          "label": "C",
-          "text": "Fibrinoid necrosis"
-        },
-        {
-          "label": "D",
-          "text": "Gangrenous necrosis"
-        },
-        {
-          "label": "E",
-          "text": "Liquefactive necrosis"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Ischemia within the central nervous system produces liquefactive necrosis, converting dead tissue into a liquid.",
-        "whyCorrect": "Liquefactive necrosis is dominated by digestion of dead cells, resulting in a viscous liquid of necrotic material and inflammatory cells. Unlike other organs where ischemia causes coagulative necrosis, ischemia in the central nervous system results in liquefactive necrosis, leaving a fluid-filled cavity at the infarct site.",
-        "whyWrongByChoice": {
-          "A": "Caseous necrosis shows a cheese-like appearance and is associated with tuberculosis and other granulomatous infections, not a bland brain infarct.",
-          "B": "Coagulative necrosis, in which architecture is retained, is the pattern of ischemia in most solid organs but NOT in the brain.",
-          "C": "Fibrinoid necrosis reflects immune-mediated vascular wall damage, not liquefaction of infarcted brain.",
-          "D": "Gangrenous necrosis is a clinical term applied to ischemic death of a limb or digits, not brain tissue."
+          "A": "Hormones are products of endocrine glands; these are surface-secreting exocrine cells.",
+          "B": "That describes holocrine sebum from sebaceous glands of the skin, not cervical glands.",
+          "C": "That describes apocrine secretion (mammary, axillary sweat glands), not the clear cells described.",
+          "E": "That is a serous secretion; serous cells have basophilic cytoplasm and round central-to-basal nuclei."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "necrosis",
-        "liquefactive necrosis",
-        "stroke",
-        "central nervous system"
+        "glands",
+        "mucous"
       ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
       "tier": "core"
     },
     {
-      "id": "pa04-003",
-      "stem": "A 41-year-old man presents with several weeks of productive cough, night sweats, and weight loss. A chest CT shows an upper-lobe lung lesion. Biopsy demonstrates granulomas with a central area of friable, off-white material that grossly resembles cheese. Which pattern of necrosis is present?",
+      "id": "pa40-004",
+      "stem": "A researcher is studying exocrine glands whose secretory cells must die in order to release their product, with the entire cell becoming part of the secretion. Blocking this mode of secretion would most directly reduce the production of which of the following?",
       "choices": [
         {
           "label": "A",
-          "text": "Caseous necrosis"
+          "text": "Axillary apocrine sweat"
         },
         {
           "label": "B",
-          "text": "Coagulative necrosis"
+          "text": "Breast milk"
         },
         {
           "label": "C",
-          "text": "Fat necrosis"
+          "text": "Pancreatic digestive enzymes"
         },
         {
           "label": "D",
-          "text": "Fibrinoid necrosis"
+          "text": "Saliva"
         },
         {
           "label": "E",
-          "text": "Liquefactive necrosis"
+          "text": "Sebum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Holocrine secretion (whole cell becomes the secretion) is the mode used by sebaceous glands.",
+        "whyCorrect": "In holocrine ('whole-ocrine') secretion, cells accumulate their secretion and then die, becoming part of the product. Sebaceous glands in the skin, which produce sebum, are the lecture's example of holocrine glands.",
+        "whyWrongByChoice": {
+          "A": "Armpit sweat glands are apocrine; the cell survives after losing part of its apical cytoplasm.",
+          "B": "Mammary glands are apocrine: they release product with only a portion of the apical cytoplasm.",
+          "C": "The exocrine pancreas is a serous gland; its cells release enzymes without dying.",
+          "D": "Salivary glands are eccrine (merocrine), releasing product solely by exocytosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glands",
+        "holocrine",
+        "sebaceous"
+      ],
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa40-005",
+      "stem": "A 29-year-old lactating woman has a breast biopsy for a palpable lump, which proves benign. The pathologist notes secretory cells in which the apical portion of the cytoplasm is pinched off and released together with the secretory product. Which of the following glands uses the same mode of secretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Goblet cells of the colon"
+        },
+        {
+          "label": "B",
+          "text": "Parotid salivary gland"
+        },
+        {
+          "label": "C",
+          "text": "Sebaceous glands of the skin"
+        },
+        {
+          "label": "D",
+          "text": "Sweat glands of the armpit"
+        },
+        {
+          "label": "E",
+          "text": "Sweat glands of the forearm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Apocrine glands (mammary glands, axillary sweat glands) release product with a portion of apical cytoplasm.",
+        "whyCorrect": "Losing a portion of the apical cytoplasm with the product defines apocrine secretion ('APical', 'A POrtion'). The lecture's examples are the mammary glands and the apocrine sweat glands in the armpit.",
+        "whyWrongByChoice": {
+          "A": "Goblet cells are unicellular glands that release mucus by exocytosis.",
+          "B": "Salivary glands are eccrine (merocrine), secreting solely by exocytosis.",
+          "C": "Sebaceous glands are holocrine: the whole cell dies and becomes the secretion.",
+          "E": "General body-skin sweat glands are eccrine glands used for body cooling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glands",
+        "apocrine"
+      ],
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa40-006",
+      "stem": "The epithelium lining the GI tract must resist the shearing forces generated as food moves along it. A junction that encircles each cell like a band near its apex and connects neighboring cells helps resist these forces. On the cytoplasmic side, this junction is linked to which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actin filaments by way of catenins"
+        },
+        {
+          "label": "B",
+          "text": "Actin filaments by way of zonula occludens proteins"
+        },
+        {
+          "label": "C",
+          "text": "Cytokeratin filaments by way of plaques"
+        },
+        {
+          "label": "D",
+          "text": "Laminin of the lamina lucida by way of integrins"
+        },
+        {
+          "label": "E",
+          "text": "Neighboring cytoplasm by way of connexons"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The cheese-like appearance of necrotic debris within a granuloma is caseous necrosis, classically caused by tuberculosis.",
-        "whyCorrect": "The term caseous refers to the friable, cheese-like, off-white appearance of the necrotic material. Under the microscope, ample fragmented and granular debris is enclosed within a granuloma. Caseous necrosis is commonly associated with tuberculosis infection.",
+        "summary": "Belt desmosomes (zonulae adherens) use cadherins bound to catenins that link to actin.",
+        "whyCorrect": "The belt desmosome (zonula adherens, adherens junction) wraps around the cell and helps resist shearing forces, such as in the GI tract. Its bridges are cadherins, whose cytoplasmic ends bind catenins that link to actin filaments through actin-binding proteins.",
         "whyWrongByChoice": {
-          "B": "Coagulative necrosis preserves tissue architecture after ischemia and lacks the cheese-like granulomatous debris.",
-          "C": "Fat necrosis produces chalky-white calcium/fatty-acid deposits in adipose tissue, as in pancreatitis, not granulomas.",
-          "D": "Fibrinoid necrosis is a vessel-wall pattern with fibrin and immune complexes, not a lung granuloma.",
-          "E": "Liquefactive necrosis creates a liquid or pus and is typical of CNS ischemia or bacterial abscess, not caseating granulomas."
+          "B": "ZO proteins anchor tight junction claudins and occludins to actin, not the cadherins of the belt.",
+          "C": "Anchorage to intermediate filaments (cytokeratins) is characteristic of spot desmosomes.",
+          "D": "Integrin-laminin linkage describes hemidesmosomes, which anchor cells to the basement membrane.",
+          "E": "Connexons are the channels of gap junctions, which mediate communication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "junctions",
+        "belt desmosome"
+      ],
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa40-007",
+      "stem": "An electron micrograph of stratified epithelium shows small, disk-shaped dense plaques on the lateral membranes of adjacent cells, into which bundles of cytokeratin filaments insert on each side. The intercellular bridges at these plaques are formed by which of the following proteins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catenins bound to actin"
+        },
+        {
+          "label": "B",
+          "text": "Claudins and occludins"
+        },
+        {
+          "label": "C",
+          "text": "Connexins assembled into connexons"
+        },
+        {
+          "label": "D",
+          "text": "Desmoglein and desmocollin"
+        },
+        {
+          "label": "E",
+          "text": "Integrins bound to laminin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Spot desmosomes are bridged by the cadherins desmoglein and desmocollin and anchor cytokeratin filaments.",
+        "whyCorrect": "Disk-shaped adhesive plaques anchored to intermediate filaments (cytokeratins) are spot desmosomes (maculae adherens). Like belt desmosomes, their bridges are cadherin-family proteins, specifically desmoglein and desmocollin.",
+        "whyWrongByChoice": {
+          "A": "Catenins are intracellular linkers of belt desmosomes; they are not the bridging proteins here.",
+          "B": "Claudins and occludins are the transmembrane proteins of tight junctions.",
+          "C": "Connexins build the channels of gap junctions.",
+          "E": "Integrins bind laminin at hemidesmosomes, attaching cells to the basement membrane."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "junctions",
+        "spot desmosome"
+      ],
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "pa40-008",
+      "stem": "A 63-year-old man develops widespread blisters of the skin. Serum testing identifies autoantibodies against desmoglein. The function of which of the following structures is most directly disrupted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Belt desmosomes (zonulae adherens)"
+        },
+        {
+          "label": "B",
+          "text": "Gap junctions"
+        },
+        {
+          "label": "C",
+          "text": "Hemidesmosomes"
+        },
+        {
+          "label": "D",
+          "text": "Spot desmosomes (maculae adherens)"
+        },
+        {
+          "label": "E",
+          "text": "Tight junctions (zonulae occludens)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pemphigus vulgaris: antibodies to desmoglein disrupt spot desmosomes, causing blistering.",
+        "whyCorrect": "This is pemphigus vulgaris, a rare blistering disease of middle-aged and older adults. Antibodies against desmoglein, a bridging protein of spot desmosomes, disrupt the linkage between epithelial cells in the skin and cause blisters.",
+        "whyWrongByChoice": {
+          "A": "Belt desmosomes use cadherins such as E-cadherin, not desmoglein.",
+          "B": "Gap junctions are built from connexins and mediate communication, not adhesion.",
+          "C": "Hemidesmosomes are targeted in bullous pemphigoid and attach cells to the basal lamina via integrins.",
+          "E": "Tight junctions are built from claudins and occludins."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "necrosis",
-        "caseous necrosis",
-        "tuberculosis",
-        "granuloma"
+        "junctions",
+        "pemphigus vulgaris",
+        "clinical correlation"
       ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
       "tier": "core"
     },
     {
-      "id": "pa04-004",
-      "stem": "A 47-year-old man with heavy alcohol use is admitted with severe epigastric pain radiating to the back and a markedly elevated serum lipase. During surgery, the surgeon notes multiple firm, chalky-white deposits scattered across the fat of the peritoneal cavity. Which process best explains these deposits?",
+      "id": "pa40-009",
+      "stem": "A 76-year-old woman has tense blisters in the groin and axillae and erosions in her mouth. Immunofluorescence of a lesional biopsy shows antibodies deposited along the dermal-epidermal junction. The autoantibodies most likely impair a structure that is characterized by which of the following?",
       "choices": [
         {
           "label": "A",
-          "text": "Deposition of fibrin and immune complexes in vessel walls"
+          "text": "Belt desmosome bridged by E-cadherin"
         },
         {
           "label": "B",
-          "text": "Digestion of dead cells into a viscous liquid"
+          "text": "Gap junction formed by connexins"
         },
         {
           "label": "C",
-          "text": "Overexpression of anti-apoptotic BCL2 protein"
+          "text": "Hemidesmosome attached by integrins"
         },
         {
           "label": "D",
-          "text": "Preservation of tissue architecture after ischemia"
+          "text": "Spot desmosome bridged by desmoglein"
         },
         {
           "label": "E",
-          "text": "Saponification of fatty acids with calcium"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "In acute pancreatitis, released lipases digest adipose tissue and fatty acids combine with calcium to form chalky-white deposits (fat necrosis).",
-        "whyCorrect": "Fat necrosis occurs with breakdown of adipose tissue. In acute pancreatitis, pancreatic lipases leak into the fat-rich peritoneal cavity, and the released fatty acids combine with calcium to produce a chalky-white substance in a process called saponification. Hard, basophilic calcium deposits are seen microscopically.",
-        "whyWrongByChoice": {
-          "A": "Fibrin and immune-complex deposition in vessel walls describes fibrinoid necrosis of vasculitis, not the chalky fat deposits of pancreatitis.",
-          "B": "Digestion into a viscous liquid describes liquefactive necrosis, seen in CNS infarcts and abscesses.",
-          "C": "BCL2 overexpression blocks apoptosis and drives follicular lymphoma; it has nothing to do with pancreatic fat necrosis.",
-          "D": "Preservation of architecture after ischemia describes coagulative necrosis, which does not produce saponified fat."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "necrosis",
-        "fat necrosis",
-        "saponification",
-        "pancreatitis"
-      ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
-    },
-    {
-      "id": "pa04-005",
-      "stem": "A 55-year-old woman with granulomatosis with polyangiitis undergoes renal biopsy for hematuria and rising creatinine. Microscopy of a small artery shows the vessel wall replaced by a bright pink, amorphous material containing deposited fibrin and immune complexes, with associated thrombosis. Which pattern of necrosis does this represent?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Caseous necrosis"
-        },
-        {
-          "label": "B",
-          "text": "Coagulative necrosis"
-        },
-        {
-          "label": "C",
-          "text": "Fat necrosis"
-        },
-        {
-          "label": "D",
-          "text": "Fibrinoid necrosis"
-        },
-        {
-          "label": "E",
-          "text": "Gangrenous necrosis"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Deposition of fibrin and immune complexes within an injured vessel wall is fibrinoid necrosis, seen in vasculitis.",
-        "whyCorrect": "Fibrinoid necrosis refers to a pattern of severe vascular injury in which fibrin and immune complexes deposit in the vessel wall, producing a bright pink appearance. It is seen in vasculitis and autoimmune diseases targeting blood vessels, such as granulomatosis with polyangiitis.",
-        "whyWrongByChoice": {
-          "A": "Caseous necrosis produces cheese-like granulomatous debris associated with tuberculosis.",
-          "B": "Coagulative necrosis is the pattern of ischemic infarcts in solid organs and preserves tissue architecture rather than depositing fibrin in vessel walls.",
-          "C": "Fat necrosis produces chalky saponified deposits in adipose tissue, as in pancreatitis.",
-          "E": "Gangrenous necrosis is a clinical term for ischemic death of a limb or digits."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "necrosis",
-        "fibrinoid necrosis",
-        "vasculitis"
-      ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
-    },
-    {
-      "id": "pa04-006",
-      "stem": "A 64-year-old man with long-standing poorly controlled diabetes mellitus is evaluated for several black, shriveled toes. The affected digits are dry, mummified, and mottled, and the changes extend across multiple tissue planes. There is no purulent discharge. Which term best describes this pattern of tissue death?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Caseous necrosis"
-        },
-        {
-          "label": "B",
-          "text": "Fat necrosis"
-        },
-        {
-          "label": "C",
-          "text": "Fibrinoid necrosis"
-        },
-        {
-          "label": "D",
-          "text": "Gangrenous necrosis"
-        },
-        {
-          "label": "E",
-          "text": "Liquefactive necrosis"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Ischemic death of a limb or digits that crosses multiple tissue planes and appears mummified is gangrenous necrosis.",
-        "whyCorrect": "Gangrenous necrosis refers to ischemic tissue death of a limb, such as the lower leg or digits, that involves multiple tissue planes. It may appear mummified or rotting. When dry, as in this patient, it lacks the wet, liquefied quality that results from bacterial degradative enzymes and host inflammation.",
-        "whyWrongByChoice": {
-          "A": "Caseous necrosis is the cheese-like debris of granulomatous infection such as tuberculosis.",
-          "B": "Fat necrosis produces chalky saponified deposits in adipose tissue, as in pancreatitis.",
-          "C": "Fibrinoid necrosis is a microscopic vessel-wall pattern in vasculitis, not a gross description of dead toes.",
-          "E": "Liquefactive necrosis produces a viscous liquid or pus and is classically seen with CNS ischemia or bacterial abscess, not dry mummified toes."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "necrosis",
-        "gangrenous necrosis",
-        "ischemia",
-        "diabetes"
-      ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
-    },
-    {
-      "id": "pa04-007",
-      "stem": "In response to irreparable DNA damage, a cell releases a protein from its mitochondria into the cytoplasm. This protein forms an apoptosome complex that binds and activates a critical initiator caspase, launching the executioner caspase cascade. Which caspase is activated by this mitochondrial (intrinsic) pathway?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "BAX"
-        },
-        {
-          "label": "B",
-          "text": "BCL2"
-        },
-        {
-          "label": "C",
-          "text": "Caspase-8"
-        },
-        {
-          "label": "D",
-          "text": "Caspase-9"
-        },
-        {
-          "label": "E",
-          "text": "FADD"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "In the intrinsic pathway, cytochrome c forms an apoptosome that activates caspase-9.",
-        "whyCorrect": "When the outer mitochondrial membrane becomes permeable, cytochrome c is released into the cytoplasm, where it forms an apoptosome complex. This complex binds caspase-9, the critical executioner-initiating caspase of the intrinsic pathway, which then triggers a cascade of downstream executioner caspases.",
-        "whyWrongByChoice": {
-          "A": "BAX is a pro-apoptotic effector that permeabilizes the outer mitochondrial membrane but does not act as the activated caspase.",
-          "B": "BCL2 is an anti-apoptotic protein that prevents cytochrome c release; it is not a caspase.",
-          "C": "Caspase-8 is the initiator caspase of the extrinsic (death receptor) pathway, activated through FADD, not by the apoptosome.",
-          "E": "FADD is the adaptor protein of the extrinsic pathway that recruits caspase-8; it is not a caspase itself."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "apoptosis",
-        "intrinsic pathway",
-        "cytochrome c",
-        "caspase-9"
-      ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
-    },
-    {
-      "id": "pa04-008",
-      "stem": "A 60-year-old man has painless generalized lymphadenopathy. Lymph node biopsy shows a follicular pattern, and cytogenetics reveal a t(14;18) translocation that places the BCL2 gene adjacent to the immunoglobulin heavy-chain enhancer, causing BCL2 overexpression. Which mechanism best explains how this abnormality promotes tumor growth?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Enhanced caspase-8 activation through the Fas death receptor"
-        },
-        {
-          "label": "B",
-          "text": "Excessive fibrin deposition within lymph node vessels"
-        },
-        {
-          "label": "C",
-          "text": "Failure of apoptosis due to sustained blockade of cytochrome c release"
-        },
-        {
-          "label": "D",
-          "text": "Increased outer mitochondrial membrane permeability with cytochrome c release"
-        },
-        {
-          "label": "E",
-          "text": "Uncontrolled necrosis with spillage of cellular contents"
+          "text": "Tight junction sealed by claudins"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Overexpressed BCL2 keeps the mitochondrial membrane impermeable, blocking apoptosis so that lymphoma cells accumulate.",
-        "whyCorrect": "Anti-apoptotic proteins such as BCL2 keep the outer mitochondrial membrane impermeable, preventing release of cytochrome c and blocking the intrinsic apoptotic pathway. In follicular lymphoma, t(14;18) places BCL2 under the immunoglobulin heavy-chain enhancer, causing overexpression that pathologically prevents apoptosis and facilitates lymphoma growth and proliferation.",
+        "summary": "Bullous pemphigoid: autoantibodies against a hemidesmosome component detach epithelium from the basal lamina.",
+        "whyCorrect": "Bullous pemphigoid is caused by autoantibodies binding a component of the hemidesmosomes, so epithelial cells no longer attach well to the basal lamina, producing blisters in the groin, axilla, and oral cavity. Immunofluorescence shows antibodies at the dermal-epidermal junction. Hemidesmosomes attach cells to the basement membrane through integrins.",
         "whyWrongByChoice": {
-          "A": "Enhanced caspase-8 activation would increase death receptor apoptosis, not allow tumor cells to survive.",
-          "B": "Fibrin deposition in vessels describes fibrinoid necrosis of vasculitis and is unrelated to BCL2.",
-          "D": "Increased permeability with cytochrome c release would promote apoptosis, the opposite of what BCL2 overexpression does.",
-          "E": "Necrosis is uncontrolled death from injury and is not the mechanism by which BCL2 overexpression drives lymphoma."
+          "A": "Belt desmosomes join neighboring epithelial cells; E-cadherin loss is linked to tumor invasion, not this blistering pattern.",
+          "B": "Gap junctions mediate cell-to-cell communication, not attachment to the basement membrane.",
+          "D": "Anti-desmoglein disease (pemphigus vulgaris) targets cell-to-cell spot desmosomes, not attachment at the dermal-epidermal junction.",
+          "E": "Tight junctions seal the intercellular space and maintain polarity; they do not anchor cells to the basal lamina."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "apoptosis",
-        "BCL2",
-        "follicular lymphoma",
-        "t(14;18)"
+        "junctions",
+        "bullous pemphigoid",
+        "hemidesmosome"
       ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
       "tier": "core"
     },
     {
-      "id": "pa04-009",
-      "stem": "A cytotoxic T lymphocyte recognizes a virus-infected cell and engages the target cell's Fas receptor using Fas ligand. Clustering of Fas causes the cytoplasmic death domains to form a binding site for an adaptor protein, which in turn activates an initiator caspase. Which protein is directly activated at this step of the extrinsic pathway?",
+      "id": "pa40-010",
+      "stem": "Each heartbeat depends on the rapid transfer of ions from one cardiac muscle cell to the next so that contraction is coordinated. The channels that permit this direct cell-to-cell ion transfer are formed by which of the following?",
       "choices": [
         {
           "label": "A",
-          "text": "BAX"
+          "text": "Cadherins linked to catenins"
         },
         {
           "label": "B",
-          "text": "BCL2"
+          "text": "Claudins and occludins"
         },
         {
           "label": "C",
-          "text": "Caspase-8"
+          "text": "Connexins forming connexons"
         },
         {
           "label": "D",
-          "text": "Caspase-9"
+          "text": "Desmoglein and desmocollin"
         },
         {
           "label": "E",
-          "text": "Cytochrome c"
+          "text": "Integrins bound to laminin"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "In the extrinsic pathway, Fas clustering recruits FADD, which activates caspase-8.",
-        "whyCorrect": "When Fas ligand on a cytotoxic T cell binds Fas, the receptors cluster and their cytoplasmic death domains form a binding site for FADD (Fas-associated death domain). FADD leads to the activation of caspase-8, which then initiates the executioner caspase cascade. Caspase-8 can also cleave BID to recruit the intrinsic pathway.",
+        "summary": "Gap junctions, made of connexins forming connexons, allow direct ion transfer between cells.",
+        "whyCorrect": "Gap junctions contain connexins that form a cylindrical connexon, a tube allowing direct transfer of small ions and molecules between cells. In cardiac muscle they permit the rapid ion transfer needed to coordinate each heartbeat.",
         "whyWrongByChoice": {
-          "A": "BAX is a pro-apoptotic effector of the intrinsic pathway, not the initiator caspase of the death receptor route.",
-          "B": "BCL2 is an anti-apoptotic protein of the intrinsic pathway and is not activated by death receptors.",
-          "D": "Caspase-9 is activated by the apoptosome in the intrinsic (mitochondrial) pathway, not directly by FADD.",
-          "E": "Cytochrome c is released by mitochondria in the intrinsic pathway and is not the caspase activated by Fas."
+          "A": "Cadherin-catenin complexes form adhesive belt desmosomes.",
+          "B": "These seal tight junctions and limit passage between cells rather than connecting cytoplasms.",
+          "D": "These bridge spot desmosomes for adhesion, not communication.",
+          "E": "Integrins attach hemidesmosomes to the basement membrane."
         }
       },
-      "difficulty": "medium",
+      "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "apoptosis",
-        "extrinsic pathway",
-        "Fas",
-        "caspase-8"
+        "junctions",
+        "gap junction",
+        "cardiac"
       ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
       "tier": "core"
     },
     {
-      "id": "pa04-010",
-      "stem": "A 62-year-old woman with metastatic melanoma begins treatment with pembrolizumab, an antibody directed against the PD-1/PD-L1 axis. Immunohistochemistry of her tumor had shown high PD-L1 expression. Which statement best describes how this drug helps eliminate the tumor?",
+      "id": "pa40-011",
+      "stem": "In renal tubular epithelium, sodium is absorbed into each cell by transport proteins on one surface and pumped out by different transport proteins on the opposite surface. A mutation in which of the following would most directly allow solutes to bypass this route by moving passively between adjacent cells?",
       "choices": [
         {
           "label": "A",
-          "text": "It blocks PD-1/PD-L1 interaction"
+          "text": "Cadherins and catenins"
         },
         {
           "label": "B",
-          "text": "It directly triggers coagulative necrosis of the tumor mass"
+          "text": "Claudins and occludins"
         },
         {
           "label": "C",
-          "text": "It increases tumor BCL2 expression to promote cell survival"
+          "text": "Connexins"
         },
         {
           "label": "D",
-          "text": "It inhibits caspase-9 to prevent apoptosis of host T cells"
+          "text": "Desmoglein and desmocollin"
         },
         {
           "label": "E",
-          "text": "It stimulates tumor PD-L1 to enhance immune tolerance"
+          "text": "Integrins"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "Checkpoint inhibitors block the PD-1/PD-L1 interaction so cytotoxic T cells can again drive apoptosis of tumor cells.",
-        "whyCorrect": "PD-L1 expressed on tumor cells binds PD-1 on T cells and blocks T-cell attack, allowing immune evasion. Checkpoint inhibitors such as pembrolizumab and nivolumab block this interaction, preventing PD-1/PD-L1 binding and restoring the T cell's ability to kill the cancer cell through apoptosis. PD-L1 immunohistochemistry helps select patients for this therapy.",
+        "summary": "Tight junctions (claudins, occludins) prevent passive leakage of molecules between epithelial cells.",
+        "whyCorrect": "Transcellular transport only works if molecules cannot leak passively between cells. Tight junctions (zonula occludens) seal neighboring membranes to prevent this; they are made of the transmembrane proteins claudins and occludins, anchored to actin by zonula occludens proteins.",
         "whyWrongByChoice": {
-          "B": "The drug works by unleashing immune-mediated apoptosis, not by directly inducing coagulative necrosis.",
-          "C": "Increasing BCL2 would block apoptosis and protect the tumor, the opposite of the intended effect.",
-          "D": "The drug targets the PD-1/PD-L1 checkpoint, not caspase-9, and its goal is to promote tumor cell death rather than inhibit apoptosis.",
-          "E": "Stimulating PD-L1 would enhance immune evasion, not treat the cancer."
+          "A": "These form belt desmosomes that bind cells together and resist shear, not seal the paracellular space.",
+          "C": "Connexins form gap junction channels that connect the cytoplasms of neighboring cells; they do not seal the intercellular space.",
+          "D": "These bridge spot desmosomes, providing strength rather than sealing the space between cells.",
+          "E": "Integrins attach hemidesmosomes to laminin of the basement membrane."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "apoptosis",
-        "PD-1",
-        "PD-L1",
-        "checkpoint inhibitor",
-        "melanoma"
+        "junctions",
+        "tight junction",
+        "transport"
       ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
       "tier": "core"
     },
     {
-      "id": "pa04-011",
-      "stem": "A pathologist is comparing two histologic specimens. In the first, isolated single cells are shrunken with dense eosinophilic cytoplasm and fragmented nuclei, surrounded by intact neighboring cells and no inflammatory infiltrate. Which feature best identifies this process as apoptosis rather than necrosis?",
+      "id": "pa40-012",
+      "stem": "A 41-year-old man has a firm nodule on his neck that has been incised and drained twice, yet it refilled with greasy material each time. Pathology after excision shows a cyst lined by epithelium associated with a sebaceous gland. Which of the following best explains both how the cyst contents are produced and why the lesion recurred?",
       "choices": [
         {
           "label": "A",
-          "text": "A significant surrounding inflammatory cell infiltrate"
+          "text": "Apical cytoplasm pinches off into the secretion; incomplete drainage left sebum behind"
         },
         {
           "label": "B",
-          "text": "Cell shrinkage with a preserved plasma membrane and no inflammation"
+          "text": "Apical cytoplasm pinches off into the secretion; the cyst wall was left in place"
         },
         {
           "label": "C",
-          "text": "Random degradation of DNA throughout the injured tissue"
+          "text": "Vesicles fuse with the apical membrane; the cyst wall was left in place"
         },
         {
           "label": "D",
-          "text": "Rupture of the plasma membrane with spillage of cell contents"
+          "text": "Whole cells disintegrate into the secretion; incomplete drainage left sebum behind"
         },
         {
           "label": "E",
-          "text": "Swelling of groups of adjacent cells with karyolysis"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Apoptosis affects single cells with shrinkage, maintained membrane integrity, and no inflammation, distinguishing it from necrosis.",
-        "whyCorrect": "Apoptotic cells undergo shrinkage rather than swelling, with dense eosinophilic cytoplasm and controlled nuclear breakup. Membrane integrity is maintained as the cell blebs into apoptotic bodies that phagocytes ingest, so there is no robust inflammatory response. In contrast, necrosis affects groups of cells with swelling, membrane rupture, and significant inflammation.",
-        "whyWrongByChoice": {
-          "A": "A significant inflammatory reaction accompanies necrosis, whereas apoptosis provokes little to none.",
-          "C": "Random DNA degradation is seen in necrosis; apoptosis shows ordered internucleosomal fragmentation.",
-          "D": "Membrane rupture with spilled contents is a hallmark of necrosis; apoptotic membranes remain intact.",
-          "E": "Swelling of groups of adjacent cells is characteristic of necrosis, not apoptosis."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "apoptosis",
-        "necrosis",
-        "morphology",
-        "comparison"
-      ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
-    },
-    {
-      "id": "pa04-012",
-      "stem": "A medical student is asked to identify which of several processes represents physiologic apoptosis rather than pathologic necrosis. Which of the following is best classified as physiologic apoptosis?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bowel wall death from mesenteric ischemia"
-        },
-        {
-          "label": "B",
-          "text": "Cardiomyocyte death after coronary artery occlusion"
-        },
-        {
-          "label": "C",
-          "text": "Elimination of self-reactive lymphocytes"
-        },
-        {
-          "label": "D",
-          "text": "Hepatocyte death from severe thermal burn injury"
-        },
-        {
-          "label": "E",
-          "text": "Neuronal death following a middle cerebral artery stroke"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Apoptosis is a normal, beneficial pathway that eliminates unneeded or self-reactive cells, whereas ischemic and thermal injury cause necrosis.",
-        "whyCorrect": "Apoptosis is a controlled, deliberate pathway with beneficial function to the organism. It works to eliminate immature lymphocytes with faulty machinery, such as those that could mount an autoimmune reaction against the body's own tissues. This physiologic deletion of self-reactive lymphocytes is a normal role of apoptosis.",
-        "whyWrongByChoice": {
-          "A": "Bowel death from mesenteric ischemia results from loss of blood supply and is necrosis, not physiologic apoptosis.",
-          "B": "Cardiomyocyte death from coronary occlusion is ischemic necrosis, an uncontrolled and pathologic process.",
-          "D": "A thermal burn is a physical injury that causes necrosis, not physiologic apoptosis.",
-          "E": "Neuronal death from a stroke is ischemic liquefactive necrosis, which is always pathologic."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "apoptosis",
-        "physiologic apoptosis",
-        "necrosis",
-        "lymphocytes"
-      ],
-      "topicId": "cell-death-apoptosis-and-necrosis",
-      "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-001",
-      "stem": "A pathologist examines tissue and organs that were removed from patients during operative procedures, evaluating them under the microscope to diagnose disease and guide treatment selection. This work is the primary domain of which subspecialty of anatomic pathology?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Cytopathology"
-        },
-        {
-          "label": "B",
-          "text": "Forensic pathology"
-        },
-        {
-          "label": "C",
-          "text": "Hematopathology"
-        },
-        {
-          "label": "D",
-          "text": "Molecular pathology"
-        },
-        {
-          "label": "E",
-          "text": "Surgical pathology"
+          "text": "Whole cells disintegrate into the secretion; the cyst wall was left in place"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Surgical pathology evaluates tissues and organs procured by a surgical procedure.",
-        "whyCorrect": "The brick defines surgical pathology as the branch of anatomic pathology that evaluates tissues and organs procured by a surgical procedure, generated through biopsies, excisions, and resections. Evaluating operatively removed tissue under the microscope to diagnose disease is exactly this discipline.",
+        "summary": "Sebaceous glands are holocrine; a sebaceous cyst recurs unless its epithelial wall and gland are excised.",
+        "whyCorrect": "Sebaceous glands accumulate lipid-rich secretion until the entire cell breaks apart and becomes part of the sebum (holocrine). Drainage removes only the accumulated material and leaves the epithelial lining and glandular structures, so the cyst reforms; complete excision of the cyst wall greatly reduces recurrence.",
         "whyWrongByChoice": {
-          "A": "Cytopathology focuses on diagnosis at the level of individual cells rather than intact tissues and organs.",
-          "B": "Forensic pathology and medical autopsy address cause of death, not routine evaluation of operatively procured tissue.",
-          "C": "Hematopathology deals with blood products, which the brick specifically excludes from anatomic (and cytopathology) practice.",
-          "D": "Molecular pathology involves specialized molecular tests for treatment selection rather than routine microscopic tissue evaluation."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "anatomic pathology",
-        "surgical pathology",
-        "subspecialties"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-002",
-      "stem": "During an operative procedure for cancer, a surgeon notices a suspicious nodule in the mesentery. If the nodule is cancerous, the surgeon will alter the operation. Which of the following would be most helpful to rapidly determine the identity of the lesion during the surgery?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Excise the nodule for formalin-fixed paraffin embedding"
-        },
-        {
-          "label": "B",
-          "text": "Order a special stain"
-        },
-        {
-          "label": "C",
-          "text": "Order immunohistochemistry"
-        },
-        {
-          "label": "D",
-          "text": "Perform molecular testing"
-        },
-        {
-          "label": "E",
-          "text": "Request a frozen section"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "A frozen section provides rapid intraoperative diagnosis, usually in under 20 minutes.",
-        "whyCorrect": "The brick describes the frozen section as a rapid intraoperative evaluation in which the pathologist freezes the tissue, evaluates it, and calls back a preliminary result, usually in under 20 minutes. This lets the surgeon obtain the identity of the lesion while the operation is still ongoing.",
-        "whyWrongByChoice": {
-          "A": "Formalin-fixed paraffin embedding (FFPE) requires significant processing in the histology laboratory and is not a means of rapid intraoperative evaluation.",
-          "B": "Special stains are also performed on processed sections and cannot provide an answer during the surgery.",
-          "C": "Immunohistochemistry is generally performed on routine FFPE sections and would not be available until after laboratory processing.",
-          "D": "Molecular testing may be performed in certain cases but takes significant time to yield results."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "frozen section",
-        "intraoperative",
-        "surgical pathology"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-003",
-      "stem": "A 48-year-old woman has a suspicious cyst on her forearm. The surgeon removes the entire lesion in a single procedure, both to establish a diagnosis and to treat the patient by removing the abnormal tissue. Which of the following best describes this procedure?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Core biopsy"
-        },
-        {
-          "label": "B",
-          "text": "Excisional biopsy"
-        },
-        {
-          "label": "C",
-          "text": "Incisional biopsy"
-        },
-        {
-          "label": "D",
-          "text": "Punch biopsy"
-        },
-        {
-          "label": "E",
-          "text": "Resection"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "An excision (excisional biopsy) removes the entirety of the abnormal tissue and can be both diagnostic and therapeutic.",
-        "whyCorrect": "The brick states that excisions, including excisional biopsies, are performed with the intent of removing the entirety of the abnormal tissue, possibly curing the disease process. As such, an excisional biopsy can be both diagnostic and therapeutic and is less extensive than a resection.",
-        "whyWrongByChoice": {
-          "A": "A core biopsy uses a needle to sample a core of tissue for diagnosis and does not remove the whole lesion.",
-          "C": "An incisional biopsy removes only a portion of the abnormal tissue for diagnostic sampling, not the entire lesion.",
-          "D": "A punch biopsy uses a cylindric blade to remove a small tissue sample, again for sampling rather than complete removal.",
-          "E": "A resection is a major surgery that removes part or all of an organ and is more extensive than an excision of a small cyst."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "excision",
-        "biopsy",
-        "surgical pathology"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-004",
-      "stem": "A 63-year-old man with gastric adenocarcinoma undergoes a major surgery in which the diseased stomach is removed. Which of the following terms names this resection?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Colectomy"
-        },
-        {
-          "label": "B",
-          "text": "Gastrectomy"
-        },
-        {
-          "label": "C",
-          "text": "Hepatectomy"
-        },
-        {
-          "label": "D",
-          "text": "Mastectomy"
-        },
-        {
-          "label": "E",
-          "text": "Nephrectomy"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "A gastrectomy is the resection of the stomach.",
-        "whyCorrect": "The brick teaches resection terminology in which the procedure is named for the organ removed: a gastrectomy is a resection of the stomach. Resections are major surgeries often performed for malignancies such as gastric cancer.",
-        "whyWrongByChoice": {
-          "A": "A colectomy is a resection of the colon, not the stomach.",
-          "C": "A hepatectomy is removal of the liver.",
-          "D": "A mastectomy is removal of the breast.",
-          "E": "A nephrectomy is removal of a kidney and does not describe removal of the stomach."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "resection",
-        "terminology",
-        "gastrectomy"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-005",
-      "stem": "After a routine breast biopsy specimen is grossed, it is placed in fixative and processed by the histology laboratory into tissue blocks that are then stored for at least 10 years in case future evaluation is necessary. Which of the following best describes these archived blocks?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bronchoalveolar lavage cytology samples"
-        },
-        {
-          "label": "B",
-          "text": "Formalin-fixed paraffin embedded blocks"
-        },
-        {
-          "label": "C",
-          "text": "Fresh (unfixed) tissue specimens"
-        },
-        {
-          "label": "D",
-          "text": "Intraoperative frozen section blocks"
-        },
-        {
-          "label": "E",
-          "text": "Stained cytology smears on glass slides"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Routine surgical specimens are processed into formalin-fixed paraffin embedded (FFPE) blocks stored for at least 10 years.",
-        "whyCorrect": "The brick explains that after grossing, surgical pathology specimens are typically processed into formalin-fixed paraffin embedded (FFPE) tissue blocks, and that these FFPE blocks are stored for at least 10 years in case future evaluation is necessary.",
-        "whyWrongByChoice": {
-          "A": "Bronchoalveolar lavage is a cytopathology sampling method for cells from the airways, not a tissue-block preservation method.",
-          "C": "Fresh, unfixed tissue is not preserved and would not survive years of storage; the formalin fixation and paraffin embedding are what allow archiving.",
-          "D": "Frozen section blocks are prepared for rapid intraoperative evaluation, not for long-term archival of routine specimens.",
-          "E": "Cytology smears are used in cytopathology to evaluate individual cells, not to embed and archive tissue blocks."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "FFPE",
-        "histology laboratory",
-        "formalin"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-006",
-      "stem": "A tissue section is stained with hematoxylin and eosin (H&E) for microscopic evaluation. Under the microscope, one of the dyes stains the nucleus and nuclear material a dark blue-to-purple color. Which dye is responsible for this staining?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Eosin"
-        },
-        {
-          "label": "B",
-          "text": "Grocott-Gomori methenamine silver"
-        },
-        {
-          "label": "C",
-          "text": "Hematoxylin"
-        },
-        {
-          "label": "D",
-          "text": "Immunohistochemical antibody stain"
-        },
-        {
-          "label": "E",
-          "text": "Masson trichrome"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Hematoxylin stains the nucleus and nuclear material dark blue to purple.",
-        "whyCorrect": "The brick teaches that in the routine H&E stain, hematoxylin appears dark blue or purple and is useful for visualizing the nucleus and nuclear material, whereas eosin stains cytoplasmic components pink.",
-        "whyWrongByChoice": {
-          "A": "Eosin appears pink and stains cytoplasmic components, not the nucleus.",
-          "B": "Grocott-Gomori methenamine silver is a special stain that highlights fungal organisms gray-to-black, not a routine nuclear stain.",
-          "D": "Immunohistochemical stains target specific molecular antigens (often appearing brown), not general nuclear material in H&E.",
-          "E": "Masson trichrome is a special stain used to visualize fibrosis, not to stain nuclei in the routine H&E."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "H&E",
-        "hematoxylin",
-        "staining"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-007",
-      "stem": "A 55-year-old immunocompromised man has a lung nodule, and the pathologist suspects a fungal infection. Which of the following stains would be most helpful to highlight fungal organisms in the tissue section?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Eosin alone without hematoxylin"
-        },
-        {
-          "label": "B",
-          "text": "Grocott-Gomori methenamine silver (GMS)"
-        },
-        {
-          "label": "C",
-          "text": "Immunohistochemistry for cytokeratin (AE1/AE3)"
-        },
-        {
-          "label": "D",
-          "text": "Masson trichrome stain for collagen"
-        },
-        {
-          "label": "E",
-          "text": "Routine hematoxylin and eosin (H&E)"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The Grocott-Gomori methenamine silver (GMS) special stain highlights fungal organisms.",
-        "whyCorrect": "The brick describes special stains as dyes or chemicals with an affinity for a certain tissue component, and specifically states that the Grocott-Gomori methenamine silver (GMS) stain is used to highlight fungal organisms, staining them gray to black.",
-        "whyWrongByChoice": {
-          "A": "Eosin alone stains cytoplasmic components pink and does not selectively highlight fungi.",
-          "C": "Immunohistochemistry for cytokeratin identifies epithelial (carcinoma) cells, not fungal organisms.",
-          "D": "Masson trichrome is a special stain used to visualize fibrosis, not fungal organisms.",
-          "E": "Hematoxylin and eosin is the routine stain for general tissue architecture and is not the special stain used to highlight fungi."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "special stains",
-        "GMS",
-        "fungal infection"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-008",
-      "stem": "A hepatologist requests evaluation of a liver biopsy to assess the degree of fibrosis (scarring). Which of the following special stains is most helpful for visualizing fibrosis?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Eosin alone"
-        },
-        {
-          "label": "B",
-          "text": "Grocott-Gomori methenamine silver"
-        },
-        {
-          "label": "C",
-          "text": "Hematoxylin and eosin"
-        },
-        {
-          "label": "D",
-          "text": "Immunohistochemistry for cytokeratin"
-        },
-        {
-          "label": "E",
-          "text": "Masson trichrome"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Masson trichrome is a special stain helpful for visualizing fibrosis.",
-        "whyCorrect": "The brick lists special stains and specifically notes that Masson trichrome is helpful for visualizing fibrosis, making it the appropriate choice for assessing the degree of scarring in a liver biopsy.",
-        "whyWrongByChoice": {
-          "A": "Eosin alone stains cytoplasm pink and does not specifically demonstrate collagen deposition in fibrosis.",
-          "B": "Grocott-Gomori methenamine silver is used to highlight fungal organisms, not fibrosis.",
-          "C": "Hematoxylin and eosin is the routine stain and is not the dedicated special stain for fibrosis.",
-          "D": "Immunohistochemistry for cytokeratin identifies epithelial-origin (carcinoma) cells, not areas of fibrosis."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "special stains",
-        "Masson trichrome",
-        "fibrosis"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-009",
-      "stem": "A poorly differentiated tumor is difficult to classify on routine H&E. The pathologist performs immunohistochemistry, which is positive (brown) for cytokeratin, an intermediate filament found in epithelial cells. This result most strongly supports which of the following diagnoses?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Carcinoma"
-        },
-        {
-          "label": "B",
-          "text": "Fibrosis"
-        },
-        {
-          "label": "C",
-          "text": "Fungal infection"
-        },
-        {
-          "label": "D",
-          "text": "Lymphoma"
-        },
-        {
-          "label": "E",
-          "text": "Sarcoma"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Cytokeratin positivity indicates epithelial origin, confirming a carcinoma.",
-        "whyCorrect": "The brick explains that immunohistochemistry directed against cytokeratins, intermediate filaments in epithelial cells, is often used to confirm a tumor as a carcinoma, a malignant tumor of epithelial origin. A cytokeratin-positive tumor is therefore best classified as a carcinoma.",
-        "whyWrongByChoice": {
-          "B": "Fibrosis is scarring visualized with Masson trichrome and is not a cytokeratin-positive epithelial tumor.",
-          "C": "A fungal infection is identified with special stains such as GMS, not with an epithelial immunostain.",
-          "D": "A lymphoma arises from lymphoid cells and is identified by lymphoid markers, not cytokeratin.",
-          "E": "A sarcoma is a malignant tumor of mesenchymal (connective tissue) origin and would not be defined by epithelial cytokeratin positivity."
+          "A": "Both parts are wrong: sebaceous glands are holocrine, and recurrence reflects the retained lining.",
+          "B": "Releasing a portion of apical cytoplasm is apocrine secretion, not the holocrine mode of sebaceous glands.",
+          "C": "Release purely by exocytosis is eccrine (merocrine) secretion, not sebaceous secretion.",
+          "D": "The mode is correct, but residual contents do not explain recurrence; the retained epithelial lining does."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "immunohistochemistry",
-        "cytokeratin",
-        "carcinoma"
+        "glands",
+        "holocrine",
+        "sebaceous cyst",
+        "clinical correlation"
       ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-010",
-      "stem": "A medical student wants to know the size of a hepatocellular carcinoma as measured in the pathology laboratory. In which section of the surgical pathology report would this information most likely be found?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Addendum"
-        },
-        {
-          "label": "B",
-          "text": "Clinical information"
-        },
-        {
-          "label": "C",
-          "text": "Comment"
-        },
-        {
-          "label": "D",
-          "text": "Gross description"
-        },
-        {
-          "label": "E",
-          "text": "Microscopic description"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "The measured size of a tumor is documented in the gross description.",
-        "whyCorrect": "The brick states that the gross description is the physical description of the specimen and documentation of how it was processed, and that the size of the primary tumor (which determines the T stage) is found in the gross description.",
-        "whyWrongByChoice": {
-          "A": "An addendum details additional information after finalization that does not change the diagnosis, not the measured tumor size.",
-          "B": "Clinical information may reference a radiologic size, but the size measured in the laboratory is recorded in the gross description.",
-          "C": "The comment is where the pathologist gives an opinion on the case, not where the specimen measurements are listed.",
-          "E": "The microscopic description details cellular and tissue-level observations under the microscope rather than the gross measured size."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "pathology report",
-        "gross description",
-        "tumor staging"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-011",
-      "stem": "After a surgical pathology report has been finalized and signed out, an ordered immunostain result becomes available. It supports and does not change the original diagnosis. The pathologist incorporates this new result into the report. This addition is best described as which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Addendum"
-        },
-        {
-          "label": "B",
-          "text": "Amendment"
-        },
-        {
-          "label": "C",
-          "text": "Final diagnosis"
-        },
-        {
-          "label": "D",
-          "text": "Gross description"
-        },
-        {
-          "label": "E",
-          "text": "Synoptic report"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "An addendum is a minor modification, such as incorporating later test results that do not change the diagnosis.",
-        "whyCorrect": "The brick defines an addendum as a minor modification to the report, such as the incorporation of testing results that were not previously available and do not change the diagnosis. That matches a supporting immunostain added after sign-out.",
-        "whyWrongByChoice": {
-          "B": "An amendment is a major change made after finalization; a change in diagnosis would warrant an amendment, which did not occur here.",
-          "C": "The final diagnosis is the top diagnostic line naming the disease, not a post-finalization addition of new test results.",
-          "D": "The gross description documents the specimen's physical appearance and processing, not newly available test results.",
-          "E": "A synoptic report is a structured report of prognostic information included in certain cancer cases, not a late modification."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "pathology report",
-        "addendum",
-        "amendment"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
-    },
-    {
-      "id": "pa05-012",
-      "stem": "A 40-year-old woman has a thyroid nodule sampled by fine needle aspiration (FNA), and individual cells are evaluated by cytopathology. Compared with a surgical pathology specimen, which of the following is a disadvantage of this cytopathologic approach?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It cannot be used to sample nodules of the thyroid gland"
-        },
-        {
-          "label": "B",
-          "text": "It is more invasive than a surgical resection specimen"
-        },
-        {
-          "label": "C",
-          "text": "It is not optimal for evaluating tissue architecture"
-        },
-        {
-          "label": "D",
-          "text": "It is unable to detect frankly cancerous cells"
-        },
-        {
-          "label": "E",
-          "text": "It requires removal of the entire affected organ"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Because cytopathology evaluates individual cells rather than intact tissue, it is not optimal for assessing tissue architecture.",
-        "whyCorrect": "The brick states that a disadvantage of cytopathology is that it is not optimal for the evaluation of tissue cytoarchitecture, and that fewer cells are available for evaluation compared with many surgical pathology specimens. FNA sampling of a thyroid nodule illustrates this limitation.",
-        "whyWrongByChoice": {
-          "A": "FNA is specifically described as commonly used for thyroid nodules and salivary gland tumors, so it can indeed sample thyroid nodules.",
-          "B": "The brick lists minimal invasiveness as an advantage of cytopathology, so it is not more invasive than a resection.",
-          "D": "Cytopathology can identify worrisome or malignant cells (for example, on a Pap smear), so it is not unable to detect cancer.",
-          "E": "Cytopathology samples cells without removing an entire organ; whole-organ removal describes a resection, not FNA."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "cytopathology",
-        "fine needle aspiration",
-        "limitations"
-      ],
-      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
-      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
       "tier": "core"
     }
   ]

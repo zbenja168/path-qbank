@@ -1,0 +1,1133 @@
+{
+  "categoryId": "more",
+  "categoryName": "More topics",
+  "questions": [
+    {
+      "id": "pa12-001",
+      "stem": "A 50-year-old man with liver cirrhosis secondary to alcohol use disorder presents for follow-up. On examination he has a large, protuberant abdomen, and he reports that his doctors told him there is fluid in his belly. Which of the following terms best describes this collection of fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anasarca"
+        },
+        {
+          "label": "B",
+          "text": "Ascites"
+        },
+        {
+          "label": "C",
+          "text": "Edema"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial effusion"
+        },
+        {
+          "label": "E",
+          "text": "Pleural effusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ascites is the accumulation of fluid within the abdominal cavity and is a classic finding in liver cirrhosis.",
+        "whyCorrect": "The brick defines an effusion as accumulation of fluid within a body cavity and names the fluid that collects in the abdominal cavity as ascites. Cirrhosis produces ascites through both portal hypertension and reduced albumin synthesis.",
+        "whyWrongByChoice": {
+          "A": "Anasarca is severe generalized edema of subcutaneous tissue, not a cavity fluid collection.",
+          "C": "Edema is the general term for accumulation of fluid within tissues, not fluid within a body cavity.",
+          "D": "A pericardial effusion is fluid within the pericardial sac around the heart, not the abdomen.",
+          "E": "A pleural effusion is fluid within the pleural cavity around the lungs, not the abdomen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "effusion",
+        "ascites"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-002",
+      "stem": "A 65-year-old man with a history of nephrotic syndrome presents with periorbital and lower extremity swelling. Laboratory studies show heavy proteinuria and a markedly low serum albumin. Which pathophysiologic category of edema best explains his findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased capillary hydrostatic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Increased vascular permeability from cytokines"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic obstruction by tumor or fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Reduced plasma colloid osmotic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Sodium and water retention by the kidney"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Loss of albumin lowers plasma colloid osmotic pressure, allowing fluid to leave the vasculature and produce edema.",
+        "whyCorrect": "The brick states that albumin, which makes up about 50% of total plasma protein, is the predominant contributor to osmotic pressure. In nephrotic syndrome, protein-losing glomerulopathy causes massive urinary loss of albumin, reducing the oncotic pull that keeps fluid in the vessel.",
+        "whyWrongByChoice": {
+          "A": "Increased hydrostatic pressure results from disorders that impair venous return, such as heart failure or cirrhosis, not from urinary protein loss.",
+          "B": "Increased vascular permeability is driven by inflammatory cytokines during inflammation, not by loss of plasma albumin.",
+          "C": "Lymphatic obstruction is caused by trauma, tumors, fibrosis, or filariasis blocking lymphatic drainage, not by proteinuria.",
+          "E": "Sodium and water retention causes edema through intravascular volume expansion; the primary defect here is albumin loss lowering oncotic pressure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "colloid osmotic pressure",
+        "nephrotic syndrome"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-003",
+      "stem": "A 72-year-old woman with longstanding congestive heart failure develops progressive bilateral lower extremity edema. Which of the following mechanisms is the most direct cause of her edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiogenesis producing leaky new vessels"
+        },
+        {
+          "label": "B",
+          "text": "Blockage of lymphatic channels by a tumor"
+        },
+        {
+          "label": "C",
+          "text": "Increased hydrostatic pressure"
+        },
+        {
+          "label": "D",
+          "text": "Inflammatory cytokines increasing vessel permeability"
+        },
+        {
+          "label": "E",
+          "text": "Loss of albumin in the urine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Disorders that impair venous return raise capillary hydrostatic pressure and push fluid into the interstitium.",
+        "whyCorrect": "The brick lists congestive heart failure among the disorders that increase hydrostatic pressure by impairing venous return. The resulting rise in capillary pressure drives fluid out of the vessel into the tissues, producing edema.",
+        "whyWrongByChoice": {
+          "A": "Leaky angiogenic vessels contribute to increased vascular permeability, not to hydrostatic edema from impaired venous return.",
+          "B": "Tumor blockage of lymphatics is a lymphatic obstruction mechanism, unrelated to venous congestion from heart failure.",
+          "D": "Inflammatory cytokines increasing permeability is the mechanism of inflammatory edema, not of heart-failure edema.",
+          "E": "Urinary albumin loss lowers colloid osmotic pressure and is the mechanism in nephrotic syndrome, not in heart failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "hydrostatic pressure",
+        "heart failure"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-004",
+      "stem": "A 34-year-old man from a region where filarial disease is endemic develops massive, chronic swelling and thickening of one leg, progressing over years to elephantiasis. Which mechanism of edema best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hydrostatic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Increased vascular permeability"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Reduced plasma colloid osmotic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Sodium and water retention"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Blocked lymphatic drainage of interstitial fluid produces lymphedema, which filariasis can advance to elephantiasis.",
+        "whyCorrect": "The brick states that movement of fluid from the interstitial space into lymphatic vessels can be blocked by conditions including trauma, fibrosis, invasive tumors, and filariasis from the Filarioidea roundworm, and it shows massive edema and elephantiasis of the leg as an example.",
+        "whyWrongByChoice": {
+          "A": "Increased hydrostatic pressure arises from impaired venous return, whereas here the lymphatic drainage is obstructed.",
+          "B": "Increased vascular permeability is inflammatory and mediated by cytokines, not by parasitic blockage of lymphatics.",
+          "D": "Reduced colloid osmotic pressure results from albumin loss and typically causes more generalized edema, not a filarial limb.",
+          "E": "Sodium and water retention expands intravascular volume via renal mechanisms, not via lymphatic blockage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "lymphatic obstruction",
+        "filariasis"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-005",
+      "stem": "A 40-year-old woman undergoes thoracentesis for a pleural effusion. Analysis of the fluid shows a high protein content, high cellularity with numerous white cells, and a high specific gravity. Cultures grow bacteria. Which of the following best characterizes this fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A transudate from heart failure"
+        },
+        {
+          "label": "B",
+          "text": "A transudate from hypoalbuminemia"
+        },
+        {
+          "label": "C",
+          "text": "A transudate from renal disease"
+        },
+        {
+          "label": "D",
+          "text": "An exudate from an inflammatory process"
+        },
+        {
+          "label": "E",
+          "text": "An ultrafiltrate of plasma with low protein"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Protein-rich, highly cellular fluid with high specific gravity arising from infection or inflammation is an exudate.",
+        "whyCorrect": "The brick defines exudates as inflammatory fluid collections that arise from increases in vascular permeability caused by inflammatory mediators; they are protein-rich with higher cellularity and specific gravity, and common causes include infections such as pneumonia and tuberculosis.",
+        "whyWrongByChoice": {
+          "A": "A transudate from heart failure has low protein and low cellularity, the opposite of the described fluid.",
+          "B": "A transudate from hypoalbuminemia is a low-protein ultrafiltrate, not a protein-rich, cellular fluid.",
+          "C": "A transudate from renal disease is non-inflammatory with low protein and specific gravity, unlike this fluid.",
+          "E": "A low-protein ultrafiltrate of plasma is by definition a transudate, not this protein-rich cellular fluid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "exudate",
+        "transudate",
+        "effusion"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-006",
+      "stem": "A pathologist reviews pleural fluid removed from a patient and must decide whether it is a transudate or an exudate. Which of the following findings is most compatible with a transudate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A background of underlying bacterial infection"
+        },
+        {
+          "label": "B",
+          "text": "A history of heart failure"
+        },
+        {
+          "label": "C",
+          "text": "High cellularity with abundant white cells"
+        },
+        {
+          "label": "D",
+          "text": "High protein content"
+        },
+        {
+          "label": "E",
+          "text": "High specific gravity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transudates are non-inflammatory, low-protein ultrafiltrates of plasma that occur in disorders such as heart failure.",
+        "whyCorrect": "The brick states that transudates are non-inflammatory fluid collections common in disorders such as heart failure, liver failure, renal disease, and malnutrition, and that they have low levels of protein, cellularity, and specific gravity.",
+        "whyWrongByChoice": {
+          "A": "An underlying bacterial infection points to an inflammatory exudate, not a transudate.",
+          "C": "High cellularity is a feature of exudates; transudates have low cellularity.",
+          "D": "High protein content characterizes exudates; transudates have low protein.",
+          "E": "High specific gravity is typical of exudates; transudates have low specific gravity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transudate",
+        "exudate",
+        "heart failure"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-007",
+      "stem": "A 48-year-old man develops a blood clot in his right popliteal vein. Over the next day his right lower leg becomes swollen and takes on a dusky, blue-red discoloration. Which of the following best describes the change in blood volume in his leg?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An exudative effusion in the leg"
+        },
+        {
+          "label": "B",
+          "text": "Congestion from reduced venous outflow"
+        },
+        {
+          "label": "C",
+          "text": "Hyperemia from an inflammatory stimulus"
+        },
+        {
+          "label": "D",
+          "text": "Hyperemia from arteriolar dilation"
+        },
+        {
+          "label": "E",
+          "text": "Increased arterial inflow from exercise"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Congestion is a passive increase in blood volume from reduced venous outflow and gives tissue a cyanotic appearance.",
+        "whyCorrect": "The brick defines congestion as a passive process resulting from reduced venous outflow from a tissue, which can be localized as in isolated venous obstruction. Congested tissues take on a cyanotic, reddish-blue appearance from accumulation of deoxygenated hemoglobin, matching this venous clot.",
+        "whyWrongByChoice": {
+          "A": "An exudative effusion is an inflammatory fluid collection in a cavity, not a change in blood volume within the leg.",
+          "C": "Hyperemia from inflammation produces red erythema from oxygenated blood, not the blue-red hue of venous obstruction.",
+          "D": "Hyperemia is an active process of arteriolar dilation increasing inflow, whereas a venous clot obstructs outflow.",
+          "E": "Increased arterial inflow from exercise describes hyperemia, the opposite mechanism of this venous outflow obstruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "congestion",
+        "hyperemia",
+        "venous obstruction"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-008",
+      "stem": "During a soccer match, a 28-year-old man exerts himself and his skin becomes flushed and red as blood flow to his muscles and skin increases. Which of the following statements about this process is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a passive process caused by reduced venous outflow from the tissue"
+        },
+        {
+          "label": "B",
+          "text": "It is characteristically associated with systemic or local cardiac failure"
+        },
+        {
+          "label": "C",
+          "text": "It leads directly to ischemic tissue injury and fibrosis of the tissue over time"
+        },
+        {
+          "label": "D",
+          "text": "It typically produces a cyanotic, blue-red discoloration of the skin"
+        },
+        {
+          "label": "E",
+          "text": "The tissue is red because of an active increase in oxygenated arterial inflow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hyperemia is an active increase in blood volume from arteriolar dilation that turns tissue red with oxygenated blood.",
+        "whyCorrect": "The brick describes hyperemia as an active process in which arteriolar dilation increases blood flow, and affected tissues turn red because of an influx of oxygenated blood. It arises at sites of inflammation, during exercise, and with other stimuli.",
+        "whyWrongByChoice": {
+          "A": "A passive process from reduced venous outflow describes congestion, not hyperemia.",
+          "B": "Association with systemic cardiac failure describes congestion, whereas hyperemia is seen with exercise and inflammation.",
+          "C": "Chronic congestion, not hyperemia, is what can lead to ischemic tissue injury and fibrosis over time.",
+          "D": "A cyanotic blue-red discoloration is characteristic of congestion from deoxygenated hemoglobin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hyperemia",
+        "congestion"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-009",
+      "stem": "A 25-year-old hiker is attacked by a mountain lion and sustains large, bleeding wounds to her arms and legs. In the emergency department her skin is cool and clammy, her heart rate is 140/min, and her blood pressure is 100/60 mmHg. Which type of shock is she most likely experiencing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylactic shock"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic shock"
+        },
+        {
+          "label": "C",
+          "text": "Hypovolemic shock"
+        },
+        {
+          "label": "D",
+          "text": "Neurogenic shock"
+        },
+        {
+          "label": "E",
+          "text": "Septic shock"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Massive hemorrhage lowers blood volume and cardiac output, producing hypovolemic shock.",
+        "whyCorrect": "The brick states that hypovolemic shock results from low cardiac output due to low blood volume, as in massive hemorrhage or fluid loss from severe burns. Her bleeding wounds, weak rapid pulse, and cool clammy skin fit this picture.",
+        "whyWrongByChoice": {
+          "A": "Anaphylactic shock is an IgE-mediated hypersensitivity reaction to an allergen, not a response to blood loss.",
+          "B": "Cardiogenic shock results from heart pump failure such as myocardial infarction, not from hemorrhage.",
+          "D": "Neurogenic shock follows spinal cord injury with acute vasodilation, which is not described here.",
+          "E": "Septic shock results from systemic inflammation due to infection and often produces warm, flushed skin, unlike her cool clammy skin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shock",
+        "hypovolemic shock",
+        "hemorrhage"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-010",
+      "stem": "A 68-year-old man is admitted with a large anterior myocardial infarction. Despite normal blood volume, his blood pressure falls to 80/50 mmHg, his pulse is weak and rapid, and his skin is cool and clammy. Which type of shock best explains his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylactic shock"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic shock"
+        },
+        {
+          "label": "C",
+          "text": "Hypovolemic shock"
+        },
+        {
+          "label": "D",
+          "text": "Neurogenic shock"
+        },
+        {
+          "label": "E",
+          "text": "Septic shock"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cardiogenic shock results from low cardiac output due to failure of the heart as a pump.",
+        "whyCorrect": "The brick defines cardiogenic shock as resulting from low cardiac output due to heart pump failure, giving myocardial infarction and arrhythmias as examples. Because volume is adequate but the infarcted heart cannot pump, he develops hypotension with a weak pulse and cool clammy skin.",
+        "whyWrongByChoice": {
+          "A": "Anaphylactic shock is an IgE-mediated allergic reaction, not a consequence of a myocardial infarction.",
+          "C": "Hypovolemic shock is caused by low blood volume from hemorrhage or burns, but his volume is normal.",
+          "D": "Neurogenic shock follows spinal cord injury with vasodilation, which is not present here.",
+          "E": "Septic shock arises from systemic inflammation due to infection and tends to cause warm, flushed skin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shock",
+        "cardiogenic shock",
+        "myocardial infarction"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-011",
+      "stem": "A 60-year-old man with severe necrotizing pancreatitis becomes hypotensive. Unlike a patient in hemorrhagic shock, his skin is warm and flushed rather than cool and clammy. Which type of shock and mechanism best account for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylactic shock from an allergen"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic shock from pump failure"
+        },
+        {
+          "label": "C",
+          "text": "Hypovolemic shock from fluid loss"
+        },
+        {
+          "label": "D",
+          "text": "Neurogenic shock from spinal cord injury"
+        },
+        {
+          "label": "E",
+          "text": "Septic shock with peripheral vasodilation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Septic shock arises from systemic inflammation and often produces warm, flushed skin from peripheral vasodilation.",
+        "whyCorrect": "The brick states that septic shock results from states of systemic inflammation, including pancreatitis, and its clinical correlation notes that patients with septic shock may have warm and flushed skin due to peripheral vasodilation, in contrast to the cool skin of hypovolemic or cardiogenic shock.",
+        "whyWrongByChoice": {
+          "A": "Anaphylactic shock is an IgE-mediated reaction to an allergen, not a response to systemic inflammation from pancreatitis.",
+          "B": "Cardiogenic shock is due to pump failure and, like hypovolemic shock, presents with cool clammy skin.",
+          "C": "Hypovolemic shock from fluid loss causes cool clammy skin, not the warm flushed skin described.",
+          "D": "Neurogenic shock follows spinal cord injury, which this patient with pancreatitis does not have."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "shock",
+        "septic shock",
+        "vasodilation"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa12-012",
+      "stem": "A 30-year-old man is stung by a bee and within minutes develops diffuse hives, wheezing, and a blood pressure of 75/40 mmHg from widespread vasodilation. Which type of shock is he experiencing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaphylactic shock"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic shock"
+        },
+        {
+          "label": "C",
+          "text": "Hypovolemic shock"
+        },
+        {
+          "label": "D",
+          "text": "Neurogenic shock"
+        },
+        {
+          "label": "E",
+          "text": "Septic shock"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anaphylactic shock is an IgE-mediated hypersensitivity reaction to an allergen causing acute vasodilation and hypotension.",
+        "whyCorrect": "The brick defines anaphylactic shock as an IgE-mediated hypersensitivity reaction to an allergen in which acute vasodilation leads to hypotension and tissue hypoperfusion. A bee sting triggering hives, wheezing, and profound hypotension is the classic example.",
+        "whyWrongByChoice": {
+          "B": "Cardiogenic shock arises from heart pump failure, which is not the mechanism in an allergic reaction.",
+          "C": "Hypovolemic shock is due to loss of blood volume, whereas this patient's volume is intact and vessels are dilated.",
+          "D": "Neurogenic shock is caused by spinal cord injury, not by an allergic reaction to a sting.",
+          "E": "Septic shock results from systemic inflammation due to infection, not from an IgE-mediated allergen response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shock",
+        "anaphylactic shock",
+        "hypersensitivity"
+      ],
+      "topicId": "hemodynamics-and-shock-foundations-and-frameworks",
+      "topicName": "Hemodynamics and Shock: Foundations and Frameworks",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-001",
+      "stem": "A 62-year-old man with severe gram-negative sepsis develops oozing of blood from his gums and around his intravenous catheter sites. At the same time, the tips of several fingers become cold and dusky blue. Laboratory studies show thrombocytopenia and prolonged clotting times. Which of the following is the most likely explanation for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute anterior myocardial infarction"
+        },
+        {
+          "label": "B",
+          "text": "Disseminated intravascular coagulation"
+        },
+        {
+          "label": "C",
+          "text": "Hemophilia A (factor VIII deficiency)"
+        },
+        {
+          "label": "D",
+          "text": "Lower extremity deep venous thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Von Willebrand disease, type 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DIC is a thrombohemorrhagic disorder that produces simultaneous microvascular thrombosis and bleeding.",
+        "whyCorrect": "The brick describes DIC as uncontrolled activation of coagulation that forms microthrombi throughout small vessels while consuming platelets and clotting factors, so the patient bleeds and clots at the same time. It commonly complicates sepsis and presents with oozing from IV sites plus cyanosis of the extremities.",
+        "whyWrongByChoice": {
+          "A": "Acute myocardial infarction causes substernal chest pain radiating down the left arm, not diffuse bleeding with thrombocytopenia.",
+          "C": "Hemophilia A is an inherited bleeding disorder in which patients bleed into muscles and joints, and it is not triggered by sepsis.",
+          "D": "Deep venous thrombosis presents with a swollen, painful lower extremity, not bleeding from the gums and IV sites.",
+          "E": "Von Willebrand disease causes mucocutaneous bleeding but does not produce the cyanotic extremities or consumptive picture described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DIC",
+        "coagulation",
+        "sepsis"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-002",
+      "stem": "A 40-year-old woman develops a pulmonary embolism arising from a deep vein thrombus in her leg. Follow-up evaluation reveals a Factor V Leiden mutation. Which component of Virchow's triad does this genetic finding represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial injury"
+        },
+        {
+          "label": "B",
+          "text": "Hypercoagulable state"
+        },
+        {
+          "label": "C",
+          "text": "Increased fibrinolytic activity"
+        },
+        {
+          "label": "D",
+          "text": "Stasis of blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Turbulent blood flow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor V Leiden is an inherited cause of hypercoagulability, one of the three factors in Virchow's triad.",
+        "whyCorrect": "The brick lists hypercoagulability as an abnormally high tendency of the blood to clot from a genetic disorder such as Factor V Leiden or a prothrombin gene mutation, distinct from endothelial injury and abnormal blood flow.",
+        "whyWrongByChoice": {
+          "A": "No vascular injury is described; endothelial injury involves exposure of tissue factor and von Willebrand factor.",
+          "C": "Increased fibrinolysis promotes clot breakdown and bleeding, the opposite of a prothrombotic mutation.",
+          "D": "Stasis is a form of abnormal blood flow, not the inherited clotting tendency represented by Factor V Leiden.",
+          "E": "Turbulent blood flow is another category of abnormal flow, not a genetic hypercoagulable state."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Virchow's triad",
+        "hypercoagulability",
+        "Factor V Leiden"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-003",
+      "stem": "A 24-year-old man sustains a femoral shaft fracture in a motorcycle collision. Two days later he becomes acutely dyspneic and confused, and laboratory studies show a low platelet count. Which type of embolism most likely accounts for his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air embolism"
+        },
+        {
+          "label": "B",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "C",
+          "text": "Fat embolism"
+        },
+        {
+          "label": "D",
+          "text": "Foreign body embolism"
+        },
+        {
+          "label": "E",
+          "text": "Thromboembolism from a leg vein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fat embolism follows long-bone fractures and can produce fat embolism syndrome.",
+        "whyCorrect": "The brick states that fat embolism results from microscopic fat globules and bone marrow entering the vasculature after fractures of long bones. Symptomatic patients develop fat embolism syndrome with pulmonary insufficiency, neurologic symptoms, anemia, and thrombocytopenia.",
+        "whyWrongByChoice": {
+          "A": "Air embolism arises from communication with outside air during procedures or chest wall injury.",
+          "B": "Amniotic fluid embolism occurs during labor or the postpartum period, not after a limb fracture.",
+          "D": "Foreign body embolism occurs when an object such as a bullet enters a vessel, which is not described here.",
+          "E": "A leg-vein thromboembolus is possible after trauma but does not explain the fat-globule syndrome with thrombocytopenia following a fracture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "embolism",
+        "fat embolism",
+        "fracture"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-004",
+      "stem": "A pathologist reviews a hemorrhagic (red) infarct on autopsy. Red infarcts are most likely to occur in which of the following organs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Heart"
+        },
+        {
+          "label": "C",
+          "text": "Kidney"
+        },
+        {
+          "label": "D",
+          "text": "Lung"
+        },
+        {
+          "label": "E",
+          "text": "Spleen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Red infarcts occur in tissues with a dual circulation, such as the lung.",
+        "whyCorrect": "The brick states that red infarcts occur in tissues with dual circulation, including the lung, liver, and small intestine, where blood from the unobstructed parallel supply flows into the necrotic zone.",
+        "whyWrongByChoice": {
+          "A": "The brain has an end-arterial circulation and is not the classic site of red infarcts described here.",
+          "B": "The heart has a single, end-arterial circulation and develops white infarcts.",
+          "C": "The kidney has an end-arterial supply and develops pale white infarcts.",
+          "E": "The spleen has an end-arterial supply and develops white infarcts."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "infarction",
+        "red infarct",
+        "dual blood supply"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-005",
+      "stem": "A 68-year-old man is placed on prolonged bed rest after abdominal surgery and develops a swollen, painful calf. Which component of Virchow's triad is most directly responsible for his venous thrombosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial injury from tissue factor exposure"
+        },
+        {
+          "label": "B",
+          "text": "Increased fibrinolysis"
+        },
+        {
+          "label": "C",
+          "text": "Inherited hypercoagulability"
+        },
+        {
+          "label": "D",
+          "text": "Recanalization of a prior thrombus"
+        },
+        {
+          "label": "E",
+          "text": "Stasis of blood flow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Prolonged immobilization causes venous stasis, a form of abnormal blood flow that predisposes to thrombosis.",
+        "whyCorrect": "The brick explains that abnormal blood flow includes stasis, which disrupts normal laminar flow and brings platelets into contact with the endothelium. Stasis is emphasized in prolonged bed rest and the post-operative setting, and venous thrombi begin at sites of stasis in the lower extremity.",
+        "whyWrongByChoice": {
+          "A": "No direct vascular injury exposing tissue factor is described; the immobility is the key factor.",
+          "B": "Increased fibrinolysis breaks down clots and would predispose to bleeding, not thrombosis.",
+          "C": "Nothing indicates an inherited clotting tendency such as Factor V Leiden.",
+          "D": "Recanalization is a fate of an existing thrombus, not a predisposing factor for a new one."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Virchow's triad",
+        "stasis",
+        "DVT"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-006",
+      "stem": "Several weeks after a lower-extremity thrombus formed, histology of the affected vessel shows fibroblasts and collagen deposition within the old clot along with several small new channels through the mass, partially restoring blood flow. Which fate of the thrombus does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcification of the thrombus"
+        },
+        {
+          "label": "B",
+          "text": "Complete dissolution by fibrinolysis"
+        },
+        {
+          "label": "C",
+          "text": "Embolization to a distant site"
+        },
+        {
+          "label": "D",
+          "text": "Organization and recanalization"
+        },
+        {
+          "label": "E",
+          "text": "Propagation of the thrombus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Organization and recanalization form new channels through a thrombus that partially restore flow.",
+        "whyCorrect": "The brick describes organization and recanalization as a process in which fibroblasts grow and deposit collagen fibers within the vessel (organization) and new lumina develop through the thrombus (recanalization), partially restoring flow in the blood vessel.",
+        "whyWrongByChoice": {
+          "A": "Calcification is not one of the fates of a thrombus taught in this brick.",
+          "B": "Dissolution is complete breakdown of the thrombus by fibrinolysis, not incorporation into the wall.",
+          "C": "Embolization is detachment of a fragment that travels to a distant site.",
+          "E": "Propagation is enlargement of the thrombus by additional platelets and fibrin, not channel formation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thrombus",
+        "organization",
+        "recanalization"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-007",
+      "stem": "A 59-year-old woman receiving heparin after surgery develops a falling platelet count and a new deep venous thrombosis on day 6 of therapy. Which of the following best explains the mechanism of her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An antibody forms against the heparin-platelet factor 4 complex"
+        },
+        {
+          "label": "B",
+          "text": "An inherited Factor V Leiden mutation is unmasked by exposure to heparin"
+        },
+        {
+          "label": "C",
+          "text": "Excessive plasmin-mediated fibrinolysis consumes circulating platelets"
+        },
+        {
+          "label": "D",
+          "text": "Heparin directly lyses circulating platelets by disrupting their membranes"
+        },
+        {
+          "label": "E",
+          "text": "Shiga-like toxin from an enteric infection damages the endothelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Heparin-induced thrombocytopenia is driven by antibodies against the heparin-PF4 complex that activate platelets and cause thrombosis.",
+        "whyCorrect": "The brick explains that in HIT heparin binds platelet factor 4 (PF4) on the platelet surface, and an antibody develops against the heparin-PF4 complex. Platelets become activated and aggregated, lowering the platelet count while forming clots, with thrombosis (commonly DVT or PE) as the major complication.",
+        "whyWrongByChoice": {
+          "B": "HIT is an acquired antibody-mediated disorder, not an unmasked inherited Factor V Leiden mutation.",
+          "C": "The thrombocytopenia is from platelet activation and aggregation, not excessive fibrinolysis.",
+          "D": "Heparin does not directly lyse platelets; the platelet drop results from antibody-mediated activation and consumption.",
+          "E": "Shiga-like toxin endothelial damage is the mechanism of hemolytic uremic syndrome, not HIT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIT",
+        "heparin",
+        "platelet factor 4"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-008",
+      "stem": "A 70-year-old man with a recent large anterior myocardial infarction develops sudden pain and pallor of the right leg. Imaging shows a mural thrombus in the left ventricle. This clinical picture is best explained by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A fat embolus from bone marrow"
+        },
+        {
+          "label": "B",
+          "text": "A venous embolus traveling to the lungs"
+        },
+        {
+          "label": "C",
+          "text": "An air embolus from a chest wall injury"
+        },
+        {
+          "label": "D",
+          "text": "An amniotic fluid embolus"
+        },
+        {
+          "label": "E",
+          "text": "An arterial embolus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Arterial emboli predominantly originate from mural thrombi in the heart and lodge in distal arteries such as those of the limbs.",
+        "whyCorrect": "The brick states that arterial emboli predominantly originate from mural thrombi in the heart (thrombus in the heart chambers or aortic lumen) and continue along the flow of blood until they end up in a smaller artery, most commonly in the lower extremities and brain.",
+        "whyWrongByChoice": {
+          "A": "Fat emboli arise from long-bone fractures or trauma, not a cardiac mural thrombus.",
+          "B": "A venous embolus travels through the right heart to the lungs, causing pulmonary embolism, not limb ischemia.",
+          "C": "Air embolism follows communication with outside air, not a ventricular mural thrombus.",
+          "D": "Amniotic fluid embolism occurs during labor or the postpartum period."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "embolism",
+        "mural thrombus",
+        "arterial embolus"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-009",
+      "stem": "A 55-year-old man has sudden occlusion of a renal artery, and the kidney later shows a sharply demarcated, pale (white) area of necrosis. Which property of the kidney best explains why this infarct is white rather than red?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A dual blood supply with parallel circulation"
+        },
+        {
+          "label": "B",
+          "text": "A single, end-arterial blood supply"
+        },
+        {
+          "label": "C",
+          "text": "High resistance of renal tissue to hypoxia"
+        },
+        {
+          "label": "D",
+          "text": "Loose, spongy tissue architecture"
+        },
+        {
+          "label": "E",
+          "text": "Slow, gradual occlusion allowing collaterals"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "White infarcts occur in organs with a single, end-arterial circulation such as the kidney.",
+        "whyCorrect": "The brick states that white infarcts occur in tissues with single, end-arterial circulation, including the heart, spleen, and kidney, because no parallel supply can flow blood into the necrotic zone. The names refer to the color seen macroscopically.",
+        "whyWrongByChoice": {
+          "A": "A dual blood supply produces red infarcts, seen in the lung, liver, and small intestine.",
+          "C": "Tissue hypoxia tolerance affects whether infarction occurs, not the red-versus-white color.",
+          "D": "Tissue density relates to red infarcts in loose tissue, but the defining feature here is the end-arterial supply.",
+          "E": "Rate of occlusion influences whether an infarct forms, not its color; this occlusion was sudden."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "infarction",
+        "white infarct",
+        "end-arterial supply"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-010",
+      "stem": "A researcher compares how quickly different tissues suffer irreversible damage during ischemia. Which tissue is most vulnerable, undergoing irreversible injury after only a few minutes of hypoxia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac muscle"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Lung"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neural tissue is the most sensitive to hypoxia, dying within minutes.",
+        "whyCorrect": "The brick lists tissue vulnerability to hypoxia as a factor in infarction, noting that brain tissue undergoes irreversible damage after only a few minutes of hypoxia, whereas heart muscle starts to die after 20-30 minutes and skeletal muscle may survive a few hours.",
+        "whyWrongByChoice": {
+          "B": "Cardiac muscle begins to die after 20-30 minutes of ischemia, longer than the brain's few minutes.",
+          "C": "The liver has a dual blood supply and is comparatively protected from thromboembolic infarction.",
+          "D": "The lung has a dual blood supply and is not the most hypoxia-vulnerable tissue described.",
+          "E": "Skeletal muscle may survive a few hours before dying, making it relatively resistant."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "infarction",
+        "hypoxia",
+        "tissue vulnerability"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-011",
+      "stem": "A 31-year-old woman becomes acutely dyspneic and cyanotic and then goes into shock during delivery, followed by seizures. Which of the following is the most likely cause of her sudden deterioration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "B",
+          "text": "Deep venous thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Foreign body embolism"
+        },
+        {
+          "label": "D",
+          "text": "Post-fracture fat embolism"
+        },
+        {
+          "label": "E",
+          "text": "Procedural air embolism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amniotic fluid embolism is a rare but often fatal complication of labor and the immediate postpartum period.",
+        "whyCorrect": "The brick describes amniotic fluid embolism as infusion of amniotic fluid or fetal tissue into the maternal circulation through a tear in the placental membranes or rupture of uterine veins, presenting with dyspnea, cyanosis, and shock followed by neurologic impairment.",
+        "whyWrongByChoice": {
+          "B": "A deep venous thrombosis presents with a swollen, painful leg rather than acute peripartum collapse.",
+          "C": "Foreign body embolism results from an introduced object such as a bullet, not childbirth.",
+          "D": "Fat embolism follows long-bone fractures or trauma, not delivery.",
+          "E": "Air embolism arises from communication with outside air during procedures or chest wall injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "embolism",
+        "amniotic fluid embolism",
+        "obstetric"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    },
+    {
+      "id": "pa13-012",
+      "stem": "A 4-year-old child develops bloody diarrhea followed by thrombocytopenia, hemolytic anemia, and acute renal failure after eating undercooked ground beef. This thrombotic microangiopathy is most commonly caused by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid entering the maternal circulation"
+        },
+        {
+          "label": "B",
+          "text": "An inherited Factor V Leiden mutation"
+        },
+        {
+          "label": "C",
+          "text": "Antibody against the heparin-PF4 complex"
+        },
+        {
+          "label": "D",
+          "text": "Shiga-like toxin from E. coli O157:H7"
+        },
+        {
+          "label": "E",
+          "text": "Uncontrolled release of tissue factor in sepsis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hemolytic uremic syndrome is typically caused by Shiga-like toxin-producing E. coli O157:H7.",
+        "whyCorrect": "The brick teaches that HUS, a thrombotic microangiopathy on the differential with DIC, is typically associated with gastroenteritis caused by Shiga-like toxin-producing E. coli O157:H7. The toxin is absorbed from the gastrointestinal mucosa and damages endothelial function, causing platelet activation, bloody diarrhea, and acute renal failure, especially in children.",
+        "whyWrongByChoice": {
+          "A": "Amniotic fluid embolism is an obstetric emergency, unrelated to this child's illness.",
+          "B": "Factor V Leiden is an inherited hypercoagulable state, not the cause of toxin-mediated HUS.",
+          "C": "Antibodies against heparin-PF4 cause HIT, not the post-diarrheal renal failure described.",
+          "E": "Uncontrolled tissue factor release triggers DIC, which is a distinct disorder from toxin-mediated HUS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HUS",
+        "E. coli O157:H7",
+        "thrombotic microangiopathy"
+      ],
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and its Consequences",
+      "tier": "core"
+    }
+  ]
+}

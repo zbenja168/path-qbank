@@ -3,6 +3,569 @@
   "categoryName": "Session 3",
   "questions": [
     {
+      "id": "pa35-001",
+      "stem": "A 64-year-old man with colon adenocarcinoma is being staged. Imaging reveals a 4-cm primary tumor invading the muscularis propria, three positive regional lymph nodes, and multiple lesions in the liver consistent with metastases. Which of the following components of the TNM system most adversely affects his prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Depth of local invasion"
+        },
+        {
+          "label": "B",
+          "text": "Histologic grade of the tumor"
+        },
+        {
+          "label": "C",
+          "text": "Number of involved regional lymph nodes (N)"
+        },
+        {
+          "label": "D",
+          "text": "Presence of distant metastasis (M)"
+        },
+        {
+          "label": "E",
+          "text": "Size of the primary tumor (T)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Distant metastasis (M1) is the single most adverse prognostic component of the TNM system and defines Stage IV disease.",
+        "whyCorrect": "In the TNM system, distant metastasis (M1) generally carries the greatest negative prognostic weight and places the patient at Stage IV, which has the poorest outcome and is usually not curable. The liver lesions represent distant spread, which dominates staging over local and nodal factors.",
+        "whyWrongByChoice": {
+          "A": "Depth of local invasion refines the T category but is outweighed by the presence of distant metastasis.",
+          "B": "Grade is a histologic prognostic factor but does not define anatomic stage; distant metastasis is the dominant factor here.",
+          "C": "Nodal involvement (N) worsens prognosis but is less adverse than distant metastatic disease.",
+          "E": "Primary tumor size contributes to the T category but is far less decisive than distant spread once metastasis is present."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TNM",
+        "staging",
+        "metastasis",
+        "prognosis"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-002",
+      "stem": "A pathologist explains that two patients with the same type of carcinoma can have very different expected outcomes. For most solid tumors, which of the following is generally the strongest predictor of prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anatomic stage (extent of spread)"
+        },
+        {
+          "label": "B",
+          "text": "Degree of nuclear pleomorphism (grade)"
+        },
+        {
+          "label": "C",
+          "text": "Histologic grade (tumor differentiation)"
+        },
+        {
+          "label": "D",
+          "text": "Mitotic rate per high-power field"
+        },
+        {
+          "label": "E",
+          "text": "Patient age at the time of diagnosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For most solid tumors, anatomic stage is a stronger predictor of outcome than grade or individual histologic features.",
+        "whyCorrect": "Stage reflects the anatomic extent of disease (tumor size, nodal involvement, and metastasis) and usually correlates more closely with survival than grade for most solid tumors. Widespread disease overrides favorable histology.",
+        "whyWrongByChoice": {
+          "B": "Nuclear pleomorphism is a grading feature and is subordinate to overall stage.",
+          "C": "Grade is an important prognostic factor but is generally less predictive than stage for most solid tumors.",
+          "D": "Mitotic rate is one component of grade, not the overall dominant prognostic factor.",
+          "E": "Age can influence treatment tolerance but is not the strongest predictor of tumor-specific outcome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "grading",
+        "prognostic-factors"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-003",
+      "stem": "A 48-year-old woman undergoes cervical biopsy after an abnormal Pap smear. Histology shows severely atypical squamous cells occupying the full thickness of the epithelium, but the basement membrane is intact and there is no stromal invasion. Which of the following best describes this lesion's stage and prognostic significance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stage 0 (carcinoma in situ), excellent prognosis"
+        },
+        {
+          "label": "B",
+          "text": "Stage I, with a moderate risk of nodal spread"
+        },
+        {
+          "label": "C",
+          "text": "Stage II, with local extension beyond the organ of origin"
+        },
+        {
+          "label": "D",
+          "text": "Stage IV, because high-grade atypia implies distant spread"
+        },
+        {
+          "label": "E",
+          "text": "Unstageable, because grade and stage cannot be assessed on biopsy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carcinoma in situ (Tis) is Stage 0: malignant cells confined above the basement membrane, with excellent prognosis.",
+        "whyCorrect": "Full-thickness atypia without breach of the basement membrane defines carcinoma in situ (Tis), classified as Stage 0. Because there is no invasion, there is no access to lymphatics or vessels, so metastasis cannot occur and the lesion is highly curable by complete excision.",
+        "whyWrongByChoice": {
+          "B": "Stage I requires invasive tumor; an intact basement membrane means the lesion is in situ, not invasive.",
+          "C": "Stage II implies local extension of invasive disease, which is absent here.",
+          "D": "High-grade cytology does not equal metastasis; without invasion there is no distant spread.",
+          "E": "The lesion is readily classified as carcinoma in situ; it is not unstageable."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carcinoma-in-situ",
+        "staging",
+        "basement-membrane"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-004",
+      "stem": "A high-grade sarcoma specimen is described by the pathologist as showing marked variation in cell and nuclear size, tumor giant cells, and numerous abnormal (tripolar) mitotic figures, with no resemblance to any normal tissue. This lack of differentiation is best termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaplasia"
+        },
+        {
+          "label": "B",
+          "text": "Dysplasia"
+        },
+        {
+          "label": "C",
+          "text": "Hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophy"
+        },
+        {
+          "label": "E",
+          "text": "Metaplasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anaplasia is the complete lack of differentiation and is a histologic hallmark of malignancy.",
+        "whyCorrect": "Anaplasia describes tumor cells that have lost differentiation and show marked pleomorphism, tumor giant cells, bizarre nuclei, and abnormal mitoses. It corresponds to the highest histologic grade and is a defining feature of aggressive malignancy.",
+        "whyWrongByChoice": {
+          "B": "Dysplasia is disordered but still differentiated growth, typically pre-invasive and less extreme than anaplasia.",
+          "C": "Hyperplasia is an increase in cell number in a controlled, differentiated tissue.",
+          "D": "Hypertrophy is an increase in cell size without loss of differentiation.",
+          "E": "Metaplasia is reversible replacement of one differentiated cell type by another, not a lack of differentiation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "grading",
+        "anaplasia",
+        "differentiation"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-005",
+      "stem": "A 55-year-old man with diffuse large B-cell lymphoma finishes chemotherapy. Follow-up PET/CT and physical examination show no detectable tumor. His oncologist emphasizes that this does not necessarily mean he is cured. Which of the following best describes his current status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete remission"
+        },
+        {
+          "label": "B",
+          "text": "Cure"
+        },
+        {
+          "label": "C",
+          "text": "Partial remission"
+        },
+        {
+          "label": "D",
+          "text": "Progressive disease"
+        },
+        {
+          "label": "E",
+          "text": "Stable disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Complete remission is the disappearance of all detectable disease, which is not synonymous with cure.",
+        "whyCorrect": "Complete remission means no tumor is detectable by clinical exam or imaging. However, microscopic residual disease may remain below detection limits, so recurrence can occur; cure can only be inferred later after prolonged disease-free follow-up.",
+        "whyWrongByChoice": {
+          "B": "Cure requires prolonged absence of disease with recurrence risk approaching baseline and cannot be declared at this point.",
+          "C": "Partial remission requires a measurable reduction with tumor still detectable, but disease is no longer detectable here.",
+          "D": "Progressive disease means growth or new lesions, the opposite of this scenario.",
+          "E": "Stable disease means the tumor is present and unchanged, which is not the case."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "remission",
+        "cure",
+        "treatment-response"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-006",
+      "stem": "A 60-year-old woman receiving therapy for metastatic breast cancer has restaging scans showing that the sum of her target lesion diameters has decreased by 45%, though several lesions remain measurable. Which of the following terms best describes her treatment response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete remission"
+        },
+        {
+          "label": "B",
+          "text": "Cure"
+        },
+        {
+          "label": "C",
+          "text": "Partial remission"
+        },
+        {
+          "label": "D",
+          "text": "Progressive disease"
+        },
+        {
+          "label": "E",
+          "text": "Stable disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Partial remission is at least a 30% reduction in measurable tumor burden with disease still detectable.",
+        "whyCorrect": "A 45% reduction in tumor burden with residual measurable lesions meets the definition of partial remission (conventionally a decrease of about 30% or more). The response is meaningful, but disease persists.",
+        "whyWrongByChoice": {
+          "A": "Complete remission requires disappearance of all detectable disease, but measurable lesions remain.",
+          "B": "Cure requires prolonged absence of disease and cannot be applied to persistent measurable tumor.",
+          "D": "Progressive disease means tumor growth or new lesions, the opposite of shrinkage.",
+          "E": "Stable disease means little change in size, whereas a 45% decrease is a clear reduction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "remission",
+        "partial-response",
+        "treatment-response"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-007",
+      "stem": "Two patients each have an invasive ductal carcinoma of the same size and stage. Patient 1's tumor is well differentiated with tubule formation and rare mitoses; Patient 2's tumor is poorly differentiated with marked nuclear pleomorphism and frequent mitoses. Which statement about grade is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Grade and stage always change together in the same direction"
+        },
+        {
+          "label": "B",
+          "text": "Grade is determined by the presence of distant metastases"
+        },
+        {
+          "label": "C",
+          "text": "Grade reflects the anatomic extent of spread of the tumor"
+        },
+        {
+          "label": "D",
+          "text": "Patient 1's well-differentiated tumor generally carries a better prognosis"
+        },
+        {
+          "label": "E",
+          "text": "Patient 2's poorly differentiated tumor generally carries a better prognosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lower-grade, well-differentiated tumors resemble normal tissue and generally have a better prognosis than high-grade tumors.",
+        "whyCorrect": "Grade reflects how closely tumor cells resemble their tissue of origin. Well-differentiated (low-grade) tumors like Patient 1's tend to be less aggressive and carry a better prognosis than poorly differentiated (high-grade) tumors, when stage is held constant.",
+        "whyWrongByChoice": {
+          "A": "Grade and stage are independent measures and do not necessarily move together.",
+          "B": "Distant metastasis is part of staging (M), not grading.",
+          "C": "Anatomic extent of spread is described by stage, not grade.",
+          "E": "Poorly differentiated tumors are more aggressive and carry a worse, not better, prognosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "grading",
+        "differentiation",
+        "prognosis"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-008",
+      "stem": "A tumor board is deciding how to describe a newly diagnosed gastric carcinoma. One member wants to communicate the degree of histologic differentiation of the tumor cells, and another wants to communicate the anatomic extent of the disease. Which pairing correctly matches concept to term?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both differentiation and anatomic extent = grading"
+        },
+        {
+          "label": "B",
+          "text": "Both differentiation and anatomic extent = staging"
+        },
+        {
+          "label": "C",
+          "text": "Differentiation = grading; anatomic extent = staging"
+        },
+        {
+          "label": "D",
+          "text": "Differentiation = remission; anatomic extent = staging"
+        },
+        {
+          "label": "E",
+          "text": "Differentiation = staging; anatomic extent = grading"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Grading describes histologic differentiation; staging describes the anatomic extent of spread.",
+        "whyCorrect": "Grade is a microscopic assessment of how well tumor cells are differentiated, while stage (TNM) describes the anatomic extent of disease including local size, nodal involvement, and distant metastasis. These are complementary but distinct measures.",
+        "whyWrongByChoice": {
+          "A": "Anatomic extent is captured by staging, not grading.",
+          "B": "Differentiation is captured by grading, not staging.",
+          "D": "Remission refers to treatment response, not to histologic differentiation.",
+          "E": "This reverses the definitions of grading and staging."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "grading",
+        "staging",
+        "definitions"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-009",
+      "stem": "A patient reads that a particular cancer has a 5-year survival rate of 90%. Which of the following is the most accurate interpretation of this statistic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "90% of patients are alive 5 years after diagnosis"
+        },
+        {
+          "label": "B",
+          "text": "90% of patients are permanently cured of the disease"
+        },
+        {
+          "label": "C",
+          "text": "90% of patients will have a recurrence within 5 years"
+        },
+        {
+          "label": "D",
+          "text": "The average patient will live exactly 5 more years"
+        },
+        {
+          "label": "E",
+          "text": "The cancer has spread to distant sites in 90% of patients"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 5-year survival rate is the percentage of patients still alive 5 years after diagnosis.",
+        "whyCorrect": "The 5-year survival rate is a statistical benchmark defined as the proportion of patients alive 5 years after diagnosis. It is used to compare prognosis across cancers but does not by itself equate to cure.",
+        "whyWrongByChoice": {
+          "B": "Being alive at 5 years is not the same as being cured; some patients still have or later develop disease.",
+          "C": "The statistic describes survival, not recurrence rate.",
+          "D": "It is a proportion surviving, not a prediction of an exact lifespan for individuals.",
+          "E": "The statistic does not describe the frequency of distant spread."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prognostic-statistics",
+        "survival-rate"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-010",
+      "stem": "A 70-year-old man with newly diagnosed non-small cell lung cancer has limited disease that appears resectable, but he is bedridden more than half of each day and cannot care for himself. His oncologist notes that this factor independently predicts poorer outcomes and limits treatment options. Which prognostic factor is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carcinoma in situ status"
+        },
+        {
+          "label": "B",
+          "text": "Disease-free survival"
+        },
+        {
+          "label": "C",
+          "text": "Performance status"
+        },
+        {
+          "label": "D",
+          "text": "TNM stage"
+        },
+        {
+          "label": "E",
+          "text": "Tumor grade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Performance status measures a patient's functional ability and independently predicts prognosis and treatment tolerance.",
+        "whyCorrect": "Performance status quantifies how well a patient can carry out daily activities. Poor performance status (e.g., bedridden more than half the day) independently predicts worse outcomes and often limits eligibility for aggressive therapy, separate from the anatomic characteristics of the tumor.",
+        "whyWrongByChoice": {
+          "A": "Carcinoma in situ describes a non-invasive lesion, unrelated to functional status.",
+          "B": "Disease-free survival is an outcome measure over time, not the patient's current functional status.",
+          "D": "Stage describes anatomic extent of disease, which here is limited and resectable.",
+          "E": "Grade describes histologic differentiation, not the patient's functional capacity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prognostic-factors",
+        "performance-status"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-011",
+      "stem": "In a clinical trial, investigators want an endpoint that captures how long patients remain alive without any detectable return of their cancer after treatment. Which of the following measures best fits this definition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5-year survival rate"
+        },
+        {
+          "label": "B",
+          "text": "Complete remission rate"
+        },
+        {
+          "label": "C",
+          "text": "Disease-free survival"
+        },
+        {
+          "label": "D",
+          "text": "Overall survival"
+        },
+        {
+          "label": "E",
+          "text": "Tumor grade distribution"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Disease-free survival measures the time patients remain alive without detectable disease after treatment.",
+        "whyCorrect": "Disease-free survival specifically measures the interval after treatment during which no disease is detectable, capturing the durability of a response. It reflects how long remission is maintained before any recurrence.",
+        "whyWrongByChoice": {
+          "A": "The 5-year survival rate is a fixed-timepoint survival proportion, not a measure of disease-free interval.",
+          "B": "Complete remission rate is the proportion achieving no detectable disease at a point in time, not a duration measure.",
+          "D": "Overall survival measures time to death from any cause and does not track recurrence.",
+          "E": "Tumor grade distribution describes histology across patients, not a survival endpoint."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prognostic-statistics",
+        "disease-free-survival",
+        "endpoints"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
+      "id": "pa35-012",
+      "stem": "A 58-year-old woman with metastatic ovarian cancer has restaging scans after three cycles of chemotherapy. Compared with baseline, the target lesions have enlarged and two new peritoneal nodules have appeared. Which of the following best characterizes her response, and what does it indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete remission, indicating no detectable disease"
+        },
+        {
+          "label": "B",
+          "text": "Cure, indicating eradication of disease"
+        },
+        {
+          "label": "C",
+          "text": "Partial remission, indicating a favorable response"
+        },
+        {
+          "label": "D",
+          "text": "Progressive disease, indicating treatment failure"
+        },
+        {
+          "label": "E",
+          "text": "Stable disease, indicating no meaningful change"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Growth of existing lesions or appearance of new lesions defines progressive disease and signals treatment failure.",
+        "whyCorrect": "Progressive disease is defined by an increase in tumor burden or the development of new lesions. Enlarging target lesions plus new peritoneal nodules meet this definition and indicate that the current therapy is failing, prompting a change in management.",
+        "whyWrongByChoice": {
+          "A": "Complete remission requires no detectable disease, but the tumor has grown.",
+          "B": "Cure requires prolonged absence of disease and is incompatible with growing tumor.",
+          "C": "Partial remission requires tumor shrinkage, the opposite of what occurred.",
+          "E": "Stable disease requires little change; here the disease has clearly worsened."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment-response",
+        "progressive-disease",
+        "prognosis"
+      ],
+      "topicId": "cancer-staging-and-grading-b35",
+      "topicName": "Cancer Staging and Grading",
+      "tier": "core"
+    },
+    {
       "id": "pa02-001",
       "stem": "A 64-year-old woman with newly diagnosed lung cancer undergoes a full staging workup. The report lists a 3-cm primary tumor, involvement of two regional lymph nodes, grade 3 (anaplastic) histology, and a solitary lesion in the liver consistent with tumor spread. Which of the following findings most strongly worsens her prognosis?",
       "choices": [
@@ -570,566 +1133,1131 @@
       "tier": "core"
     },
     {
-      "id": "pa35-001",
-      "stem": "A 64-year-old man with colon adenocarcinoma is being staged. Imaging reveals a 4-cm primary tumor invading the muscularis propria, three positive regional lymph nodes, and multiple lesions in the liver consistent with metastases. Which of the following components of the TNM system most adversely affects his prognosis?",
+      "id": "pa42-001",
+      "stem": "A 52-year-old woman undergoes biopsy of a breast lesion. Malignant-appearing epithelial cells fill several ducts, but the thin connective tissue layer separating the duct epithelium from the underlying stroma is intact in every section examined. Which additional finding on deeper sections would reclassify this lesion as an invasive carcinoma?",
       "choices": [
         {
           "label": "A",
-          "text": "Depth of local invasion"
+          "text": "Loss of normal polarity of the duct-lining cells"
         },
         {
           "label": "B",
-          "text": "Histologic grade of the tumor"
+          "text": "Marked nuclear pleomorphism of the ductal cells"
         },
         {
           "label": "C",
-          "text": "Number of involved regional lymph nodes (N)"
+          "text": "Numerous mitotic figures within the involved ducts"
         },
         {
           "label": "D",
-          "text": "Presence of distant metastasis (M)"
+          "text": "Tumor cells extending into many neighboring ducts and lobules"
         },
         {
           "label": "E",
-          "text": "Size of the primary tumor (T)"
+          "text": "Tumor cells penetrating through the basement membrane"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Distant metastasis (M1) is the single most adverse prognostic component of the TNM system and defines Stage IV disease.",
-        "whyCorrect": "In the TNM system, distant metastasis (M1) generally carries the greatest negative prognostic weight and places the patient at Stage IV, which has the poorest outcome and is usually not curable. The liver lesions represent distant spread, which dominates staging over local and nodal factors.",
+        "summary": "In epithelial malignancies, invasion is defined by penetration through the basement membrane; a cancer that has not done so is in situ.",
+        "whyCorrect": "The basement membrane is the thin connective tissue layer separating epithelium from the underlying tissue. A cancer is in situ when it does not penetrate the basement membrane, and invasion is defined by penetration through it. Only invasive cancers have the ability to metastasize.",
         "whyWrongByChoice": {
-          "A": "Depth of local invasion refines the T category but is outweighed by the presence of distant metastasis.",
-          "B": "Grade is a histologic prognostic factor but does not define anatomic stage; distant metastasis is the dominant factor here.",
-          "C": "Nodal involvement (N) worsens prognosis but is less adverse than distant metastatic disease.",
-          "E": "Primary tumor size contributes to the T category but is far less decisive than distant spread once metastasis is present."
+          "A": "Disordered polarity within the epithelium does not mean the basement membrane has been breached.",
+          "B": "Nuclear atypia is consistent with malignancy but does not establish penetration of the basement membrane.",
+          "C": "Proliferative activity confined above an intact basement membrane does not define invasion.",
+          "D": "Spread within additional ducts keeps the cells above the basement membrane, so the lesion remains in situ."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "invasion",
+        "basement membrane",
+        "carcinoma in situ"
+      ],
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa42-002",
+      "stem": "A 58-year-old woman has a poorly defined breast mass. Biopsy shows small, discohesive tumor cells infiltrating the stroma in single-file lines with loss of normal architecture. An immunostain for a cell-cell adhesion protein that is normally present on breast epithelium shows no staining in the tumor cells. Loss of which protein most directly explains this infiltrative pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "E-cadherin"
+        },
+        {
+          "label": "B",
+          "text": "HER2 receptor"
+        },
+        {
+          "label": "C",
+          "text": "Laminin receptor"
+        },
+        {
+          "label": "D",
+          "text": "Tubulin"
+        },
+        {
+          "label": "E",
+          "text": "Vascular endothelial growth factor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Invasive lobular carcinoma downregulates E-cadherin, so cells separate easily and infiltrate in single file.",
+        "whyCorrect": "Invasion begins when cancers separate cells by disrupting E-cadherin or catenins. Breast adenocarcinomas, particularly lobular carcinoma, downregulate E-cadherin, which makes it easier to separate the cells from one another; invasive lobular carcinoma shows loss of architecture, single-file infiltration and absent E-cadherin staining.",
+        "whyWrongByChoice": {
+          "B": "HER2 is a growth-signaling receptor targeted by trastuzumab, not the adhesion protein lost in lobular carcinoma.",
+          "C": "Laminin receptors are often overexpressed (not lost) by cancer cells and mediate binding to basement membrane, not cell-cell cohesion.",
+          "D": "Tubulin forms microtubules of the mitotic spindle; it does not hold epithelial cells together.",
+          "E": "VEGF drives angiogenesis; it is not a cell-cell adhesion protein."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "TNM",
-        "staging",
+        "invasion",
+        "E-cadherin",
+        "lobular carcinoma"
+      ],
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa42-003",
+      "stem": "A 63-year-old man is diagnosed with adenocarcinoma of the sigmoid colon. Staging CT shows multiple new nodules in the liver, and biopsy of one confirms metastatic colonic adenocarcinoma. Which factor best explains why the liver was the site of these metastases?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterial spread of tumor cells through the hepatic artery"
+        },
+        {
+          "label": "B",
+          "text": "Chemokine receptors that home tumor cells to hepatocytes"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic flow from the colon into hepatic lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Seeding of tumor cells across the peritoneal cavity"
+        },
+        {
+          "label": "E",
+          "text": "Venous drainage of the colon passing first to the liver"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Colon cancer typically metastasizes to the liver because the liver is the first downstream organ of the colon's portal venous drainage.",
+        "whyCorrect": "One key factor determining where circulating tumor cells end up is the location and vascular drainage of the primary tumor. All portal blood from the colon drains into the liver, so tumor cells lodge in the first capillary bed they reach there; the lecture gives colon-to-liver spread as the example of this anatomic factor.",
+        "whyWrongByChoice": {
+          "A": "Arterial spread is the less common hematogenous route because arterial walls are thick and elastin-rich.",
+          "B": "Chemokine-receptor tropism is a separate factor; the lecture attributes colon-to-liver spread to vascular drainage.",
+          "C": "The liver is reached through portal venous blood, not through lymphatic drainage.",
+          "D": "Peritoneal seeding produces surface implants in the cavity (as with ovarian carcinoma), not drainage-based liver deposits."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
         "metastasis",
-        "prognosis"
+        "vascular drainage",
+        "liver",
+        "colon cancer"
       ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
       "tier": "core"
     },
     {
-      "id": "pa35-002",
-      "stem": "A pathologist explains that two patients with the same type of carcinoma can have very different expected outcomes. For most solid tumors, which of the following is generally the strongest predictor of prognosis?",
+      "id": "pa42-004",
+      "stem": "A 61-year-old man is found to have a solid renal mass on imaging, and biopsy shows renal cell carcinoma. Unlike the usual pattern for tumors of epithelial origin, this tumor is classically known for which pattern of spread?",
       "choices": [
         {
           "label": "A",
-          "text": "Anatomic stage (extent of spread)"
+          "text": "Hematogenous spread through the bloodstream"
         },
         {
           "label": "B",
-          "text": "Degree of nuclear pleomorphism (grade)"
+          "text": "Lymphatic spread to regional lymph nodes"
         },
         {
           "label": "C",
-          "text": "Histologic grade (tumor differentiation)"
+          "text": "Seeding across the peritoneal cavity"
         },
         {
           "label": "D",
-          "text": "Mitotic rate per high-power field"
+          "text": "Seeding of tumor cells across the pleural cavity"
         },
         {
           "label": "E",
-          "text": "Patient age at the time of diagnosis"
+          "text": "Seeding through the subarachnoid space"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "For most solid tumors, anatomic stage is a stronger predictor of outcome than grade or individual histologic features.",
-        "whyCorrect": "Stage reflects the anatomic extent of disease (tumor size, nodal involvement, and metastasis) and usually correlates more closely with survival than grade for most solid tumors. Widespread disease overrides favorable histology.",
+        "summary": "Renal cell carcinoma is one of four carcinomas known for hematogenous rather than lymphatic spread.",
+        "whyCorrect": "Most carcinomas spread lymphatically, but four are known for spreading hematogenously: follicular thyroid carcinoma, choriocarcinoma, renal cell carcinoma and hepatocellular carcinoma.",
         "whyWrongByChoice": {
-          "B": "Nuclear pleomorphism is a grading feature and is subordinate to overall stage.",
-          "C": "Grade is an important prognostic factor but is generally less predictive than stage for most solid tumors.",
-          "D": "Mitotic rate is one component of grade, not the overall dominant prognostic factor.",
-          "E": "Age can influence treatment tolerance but is not the strongest predictor of tumor-specific outcome."
+          "B": "Lymphatic spread is the typical carcinoma route, which renal cell carcinoma is a notable exception to.",
+          "C": "Peritoneal seeding is the classic pattern of ovarian carcinoma.",
+          "D": "Pleural seeding is a seeding route, not the characteristic route of renal cell carcinoma.",
+          "E": "Subarachnoid seeding is the pattern of glioblastoma within the brain and spinal cord."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "staging",
-        "grading",
-        "prognostic-factors"
+        "routes of metastasis",
+        "hematogenous spread",
+        "renal cell carcinoma"
       ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
       "tier": "core"
     },
     {
-      "id": "pa35-003",
-      "stem": "A 48-year-old woman undergoes cervical biopsy after an abnormal Pap smear. Histology shows severely atypical squamous cells occupying the full thickness of the epithelium, but the basement membrane is intact and there is no stromal invasion. Which of the following best describes this lesion's stage and prognostic significance?",
+      "id": "pa42-005",
+      "stem": "A 30-year-old man has an enlarging deep mass in the thigh. Biopsy shows a malignant tumor of mesenchymal origin. By which route is this type of tumor most typically associated with spreading?",
       "choices": [
         {
           "label": "A",
-          "text": "Stage 0 (carcinoma in situ), excellent prognosis"
+          "text": "Direct spread along epithelial surfaces"
         },
         {
           "label": "B",
-          "text": "Stage I, with a moderate risk of nodal spread"
+          "text": "Hematogenous spread via the circulation"
         },
         {
           "label": "C",
-          "text": "Stage II, with local extension beyond the organ of origin"
+          "text": "Lymphatic channels to regional nodes"
         },
         {
           "label": "D",
-          "text": "Stage IV, because high-grade atypia implies distant spread"
+          "text": "Seeding across an adjacent joint cavity"
         },
         {
           "label": "E",
-          "text": "Unstageable, because grade and stage cannot be assessed on biopsy"
+          "text": "Seeding across the peritoneal cavity"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "Carcinoma in situ (Tis) is Stage 0: malignant cells confined above the basement membrane, with excellent prognosis.",
-        "whyCorrect": "Full-thickness atypia without breach of the basement membrane defines carcinoma in situ (Tis), classified as Stage 0. Because there is no invasion, there is no access to lymphatics or vessels, so metastasis cannot occur and the lesion is highly curable by complete excision.",
+        "summary": "Sarcomas (mesenchymal tumors) are associated with hematogenous spread; carcinomas with lymphatic spread.",
+        "whyCorrect": "Sarcomas are of mesenchymal origin and are associated with hematogenous spread, whereas epithelial carcinomas are associated with lymphatic spread. This is a tendency rather than a fixed rule, but it is the typical association.",
         "whyWrongByChoice": {
-          "B": "Stage I requires invasive tumor; an intact basement membrane means the lesion is in situ, not invasive.",
-          "C": "Stage II implies local extension of invasive disease, which is absent here.",
-          "D": "High-grade cytology does not equal metastasis; without invasion there is no distant spread.",
-          "E": "The lesion is readily classified as carcinoma in situ; it is not unstageable."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "carcinoma-in-situ",
-        "staging",
-        "basement-membrane"
-      ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
-      "tier": "core"
-    },
-    {
-      "id": "pa35-004",
-      "stem": "A high-grade sarcoma specimen is described by the pathologist as showing marked variation in cell and nuclear size, tumor giant cells, and numerous abnormal (tripolar) mitotic figures, with no resemblance to any normal tissue. This lack of differentiation is best termed which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Anaplasia"
-        },
-        {
-          "label": "B",
-          "text": "Dysplasia"
-        },
-        {
-          "label": "C",
-          "text": "Hyperplasia"
-        },
-        {
-          "label": "D",
-          "text": "Hypertrophy"
-        },
-        {
-          "label": "E",
-          "text": "Metaplasia"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Anaplasia is the complete lack of differentiation and is a histologic hallmark of malignancy.",
-        "whyCorrect": "Anaplasia describes tumor cells that have lost differentiation and show marked pleomorphism, tumor giant cells, bizarre nuclei, and abnormal mitoses. It corresponds to the highest histologic grade and is a defining feature of aggressive malignancy.",
-        "whyWrongByChoice": {
-          "B": "Dysplasia is disordered but still differentiated growth, typically pre-invasive and less extreme than anaplasia.",
-          "C": "Hyperplasia is an increase in cell number in a controlled, differentiated tissue.",
-          "D": "Hypertrophy is an increase in cell size without loss of differentiation.",
-          "E": "Metaplasia is reversible replacement of one differentiated cell type by another, not a lack of differentiation."
+          "A": "Spread along epithelial surfaces is not one of the three main metastatic pathways described.",
+          "C": "Lymphatic spread is the pattern associated with carcinomas, not sarcomas.",
+          "D": "Joint cavities are among the open spaces where seeding can occur, but seeding is not the typical sarcoma route.",
+          "E": "Peritoneal seeding is classic for ovarian carcinoma."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "grading",
-        "anaplasia",
-        "differentiation"
+        "routes of metastasis",
+        "sarcoma",
+        "hematogenous spread"
       ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
       "tier": "core"
     },
     {
-      "id": "pa35-005",
-      "stem": "A 55-year-old man with diffuse large B-cell lymphoma finishes chemotherapy. Follow-up PET/CT and physical examination show no detectable tumor. His oncologist emphasizes that this does not necessarily mean he is cured. Which of the following best describes his current status?",
+      "id": "pa42-006",
+      "stem": "A 55-year-old woman undergoes lumpectomy for invasive ductal carcinoma. Sections show tumor aggregates inside dilated lymphatic channels at the tumor edge and within a regional lymph node, but no tumor within blood vessels. Which property of lymphatic vessels best explains why carcinoma cells commonly enter them rather than blood vessels?",
       "choices": [
         {
           "label": "A",
-          "text": "Complete remission"
+          "text": "Their endothelium overexpresses laminin receptors"
         },
         {
           "label": "B",
-          "text": "Cure"
+          "text": "They carry rapid, high-shear flow that pulls cells in"
         },
         {
           "label": "C",
-          "text": "Partial remission"
+          "text": "They drain directly into the portal venous system"
         },
         {
           "label": "D",
-          "text": "Progressive disease"
+          "text": "They have thick walls with abundant elastin"
         },
         {
           "label": "E",
-          "text": "Stable disease"
+          "text": "They lack tight junctions and a basement membrane"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Complete remission is the disappearance of all detectable disease, which is not synonymous with cure.",
-        "whyCorrect": "Complete remission means no tumor is detectable by clinical exam or imaging. However, microscopic residual disease may remain below detection limits, so recurrence can occur; cure can only be inferred later after prolonged disease-free follow-up.",
+        "summary": "Lymphatic intravasation is mostly mechanical: lymphatics are low-shear and lack the tight junctions and basement membrane of blood vessels.",
+        "whyCorrect": "The lymphatic pathway is a low-shear system that does not have the tight junctions and basement membrane associated with blood vessels, making it easier for a tumor cell to get into a lymphatic vessel than into a blood vessel. This mechanical ease is why carcinomas such as breast cancer typically spread lymphatically.",
         "whyWrongByChoice": {
-          "B": "Cure requires prolonged absence of disease with recurrence risk approaching baseline and cannot be declared at this point.",
-          "C": "Partial remission requires a measurable reduction with tumor still detectable, but disease is no longer detectable here.",
-          "D": "Progressive disease means growth or new lesions, the opposite of this scenario.",
-          "E": "Stable disease means the tumor is present and unchanged, which is not the case."
+          "A": "Laminin receptors are overexpressed by cancer cells, not by lymphatic endothelium.",
+          "B": "Lymphatics are a low-shear system; shear stress kills circulating tumor cells rather than helping them enter.",
+          "C": "Portal venous drainage explains liver metastasis from the colon, stomach and pancreas, not lymphatic entry.",
+          "D": "Thick elastin-rich walls describe arteries and make them harder, not easier, to penetrate."
         }
       },
-      "difficulty": "medium",
+      "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "remission",
-        "cure",
-        "treatment-response"
+        "lymphatic spread",
+        "intravasation",
+        "breast cancer"
       ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
       "tier": "core"
     },
     {
-      "id": "pa35-006",
-      "stem": "A 60-year-old woman receiving therapy for metastatic breast cancer has restaging scans showing that the sum of her target lesion diameters has decreased by 45%, though several lesions remain measurable. Which of the following terms best describes her treatment response?",
+      "id": "pa42-007",
+      "stem": "A 57-year-old woman has progressive abdominal distension. At surgery, an ovarian carcinoma is found, along with numerous tumor nodules studding the omentum and the surfaces of the abdominal organs. By which mechanism did this tumor most likely reach these sites?",
       "choices": [
         {
           "label": "A",
-          "text": "Complete remission"
+          "text": "Arterial embolization of tumor aggregates"
         },
         {
           "label": "B",
-          "text": "Cure"
+          "text": "Hematogenous spread through the portal vein"
         },
         {
           "label": "C",
-          "text": "Partial remission"
+          "text": "Lymphatic spread through para-aortic nodes"
         },
         {
           "label": "D",
-          "text": "Progressive disease"
+          "text": "Seeding of tumor cells across a body cavity"
         },
         {
           "label": "E",
-          "text": "Stable disease"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Partial remission is at least a 30% reduction in measurable tumor burden with disease still detectable.",
-        "whyCorrect": "A 45% reduction in tumor burden with residual measurable lesions meets the definition of partial remission (conventionally a decrease of about 30% or more). The response is meaningful, but disease persists.",
-        "whyWrongByChoice": {
-          "A": "Complete remission requires disappearance of all detectable disease, but measurable lesions remain.",
-          "B": "Cure requires prolonged absence of disease and cannot be applied to persistent measurable tumor.",
-          "D": "Progressive disease means tumor growth or new lesions, the opposite of shrinkage.",
-          "E": "Stable disease means little change in size, whereas a 45% decrease is a clear reduction."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "remission",
-        "partial-response",
-        "treatment-response"
-      ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
-      "tier": "core"
-    },
-    {
-      "id": "pa35-007",
-      "stem": "Two patients each have an invasive ductal carcinoma of the same size and stage. Patient 1's tumor is well differentiated with tubule formation and rare mitoses; Patient 2's tumor is poorly differentiated with marked nuclear pleomorphism and frequent mitoses. Which statement about grade is correct?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Grade and stage always change together in the same direction"
-        },
-        {
-          "label": "B",
-          "text": "Grade is determined by the presence of distant metastases"
-        },
-        {
-          "label": "C",
-          "text": "Grade reflects the anatomic extent of spread of the tumor"
-        },
-        {
-          "label": "D",
-          "text": "Patient 1's well-differentiated tumor generally carries a better prognosis"
-        },
-        {
-          "label": "E",
-          "text": "Patient 2's poorly differentiated tumor generally carries a better prognosis"
+          "text": "Seeding through the subarachnoid space"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Lower-grade, well-differentiated tumors resemble normal tissue and generally have a better prognosis than high-grade tumors.",
-        "whyCorrect": "Grade reflects how closely tumor cells resemble their tissue of origin. Well-differentiated (low-grade) tumors like Patient 1's tend to be less aggressive and carry a better prognosis than poorly differentiated (high-grade) tumors, when stage is held constant.",
+        "summary": "Ovarian carcinoma is known for seeding the peritoneal cavity, including the omentum.",
+        "whyCorrect": "Seeding requires an open space such as the peritoneal cavity, pleural cavity, subarachnoid space or joint cavities, in which tumor cells are sown much as a gardener sows seeds. Ovarian carcinoma is the lecture's example of seeding the peritoneal cavity, with omental involvement.",
         "whyWrongByChoice": {
-          "A": "Grade and stage are independent measures and do not necessarily move together.",
-          "B": "Distant metastasis is part of staging (M), not grading.",
-          "C": "Anatomic extent of spread is described by stage, not grade.",
-          "E": "Poorly differentiated tumors are more aggressive and carry a worse, not better, prognosis."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "grading",
-        "differentiation",
-        "prognosis"
-      ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
-      "tier": "core"
-    },
-    {
-      "id": "pa35-008",
-      "stem": "A tumor board is deciding how to describe a newly diagnosed gastric carcinoma. One member wants to communicate the degree of histologic differentiation of the tumor cells, and another wants to communicate the anatomic extent of the disease. Which pairing correctly matches concept to term?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Both differentiation and anatomic extent = grading"
-        },
-        {
-          "label": "B",
-          "text": "Both differentiation and anatomic extent = staging"
-        },
-        {
-          "label": "C",
-          "text": "Differentiation = grading; anatomic extent = staging"
-        },
-        {
-          "label": "D",
-          "text": "Differentiation = remission; anatomic extent = staging"
-        },
-        {
-          "label": "E",
-          "text": "Differentiation = staging; anatomic extent = grading"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Grading describes histologic differentiation; staging describes the anatomic extent of spread.",
-        "whyCorrect": "Grade is a microscopic assessment of how well tumor cells are differentiated, while stage (TNM) describes the anatomic extent of disease including local size, nodal involvement, and distant metastasis. These are complementary but distinct measures.",
-        "whyWrongByChoice": {
-          "A": "Anatomic extent is captured by staging, not grading.",
-          "B": "Differentiation is captured by grading, not staging.",
-          "D": "Remission refers to treatment response, not to histologic differentiation.",
-          "E": "This reverses the definitions of grading and staging."
+          "A": "Arterial spread is uncommon and would not produce diffuse surface implants within a cavity.",
+          "B": "Portal venous spread delivers tumor to the liver parenchyma, not to omental and serosal surfaces.",
+          "C": "Lymphatic spread produces nodal metastases, not implants across the peritoneal surfaces.",
+          "E": "Subarachnoid seeding is how glioblastoma spreads within the brain and spinal cord."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "grading",
-        "staging",
-        "definitions"
+        "seeding",
+        "ovarian carcinoma",
+        "peritoneal cavity"
       ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
       "tier": "core"
     },
     {
-      "id": "pa35-009",
-      "stem": "A patient reads that a particular cancer has a 5-year survival rate of 90%. Which of the following is the most accurate interpretation of this statistic?",
+      "id": "pa42-008",
+      "stem": "A 40-year-old woman with a malignancy begins a chemotherapy regimen that includes methotrexate. Which molecular target does this drug directly inhibit to interfere with DNA synthesis?",
       "choices": [
         {
           "label": "A",
-          "text": "90% of patients are alive 5 years after diagnosis"
+          "text": "CD20 receptor"
         },
         {
           "label": "B",
-          "text": "90% of patients are permanently cured of the disease"
+          "text": "Dihydrofolate reductase"
         },
         {
           "label": "C",
-          "text": "90% of patients will have a recurrence within 5 years"
+          "text": "DNA polymerase"
         },
         {
           "label": "D",
-          "text": "The average patient will live exactly 5 more years"
+          "text": "Topoisomerase I-DNA complex"
         },
         {
           "label": "E",
-          "text": "The cancer has spread to distant sites in 90% of patients"
+          "text": "Tubulin dimers"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "The 5-year survival rate is the percentage of patients still alive 5 years after diagnosis.",
-        "whyCorrect": "The 5-year survival rate is a statistical benchmark defined as the proportion of patients alive 5 years after diagnosis. It is used to compare prognosis across cancers but does not by itself equate to cure.",
+        "summary": "Methotrexate, an S-phase antimetabolite, inhibits dihydrofolate reductase and blocks formation of reduced folates.",
+        "whyCorrect": "Methotrexate binds to and inhibits dihydrofolate reductase, inhibiting the formation of reduced folates, and thymidylate synthetase, resulting in inhibition of purine and thymidylic acid synthesis. This interferes with DNA synthesis, repair and cellular replication in the S phase.",
         "whyWrongByChoice": {
-          "B": "Being alive at 5 years is not the same as being cured; some patients still have or later develop disease.",
-          "C": "The statistic describes survival, not recurrence rate.",
-          "D": "It is a proportion surviving, not a prediction of an exact lifespan for individuals.",
-          "E": "The statistic does not describe the frequency of distant spread."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "prognostic-statistics",
-        "survival-rate"
-      ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
-      "tier": "core"
-    },
-    {
-      "id": "pa35-010",
-      "stem": "A 70-year-old man with newly diagnosed non-small cell lung cancer has limited disease that appears resectable, but he is bedridden more than half of each day and cannot care for himself. His oncologist notes that this factor independently predicts poorer outcomes and limits treatment options. Which prognostic factor is being described?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Carcinoma in situ status"
-        },
-        {
-          "label": "B",
-          "text": "Disease-free survival"
-        },
-        {
-          "label": "C",
-          "text": "Performance status"
-        },
-        {
-          "label": "D",
-          "text": "TNM stage"
-        },
-        {
-          "label": "E",
-          "text": "Tumor grade"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Performance status measures a patient's functional ability and independently predicts prognosis and treatment tolerance.",
-        "whyCorrect": "Performance status quantifies how well a patient can carry out daily activities. Poor performance status (e.g., bedridden more than half the day) independently predicts worse outcomes and often limits eligibility for aggressive therapy, separate from the anatomic characteristics of the tumor.",
-        "whyWrongByChoice": {
-          "A": "Carcinoma in situ describes a non-invasive lesion, unrelated to functional status.",
-          "B": "Disease-free survival is an outcome measure over time, not the patient's current functional status.",
-          "D": "Stage describes anatomic extent of disease, which here is limited and resectable.",
-          "E": "Grade describes histologic differentiation, not the patient's functional capacity."
+          "A": "CD20 on B cells is the target of rituximab.",
+          "C": "DNA polymerase inhibition is the primary action of cytarabine.",
+          "D": "The topoisomerase I-DNA complex is the target of irinotecan.",
+          "E": "Tubulin is the target of the microtubule inhibitors (vinca alkaloids and taxanes)."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "prognostic-factors",
-        "performance-status"
+        "antimetabolites",
+        "methotrexate",
+        "S phase"
       ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
       "tier": "core"
     },
     {
-      "id": "pa35-011",
-      "stem": "In a clinical trial, investigators want an endpoint that captures how long patients remain alive without any detectable return of their cancer after treatment. Which of the following measures best fits this definition?",
+      "id": "pa42-009",
+      "stem": "A 54-year-old woman with metastatic breast cancer is started on a taxane. Her oncologist explains that, although this drug and the vinca alkaloids both act on microtubules during mitosis, their effects on microtubules differ. Which mechanism characterizes the taxane?",
       "choices": [
         {
           "label": "A",
-          "text": "5-year survival rate"
+          "text": "Binds tubulin and blocks formation of new microtubules"
         },
         {
           "label": "B",
-          "text": "Complete remission rate"
+          "text": "Cross-links DNA strands regardless of cycle phase"
         },
         {
           "label": "C",
-          "text": "Disease-free survival"
+          "text": "Inhibits DNA polymerase after DNA incorporation"
         },
         {
           "label": "D",
-          "text": "Overall survival"
+          "text": "Stabilizes microtubules and blocks their disassembly"
         },
         {
           "label": "E",
-          "text": "Tumor grade distribution"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Disease-free survival measures the time patients remain alive without detectable disease after treatment.",
-        "whyCorrect": "Disease-free survival specifically measures the interval after treatment during which no disease is detectable, capturing the durability of a response. It reflects how long remission is maintained before any recurrence.",
-        "whyWrongByChoice": {
-          "A": "The 5-year survival rate is a fixed-timepoint survival proportion, not a measure of disease-free interval.",
-          "B": "Complete remission rate is the proportion achieving no detectable disease at a point in time, not a duration measure.",
-          "D": "Overall survival measures time to death from any cause and does not track recurrence.",
-          "E": "Tumor grade distribution describes histology across patients, not a survival endpoint."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "prognostic-statistics",
-        "disease-free-survival",
-        "endpoints"
-      ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
-      "tier": "core"
-    },
-    {
-      "id": "pa35-012",
-      "stem": "A 58-year-old woman with metastatic ovarian cancer has restaging scans after three cycles of chemotherapy. Compared with baseline, the target lesions have enlarged and two new peritoneal nodules have appeared. Which of the following best characterizes her response, and what does it indicate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Complete remission, indicating no detectable disease"
-        },
-        {
-          "label": "B",
-          "text": "Cure, indicating eradication of disease"
-        },
-        {
-          "label": "C",
-          "text": "Partial remission, indicating a favorable response"
-        },
-        {
-          "label": "D",
-          "text": "Progressive disease, indicating treatment failure"
-        },
-        {
-          "label": "E",
-          "text": "Stable disease, indicating no meaningful change"
+          "text": "Traps topoisomerase I and blocks DNA religation"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Growth of existing lesions or appearance of new lesions defines progressive disease and signals treatment failure.",
-        "whyCorrect": "Progressive disease is defined by an increase in tumor burden or the development of new lesions. Enlarging target lesions plus new peritoneal nodules meet this definition and indicate that the current therapy is failing, prompting a change in management.",
+        "summary": "Taxanes promote and stabilize microtubules and prevent their disassembly; vinca alkaloids block microtubule formation.",
+        "whyCorrect": "Taxanes promote microtubule assembly by enhancing the action of tubulin dimers, stabilizing existing microtubules and inhibiting their disassembly, which interferes with mitosis. The vinca alkaloids do the opposite at the same target: they bind tubulin and inhibit microtubule formation, arresting cells at metaphase.",
         "whyWrongByChoice": {
-          "A": "Complete remission requires no detectable disease, but the tumor has grown.",
-          "B": "Cure requires prolonged absence of disease and is incompatible with growing tumor.",
-          "C": "Partial remission requires tumor shrinkage, the opposite of what occurred.",
-          "E": "Stable disease requires little change; here the disease has clearly worsened."
+          "A": "Blocking microtubule formation describes the vinca alkaloids, the contrast drug in the stem.",
+          "B": "Phase-independent DNA cross-linking describes the alkylating and platinum agents.",
+          "C": "DNA polymerase inhibition after incorporation into DNA describes cytarabine.",
+          "E": "Trapping topoisomerase I and blocking religation describes irinotecan."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "microtubule inhibitors",
+        "taxanes",
+        "vinca alkaloids",
+        "M phase"
+      ],
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa42-010",
+      "stem": "A 67-year-old man with bladder cancer is treated with cisplatin. Which pairing correctly describes this drug's mechanism and its relationship to the cell cycle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DNA cross-linking; not phase specific"
+        },
+        {
+          "label": "B",
+          "text": "DNA strand breakage; specific to G2 phase"
+        },
+        {
+          "label": "C",
+          "text": "Folate antagonism; specific to S phase"
+        },
+        {
+          "label": "D",
+          "text": "Spindle disruption; specific to M phase"
+        },
+        {
+          "label": "E",
+          "text": "Topoisomerase I block; specific to S phase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Platinum agents, like alkylating agents, cross-link DNA chains and act independently of the cell cycle.",
+        "whyCorrect": "Alkylating agents operate independently of the cell cycle, cross-linking DNA chains and causing them to break, which inhibits DNA replication and transcription. The same mechanism is observed in the platinum agents carboplatin and cisplatin, used in cancers including bladder cancer.",
+        "whyWrongByChoice": {
+          "B": "DNA strand breakage in G2 phase describes bleomycin.",
+          "C": "Folate antagonism in S phase describes methotrexate.",
+          "D": "Spindle disruption in M phase describes the microtubule inhibitors.",
+          "E": "Topoisomerase I inhibition describes irinotecan."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "treatment-response",
-        "progressive-disease",
-        "prognosis"
+        "platinum agents",
+        "alkylating agents",
+        "cell cycle independent"
       ],
-      "topicId": "cancer-staging-and-grading-b35",
-      "topicName": "Cancer Staging and Grading",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa42-011",
+      "stem": "A 49-year-old woman has invasive breast carcinoma. Testing shows the tumor is estrogen receptor-negative and strongly HER2-positive. Which agent directly targets the receptor that is overexpressed by her tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bevacizumab"
+        },
+        {
+          "label": "B",
+          "text": "CAR-T cells"
+        },
+        {
+          "label": "C",
+          "text": "Rituximab"
+        },
+        {
+          "label": "D",
+          "text": "Tamoxifen"
+        },
+        {
+          "label": "E",
+          "text": "Trastuzumab"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Trastuzumab binds HER2 receptors and is primarily used for HER2-positive breast cancer.",
+        "whyCorrect": "Trastuzumab binds to HER2 receptors on tumor cells, blocking the signaling pathways that drive growth and marking the cells for immune-mediated destruction. It is primarily used for HER2-positive breast cancer.",
+        "whyWrongByChoice": {
+          "A": "Bevacizumab binds VEGF to inhibit angiogenesis rather than a receptor on the tumor cell.",
+          "B": "CAR-T cells are a cell therapy, not an agent described as targeting HER2.",
+          "C": "Rituximab targets CD20 on B cells and is used for B-cell malignancies.",
+          "D": "Tamoxifen is a SERM used for estrogen receptor-positive breast cancer; this tumor is ER-negative."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "targeted therapy",
+        "monoclonal antibodies",
+        "trastuzumab",
+        "HER2"
+      ],
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa42-012",
+      "stem": "A 60-year-old man receiving cytotoxic chemotherapy for lung cancer develops persistent nausea and vomiting, and a routine blood count shows marked decreases in all cell lines. His sister, treated with a monoclonal antibody for a different cancer, had far fewer adverse effects. Which feature of his drugs best accounts for both of his adverse effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of inhibitory immune checkpoints"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of tumor angiogenesis through VEGF"
+        },
+        {
+          "label": "C",
+          "text": "Preferential injury to cells resting in G0"
+        },
+        {
+          "label": "D",
+          "text": "Selective binding to tumor surface receptors"
+        },
+        {
+          "label": "E",
+          "text": "Toxicity to rapidly dividing normal cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Most cytotoxic drugs target any rapidly dividing cell, so gastric mucosa (nausea/vomiting) and bone marrow (myelosuppression) are injured.",
+        "whyCorrect": "Because most chemotherapeutic drugs target any rapidly dividing cell, not just cancer cells, they also kill normal cells that turn over rapidly. Drugs affecting gastric mucosa lead to nausea and vomiting, and drugs affecting bone marrow cause myelosuppression. More specific agents such as monoclonal antibodies act in a targeted way, reducing the number and intensity of adverse effects.",
+        "whyWrongByChoice": {
+          "A": "Immune checkpoints are pathways tumors use to turn off immunity; cytotoxic drugs do not act by activating them.",
+          "B": "VEGF blockade is the mechanism of bevacizumab, not of cytotoxic chemotherapy.",
+          "C": "Cells in G0 are nondividing; cytotoxic toxicity falls on rapidly cycling cells.",
+          "D": "Selective receptor binding is the property of targeted monoclonal antibodies and explains their milder toxicity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adverse effects",
+        "myelosuppression",
+        "cytotoxic chemotherapy"
+      ],
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-001",
+      "stem": "A 46-year-old woman presents with a mass in the upper outer quadrant of her breast. Mammography shows a nodule in that region, and core needle biopsy demonstrates invasive ductal carcinoma. At surgery a sentinel lymph node biopsy is planned. Based on the location of this tumor, which group of lymph nodes is most likely to be involved first?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary"
+        },
+        {
+          "label": "B",
+          "text": "Infraclavicular"
+        },
+        {
+          "label": "C",
+          "text": "Mediastinal"
+        },
+        {
+          "label": "D",
+          "text": "Submandibular"
+        },
+        {
+          "label": "E",
+          "text": "Supraclavicular"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lymph node involvement follows the path of lymphatic drainage from the primary tumor.",
+        "whyCorrect": "Breast cancers arising in the upper outer quadrant drain first to the nearby axillary lymph nodes because of the anatomy of lymphatic drainage. These are therefore the sentinel and most likely first-involved nodes.",
+        "whyWrongByChoice": {
+          "B": "Infraclavicular nodes are more distal and would typically be involved only later in the sequence of spread.",
+          "C": "Mediastinal (internal mammary) nodes are associated with drainage from the inner quadrants of the breast, not the upper outer quadrant.",
+          "D": "Submandibular nodes drain the head and neck and are rarely involved in breast cancer spread.",
+          "E": "Supraclavicular nodes are distal nodes that become involved later in metastatic progression."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lymphatic spread",
+        "breast cancer",
+        "sentinel node"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-002",
+      "stem": "A 65-year-old woman noticed a mole enlarging over the past several years. A dermatologist performs a biopsy that shows melanoma, and a sentinel lymph node biopsy reveals metastatic disease. Inactivation of which normal cell structure most directly permits tumor cells to detach from one another and begin invasion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actin filaments"
+        },
+        {
+          "label": "B",
+          "text": "Desmoplakin"
+        },
+        {
+          "label": "C",
+          "text": "E-cadherin"
+        },
+        {
+          "label": "D",
+          "text": "Gap junctions"
+        },
+        {
+          "label": "E",
+          "text": "Keratin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loss of E-cadherin frees tumor cells from one another, an early step in invasion.",
+        "whyCorrect": "E-cadherin connects epithelial cells to one another; its inactivation leads to loss of intercellular adhesion, one of the first steps of invasion. Loss of E-cadherin classically produces the single-file infiltration pattern of invasive lobular carcinoma.",
+        "whyWrongByChoice": {
+          "A": "Actin filaments drive migration of the tumor cell through the extracellular matrix rather than mediating cell-cell adhesion.",
+          "B": "Desmoplakin is part of the normal cell structure but does not itself trigger the invasion of tumor cells.",
+          "D": "Gap junctions mediate cell-to-cell communication; their inactivation would not lead to invasion.",
+          "E": "Keratin is an important structural component, but loss of keratin does not result in invasion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "invasion",
+        "E-cadherin",
+        "cell adhesion"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-003",
+      "stem": "A researcher is describing the metastatic cascade to a class of students. She defines one step as the tumor cell breaching the basement membrane, migrating through the extracellular matrix, and entering a vessel. Which step of metastasis is she describing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiogenesis at the primary tumor"
+        },
+        {
+          "label": "B",
+          "text": "Colonization of the secondary site"
+        },
+        {
+          "label": "C",
+          "text": "Extravasation"
+        },
+        {
+          "label": "D",
+          "text": "Intravasation"
+        },
+        {
+          "label": "E",
+          "text": "Tumor dormancy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intravasation is tumor cell invasion through the ECM and entry into a vessel.",
+        "whyCorrect": "The steps of metastasis are invasion, intravasation, extravasation, and growth at secondary sites. Intravasation corresponds to tumor cell invasion through the extracellular matrix and entry into the bloodstream or lymphatics to travel toward a secondary site.",
+        "whyWrongByChoice": {
+          "A": "Angiogenesis is new vessel formation and is not the step of entering a vessel described here.",
+          "B": "Colonization is the later outgrowth at a distant organ, which depends on a favorable stromal environment.",
+          "C": "Extravasation is the opposite directional step: tumor cells exit the bloodstream or lymphatics and infiltrate outside the capillaries.",
+          "E": "Tumor dormancy refers to failure to grow at a distant site, not entry into a vessel."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metastatic cascade",
+        "intravasation"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-004",
+      "stem": "A 60-year-old man with colon adenocarcinoma undergoes staging imaging that reveals multiple hepatic lesions consistent with metastases. Which feature best explains why the liver is the most common initial site of metastasis for colon cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colon cancer cells preferentially spread through the lymphatics to the liver"
+        },
+        {
+          "label": "B",
+          "text": "Portal venous blood from the colon drains into the liver"
+        },
+        {
+          "label": "C",
+          "text": "Seeding across the peritoneal cavity deposits cells directly onto the liver"
+        },
+        {
+          "label": "D",
+          "text": "The liver has an unusually high oxygen content that favors tumor growth"
+        },
+        {
+          "label": "E",
+          "text": "The liver secretes chemokines that specifically attract colonic tumor cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hematogenous spread often follows normal venous drainage to the first capillary bed.",
+        "whyCorrect": "In hematogenous spread, tumor cells follow the normal venous drainage pattern and embed in the first capillary bed they reach. All portal blood from the colon, stomach, and pancreas drains into the liver, which is why the liver is a common first site of metastasis for these cancers.",
+        "whyWrongByChoice": {
+          "A": "The described colon-to-liver pattern is hematogenous through the portal vein, not lymphatic.",
+          "C": "Seeding requires an open cavity and does not describe the venous drainage responsible for hepatic metastasis here.",
+          "D": "Arteries carry higher oxygen content, but this makes arterial spread less common; it does not explain hepatic metastasis.",
+          "E": "While tropism and chemokine receptors influence some metastases, the brick attributes colon-to-liver spread to anatomic vascular drainage, not liver-secreted chemokines."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hematogenous spread",
+        "portal drainage",
+        "liver metastasis"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-005",
+      "stem": "A pathologist notes that although most carcinomas spread through the lymphatics, a small group of carcinomas is classically known for spreading hematogenously. Which of the following carcinomas belongs to that group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colonic adenocarcinoma spreading to regional nodes"
+        },
+        {
+          "label": "B",
+          "text": "Gastric adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Invasive ductal carcinoma of the breast"
+        },
+        {
+          "label": "D",
+          "text": "Renal cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma of the lung"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Four carcinomas are classically known for hematogenous spread: follicular thyroid, choriocarcinoma, renal cell, and hepatocellular.",
+        "whyCorrect": "Although most carcinomas spread lymphatically, four are known for hematogenous spread: follicular thyroid carcinoma, choriocarcinoma, renal cell carcinoma, and hepatocellular carcinoma. Renal cell carcinoma is a member of this group.",
+        "whyWrongByChoice": {
+          "A": "Regional nodal spread of colon cancer is lymphatic; it is not part of the classic hematogenous carcinoma group.",
+          "B": "Gastric adenocarcinoma is not among the four carcinomas singled out for hematogenous spread.",
+          "C": "Breast carcinoma is the brick's classic example of lymphatic (axillary node) spread, not the hematogenous exception group.",
+          "E": "Squamous cell carcinoma is a carcinoma that follows the usual lymphatic route and is not in the four-carcinoma hematogenous group."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hematogenous spread",
+        "carcinoma exceptions",
+        "renal cell carcinoma"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-006",
+      "stem": "A 17-year-old boy is diagnosed with osteosarcoma of the distal femur. When counseling about the most likely route by which this tumor will disseminate, which pattern of spread should be emphasized?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct spread along nerve sheaths"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous spread"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic spread to regional nodes"
+        },
+        {
+          "label": "D",
+          "text": "Seeding of the peritoneal cavity"
+        },
+        {
+          "label": "E",
+          "text": "Seeding of the subarachnoid space"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sarcomas, being of mesenchymal origin, are associated with hematogenous spread.",
+        "whyCorrect": "Sarcomas are of mesenchymal origin and are associated with hematogenous spread through the bloodstream, in contrast to carcinomas, which are associated with lymphatic spread.",
+        "whyWrongByChoice": {
+          "A": "Perineural spread is not the route emphasized for sarcomas in the brick.",
+          "C": "Lymphatic spread is the pattern classically associated with carcinomas (epithelial-derived tumors), not sarcomas.",
+          "D": "Peritoneal seeding requires shedding into an open cavity, as with ovarian carcinoma, and is not the typical route for a bone sarcoma.",
+          "E": "Subarachnoid seeding is characteristic of CNS tumors such as glioblastoma, not osteosarcoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sarcoma",
+        "hematogenous spread"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-007",
+      "stem": "A 58-year-old woman with high-grade ovarian carcinoma is found at laparotomy to have numerous tumor nodules studding the omentum and peritoneal surfaces, without an intervening path through lymphatics or blood vessels. Which mechanism of tumor spread best accounts for this distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematogenous spread via veins"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic spread to nodes"
+        },
+        {
+          "label": "C",
+          "text": "Perineural invasion along nerves"
+        },
+        {
+          "label": "D",
+          "text": "Seeding of a body cavity"
+        },
+        {
+          "label": "E",
+          "text": "Tumor dormancy at distant sites"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Seeding disseminates tumor across an open body cavity such as the peritoneum.",
+        "whyCorrect": "Seeding requires an open space such as the peritoneal, pleural, subarachnoid, or joint cavities. Ovarian carcinoma is a classic example of a tumor that seeds the peritoneal cavity, producing widespread surface implants such as omental involvement.",
+        "whyWrongByChoice": {
+          "A": "Hematogenous spread deposits cells in capillary beds of organs, not as surface seeding across a cavity.",
+          "B": "Lymphatic spread travels through lymphatic channels to nodes and would not produce diffuse peritoneal surface implants.",
+          "C": "Perineural invasion is spread along nerves and does not explain diffuse peritoneal implants.",
+          "E": "Tumor dormancy describes failure to grow at a distant site, not the mechanism producing peritoneal implants."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seeding",
+        "ovarian carcinoma",
+        "peritoneal cavity"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-008",
+      "stem": "A 55-year-old man with glioblastoma develops new neurologic deficits, and imaging reveals tumor deposits within the spinal subarachnoid space. Which route of spread best explains dissemination of this tumor from the brain to the spinal cord?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct extension through vertebral bone"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous spread through the vertebral veins"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic spread through spinal lymphatics"
+        },
+        {
+          "label": "D",
+          "text": "Retrograde spread along peripheral nerves"
+        },
+        {
+          "label": "E",
+          "text": "Seeding through the cerebrospinal fluid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glioblastomas use the open subarachnoid space to seed the brain and spinal cord.",
+        "whyCorrect": "Seeding occurs within open spaces, and glioblastomas use the subarachnoid space to seed within the brain and spinal cord. The cerebrospinal fluid within this open space carries cells to distant CNS surfaces.",
+        "whyWrongByChoice": {
+          "A": "Direct extension through bone does not explain deposits floating within the subarachnoid space.",
+          "B": "The brick attributes CNS glioblastoma dissemination to seeding through the subarachnoid space rather than hematogenous venous spread.",
+          "C": "The CNS lacks conventional lymphatics used for this spread, and the brick describes seeding, not lymphatic dissemination.",
+          "D": "Retrograde perineural spread is not the mechanism the brick describes for glioblastoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seeding",
+        "glioblastoma",
+        "subarachnoid space"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-009",
+      "stem": "In an experiment, tumor cells are engineered to overexpress a receptor that binds a major component of the basement membrane, which markedly increases their adhesion to basement membranes and their ability to invade surrounding tissues and blood vessels. Overexpression of a receptor for which molecule best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albumin"
+        },
+        {
+          "label": "B",
+          "text": "Desmoplakin"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Keratin"
+        },
+        {
+          "label": "E",
+          "text": "Laminin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Laminin receptor overexpression promotes tumor adhesion to and invasion through basement membranes.",
+        "whyCorrect": "Cancer cells can overexpress laminin receptors. These receptors bind laminin, a major component of the basement membrane, facilitating tumor cell adhesion to basement membranes, migration, and invasion into surrounding tissues and blood vessels.",
+        "whyWrongByChoice": {
+          "A": "Albumin is a plasma transport protein and is not a basement membrane component mediating invasion.",
+          "B": "Desmoplakin is part of desmosomes and does not serve as the basement membrane ligand described here.",
+          "C": "Hemoglobin is an intracellular oxygen carrier in red blood cells and is unrelated to basement membrane adhesion.",
+          "D": "Keratin is an intracellular structural protein of epithelial cells, not a basement membrane ligand for an invasion-promoting receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "invasion",
+        "laminin receptor",
+        "basement membrane"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-010",
+      "stem": "During intravasation, most single circulating tumor cells die, yet some survive to establish distant metastases. According to the theory described, which behavior most improves a circulating tumor cell's chance of survival in the bloodstream?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Downregulating all surface adhesion molecules to travel as single cells"
+        },
+        {
+          "label": "B",
+          "text": "Preferentially entering high-shear arterial vessels"
+        },
+        {
+          "label": "C",
+          "text": "Shrinking below the diameter of a red blood cell"
+        },
+        {
+          "label": "D",
+          "text": "Suppressing coagulation factor activation"
+        },
+        {
+          "label": "E",
+          "text": "Traveling as multicellular aggregates bound to platelets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tumor cells that clump and bind platelets survive circulation better than lone cells.",
+        "whyCorrect": "A theory of which tumor cells ultimately metastasize holds that circulating cells are much more likely to migrate as multicellular aggregates than as single cells. Tumor cells bind to one another or to platelets to survive in the bloodstream and may activate coagulation factors, forming emboli.",
+        "whyWrongByChoice": {
+          "A": "Loss of adhesion promotes apoptosis, and single cells are far more likely to die than aggregates, so this reduces survival.",
+          "B": "High shear stress from flow kills circulating tumor cells rather than protecting them.",
+          "C": "Tumor cells are significantly larger than most blood cells; they do not shrink below a red blood cell, and their size helps them lodge in capillary beds.",
+          "D": "Tumor cells tend to activate coagulation factors to form protective emboli, so suppressing coagulation would not aid survival."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "intravasation",
+        "circulating tumor cells",
+        "platelets"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-011",
+      "stem": "A student asks why tumor cells more readily enter lymphatic vessels than blood vessels during metastasis. Which property of the lymphatic system best explains this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It actively secretes proteases that pull tumor cells inward"
+        },
+        {
+          "label": "B",
+          "text": "It carries a higher oxygen content that attracts tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "It directs all cells immediately to the liver and lungs"
+        },
+        {
+          "label": "D",
+          "text": "It has thicker, muscular walls that trap tumor cells"
+        },
+        {
+          "label": "E",
+          "text": "It lacks the tight junctions and basement membrane of blood vessels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lymphatics are a low-shear, loosely walled system that tumor cells enter easily.",
+        "whyCorrect": "The reason a tumor cell intravasates lymphatically is largely mechanical. The lymphatic pathway is a low-shear system that lacks the tight junctions and basement membrane associated with blood vessels, making it easier for a tumor cell to enter a lymphatic vessel than a blood vessel.",
+        "whyWrongByChoice": {
+          "A": "Lymphatics do not actively secrete proteases to pull in tumor cells; proteases come from tumor cells and nearby stromal cells.",
+          "B": "Higher oxygen content describes arterial blood; it is not a feature that draws tumor cells into lymphatics.",
+          "C": "Drainage to the liver and lungs reflects venous/portal hematogenous patterns, not lymphatic entry.",
+          "D": "Lymphatic vessels are thin-walled and low-shear, not thick and muscular; that is a feature of arteries."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lymphatic spread",
+        "vessel structure"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "tier": "core"
+    },
+    {
+      "id": "pa27-012",
+      "stem": "To avoid the morbidity of a full axillary dissection, a breast surgeon injects tracer around a tumor and removes the first node that takes up the tracer to assess for metastasis. Which statement best describes the node being sampled?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a node that filters hematogenously spread tumor emboli"
+        },
+        {
+          "label": "B",
+          "text": "It is the contralateral supraclavicular node"
+        },
+        {
+          "label": "C",
+          "text": "It is the first node in a regional lymphatic basin"
+        },
+        {
+          "label": "D",
+          "text": "It is the first node the surgeon encounters on entering the axilla"
+        },
+        {
+          "label": "E",
+          "text": "It is the most distal node in the lymphatic chain draining the tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The sentinel node is the first node in a regional basin receiving lymph from the tumor.",
+        "whyCorrect": "In breast cancer, axillary lymph node assessment guides prognosis and therapy. To avoid the morbidity of a full dissection, the surgeon biopsies the sentinel lymph node, defined as the first node in a regional lymphatic basin that receives lymph flow from the primary tumor and is thus the likely first site of spread.",
+        "whyWrongByChoice": {
+          "A": "The sentinel node concept is based on lymphatic drainage, not on filtering hematogenous tumor emboli.",
+          "B": "A contralateral supraclavicular node is not the first regional draining node and is not the sentinel node of an axillary basin.",
+          "D": "The sentinel node is defined by tracer uptake and lymphatic drainage, not by which node the surgeon happens to encounter first.",
+          "E": "The sentinel node is the first, most proximal node receiving drainage, not the most distal node in the chain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sentinel lymph node",
+        "breast cancer",
+        "lymphatic drainage"
+      ],
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
       "tier": "core"
     },
     {
@@ -1695,6 +2823,568 @@
       ],
       "topicId": "cancer-medications-overview",
       "topicName": "Cancer Medications Overview",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-001",
+      "stem": "A 50-year-old woman is diagnosed with stage 4 pancreatic cancer. She has no significant medical history and is concerned about how her immune system became so weak. Her oncologist explains that the tumor secretes a cytokine in large quantities that broadly suppresses the activity of B cells, T cells, dendritic cells, and macrophages. Which of the following substances is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FasL"
+        },
+        {
+          "label": "B",
+          "text": "Glycocalyx"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-2"
+        },
+        {
+          "label": "D",
+          "text": "TGF-beta"
+        },
+        {
+          "label": "E",
+          "text": "TNF-alpha"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "TGF-beta is a potent immunosuppressant cytokine that some tumors secrete to downregulate multiple immune lineages.",
+        "whyCorrect": "The brick states that TGF-beta is a potent immunosuppressant capable of suppressing the activities of B cells, T cells, dendritic cells, and macrophages, and that some tumor cells secrete it in large quantities to suppress the immune system.",
+        "whyWrongByChoice": {
+          "A": "FasL is a cell-surface protein that binds the Fas receptor on T cells to trigger apoptosis of cytotoxic T cells; it is not a secreted immunosuppressive cytokine.",
+          "B": "Glycocalyx is extracellular matrix material that masks surface antigens, not a cytokine that suppresses immune lineages.",
+          "C": "Interleukin-2 promotes T cell proliferation and activation, the opposite of immunosuppression.",
+          "E": "TNF-alpha causes cachexia in malignancy and recruits white blood cells rather than broadly suppressing immune cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "immunosuppression",
+        "TGF-beta",
+        "cytokines"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-002",
+      "stem": "Which of the following mechanisms allows tumor cells to evade immune detection specifically by masking their surface antigens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Downregulation of surface antigen expression"
+        },
+        {
+          "label": "B",
+          "text": "Loss of MHC class I molecules"
+        },
+        {
+          "label": "C",
+          "text": "Secretion of excess glycocalyx"
+        },
+        {
+          "label": "D",
+          "text": "Secretion of TGF-beta"
+        },
+        {
+          "label": "E",
+          "text": "Upregulation of PD-L1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antigen masking occurs when tumor cells coat themselves in excess extracellular matrix (glycocalyx).",
+        "whyCorrect": "Many tumor cells secrete an excess of extracellular matrix material called glycocalyx. This thick coating masks the antigens on cancer cells, making it more difficult for immune cells to target them for destruction.",
+        "whyWrongByChoice": {
+          "A": "Downregulating antigen expression is the outgrowth-of-antigen-variants mechanism, in which the antigen is lost rather than hidden.",
+          "B": "Loss of MHC class I removes the platform that displays antigen to cytotoxic T cells; it does not mask antigens with a coating.",
+          "D": "TGF-beta secretion broadly suppresses immune cells and does not physically mask antigens.",
+          "E": "PD-L1 upregulation engages the PD-1 checkpoint to inhibit T cells rather than masking antigens."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "antigen-masking",
+        "glycocalyx"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-003",
+      "stem": "A tumor subclone continues to display abundant tumor antigen, yet cytotoxic CD8+ T cells can no longer recognize or kill it. Analysis shows the cells have acquired a mutation that eliminates a surface receptor normally present on all nucleated cells. Loss of which of the following molecules best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B7 molecules"
+        },
+        {
+          "label": "B",
+          "text": "CD28"
+        },
+        {
+          "label": "C",
+          "text": "Fas receptor"
+        },
+        {
+          "label": "D",
+          "text": "MHC class I"
+        },
+        {
+          "label": "E",
+          "text": "PD-1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cytotoxic T cells identify targets via MHC class I; tumor loss of MHC class I prevents recognition.",
+        "whyCorrect": "MHC class I is a receptor present on all cells that displays antigens on the cell surface. Some tumor subclones undergo mutations that cause loss of MHC molecules so they are no longer recognized by cytotoxic T cells.",
+        "whyWrongByChoice": {
+          "A": "B7 molecules are co-stimulatory ligands on antigen-presenting cells; they are not present on all nucleated cells.",
+          "B": "CD28 is a co-stimulatory receptor on T cells, not a molecule tumor cells lose to escape recognition.",
+          "C": "The Fas receptor is on T cells and mediates apoptosis when engaged by tumor FasL; losing it would not affect antigen recognition.",
+          "E": "PD-1 is an inhibitory receptor on T cells, not a molecule displayed on tumor cells for recognition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MHC-class-I",
+        "cytotoxic-T-cells",
+        "antigen-presentation"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-004",
+      "stem": "A patient with advanced lung cancer that has failed multiple rounds of chemotherapy is started on pembrolizumab (Keytruda). Which of the following best describes how this medication helps the immune system attack the tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It engineers the patient's T cells to target CD19"
+        },
+        {
+          "label": "B",
+          "text": "It is an antibody that binds PD-1 on T cells"
+        },
+        {
+          "label": "C",
+          "text": "It neutralizes secreted TGF-beta in the tumor microenvironment"
+        },
+        {
+          "label": "D",
+          "text": "It restores MHC class I expression on tumor cells"
+        },
+        {
+          "label": "E",
+          "text": "It supplies excess co-stimulatory signal directly to tumor cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pembrolizumab is an anti-PD-1 antibody that blocks the inhibitory PD-1/PD-L1 checkpoint.",
+        "whyCorrect": "Cancer cells upregulate PD-L1 and PD-L2, which activate the PD-1 receptor on T cells and suppress them. Keytruda is an antibody that binds the PD-1 receptor on T cells, preventing it from interacting with PD-L1 on cancer cells, giving the immune system a fighting chance to eliminate the tumor.",
+        "whyWrongByChoice": {
+          "A": "Engineering T cells to target CD19 describes CAR-T cell therapy, not a PD-1 antibody.",
+          "C": "Neutralizing TGF-beta is a different immunosuppression pathway and is not the mechanism of pembrolizumab.",
+          "D": "Pembrolizumab does not alter MHC class I expression on tumor cells.",
+          "E": "The drug does not deliver co-stimulation to tumor cells; it removes an inhibitory checkpoint signal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PD-1",
+        "checkpoint-blockade",
+        "immunotherapy"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-005",
+      "stem": "A tumor is found to upregulate an inhibitory receptor that binds the B7 molecules on antigen-presenting cells and thereby reduces engagement of the CD28 co-stimulatory receptor on T cells. Which of the following molecules is being upregulated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CTLA-4"
+        },
+        {
+          "label": "B",
+          "text": "FasL"
+        },
+        {
+          "label": "C",
+          "text": "MHC class II"
+        },
+        {
+          "label": "D",
+          "text": "PD-L1"
+        },
+        {
+          "label": "E",
+          "text": "TGF-beta"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CTLA-4 competes with CD28 for B7 ligands, dampening T cell co-stimulation.",
+        "whyCorrect": "Cancer cells can upregulate the inhibitory receptor CTLA-4, which binds its ligands, the B7 molecules, from antigen-presenting cells and reduces the engagement of the CD28 co-stimulatory receptor.",
+        "whyWrongByChoice": {
+          "B": "FasL binds the Fas receptor to induce T cell apoptosis and has no role in B7/CD28 competition.",
+          "C": "MHC class II presents antigen to helper T cells and is not an inhibitory receptor for B7.",
+          "D": "PD-L1 engages the PD-1 receptor on T cells; it does not bind B7 or block CD28.",
+          "E": "TGF-beta is a secreted immunosuppressive cytokine, not a receptor that competes for B7."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CTLA-4",
+        "co-stimulation",
+        "checkpoint"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-006",
+      "stem": "A melanoma expresses a cell-surface ligand that engages a death receptor on approaching cytotoxic T cells, causing those T cells to die via the extrinsic apoptosis pathway. Which of the following ligands is the tumor most likely expressing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B7-1"
+        },
+        {
+          "label": "B",
+          "text": "CD28"
+        },
+        {
+          "label": "C",
+          "text": "FasL"
+        },
+        {
+          "label": "D",
+          "text": "Glycocalyx"
+        },
+        {
+          "label": "E",
+          "text": "PD-L2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tumors such as melanoma and hepatocellular carcinoma express FasL, which triggers extrinsic-pathway apoptosis of cytotoxic T cells.",
+        "whyCorrect": "Tumor cells such as melanoma and hepatocellular carcinoma express FasL, which binds the Fas receptor on T cells, leading to apoptosis of cytotoxic T cells via the extrinsic pathway.",
+        "whyWrongByChoice": {
+          "A": "B7-1 is a co-stimulatory ligand that promotes T cell activation, not death.",
+          "B": "CD28 is a co-stimulatory receptor on T cells, not a tumor ligand that induces apoptosis.",
+          "D": "Glycocalyx is a physical coating that masks antigens and does not engage a death receptor.",
+          "E": "PD-L2 engages PD-1 to inhibit T cells but does not directly trigger extrinsic-pathway apoptosis through a death receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FasL",
+        "apoptosis",
+        "extrinsic-pathway"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-007",
+      "stem": "A T cell encounters a tumor cell that presents antigen through MHC but fails to deliver a co-stimulatory second signal. Which of the following is the most likely fate of this T cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It becomes anergic or undergoes apoptosis"
+        },
+        {
+          "label": "B",
+          "text": "It differentiates into a memory T cell"
+        },
+        {
+          "label": "C",
+          "text": "It proliferates into an activated effector clone"
+        },
+        {
+          "label": "D",
+          "text": "It secretes large amounts of TGF-beta"
+        },
+        {
+          "label": "E",
+          "text": "It upregulates MHC class I on the tumor cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "T cells require two signals; antigen without co-stimulation leads to anergy or apoptosis.",
+        "whyCorrect": "A T cell can only be activated after receiving two signals: antigen recognition (Signal 1) and a co-stimulatory signal from the antigen-presenting cell (Signal 2). If the co-stimulatory signal is not received, the T cell becomes unresponsive (anergic) or undergoes apoptosis, which tumor cells exploit to evade immunity.",
+        "whyWrongByChoice": {
+          "B": "Memory differentiation follows productive activation, which does not occur without Signal 2.",
+          "C": "Effector proliferation requires both signals; without co-stimulation the T cell is not activated.",
+          "D": "TGF-beta is secreted by tumor cells, not by T cells lacking co-stimulation.",
+          "E": "A T cell does not restore MHC class I on the tumor cell; MHC expression is a tumor property."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "co-stimulation",
+        "two-signal-model",
+        "anergy"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-008",
+      "stem": "A patient with diffuse large B-cell lymphoma initially responds to CAR-T cell therapy engineered against CD19, but later relapses. Biopsy of the recurrent tumor shows the malignant B cells no longer express CD19. Which of the following best explains the relapse?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The engineered T cells lost their MHC class I molecules"
+        },
+        {
+          "label": "B",
+          "text": "The engineered T cells were suppressed by CD28 co-stimulation"
+        },
+        {
+          "label": "C",
+          "text": "The tumor cells began secreting glycocalyx to physically block the CAR-T cells"
+        },
+        {
+          "label": "D",
+          "text": "The tumor cells lost expression of the target antigen"
+        },
+        {
+          "label": "E",
+          "text": "The tumor cells upregulated MHC class I to hide from the CAR-T cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Antigen escape occurs when tumor cells stop expressing the CAR-T target (CD19).",
+        "whyCorrect": "In CAR-T therapy the patient's own T cells are engineered to target a specific antigen such as CD19 on B cells. A well-known challenge is that cancer cells may stop expressing CD19 on their surface, so there is no longer a target for the engineered T cells, allowing relapse.",
+        "whyWrongByChoice": {
+          "A": "CAR-T cells recognize CD19 directly and do not depend on tumor MHC; loss of the T cells' own MHC does not explain relapse.",
+          "B": "CD28 co-stimulation promotes, rather than suppresses, T cell activity.",
+          "C": "The biopsy shows loss of CD19, not a glycocalyx coating, as the cause.",
+          "E": "CAR-T recognition of CD19 is MHC-independent, so upregulating MHC class I would not hide the tumor from CAR-T cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CAR-T",
+        "CD19",
+        "antigen-escape"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-009",
+      "stem": "In a melanoma, highly immunogenic tumor subclones are eliminated by the host immune system, while other subclones that have lost or downregulated their surface antigens survive and expand. Which mechanism of immune evasion does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antigen masking by glycocalyx"
+        },
+        {
+          "label": "B",
+          "text": "Checkpoint engagement via PD-L1"
+        },
+        {
+          "label": "C",
+          "text": "Immunosuppression by TGF-beta"
+        },
+        {
+          "label": "D",
+          "text": "Lack of co-stimulation"
+        },
+        {
+          "label": "E",
+          "text": "Outgrowth of antigen variants"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Selective survival of antigen-negative subclones is the outgrowth of antigen variants.",
+        "whyCorrect": "If a subclone is highly immunogenic it is eliminated, whereas some tumor subclones lose expression of a surface antigen or downregulate antigen expression so they are not recognized by immune cells. This has been observed in cancers such as melanoma.",
+        "whyWrongByChoice": {
+          "A": "Antigen masking hides antigens under a glycocalyx coat; here the antigens are actually lost, not covered.",
+          "B": "PD-L1 checkpoint engagement inhibits T cells directly and does not describe subclone selection.",
+          "C": "TGF-beta immunosuppression is cytokine-mediated and does not involve selection of antigen-negative subclones.",
+          "D": "Lack of co-stimulation causes T cell anergy/apoptosis and is distinct from loss of tumor antigen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antigen-variants",
+        "melanoma",
+        "tumor-heterogeneity"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-010",
+      "stem": "A medical student reads that a normal function of the immune system is to constantly scan the body for emerging malignant cells and destroy them, and that avoiding this process is one of the hallmarks of cancer. This normal protective function is best described by which of the following terms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anergy"
+        },
+        {
+          "label": "B",
+          "text": "Antigen masking"
+        },
+        {
+          "label": "C",
+          "text": "Cachexia"
+        },
+        {
+          "label": "D",
+          "text": "Immune checkpoint blockade"
+        },
+        {
+          "label": "E",
+          "text": "Immune surveillance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Immune surveillance is the immune system's continuous scanning for and destruction of malignant cells.",
+        "whyCorrect": "The term immune surveillance implies that a normal function of the immune system is to constantly scan the body for emerging malignant cells and destroy them; avoiding immune destruction is one of the hallmarks of cancer.",
+        "whyWrongByChoice": {
+          "A": "Anergy is an unresponsive state of T cells that lack co-stimulation, not immune scanning.",
+          "B": "Antigen masking is a tumor evasion strategy, not a normal immune function.",
+          "C": "Cachexia is the wasting syndrome associated with TNF-alpha in malignancy, unrelated to immune scanning.",
+          "D": "Checkpoint blockade is a therapy that uses antibodies against CTLA-4 and PD-L1, not the normal scanning function."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "immune-surveillance",
+        "hallmarks-of-cancer"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-011",
+      "stem": "A patient with advanced malignancy develops profound weight loss and muscle wasting. A cytokine elevated in this patient is known to cause cachexia in malignancy and to recruit white blood cells, and it is distinct from the immunosuppressive cytokine that tumors use to evade immunity. Which of the following cytokines is most likely responsible for the wasting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FasL"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-2"
+        },
+        {
+          "label": "C",
+          "text": "PD-L1"
+        },
+        {
+          "label": "D",
+          "text": "TGF-beta"
+        },
+        {
+          "label": "E",
+          "text": "TNF-alpha"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TNF-alpha causes cachexia in malignancy and recruits white blood cells.",
+        "whyCorrect": "The brick notes that TNF-alpha causes cachexia in malignancy and leads to white blood cell recruitment, distinguishing it from TGF-beta, the immunosuppressant tumors secrete to evade immunity.",
+        "whyWrongByChoice": {
+          "A": "FasL is a death-inducing surface ligand that triggers T cell apoptosis, not a cause of cachexia.",
+          "B": "Interleukin-2 activates and expands T cells and does not cause cachexia.",
+          "C": "PD-L1 is a checkpoint ligand on tumor cells, not a cytokine that causes wasting.",
+          "D": "TGF-beta is the immunosuppressive cytokine that downregulates immune lineages; it is not the cause of cachexia described here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TNF-alpha",
+        "cachexia",
+        "cytokines"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "tier": "core"
+    },
+    {
+      "id": "pa30-012",
+      "stem": "A newer class of cancer therapy, described as checkpoint blockade, uses antibodies to restore T cell function against tumors. Against which of the following pairs of targets are these checkpoint-blockade antibodies directed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD28 and B7"
+        },
+        {
+          "label": "B",
+          "text": "CTLA-4 and PD-L1"
+        },
+        {
+          "label": "C",
+          "text": "Fas and FasL"
+        },
+        {
+          "label": "D",
+          "text": "MHC class I and MHC class II"
+        },
+        {
+          "label": "E",
+          "text": "TGF-beta and TNF-alpha"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Checkpoint blockade uses antibodies against CTLA-4 and PD-L1 to restore T cell function.",
+        "whyCorrect": "New cancer therapy known as checkpoint blockade uses antibodies against CTLA-4 and PD-L1 to restore T cell function; it is now approved for advanced-stage solid tumors and some forms of lymphoma.",
+        "whyWrongByChoice": {
+          "A": "CD28 and B7 are activating co-stimulatory molecules; blocking them would suppress, not restore, T cell function.",
+          "C": "Fas and FasL mediate apoptosis and are not the targets of approved checkpoint-blockade therapy.",
+          "D": "MHC class I and II present antigen and are not the targets of checkpoint-blockade antibodies.",
+          "E": "TGF-beta and TNF-alpha are cytokines and are not the checkpoint targets named for this therapy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "checkpoint-blockade",
+        "CTLA-4",
+        "PD-L1"
+      ],
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
       "tier": "core"
     }
   ]

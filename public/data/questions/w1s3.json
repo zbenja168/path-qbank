@@ -3,6 +3,558 @@
   "categoryName": "Session 3",
   "questions": [
     {
+      "id": "pa11-001",
+      "stem": "A 24-year-old man is brought to the emergency department after being shot in the abdomen. Despite resuscitation he dies of massive hemorrhage. At autopsy, the gunshot wound to the abdomen is documented as the event that resulted in his death. This gunshot wound is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cause of death"
+        },
+        {
+          "label": "B",
+          "text": "Final anatomic diagnosis"
+        },
+        {
+          "label": "C",
+          "text": "Manner of death"
+        },
+        {
+          "label": "D",
+          "text": "Mechanism of death"
+        },
+        {
+          "label": "E",
+          "text": "Preliminary autopsy diagnosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cause of death is the injury or disease that resulted in death.",
+        "whyCorrect": "The cause of death is defined as the injury or disease that resulted in death. A gunshot wound that kills a patient is the classic example given in the brick, so it represents the cause of death.",
+        "whyWrongByChoice": {
+          "B": "The final anatomic diagnosis is a section of the autopsy report that lists pathologic findings, not a category of death.",
+          "C": "The manner of death is the medicolegal category (natural, homicide, suicide, accident, or undetermined) into which the death is placed, not the injury.",
+          "D": "The mechanism of death is the physiologic derangement produced by the cause; here that would be the exsanguination, not the wound itself.",
+          "E": "The preliminary autopsy diagnosis is an early autopsy report released within two working days, not a description of the fatal injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cause of death",
+        "definitions"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-002",
+      "stem": "A 58-year-old man collapses and dies. At autopsy, severe atherosclerotic coronary artery disease is found to have caused inadequate blood flow to the myocardium, producing lethal cardiac ischemia. Which of the following is the mechanism of death in this case?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic coronary artery disease"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac ischemia"
+        },
+        {
+          "label": "C",
+          "text": "Homicide"
+        },
+        {
+          "label": "D",
+          "text": "Natural"
+        },
+        {
+          "label": "E",
+          "text": "Undetermined"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The mechanism of death is the physiologic derangement produced by the cause of death.",
+        "whyCorrect": "Cardiac ischemia, the lack of blood flow to the heart, is a physiologic derangement rather than a specific disease, so it is the mechanism of death. The brick uses this exact example to contrast mechanism with cause and manner.",
+        "whyWrongByChoice": {
+          "A": "Atherosclerotic coronary artery disease is the underlying disease process that led to death, making it the cause of death, not the mechanism.",
+          "C": "Homicide is a manner of death and does not fit a death from intrinsic coronary disease.",
+          "D": "Natural is a manner of death, the medicolegal classification; it is not a physiologic derangement.",
+          "E": "Undetermined is a manner of death used when the category cannot be established, which does not apply to a clear ischemic cardiac death."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism of death",
+        "cardiac"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-003",
+      "stem": "A 26-year-old man slips on a dock, is knocked unconscious, and falls into a lake, where he drowns. After a thorough autopsy the pathologist concludes that the death occurred as an accident. This conclusion that the death was an accident represents which of the following aspects of the death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cause of death"
+        },
+        {
+          "label": "B",
+          "text": "Clinical summary"
+        },
+        {
+          "label": "C",
+          "text": "Gross findings"
+        },
+        {
+          "label": "D",
+          "text": "Manner of death"
+        },
+        {
+          "label": "E",
+          "text": "Mechanism of death"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The manner of death classifies how the death occurred into one of five medicolegal categories.",
+        "whyCorrect": "The manner of death explains how the cause of death occurred and is divided into natural, homicide, suicide, accident, and undetermined. Classifying this death as an accident is a determination of the manner of death.",
+        "whyWrongByChoice": {
+          "A": "The cause of death would be the injury or disease that killed him (e.g., drowning/head injury), not the label 'accident.'",
+          "B": "The clinical summary is a section of the autopsy report summarizing clinical information, not a category of manner.",
+          "C": "Gross findings are the macroscopic descriptions recorded in the report, not the manner of death.",
+          "E": "The mechanism of death would be the physiologic derangement, such as cerebral hypoxia from drowning."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "manner of death",
+        "medicolegal"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-004",
+      "stem": "A hospital pathologist is asked to review several deaths to decide which is most appropriate for a medical (clinical) autopsy rather than a forensic investigation. Which of the following cases would most likely qualify as a medical autopsy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 29-year-old who died in an unwitnessed motor vehicle collision"
+        },
+        {
+          "label": "B",
+          "text": "A 33-year-old found dead following a drug overdose"
+        },
+        {
+          "label": "C",
+          "text": "A 44-year-old found dead at a construction site"
+        },
+        {
+          "label": "D",
+          "text": "A 55-year-old who died of a gunshot wound"
+        },
+        {
+          "label": "E",
+          "text": "A 66-year-old who died of longstanding alcoholic cardiomyopathy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Medical autopsies investigate natural disease, whereas violent, unexpected, or traumatic deaths fall under forensic jurisdiction.",
+        "whyCorrect": "The medical autopsy documents and investigates a natural disease. Death from longstanding alcoholic cardiomyopathy is a natural death and is well suited to a medical autopsy to characterize the disease.",
+        "whyWrongByChoice": {
+          "A": "An unwitnessed motor vehicle collision is a violent/unexpected death subject to medicolegal investigation.",
+          "B": "A drug overdose is an unnatural death that would likely require medicolegal (forensic) review.",
+          "C": "A death found at a construction site suggests an industrial accident, a forensic case.",
+          "D": "A gunshot wound is a violent death that qualifies for forensic autopsy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "medical autopsy",
+        "forensic autopsy"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-005",
+      "stem": "A hospitalist is reviewing several deaths to determine which is least likely to fall under medical examiner or coroner jurisdiction. Which of the following deaths is least likely to require medicolegal investigation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 19-year-old found unconscious and pulseless in a public park"
+        },
+        {
+          "label": "B",
+          "text": "A 3-month-old found unresponsive in a crib"
+        },
+        {
+          "label": "C",
+          "text": "A 76-year-old with widely metastatic prostate cancer"
+        },
+        {
+          "label": "D",
+          "text": "A previously healthy adult who dies suddenly and unexpectedly"
+        },
+        {
+          "label": "E",
+          "text": "A stillborn fetus delivered to a mother with a suspected history of domestic abuse"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Expected deaths from known natural disease are least likely to require medicolegal investigation.",
+        "whyCorrect": "A death from widely metastatic prostate cancer is an expected natural death; it may undergo a medical autopsy but would be unlikely to fall under medical examiner or coroner jurisdiction.",
+        "whyWrongByChoice": {
+          "A": "An unwitnessed, unexpected death of a young person in a park would earn medicolegal investigation.",
+          "B": "An unexpected death of an otherwise healthy infant in a crib warrants medicolegal investigation.",
+          "D": "A sudden, unexpected death in a previously healthy person is a reportable, medicolegal event.",
+          "E": "A stillbirth in the context of possible maternal trauma or abuse may require medicolegal investigation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "medicolegal jurisdiction",
+        "reportable death"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-006",
+      "stem": "A medical student is comparing the coroner system with the medical examiner system in the United States. Which of the following statements most accurately describes a coroner?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A commonly elected lay official"
+        },
+        {
+          "label": "B",
+          "text": "A federal official who oversees organ donation registries"
+        },
+        {
+          "label": "C",
+          "text": "A hospital physician who signs consent for medical autopsies"
+        },
+        {
+          "label": "D",
+          "text": "A pathologist who performs all medicolegal autopsies for a state"
+        },
+        {
+          "label": "E",
+          "text": "An appointed physician who is a trained forensic pathologist"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A coroner is typically an elected lay official who investigates death but usually cannot perform autopsies.",
+        "whyCorrect": "In the most common coroner system the coroner is elected to the position and is not required to be a physician or medical expert; coroners are typically not qualified to perform autopsies but do assign cause and manner of death.",
+        "whyWrongByChoice": {
+          "B": "Organ donation is handled by separate donation registries, not by coroners.",
+          "C": "Signing consent for a medical autopsy is done by the decedent's next of kin, not the coroner.",
+          "D": "Performing medicolegal autopsies is the role of the medical examiner or a forensic pathologist, not a lay coroner.",
+          "E": "This describes a medical examiner, who is appointed and trained as a forensic pathologist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "coroner",
+        "medical examiner"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-007",
+      "stem": "A patient dies in the hospital of a suspected neurodegenerative disease, and the care team wishes to obtain a medical autopsy. The patient is survived by a spouse, an adult son, both parents, and a sister. From whom should the team first seek legal consent for the autopsy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A cousin"
+        },
+        {
+          "label": "B",
+          "text": "A parent"
+        },
+        {
+          "label": "C",
+          "text": "The adult son"
+        },
+        {
+          "label": "D",
+          "text": "The sister"
+        },
+        {
+          "label": "E",
+          "text": "The spouse"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Consent for autopsy follows a next-of-kin priority list, with the spouse ranked highest.",
+        "whyCorrect": "The legal next of kin authorized to give consent follows a priority order from highest to lowest: spouse, then adult son or daughter, then parent or guardian, then brother or sister. The spouse is highest and should be approached first.",
+        "whyWrongByChoice": {
+          "A": "A cousin is near the bottom of the next-of-kin priority list.",
+          "B": "A parent ranks below both the spouse and adult children.",
+          "C": "An adult child ranks below the spouse on the consent priority list.",
+          "D": "A sibling ranks below the spouse, children, and parents."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "consent",
+        "next of kin"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-008",
+      "stem": "A 40-year-old man dies unexpectedly in police custody at a county jail, and the case is accepted by the medical examiner for a forensic autopsy. The decedent's family objects and refuses to sign an autopsy consent form. Which of the following is the most accurate statement regarding consent in this situation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Consent must be obtained from the treating clinician instead"
+        },
+        {
+          "label": "B",
+          "text": "The medical examiner may perform only a partial autopsy without consent"
+        },
+        {
+          "label": "C",
+          "text": "The autopsy cannot proceed without the spouse's written consent"
+        },
+        {
+          "label": "D",
+          "text": "The family may authorize only a brain-only examination"
+        },
+        {
+          "label": "E",
+          "text": "The medical examiner may perform the autopsy without family consent"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Medical examiner and coroner cases do not require family consent for autopsy.",
+        "whyCorrect": "Deaths under medicolegal jurisdiction, such as a death at a jail, are reportable and become medical examiner cases, which do not require consent from the family for the autopsy to proceed.",
+        "whyWrongByChoice": {
+          "A": "A treating clinician cannot authorize consent, and no consent is needed for a medicolegal case.",
+          "B": "The full/partial distinction applies to consented medical autopsies, not to medicolegal cases.",
+          "C": "Family consent, including that of a spouse, is required for medical autopsies, not for medical examiner cases.",
+          "D": "A brain-only examination is an example of a family-restricted partial medical autopsy, which is irrelevant when no consent is required."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "consent",
+        "medicolegal jurisdiction"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-009",
+      "stem": "A hospital quality officer is identifying which in-hospital deaths must be reported to the medical examiner's office. Which of the following deaths is required to be reported?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A patient who dies 6 hours after admission for an unexplained illness"
+        },
+        {
+          "label": "B",
+          "text": "A patient who dies after a 3-week hospitalization for pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "A patient who dies of a documented, expected metastatic cancer"
+        },
+        {
+          "label": "D",
+          "text": "A patient who dies of a known chronic obstructive pulmonary disease exacerbation"
+        },
+        {
+          "label": "E",
+          "text": "A patient who dies of end-stage heart failure after a long chronic course"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sudden or unexpected deaths, including deaths within 24 hours of admission, are reportable to the medical examiner.",
+        "whyCorrect": "Reportable deaths include those that are sudden or unexplained and those occurring less than 24 hours after admission to a hospital. A patient dying 6 hours after admission for an unexplained illness meets both criteria.",
+        "whyWrongByChoice": {
+          "B": "A death after a 3-week hospitalization for a known infection is an expected natural death occurring well beyond 24 hours of admission.",
+          "C": "An expected death from documented metastatic cancer is a natural death and not reportable.",
+          "D": "A death from a known chronic disease following its expected course is not a reportable event.",
+          "E": "An expected death from a long chronic course of heart failure is a natural, non-reportable death."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reportable death",
+        "medicolegal"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-010",
+      "stem": "A pathologist is preparing an autopsy report and needs to record that the heart weighed 490 grams and the liver appeared cirrhotic. In which section of a standard medical autopsy report should these macroscopic observations be documented?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Case discussion"
+        },
+        {
+          "label": "B",
+          "text": "Clinical summary"
+        },
+        {
+          "label": "C",
+          "text": "Final anatomic diagnosis"
+        },
+        {
+          "label": "D",
+          "text": "Gross findings"
+        },
+        {
+          "label": "E",
+          "text": "Microscopic findings"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gross findings capture the macroscopic descriptions and organ weights of an autopsy.",
+        "whyCorrect": "The gross findings section records the macroscopic information, such as organ weights and appearance (for example, a cirrhotic liver), and may include photographs and radiographs.",
+        "whyWrongByChoice": {
+          "A": "The case discussion gives the pathologist's integrated opinion on the case, not the gross descriptions.",
+          "B": "The clinical summary provides pertinent clinical information from the medical record.",
+          "C": "The final anatomic diagnosis lists the diagnoses and pathologic findings, typically organized by organ system, rather than the raw macroscopic descriptions.",
+          "E": "Microscopic findings describe histologic observations made under the microscope, not organ weights."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autopsy report",
+        "gross findings"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-011",
+      "stem": "A patient's family calls the clinic after receiving an autopsy report noting 90% stenosis of the left anterior descending artery. They ask whether this finding was the cause of death. In which section of the report would the pathologist most likely provide an opinion on the significance of this stenosis within the clinical context?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additional findings"
+        },
+        {
+          "label": "B",
+          "text": "Case discussion"
+        },
+        {
+          "label": "C",
+          "text": "Final anatomic diagnosis"
+        },
+        {
+          "label": "D",
+          "text": "Gross findings"
+        },
+        {
+          "label": "E",
+          "text": "Microscopic findings"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The case discussion integrates clinical and pathologic findings and offers the pathologist's opinion on their significance.",
+        "whyCorrect": "The case discussion, or clinicopathologic correlation, is where the pathologist gives an opinion on the case and comments on the relevance of a finding, such as the significance of coronary stenosis, within the clinical context.",
+        "whyWrongByChoice": {
+          "A": "Additional findings cover ancillary studies such as toxicology and laboratory results.",
+          "C": "The final anatomic diagnosis would list the stenosis as a diagnosis but does not interpret its significance.",
+          "D": "Gross findings would describe the artery macroscopically but would not offer an interpretive opinion.",
+          "E": "Microscopic findings report histologic observations, not the clinical significance of a lesion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "autopsy report",
+        "case discussion"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
+      "id": "pa11-012",
+      "stem": "A treating clinician is completing a death certificate and must record the specific cause of death rather than a nonspecific terminal event. Which of the following would be least appropriate to list as the cause of death on the certificate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired immunodeficiency syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Asystole"
+        },
+        {
+          "label": "C",
+          "text": "Disseminated aspergillosis"
+        },
+        {
+          "label": "D",
+          "text": "Disseminated fungal disease"
+        },
+        {
+          "label": "E",
+          "text": "Human immunodeficiency virus infection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Death certificates should record the specific cause, not nonspecific terminal events such as asystole or multiorgan failure.",
+        "whyCorrect": "A critical role of the death certificate is documenting the specific cause of death. In general, terminal events such as asystole (lack of a heartbeat) and nonspecific physiologic derangements such as multiorgan failure are not included; the specific cause and contributing conditions are recorded instead.",
+        "whyWrongByChoice": {
+          "A": "Acquired immunodeficiency syndrome is a specific contributing condition that can be listed as an underlying cause.",
+          "C": "Disseminated aspergillosis is a specific disease and an appropriate immediate cause of death, as shown in the brick's example.",
+          "D": "Disseminated fungal disease is a specific disease process appropriate for recording as a cause of death.",
+          "E": "Human immunodeficiency virus infection is a specific underlying cause that can appear in the causal sequence."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "death certificate",
+        "cause of death"
+      ],
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "tier": "core"
+    },
+    {
       "id": "pa09-001",
       "stem": "A 44-year-old man who works in a wood-preservation and pesticide facility presents with several weeks of abdominal cramping, diarrhea, and tingling and numbness in his hands and feet. On examination his breath has a garlic-like odor, and transverse white bands are noted across several fingernails. Which of the following toxins is most likely responsible for his presentation?",
       "choices": [
@@ -1699,558 +2251,6 @@
       ],
       "topicId": "environmental-disease-physical-injury",
       "topicName": "Environmental Disease: Physical and Environmental Injury",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-001",
-      "stem": "A 24-year-old man is brought to the emergency department after being shot in the abdomen. Despite resuscitation he dies of massive hemorrhage. At autopsy, the gunshot wound to the abdomen is documented as the event that resulted in his death. This gunshot wound is best classified as which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Cause of death"
-        },
-        {
-          "label": "B",
-          "text": "Final anatomic diagnosis"
-        },
-        {
-          "label": "C",
-          "text": "Manner of death"
-        },
-        {
-          "label": "D",
-          "text": "Mechanism of death"
-        },
-        {
-          "label": "E",
-          "text": "Preliminary autopsy diagnosis"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "The cause of death is the injury or disease that resulted in death.",
-        "whyCorrect": "The cause of death is defined as the injury or disease that resulted in death. A gunshot wound that kills a patient is the classic example given in the brick, so it represents the cause of death.",
-        "whyWrongByChoice": {
-          "B": "The final anatomic diagnosis is a section of the autopsy report that lists pathologic findings, not a category of death.",
-          "C": "The manner of death is the medicolegal category (natural, homicide, suicide, accident, or undetermined) into which the death is placed, not the injury.",
-          "D": "The mechanism of death is the physiologic derangement produced by the cause; here that would be the exsanguination, not the wound itself.",
-          "E": "The preliminary autopsy diagnosis is an early autopsy report released within two working days, not a description of the fatal injury."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "cause of death",
-        "definitions"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-002",
-      "stem": "A 58-year-old man collapses and dies. At autopsy, severe atherosclerotic coronary artery disease is found to have caused inadequate blood flow to the myocardium, producing lethal cardiac ischemia. Which of the following is the mechanism of death in this case?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Atherosclerotic coronary artery disease"
-        },
-        {
-          "label": "B",
-          "text": "Cardiac ischemia"
-        },
-        {
-          "label": "C",
-          "text": "Homicide"
-        },
-        {
-          "label": "D",
-          "text": "Natural"
-        },
-        {
-          "label": "E",
-          "text": "Undetermined"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The mechanism of death is the physiologic derangement produced by the cause of death.",
-        "whyCorrect": "Cardiac ischemia, the lack of blood flow to the heart, is a physiologic derangement rather than a specific disease, so it is the mechanism of death. The brick uses this exact example to contrast mechanism with cause and manner.",
-        "whyWrongByChoice": {
-          "A": "Atherosclerotic coronary artery disease is the underlying disease process that led to death, making it the cause of death, not the mechanism.",
-          "C": "Homicide is a manner of death and does not fit a death from intrinsic coronary disease.",
-          "D": "Natural is a manner of death, the medicolegal classification; it is not a physiologic derangement.",
-          "E": "Undetermined is a manner of death used when the category cannot be established, which does not apply to a clear ischemic cardiac death."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "mechanism of death",
-        "cardiac"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-003",
-      "stem": "A 26-year-old man slips on a dock, is knocked unconscious, and falls into a lake, where he drowns. After a thorough autopsy the pathologist concludes that the death occurred as an accident. This conclusion that the death was an accident represents which of the following aspects of the death?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Cause of death"
-        },
-        {
-          "label": "B",
-          "text": "Clinical summary"
-        },
-        {
-          "label": "C",
-          "text": "Gross findings"
-        },
-        {
-          "label": "D",
-          "text": "Manner of death"
-        },
-        {
-          "label": "E",
-          "text": "Mechanism of death"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "The manner of death classifies how the death occurred into one of five medicolegal categories.",
-        "whyCorrect": "The manner of death explains how the cause of death occurred and is divided into natural, homicide, suicide, accident, and undetermined. Classifying this death as an accident is a determination of the manner of death.",
-        "whyWrongByChoice": {
-          "A": "The cause of death would be the injury or disease that killed him (e.g., drowning/head injury), not the label 'accident.'",
-          "B": "The clinical summary is a section of the autopsy report summarizing clinical information, not a category of manner.",
-          "C": "Gross findings are the macroscopic descriptions recorded in the report, not the manner of death.",
-          "E": "The mechanism of death would be the physiologic derangement, such as cerebral hypoxia from drowning."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "manner of death",
-        "medicolegal"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-004",
-      "stem": "A hospital pathologist is asked to review several deaths to decide which is most appropriate for a medical (clinical) autopsy rather than a forensic investigation. Which of the following cases would most likely qualify as a medical autopsy?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A 29-year-old who died in an unwitnessed motor vehicle collision"
-        },
-        {
-          "label": "B",
-          "text": "A 33-year-old found dead following a drug overdose"
-        },
-        {
-          "label": "C",
-          "text": "A 44-year-old found dead at a construction site"
-        },
-        {
-          "label": "D",
-          "text": "A 55-year-old who died of a gunshot wound"
-        },
-        {
-          "label": "E",
-          "text": "A 66-year-old who died of longstanding alcoholic cardiomyopathy"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Medical autopsies investigate natural disease, whereas violent, unexpected, or traumatic deaths fall under forensic jurisdiction.",
-        "whyCorrect": "The medical autopsy documents and investigates a natural disease. Death from longstanding alcoholic cardiomyopathy is a natural death and is well suited to a medical autopsy to characterize the disease.",
-        "whyWrongByChoice": {
-          "A": "An unwitnessed motor vehicle collision is a violent/unexpected death subject to medicolegal investigation.",
-          "B": "A drug overdose is an unnatural death that would likely require medicolegal (forensic) review.",
-          "C": "A death found at a construction site suggests an industrial accident, a forensic case.",
-          "D": "A gunshot wound is a violent death that qualifies for forensic autopsy."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "medical autopsy",
-        "forensic autopsy"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-005",
-      "stem": "A hospitalist is reviewing several deaths to determine which is least likely to fall under medical examiner or coroner jurisdiction. Which of the following deaths is least likely to require medicolegal investigation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A 19-year-old found unconscious and pulseless in a public park"
-        },
-        {
-          "label": "B",
-          "text": "A 3-month-old found unresponsive in a crib"
-        },
-        {
-          "label": "C",
-          "text": "A 76-year-old with widely metastatic prostate cancer"
-        },
-        {
-          "label": "D",
-          "text": "A previously healthy adult who dies suddenly and unexpectedly"
-        },
-        {
-          "label": "E",
-          "text": "A stillborn fetus delivered to a mother with a suspected history of domestic abuse"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Expected deaths from known natural disease are least likely to require medicolegal investigation.",
-        "whyCorrect": "A death from widely metastatic prostate cancer is an expected natural death; it may undergo a medical autopsy but would be unlikely to fall under medical examiner or coroner jurisdiction.",
-        "whyWrongByChoice": {
-          "A": "An unwitnessed, unexpected death of a young person in a park would earn medicolegal investigation.",
-          "B": "An unexpected death of an otherwise healthy infant in a crib warrants medicolegal investigation.",
-          "D": "A sudden, unexpected death in a previously healthy person is a reportable, medicolegal event.",
-          "E": "A stillbirth in the context of possible maternal trauma or abuse may require medicolegal investigation."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "medicolegal jurisdiction",
-        "reportable death"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-006",
-      "stem": "A medical student is comparing the coroner system with the medical examiner system in the United States. Which of the following statements most accurately describes a coroner?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A commonly elected lay official"
-        },
-        {
-          "label": "B",
-          "text": "A federal official who oversees organ donation registries"
-        },
-        {
-          "label": "C",
-          "text": "A hospital physician who signs consent for medical autopsies"
-        },
-        {
-          "label": "D",
-          "text": "A pathologist who performs all medicolegal autopsies for a state"
-        },
-        {
-          "label": "E",
-          "text": "An appointed physician who is a trained forensic pathologist"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "A coroner is typically an elected lay official who investigates death but usually cannot perform autopsies.",
-        "whyCorrect": "In the most common coroner system the coroner is elected to the position and is not required to be a physician or medical expert; coroners are typically not qualified to perform autopsies but do assign cause and manner of death.",
-        "whyWrongByChoice": {
-          "B": "Organ donation is handled by separate donation registries, not by coroners.",
-          "C": "Signing consent for a medical autopsy is done by the decedent's next of kin, not the coroner.",
-          "D": "Performing medicolegal autopsies is the role of the medical examiner or a forensic pathologist, not a lay coroner.",
-          "E": "This describes a medical examiner, who is appointed and trained as a forensic pathologist."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "coroner",
-        "medical examiner"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-007",
-      "stem": "A patient dies in the hospital of a suspected neurodegenerative disease, and the care team wishes to obtain a medical autopsy. The patient is survived by a spouse, an adult son, both parents, and a sister. From whom should the team first seek legal consent for the autopsy?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A cousin"
-        },
-        {
-          "label": "B",
-          "text": "A parent"
-        },
-        {
-          "label": "C",
-          "text": "The adult son"
-        },
-        {
-          "label": "D",
-          "text": "The sister"
-        },
-        {
-          "label": "E",
-          "text": "The spouse"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Consent for autopsy follows a next-of-kin priority list, with the spouse ranked highest.",
-        "whyCorrect": "The legal next of kin authorized to give consent follows a priority order from highest to lowest: spouse, then adult son or daughter, then parent or guardian, then brother or sister. The spouse is highest and should be approached first.",
-        "whyWrongByChoice": {
-          "A": "A cousin is near the bottom of the next-of-kin priority list.",
-          "B": "A parent ranks below both the spouse and adult children.",
-          "C": "An adult child ranks below the spouse on the consent priority list.",
-          "D": "A sibling ranks below the spouse, children, and parents."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "consent",
-        "next of kin"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-008",
-      "stem": "A 40-year-old man dies unexpectedly in police custody at a county jail, and the case is accepted by the medical examiner for a forensic autopsy. The decedent's family objects and refuses to sign an autopsy consent form. Which of the following is the most accurate statement regarding consent in this situation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Consent must be obtained from the treating clinician instead"
-        },
-        {
-          "label": "B",
-          "text": "The medical examiner may perform only a partial autopsy without consent"
-        },
-        {
-          "label": "C",
-          "text": "The autopsy cannot proceed without the spouse's written consent"
-        },
-        {
-          "label": "D",
-          "text": "The family may authorize only a brain-only examination"
-        },
-        {
-          "label": "E",
-          "text": "The medical examiner may perform the autopsy without family consent"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Medical examiner and coroner cases do not require family consent for autopsy.",
-        "whyCorrect": "Deaths under medicolegal jurisdiction, such as a death at a jail, are reportable and become medical examiner cases, which do not require consent from the family for the autopsy to proceed.",
-        "whyWrongByChoice": {
-          "A": "A treating clinician cannot authorize consent, and no consent is needed for a medicolegal case.",
-          "B": "The full/partial distinction applies to consented medical autopsies, not to medicolegal cases.",
-          "C": "Family consent, including that of a spouse, is required for medical autopsies, not for medical examiner cases.",
-          "D": "A brain-only examination is an example of a family-restricted partial medical autopsy, which is irrelevant when no consent is required."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "consent",
-        "medicolegal jurisdiction"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-009",
-      "stem": "A hospital quality officer is identifying which in-hospital deaths must be reported to the medical examiner's office. Which of the following deaths is required to be reported?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A patient who dies 6 hours after admission for an unexplained illness"
-        },
-        {
-          "label": "B",
-          "text": "A patient who dies after a 3-week hospitalization for pneumonia"
-        },
-        {
-          "label": "C",
-          "text": "A patient who dies of a documented, expected metastatic cancer"
-        },
-        {
-          "label": "D",
-          "text": "A patient who dies of a known chronic obstructive pulmonary disease exacerbation"
-        },
-        {
-          "label": "E",
-          "text": "A patient who dies of end-stage heart failure after a long chronic course"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Sudden or unexpected deaths, including deaths within 24 hours of admission, are reportable to the medical examiner.",
-        "whyCorrect": "Reportable deaths include those that are sudden or unexplained and those occurring less than 24 hours after admission to a hospital. A patient dying 6 hours after admission for an unexplained illness meets both criteria.",
-        "whyWrongByChoice": {
-          "B": "A death after a 3-week hospitalization for a known infection is an expected natural death occurring well beyond 24 hours of admission.",
-          "C": "An expected death from documented metastatic cancer is a natural death and not reportable.",
-          "D": "A death from a known chronic disease following its expected course is not a reportable event.",
-          "E": "An expected death from a long chronic course of heart failure is a natural, non-reportable death."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "reportable death",
-        "medicolegal"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-010",
-      "stem": "A pathologist is preparing an autopsy report and needs to record that the heart weighed 490 grams and the liver appeared cirrhotic. In which section of a standard medical autopsy report should these macroscopic observations be documented?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Case discussion"
-        },
-        {
-          "label": "B",
-          "text": "Clinical summary"
-        },
-        {
-          "label": "C",
-          "text": "Final anatomic diagnosis"
-        },
-        {
-          "label": "D",
-          "text": "Gross findings"
-        },
-        {
-          "label": "E",
-          "text": "Microscopic findings"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Gross findings capture the macroscopic descriptions and organ weights of an autopsy.",
-        "whyCorrect": "The gross findings section records the macroscopic information, such as organ weights and appearance (for example, a cirrhotic liver), and may include photographs and radiographs.",
-        "whyWrongByChoice": {
-          "A": "The case discussion gives the pathologist's integrated opinion on the case, not the gross descriptions.",
-          "B": "The clinical summary provides pertinent clinical information from the medical record.",
-          "C": "The final anatomic diagnosis lists the diagnoses and pathologic findings, typically organized by organ system, rather than the raw macroscopic descriptions.",
-          "E": "Microscopic findings describe histologic observations made under the microscope, not organ weights."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "autopsy report",
-        "gross findings"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-011",
-      "stem": "A patient's family calls the clinic after receiving an autopsy report noting 90% stenosis of the left anterior descending artery. They ask whether this finding was the cause of death. In which section of the report would the pathologist most likely provide an opinion on the significance of this stenosis within the clinical context?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Additional findings"
-        },
-        {
-          "label": "B",
-          "text": "Case discussion"
-        },
-        {
-          "label": "C",
-          "text": "Final anatomic diagnosis"
-        },
-        {
-          "label": "D",
-          "text": "Gross findings"
-        },
-        {
-          "label": "E",
-          "text": "Microscopic findings"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The case discussion integrates clinical and pathologic findings and offers the pathologist's opinion on their significance.",
-        "whyCorrect": "The case discussion, or clinicopathologic correlation, is where the pathologist gives an opinion on the case and comments on the relevance of a finding, such as the significance of coronary stenosis, within the clinical context.",
-        "whyWrongByChoice": {
-          "A": "Additional findings cover ancillary studies such as toxicology and laboratory results.",
-          "C": "The final anatomic diagnosis would list the stenosis as a diagnosis but does not interpret its significance.",
-          "D": "Gross findings would describe the artery macroscopically but would not offer an interpretive opinion.",
-          "E": "Microscopic findings report histologic observations, not the clinical significance of a lesion."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "autopsy report",
-        "case discussion"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
-      "tier": "core"
-    },
-    {
-      "id": "pa11-012",
-      "stem": "A treating clinician is completing a death certificate and must record the specific cause of death rather than a nonspecific terminal event. Which of the following would be least appropriate to list as the cause of death on the certificate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Acquired immunodeficiency syndrome"
-        },
-        {
-          "label": "B",
-          "text": "Asystole"
-        },
-        {
-          "label": "C",
-          "text": "Disseminated aspergillosis"
-        },
-        {
-          "label": "D",
-          "text": "Disseminated fungal disease"
-        },
-        {
-          "label": "E",
-          "text": "Human immunodeficiency virus infection"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Death certificates should record the specific cause, not nonspecific terminal events such as asystole or multiorgan failure.",
-        "whyCorrect": "A critical role of the death certificate is documenting the specific cause of death. In general, terminal events such as asystole (lack of a heartbeat) and nonspecific physiologic derangements such as multiorgan failure are not included; the specific cause and contributing conditions are recorded instead.",
-        "whyWrongByChoice": {
-          "A": "Acquired immunodeficiency syndrome is a specific contributing condition that can be listed as an underlying cause.",
-          "C": "Disseminated aspergillosis is a specific disease and an appropriate immediate cause of death, as shown in the brick's example.",
-          "D": "Disseminated fungal disease is a specific disease process appropriate for recording as a cause of death.",
-          "E": "Human immunodeficiency virus infection is a specific underlying cause that can appear in the causal sequence."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "death certificate",
-        "cause of death"
-      ],
-      "topicId": "autopsy",
-      "topicName": "Autopsy",
       "tier": "core"
     }
   ]

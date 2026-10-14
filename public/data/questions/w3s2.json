@@ -3,565 +3,570 @@
   "categoryName": "Session 2",
   "questions": [
     {
-      "id": "pa30-001",
-      "stem": "A 50-year-old woman is diagnosed with stage 4 pancreatic cancer. She has no significant medical history and is concerned about how her immune system became so weak. Her oncologist explains that the tumor secretes a cytokine in large quantities that broadly suppresses the activity of B cells, T cells, dendritic cells, and macrophages. Which of the following substances is most likely responsible?",
+      "id": "pa34-001",
+      "stem": "A 13-year-old boy whose family recently emigrated from Uganda is brought to clinic with a rapidly enlarging mass of the mandible. Biopsy shows sheets of monomorphic, mitotically active B cells with interspersed tingible body macrophages producing a \"starry sky\" appearance. Which of the following pathogens is most strongly associated with this child's tumor?",
       "choices": [
         {
           "label": "A",
-          "text": "FasL"
+          "text": "Epstein-Barr virus"
         },
         {
           "label": "B",
-          "text": "Glycocalyx"
+          "text": "Helicobacter pylori"
         },
         {
           "label": "C",
-          "text": "Interleukin-2"
+          "text": "Human papillomavirus"
         },
         {
           "label": "D",
-          "text": "TGF-beta"
+          "text": "Human T-cell leukemia virus type 1"
         },
         {
           "label": "E",
-          "text": "TNF-alpha"
+          "text": "Schistosoma haematobium"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "TGF-beta is a potent immunosuppressant cytokine that some tumors secrete to downregulate multiple immune lineages.",
-        "whyCorrect": "The brick states that TGF-beta is a potent immunosuppressant capable of suppressing the activities of B cells, T cells, dendritic cells, and macrophages, and that some tumor cells secrete it in large quantities to suppress the immune system.",
+        "summary": "Endemic Burkitt lymphoma classically presents as a pediatric jaw mass in Africa and is strongly associated with EBV.",
+        "whyCorrect": "The African (endemic) subtype of Burkitt lymphoma typically presents in children as a large mandibular mass and is virtually always EBV-positive (EBV identified in >90% of endemic cases). The \"starry sky\" histology of neoplastic B cells with tingible body macrophages is characteristic.",
         "whyWrongByChoice": {
-          "A": "FasL is a cell-surface protein that binds the Fas receptor on T cells to trigger apoptosis of cytotoxic T cells; it is not a secreted immunosuppressive cytokine.",
-          "B": "Glycocalyx is extracellular matrix material that masks surface antigens, not a cytokine that suppresses immune lineages.",
-          "C": "Interleukin-2 promotes T cell proliferation and activation, the opposite of immunosuppression.",
-          "E": "TNF-alpha causes cachexia in malignancy and recruits white blood cells rather than broadly suppressing immune cells."
+          "B": "H. pylori is associated with gastric adenocarcinoma and MALT lymphoma of the stomach, not a pediatric jaw mass.",
+          "C": "HPV causes squamous lesions such as warts and squamous cell carcinomas, not Burkitt lymphoma.",
+          "D": "HTLV-1 causes adult T-cell leukemia/lymphoma, a malignancy of CD4+ T cells, not a B-cell jaw tumor in children.",
+          "E": "S. haematobium is associated with squamous cell carcinoma of the bladder, not lymphoma."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "immunosuppression",
-        "TGF-beta",
-        "cytokines"
+        "EBV",
+        "Burkitt lymphoma",
+        "oncogenic viruses"
       ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
       "tier": "core"
     },
     {
-      "id": "pa30-002",
-      "stem": "Which of the following mechanisms allows tumor cells to evade immune detection specifically by masking their surface antigens?",
+      "id": "pa34-002",
+      "stem": "A 58-year-old man reports abdominal pain after meals, nausea, frequent burping, and unintentional weight loss. Testing confirms infection with a curved gram-negative rod that, if left untreated, can progress to gastric cancer. Which of the following best describes the mechanism by which this organism promotes neoplastic transformation?",
       "choices": [
         {
           "label": "A",
-          "text": "Downregulation of surface antigen expression"
+          "text": "Altered regulation of vascular endothelial growth factor"
         },
         {
           "label": "B",
-          "text": "Loss of MHC class I molecules"
+          "text": "Chronic mucosal inflammation"
         },
         {
           "label": "C",
-          "text": "Secretion of excess glycocalyx"
+          "text": "E6-mediated inactivation of p53"
         },
         {
           "label": "D",
-          "text": "Secretion of TGF-beta"
+          "text": "E7-mediated inactivation of Rb"
         },
         {
           "label": "E",
-          "text": "Upregulation of PD-L1"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Antigen masking occurs when tumor cells coat themselves in excess extracellular matrix (glycocalyx).",
-        "whyCorrect": "Many tumor cells secrete an excess of extracellular matrix material called glycocalyx. This thick coating masks the antigens on cancer cells, making it more difficult for immune cells to target them for destruction.",
-        "whyWrongByChoice": {
-          "A": "Downregulating antigen expression is the outgrowth-of-antigen-variants mechanism, in which the antigen is lost rather than hidden.",
-          "B": "Loss of MHC class I removes the platform that displays antigen to cytotoxic T cells; it does not mask antigens with a coating.",
-          "D": "TGF-beta secretion broadly suppresses immune cells and does not physically mask antigens.",
-          "E": "PD-L1 upregulation engages the PD-1 checkpoint to inhibit T cells rather than masking antigens."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "antigen-masking",
-        "glycocalyx"
-      ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
-      "tier": "core"
-    },
-    {
-      "id": "pa30-003",
-      "stem": "A tumor subclone continues to display abundant tumor antigen, yet cytotoxic CD8+ T cells can no longer recognize or kill it. Analysis shows the cells have acquired a mutation that eliminates a surface receptor normally present on all nucleated cells. Loss of which of the following molecules best explains this finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "B7 molecules"
-        },
-        {
-          "label": "B",
-          "text": "CD28"
-        },
-        {
-          "label": "C",
-          "text": "Fas receptor"
-        },
-        {
-          "label": "D",
-          "text": "MHC class I"
-        },
-        {
-          "label": "E",
-          "text": "PD-1"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Cytotoxic T cells identify targets via MHC class I; tumor loss of MHC class I prevents recognition.",
-        "whyCorrect": "MHC class I is a receptor present on all cells that displays antigens on the cell surface. Some tumor subclones undergo mutations that cause loss of MHC molecules so they are no longer recognized by cytotoxic T cells.",
-        "whyWrongByChoice": {
-          "A": "B7 molecules are co-stimulatory ligands on antigen-presenting cells; they are not present on all nucleated cells.",
-          "B": "CD28 is a co-stimulatory receptor on T cells, not a molecule tumor cells lose to escape recognition.",
-          "C": "The Fas receptor is on T cells and mediates apoptosis when engaged by tumor FasL; losing it would not affect antigen recognition.",
-          "E": "PD-1 is an inhibitory receptor on T cells, not a molecule displayed on tumor cells for recognition."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "MHC-class-I",
-        "cytotoxic-T-cells",
-        "antigen-presentation"
-      ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
-      "tier": "core"
-    },
-    {
-      "id": "pa30-004",
-      "stem": "A patient with advanced lung cancer that has failed multiple rounds of chemotherapy is started on pembrolizumab (Keytruda). Which of the following best describes how this medication helps the immune system attack the tumor?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It engineers the patient's T cells to target CD19"
-        },
-        {
-          "label": "B",
-          "text": "It is an antibody that binds PD-1 on T cells"
-        },
-        {
-          "label": "C",
-          "text": "It neutralizes secreted TGF-beta in the tumor microenvironment"
-        },
-        {
-          "label": "D",
-          "text": "It restores MHC class I expression on tumor cells"
-        },
-        {
-          "label": "E",
-          "text": "It supplies excess co-stimulatory signal directly to tumor cells"
+          "text": "Expression of the Tax oncoprotein"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Pembrolizumab is an anti-PD-1 antibody that blocks the inhibitory PD-1/PD-L1 checkpoint.",
-        "whyCorrect": "Cancer cells upregulate PD-L1 and PD-L2, which activate the PD-1 receptor on T cells and suppress them. Keytruda is an antibody that binds the PD-1 receptor on T cells, preventing it from interacting with PD-L1 on cancer cells, giving the immune system a fighting chance to eliminate the tumor.",
+        "summary": "H. pylori drives gastric carcinogenesis through longstanding chronic inflammation of the mucosa.",
+        "whyCorrect": "Conflict between H. pylori and the host immune system produces chronic gastritis; this longstanding inflammatory damage and resultant epithelial proliferation lead to a step-wise cascade toward gastric adenocarcinoma and MALT lymphoma.",
         "whyWrongByChoice": {
-          "A": "Engineering T cells to target CD19 describes CAR-T cell therapy, not a PD-1 antibody.",
-          "C": "Neutralizing TGF-beta is a different immunosuppression pathway and is not the mechanism of pembrolizumab.",
-          "D": "Pembrolizumab does not alter MHC class I expression on tumor cells.",
-          "E": "The drug does not deliver co-stimulation to tumor cells; it removes an inhibitory checkpoint signal."
+          "A": "Altered VEGF regulation is the mechanism of HHV-8 in Kaposi sarcoma, not of H. pylori.",
+          "C": "E6 inactivation of p53 is a mechanism of high-risk HPV, not H. pylori.",
+          "D": "E7 inactivation of Rb is a mechanism of high-risk HPV, not H. pylori.",
+          "E": "The Tax oncoprotein is implicated in HTLV-1-driven adult T-cell leukemia/lymphoma."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "PD-1",
-        "checkpoint-blockade",
-        "immunotherapy"
+        "H. pylori",
+        "gastric adenocarcinoma",
+        "chronic inflammation"
       ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
       "tier": "core"
     },
     {
-      "id": "pa30-005",
-      "stem": "A tumor is found to upregulate an inhibitory receptor that binds the B7 molecules on antigen-presenting cells and thereby reduces engagement of the CD28 co-stimulatory receptor on T cells. Which of the following molecules is being upregulated?",
+      "id": "pa34-003",
+      "stem": "A pathologist reviews sequential gastric biopsies from a patient with chronic H. pylori infection to document the precancerous cascade. Which of the following histologic changes occurs immediately before the development of invasive gastric adenocarcinoma?",
       "choices": [
         {
           "label": "A",
-          "text": "CTLA-4"
+          "text": "Atrophy"
         },
         {
           "label": "B",
-          "text": "FasL"
+          "text": "Dysplasia"
         },
         {
           "label": "C",
-          "text": "MHC class II"
+          "text": "Hyperplasia"
         },
         {
           "label": "D",
-          "text": "PD-L1"
+          "text": "Hypertrophy"
         },
         {
           "label": "E",
-          "text": "TGF-beta"
+          "text": "Intestinal metaplasia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dysplasia is the pre-malignant step that directly precedes invasive gastric adenocarcinoma.",
+        "whyCorrect": "In the H. pylori cascade, chronic gastritis leads to atrophic gastritis, then intestinal metaplasia, then dysplasia (enlarged, hyperchromatic, crowded nuclei). When dysplastic cells invade surrounding tissue, invasive gastric adenocarcinoma is formed, so dysplasia is the last step before invasion.",
+        "whyWrongByChoice": {
+          "A": "Atrophic gastritis occurs earlier in the cascade, before intestinal metaplasia and dysplasia.",
+          "C": "Hyperplasia is not the identified step in this cascade and does not directly precede invasion.",
+          "D": "Hypertrophy is not a step described in the gastric precancerous cascade.",
+          "E": "Intestinal metaplasia (goblet and Paneth cells) precedes dysplasia, not invasion directly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "H. pylori",
+        "gastric cascade",
+        "dysplasia"
+      ],
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "pa34-004",
+      "stem": "A 34-year-old woman has an abnormal Pap smear, and cervical biopsy reveals non-keratinizing squamous cell carcinoma. The lesion is driven by a virus that produces two oncoproteins not made by low-risk serotypes. Which of the following best describes the action of these oncoproteins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They inactivate p53 and Rb, removing the G1-to-S checkpoint"
+        },
+        {
+          "label": "B",
+          "text": "They incorporate viral DNA directly into the hepatocyte genome"
+        },
+        {
+          "label": "C",
+          "text": "They inhibit apoptosis while driving CD4+ T-cell proliferation"
+        },
+        {
+          "label": "D",
+          "text": "They stimulate transcription of viral RNA to expand T cells"
+        },
+        {
+          "label": "E",
+          "text": "They upregulate VEGF to promote angiogenesis"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "CTLA-4 competes with CD28 for B7 ligands, dampening T cell co-stimulation.",
-        "whyCorrect": "Cancer cells can upregulate the inhibitory receptor CTLA-4, which binds its ligands, the B7 molecules, from antigen-presenting cells and reduces the engagement of the CD28 co-stimulatory receptor.",
+        "summary": "High-risk HPV E6 and E7 oncoproteins inactivate p53 and Rb, permitting uncontrolled proliferation.",
+        "whyCorrect": "High-risk HPV serotypes (16, 18, 31, 33) produce E6 and E7 oncoproteins. E6 inactivates p53 and E7 inactivates Rb; without normal p53 and Rb function the cell cycle proceeds through the G1-to-S transition unchecked, permitting uncontrolled proliferation that, with accumulated mutations, progresses to carcinoma.",
         "whyWrongByChoice": {
-          "B": "FasL binds the Fas receptor to induce T cell apoptosis and has no role in B7/CD28 competition.",
-          "C": "MHC class II presents antigen to helper T cells and is not an inhibitory receptor for B7.",
-          "D": "PD-L1 engages the PD-1 receptor on T cells; it does not bind B7 or block CD28.",
-          "E": "TGF-beta is a secreted immunosuppressive cytokine, not a receptor that competes for B7."
+          "B": "Incorporation of viral DNA into hepatocytes describes HBV, not HPV.",
+          "C": "Inhibiting apoptosis while driving CD4+ T-cell proliferation describes the HTLV-1 HBZ protein.",
+          "D": "Stimulating transcription of viral RNA to expand T cells describes the HTLV-1 Tax protein.",
+          "E": "VEGF upregulation and angiogenesis is the HHV-8/Kaposi sarcoma mechanism."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "CTLA-4",
-        "co-stimulation",
-        "checkpoint"
+        "HPV",
+        "E6 E7",
+        "p53 Rb",
+        "cervical carcinoma"
       ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
       "tier": "core"
     },
     {
-      "id": "pa30-006",
-      "stem": "A melanoma expresses a cell-surface ligand that engages a death receptor on approaching cytotoxic T cells, causing those T cells to die via the extrinsic apoptosis pathway. Which of the following ligands is the tumor most likely expressing?",
+      "id": "pa34-005",
+      "stem": "A 32-year-old man receiving antiretroviral therapy for HIV presents with multiple red-violet, raised plaques on his arms that continue to grow. Biopsy shows a proliferation of neoplastic vascular channels. The causative virus promotes this tumor primarily by which of the following mechanisms?",
       "choices": [
         {
           "label": "A",
-          "text": "B7-1"
+          "text": "Binding of the CD21 surface marker on resting B lymphocytes"
         },
         {
           "label": "B",
-          "text": "CD28"
+          "text": "Chronic inflammation of the bladder urothelial epithelium"
         },
         {
           "label": "C",
-          "text": "FasL"
+          "text": "Continuous activation of VEGF-driven angiogenesis"
         },
         {
           "label": "D",
-          "text": "Glycocalyx"
+          "text": "Inactivation of p53 by the E6 oncoprotein of the virus"
         },
         {
           "label": "E",
-          "text": "PD-L2"
+          "text": "Integration of viral DNA into the host hepatocyte genome"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Tumors such as melanoma and hepatocellular carcinoma express FasL, which triggers extrinsic-pathway apoptosis of cytotoxic T cells.",
-        "whyCorrect": "Tumor cells such as melanoma and hepatocellular carcinoma express FasL, which binds the Fas receptor on T cells, leading to apoptosis of cytotoxic T cells via the extrinsic pathway.",
+        "summary": "HHV-8 causes Kaposi sarcoma by deregulating VEGF, driving angiogenesis.",
+        "whyCorrect": "Kaposi sarcoma is caused by HHV-8, which alters regulation of VEGF. VEGF drives angiogenesis, and its continuous activation leads to proliferating mesenchymal/endothelial cells that form a vascular sarcoma, appearing as red-violet skin lesions, especially in immunosuppressed patients with AIDS.",
         "whyWrongByChoice": {
-          "A": "B7-1 is a co-stimulatory ligand that promotes T cell activation, not death.",
-          "B": "CD28 is a co-stimulatory receptor on T cells, not a tumor ligand that induces apoptosis.",
-          "D": "Glycocalyx is a physical coating that masks antigens and does not engage a death receptor.",
-          "E": "PD-L2 engages PD-1 to inhibit T cells but does not directly trigger extrinsic-pathway apoptosis through a death receptor."
+          "A": "CD21 binding on B lymphocytes describes EBV, not HHV-8.",
+          "B": "Chronic bladder inflammation describes Schistosoma haematobium, not HHV-8.",
+          "D": "E6 inactivation of p53 is a high-risk HPV mechanism, not HHV-8.",
+          "E": "Integration of viral DNA into hepatocytes describes HBV in hepatocellular carcinoma."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "FasL",
-        "apoptosis",
-        "extrinsic-pathway"
+        "HHV-8",
+        "Kaposi sarcoma",
+        "VEGF",
+        "HIV"
       ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
       "tier": "core"
     },
     {
-      "id": "pa30-007",
-      "stem": "A T cell encounters a tumor cell that presents antigen through MHC but fails to deliver a co-stimulatory second signal. Which of the following is the most likely fate of this T cell?",
+      "id": "pa34-006",
+      "stem": "A 24-year-old man presents with painless, enlarging cervical and mediastinal lymphadenopathy. Lymph node biopsy shows large malignant cells with a bilobed nucleus and prominent eosinophilic nucleoli described as \"owl eye\" cells. Which of the following viruses is most commonly associated with this malignancy?",
       "choices": [
         {
           "label": "A",
-          "text": "It becomes anergic or undergoes apoptosis"
+          "text": "Epstein-Barr virus"
         },
         {
           "label": "B",
-          "text": "It differentiates into a memory T cell"
+          "text": "Hepatitis B virus"
         },
         {
           "label": "C",
-          "text": "It proliferates into an activated effector clone"
+          "text": "Hepatitis C virus"
         },
         {
           "label": "D",
-          "text": "It secretes large amounts of TGF-beta"
+          "text": "Human papillomavirus"
         },
         {
           "label": "E",
-          "text": "It upregulates MHC class I on the tumor cell"
+          "text": "Human T-cell leukemia virus type 1"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "T cells require two signals; antigen without co-stimulation leads to anergy or apoptosis.",
-        "whyCorrect": "A T cell can only be activated after receiving two signals: antigen recognition (Signal 1) and a co-stimulatory signal from the antigen-presenting cell (Signal 2). If the co-stimulatory signal is not received, the T cell becomes unresponsive (anergic) or undergoes apoptosis, which tumor cells exploit to evade immunity.",
+        "summary": "Reed-Sternberg 'owl eye' cells indicate classic Hodgkin lymphoma, ~50% of which are EBV-associated.",
+        "whyCorrect": "The bilobed \"owl eye\" Reed-Sternberg cell is the key histologic finding of classic Hodgkin lymphoma, which typically presents with painless supradiaphragmatic lymphadenopathy. Approximately 50% of classic Hodgkin lymphoma cases are related to EBV infection.",
         "whyWrongByChoice": {
-          "B": "Memory differentiation follows productive activation, which does not occur without Signal 2.",
-          "C": "Effector proliferation requires both signals; without co-stimulation the T cell is not activated.",
-          "D": "TGF-beta is secreted by tumor cells, not by T cells lacking co-stimulation.",
-          "E": "A T cell does not restore MHC class I on the tumor cell; MHC expression is a tumor property."
+          "B": "HBV is associated with hepatocellular carcinoma, not Hodgkin lymphoma.",
+          "C": "HCV is associated with hepatocellular carcinoma, not Reed-Sternberg cells.",
+          "D": "HPV causes squamous lesions and carcinomas, not Hodgkin lymphoma.",
+          "E": "HTLV-1 causes adult T-cell leukemia/lymphoma, which shows a flower-shaped nucleus, not owl eye cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "Hodgkin lymphoma",
+        "Reed-Sternberg"
+      ],
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "pa34-007",
+      "stem": "A 47-year-old man from southern Japan develops fatigue, hypercalcemia, and lymphadenopathy. A peripheral smear shows malignant CD4+ T cells, some with a characteristic multi-lobated, flower-shaped nucleus. Which of the following viruses is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus, a herpesvirus"
+        },
+        {
+          "label": "B",
+          "text": "Helicobacter pylori, a gastric organism"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus 8, a gammaherpesvirus"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus, a DNA virus"
+        },
+        {
+          "label": "E",
+          "text": "Human T-cell leukemia virus type 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A flower-shaped nucleus in a malignancy of CD4+ T cells signals HTLV-1-associated adult T-cell leukemia/lymphoma.",
+        "whyCorrect": "HTLV-1 is a retrovirus endemic to regions including Japan that shows tropism for CD4+ T cells. It causes adult T-cell leukemia/lymphoma (ATLL); in the acute phase, a characteristic multi-lobated, flower-shaped nucleus may be seen. Neoplastic transformation is linked to the viral Tax and HBZ proteins.",
+        "whyWrongByChoice": {
+          "A": "EBV is associated with Hodgkin lymphoma, Burkitt lymphoma, and nasopharyngeal carcinoma, not the flower cell.",
+          "B": "H. pylori is a bacterium associated with gastric adenocarcinoma and MALT lymphoma, not ATLL.",
+          "C": "HHV-8 causes Kaposi sarcoma and primary effusion lymphoma, not ATLL.",
+          "D": "HPV causes squamous lesions and carcinomas, not a T-cell leukemia."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "co-stimulation",
-        "two-signal-model",
-        "anergy"
+        "HTLV-1",
+        "ATLL",
+        "flower cell"
       ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
       "tier": "core"
     },
     {
-      "id": "pa30-008",
-      "stem": "A patient with diffuse large B-cell lymphoma initially responds to CAR-T cell therapy engineered against CD19, but later relapses. Biopsy of the recurrent tumor shows the malignant B cells no longer express CD19. Which of the following best explains the relapse?",
+      "id": "pa34-008",
+      "stem": "A 55-year-old man with a history of intravenous drug use has chronic hepatitis progressing to cirrhosis. Imaging reveals a liver mass, and biopsy shows plump, eosinophilic polygonal cells with nuclear atypia that resemble hepatocytes. Which of the following best explains the development of this malignancy?",
       "choices": [
         {
           "label": "A",
-          "text": "The engineered T cells lost their MHC class I molecules"
+          "text": "Bacterial-driven intestinal metaplasia"
         },
         {
           "label": "B",
-          "text": "The engineered T cells were suppressed by CD28 co-stimulation"
+          "text": "Deregulation of VEGF signaling"
         },
         {
           "label": "C",
-          "text": "The tumor cells began secreting glycocalyx to physically block the CAR-T cells"
+          "text": "E7-mediated inactivation of Rb"
         },
         {
           "label": "D",
-          "text": "The tumor cells lost expression of the target antigen"
+          "text": "Longstanding inflammatory damage"
         },
         {
           "label": "E",
-          "text": "The tumor cells upregulated MHC class I to hide from the CAR-T cells"
+          "text": "Tropism of the virus for CD4+ T cells"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Antigen escape occurs when tumor cells stop expressing the CAR-T target (CD19).",
-        "whyCorrect": "In CAR-T therapy the patient's own T cells are engineered to target a specific antigen such as CD19 on B cells. A well-known challenge is that cancer cells may stop expressing CD19 on their surface, so there is no longer a target for the engineered T cells, allowing relapse.",
+        "summary": "Chronic HCV (or HBV) infection causes hepatocellular carcinoma through longstanding inflammatory damage and cirrhosis.",
+        "whyCorrect": "HCV is transmitted commonly by IV drug use, and about 60-80% of infections become chronic. Long-term inflammation and cellular injury evolve to cirrhosis and damage cellular DNA, with reactive oxygen species and increased hepatocyte proliferation, resulting in hepatocellular carcinoma composed of plump, eosinophilic malignant hepatocytes.",
         "whyWrongByChoice": {
-          "A": "CAR-T cells recognize CD19 directly and do not depend on tumor MHC; loss of the T cells' own MHC does not explain relapse.",
-          "B": "CD28 co-stimulation promotes, rather than suppresses, T cell activity.",
-          "C": "The biopsy shows loss of CD19, not a glycocalyx coating, as the cause.",
-          "E": "CAR-T recognition of CD19 is MHC-independent, so upregulating MHC class I would not hide the tumor from CAR-T cells."
+          "A": "Bacterial-driven intestinal metaplasia describes H. pylori in the stomach, not HCV in the liver.",
+          "B": "VEGF deregulation is the HHV-8/Kaposi sarcoma mechanism.",
+          "C": "E7 inactivation of Rb is a high-risk HPV mechanism, not a hepatitis virus mechanism.",
+          "E": "Tropism for CD4+ T cells describes HTLV-1, not a hepatitis virus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HCV",
+        "HBV",
+        "hepatocellular carcinoma",
+        "cirrhosis"
+      ],
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "pa34-009",
+      "stem": "A 40-year-old man who spent years in North Africa presents with painless hematuria. Cystoscopy shows a bladder mass, and biopsy reveals squamous cell carcinoma with adjacent parasitic eggs bearing a terminal spine. Which of the following organisms is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "C",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Schistosoma haematobium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "S. haematobium has an affinity for the bladder and causes squamous cell carcinoma via chronic inflammation.",
+        "whyCorrect": "Schistosoma haematobium is a parasitic flatworm that has an affinity for the bladder, where it causes urinary schistosomiasis. Cyclical infection and immune response drive chronic inflammation and reactive oxygen species that damage DNA; over time the bladder epithelium undergoes metaplasia, dysplasia, and finally squamous cell carcinoma. Its eggs are recognized by a terminal spine.",
+        "whyWrongByChoice": {
+          "A": "EBV is associated with lymphomas and nasopharyngeal carcinoma, not bladder cancer.",
+          "B": "H. pylori affects the stomach (adenocarcinoma, MALT lymphoma), not the bladder.",
+          "C": "HBV causes hepatocellular carcinoma, not bladder squamous cell carcinoma.",
+          "D": "While HPV causes squamous carcinomas at other sites, the parasitic eggs with a terminal spine identify Schistosoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Schistosoma haematobium",
+        "bladder cancer",
+        "parasite"
+      ],
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "pa34-010",
+      "stem": "A 62-year-old woman has epigastric discomfort, and gastric biopsy shows an increased population of small, neoplastic B cells consistent with extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue. Testing is positive for H. pylori. Which of the following statements about her condition is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A substantial proportion of cases are cured by antibiotic eradication of the infection"
+        },
+        {
+          "label": "B",
+          "text": "The lesion characteristically shows binucleate Reed-Sternberg cells"
+        },
+        {
+          "label": "C",
+          "text": "The malignant cells are CD4+ T cells with multi-lobated nuclei"
+        },
+        {
+          "label": "D",
+          "text": "The tumor arises from neoplastic vascular endothelial channels driven by HHV-8"
+        },
+        {
+          "label": "E",
+          "text": "The tumor is driven by the E6 and E7 oncoproteins of high-risk HPV"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gastric MALT lymphoma is H. pylori-associated, and many cases regress after antibiotic eradication.",
+        "whyCorrect": "Extranodal marginal zone (MALT) lymphoma of the stomach is associated with H. pylori infection secondary to chronic bacterial-driven immune stimulation. Histology shows an increased population of small neoplastic B cells, and a substantial proportion of H. pylori-associated MALT lymphoma cases are cured following H. pylori eradication with antibiotics.",
+        "whyWrongByChoice": {
+          "B": "Reed-Sternberg cells characterize Hodgkin lymphoma, not MALT lymphoma.",
+          "C": "MALT lymphoma is a B-cell neoplasm; CD4+ T-cell malignancy describes HTLV-1-associated ATLL.",
+          "D": "Neoplastic vascular channels describe Kaposi sarcoma, not MALT lymphoma.",
+          "E": "E6 and E7 oncoproteins drive high-risk HPV carcinomas, not gastric MALT lymphoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "H. pylori",
+        "MALT lymphoma",
+        "antibiotic eradication"
+      ],
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
+      "tier": "core"
+    },
+    {
+      "id": "pa34-011",
+      "stem": "A pediatric oncologist confirms Burkitt lymphoma in a young patient, noting a highly proliferative B-cell tumor. Which of the following chromosomal translocations is classically associated with this lymphoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "t(8;14)"
+        },
+        {
+          "label": "B",
+          "text": "t(9;22)"
+        },
+        {
+          "label": "C",
+          "text": "t(11;22)"
+        },
+        {
+          "label": "D",
+          "text": "t(14;18)"
+        },
+        {
+          "label": "E",
+          "text": "t(15;17)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Burkitt lymphoma is classically driven by the t(8;14) translocation.",
+        "whyCorrect": "Burkitt lymphoma is a highly mitotically active non-Hodgkin B-cell lymphoma classically associated with the t(8;14) translocation, which places the MYC oncogene under the influence of the immunoglobulin heavy-chain promoter, driving the aggressive proliferation seen on the \"starry sky\" histology.",
+        "whyWrongByChoice": {
+          "B": "t(9;22), the Philadelphia chromosome, is associated with chronic myeloid leukemia, not Burkitt lymphoma.",
+          "C": "t(11;22) is associated with Ewing sarcoma, not Burkitt lymphoma.",
+          "D": "t(14;18) is associated with follicular lymphoma (BCL2), not Burkitt lymphoma.",
+          "E": "t(15;17) is associated with acute promyelocytic leukemia, not Burkitt lymphoma."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "CAR-T",
-        "CD19",
-        "antigen-escape"
+        "EBV",
+        "Burkitt lymphoma",
+        "translocation"
       ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
       "tier": "core"
     },
     {
-      "id": "pa30-009",
-      "stem": "In a melanoma, highly immunogenic tumor subclones are eliminated by the host immune system, while other subclones that have lost or downregulated their surface antigens survive and expand. Which mechanism of immune evasion does this describe?",
+      "id": "pa34-012",
+      "stem": "A 26-year-old sexually active man presents with soft, cauliflower-like growths on the genitals. Biopsy shows a benign papillary proliferation of squamous epithelium without invasion. Which of the following HPV serotypes are most likely responsible for these lesions?",
       "choices": [
         {
           "label": "A",
-          "text": "Antigen masking by glycocalyx"
+          "text": "HPV 6 and 11"
         },
         {
           "label": "B",
-          "text": "Checkpoint engagement via PD-L1"
+          "text": "HPV 16 and 18"
         },
         {
           "label": "C",
-          "text": "Immunosuppression by TGF-beta"
+          "text": "HPV 16 and 31"
         },
         {
           "label": "D",
-          "text": "Lack of co-stimulation"
+          "text": "HPV 18 and 33"
         },
         {
           "label": "E",
-          "text": "Outgrowth of antigen variants"
+          "text": "HPV 31 and 33"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Selective survival of antigen-negative subclones is the outgrowth of antigen variants.",
-        "whyCorrect": "If a subclone is highly immunogenic it is eliminated, whereas some tumor subclones lose expression of a surface antigen or downregulate antigen expression so they are not recognized by immune cells. This has been observed in cancers such as melanoma.",
+        "summary": "Low-risk HPV serotypes 6 and 11 cause genital warts (condyloma acuminata) that do not commonly progress to cancer.",
+        "whyCorrect": "Low-risk HPV serotypes 6 and 11 cause genital warts (condyloma acuminata) and squamous papillomas of the larynx (laryngeal papillomatosis). These are composed of a benign papillary proliferation of squamous epithelium and do not commonly progress to cancer because they do not produce the E6 and E7 oncoproteins.",
         "whyWrongByChoice": {
-          "A": "Antigen masking hides antigens under a glycocalyx coat; here the antigens are actually lost, not covered.",
-          "B": "PD-L1 checkpoint engagement inhibits T cells directly and does not describe subclone selection.",
-          "C": "TGF-beta immunosuppression is cytokine-mediated and does not involve selection of antigen-negative subclones.",
-          "D": "Lack of co-stimulation causes T cell anergy/apoptosis and is distinct from loss of tumor antigen."
+          "B": "HPV 16 and 18 are high-risk serotypes that produce E6/E7 and cause squamous cell carcinomas, not benign genital warts.",
+          "C": "HPV 16 and 31 are both high-risk carcinogenic serotypes, not the cause of benign genital warts.",
+          "D": "HPV 18 and 33 are both high-risk carcinogenic serotypes, not the cause of benign genital warts.",
+          "E": "HPV 31 and 33 are high-risk serotypes associated with carcinoma, not benign condyloma acuminata."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "antigen-variants",
-        "melanoma",
-        "tumor-heterogeneity"
+        "HPV",
+        "condyloma acuminata",
+        "low-risk serotypes"
       ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
-      "tier": "core"
-    },
-    {
-      "id": "pa30-010",
-      "stem": "A medical student reads that a normal function of the immune system is to constantly scan the body for emerging malignant cells and destroy them, and that avoiding this process is one of the hallmarks of cancer. This normal protective function is best described by which of the following terms?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Anergy"
-        },
-        {
-          "label": "B",
-          "text": "Antigen masking"
-        },
-        {
-          "label": "C",
-          "text": "Cachexia"
-        },
-        {
-          "label": "D",
-          "text": "Immune checkpoint blockade"
-        },
-        {
-          "label": "E",
-          "text": "Immune surveillance"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Immune surveillance is the immune system's continuous scanning for and destruction of malignant cells.",
-        "whyCorrect": "The term immune surveillance implies that a normal function of the immune system is to constantly scan the body for emerging malignant cells and destroy them; avoiding immune destruction is one of the hallmarks of cancer.",
-        "whyWrongByChoice": {
-          "A": "Anergy is an unresponsive state of T cells that lack co-stimulation, not immune scanning.",
-          "B": "Antigen masking is a tumor evasion strategy, not a normal immune function.",
-          "C": "Cachexia is the wasting syndrome associated with TNF-alpha in malignancy, unrelated to immune scanning.",
-          "D": "Checkpoint blockade is a therapy that uses antibodies against CTLA-4 and PD-L1, not the normal scanning function."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "immune-surveillance",
-        "hallmarks-of-cancer"
-      ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
-      "tier": "core"
-    },
-    {
-      "id": "pa30-011",
-      "stem": "A patient with advanced malignancy develops profound weight loss and muscle wasting. A cytokine elevated in this patient is known to cause cachexia in malignancy and to recruit white blood cells, and it is distinct from the immunosuppressive cytokine that tumors use to evade immunity. Which of the following cytokines is most likely responsible for the wasting?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "FasL"
-        },
-        {
-          "label": "B",
-          "text": "Interleukin-2"
-        },
-        {
-          "label": "C",
-          "text": "PD-L1"
-        },
-        {
-          "label": "D",
-          "text": "TGF-beta"
-        },
-        {
-          "label": "E",
-          "text": "TNF-alpha"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "TNF-alpha causes cachexia in malignancy and recruits white blood cells.",
-        "whyCorrect": "The brick notes that TNF-alpha causes cachexia in malignancy and leads to white blood cell recruitment, distinguishing it from TGF-beta, the immunosuppressant tumors secrete to evade immunity.",
-        "whyWrongByChoice": {
-          "A": "FasL is a death-inducing surface ligand that triggers T cell apoptosis, not a cause of cachexia.",
-          "B": "Interleukin-2 activates and expands T cells and does not cause cachexia.",
-          "C": "PD-L1 is a checkpoint ligand on tumor cells, not a cytokine that causes wasting.",
-          "D": "TGF-beta is the immunosuppressive cytokine that downregulates immune lineages; it is not the cause of cachexia described here."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "TNF-alpha",
-        "cachexia",
-        "cytokines"
-      ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
-      "tier": "core"
-    },
-    {
-      "id": "pa30-012",
-      "stem": "A newer class of cancer therapy, described as checkpoint blockade, uses antibodies to restore T cell function against tumors. Against which of the following pairs of targets are these checkpoint-blockade antibodies directed?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "CD28 and B7"
-        },
-        {
-          "label": "B",
-          "text": "CTLA-4 and PD-L1"
-        },
-        {
-          "label": "C",
-          "text": "Fas and FasL"
-        },
-        {
-          "label": "D",
-          "text": "MHC class I and MHC class II"
-        },
-        {
-          "label": "E",
-          "text": "TGF-beta and TNF-alpha"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Checkpoint blockade uses antibodies against CTLA-4 and PD-L1 to restore T cell function.",
-        "whyCorrect": "New cancer therapy known as checkpoint blockade uses antibodies against CTLA-4 and PD-L1 to restore T cell function; it is now approved for advanced-stage solid tumors and some forms of lymphoma.",
-        "whyWrongByChoice": {
-          "A": "CD28 and B7 are activating co-stimulatory molecules; blocking them would suppress, not restore, T cell function.",
-          "C": "Fas and FasL mediate apoptosis and are not the targets of approved checkpoint-blockade therapy.",
-          "D": "MHC class I and II present antigen and are not the targets of checkpoint-blockade antibodies.",
-          "E": "TGF-beta and TNF-alpha are cytokines and are not the checkpoint targets named for this therapy."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "checkpoint-blockade",
-        "CTLA-4",
-        "PD-L1"
-      ],
-      "topicId": "cancer-immune-evasion",
-      "topicName": "Cancer Immune Evasion",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-associated Neoplasms",
       "tier": "core"
     },
     {
@@ -2254,573 +2259,6 @@
       ],
       "topicId": "epidemiology-of-cancer",
       "topicName": "Epidemiology of Cancer",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-001",
-      "stem": "A 13-year-old boy whose family recently emigrated from Uganda is brought to clinic with a rapidly enlarging mass of the mandible. Biopsy shows sheets of monomorphic, mitotically active B cells with interspersed tingible body macrophages producing a \"starry sky\" appearance. Which of the following pathogens is most strongly associated with this child's tumor?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epstein-Barr virus"
-        },
-        {
-          "label": "B",
-          "text": "Helicobacter pylori"
-        },
-        {
-          "label": "C",
-          "text": "Human papillomavirus"
-        },
-        {
-          "label": "D",
-          "text": "Human T-cell leukemia virus type 1"
-        },
-        {
-          "label": "E",
-          "text": "Schistosoma haematobium"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Endemic Burkitt lymphoma classically presents as a pediatric jaw mass in Africa and is strongly associated with EBV.",
-        "whyCorrect": "The African (endemic) subtype of Burkitt lymphoma typically presents in children as a large mandibular mass and is virtually always EBV-positive (EBV identified in >90% of endemic cases). The \"starry sky\" histology of neoplastic B cells with tingible body macrophages is characteristic.",
-        "whyWrongByChoice": {
-          "B": "H. pylori is associated with gastric adenocarcinoma and MALT lymphoma of the stomach, not a pediatric jaw mass.",
-          "C": "HPV causes squamous lesions such as warts and squamous cell carcinomas, not Burkitt lymphoma.",
-          "D": "HTLV-1 causes adult T-cell leukemia/lymphoma, a malignancy of CD4+ T cells, not a B-cell jaw tumor in children.",
-          "E": "S. haematobium is associated with squamous cell carcinoma of the bladder, not lymphoma."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "EBV",
-        "Burkitt lymphoma",
-        "oncogenic viruses"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-002",
-      "stem": "A 58-year-old man reports abdominal pain after meals, nausea, frequent burping, and unintentional weight loss. Testing confirms infection with a curved gram-negative rod that, if left untreated, can progress to gastric cancer. Which of the following best describes the mechanism by which this organism promotes neoplastic transformation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Altered regulation of vascular endothelial growth factor"
-        },
-        {
-          "label": "B",
-          "text": "Chronic mucosal inflammation"
-        },
-        {
-          "label": "C",
-          "text": "E6-mediated inactivation of p53"
-        },
-        {
-          "label": "D",
-          "text": "E7-mediated inactivation of Rb"
-        },
-        {
-          "label": "E",
-          "text": "Expression of the Tax oncoprotein"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "H. pylori drives gastric carcinogenesis through longstanding chronic inflammation of the mucosa.",
-        "whyCorrect": "Conflict between H. pylori and the host immune system produces chronic gastritis; this longstanding inflammatory damage and resultant epithelial proliferation lead to a step-wise cascade toward gastric adenocarcinoma and MALT lymphoma.",
-        "whyWrongByChoice": {
-          "A": "Altered VEGF regulation is the mechanism of HHV-8 in Kaposi sarcoma, not of H. pylori.",
-          "C": "E6 inactivation of p53 is a mechanism of high-risk HPV, not H. pylori.",
-          "D": "E7 inactivation of Rb is a mechanism of high-risk HPV, not H. pylori.",
-          "E": "The Tax oncoprotein is implicated in HTLV-1-driven adult T-cell leukemia/lymphoma."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "H. pylori",
-        "gastric adenocarcinoma",
-        "chronic inflammation"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-003",
-      "stem": "A pathologist reviews sequential gastric biopsies from a patient with chronic H. pylori infection to document the precancerous cascade. Which of the following histologic changes occurs immediately before the development of invasive gastric adenocarcinoma?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Atrophy"
-        },
-        {
-          "label": "B",
-          "text": "Dysplasia"
-        },
-        {
-          "label": "C",
-          "text": "Hyperplasia"
-        },
-        {
-          "label": "D",
-          "text": "Hypertrophy"
-        },
-        {
-          "label": "E",
-          "text": "Intestinal metaplasia"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Dysplasia is the pre-malignant step that directly precedes invasive gastric adenocarcinoma.",
-        "whyCorrect": "In the H. pylori cascade, chronic gastritis leads to atrophic gastritis, then intestinal metaplasia, then dysplasia (enlarged, hyperchromatic, crowded nuclei). When dysplastic cells invade surrounding tissue, invasive gastric adenocarcinoma is formed, so dysplasia is the last step before invasion.",
-        "whyWrongByChoice": {
-          "A": "Atrophic gastritis occurs earlier in the cascade, before intestinal metaplasia and dysplasia.",
-          "C": "Hyperplasia is not the identified step in this cascade and does not directly precede invasion.",
-          "D": "Hypertrophy is not a step described in the gastric precancerous cascade.",
-          "E": "Intestinal metaplasia (goblet and Paneth cells) precedes dysplasia, not invasion directly."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "H. pylori",
-        "gastric cascade",
-        "dysplasia"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-004",
-      "stem": "A 34-year-old woman has an abnormal Pap smear, and cervical biopsy reveals non-keratinizing squamous cell carcinoma. The lesion is driven by a virus that produces two oncoproteins not made by low-risk serotypes. Which of the following best describes the action of these oncoproteins?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "They inactivate p53 and Rb, removing the G1-to-S checkpoint"
-        },
-        {
-          "label": "B",
-          "text": "They incorporate viral DNA directly into the hepatocyte genome"
-        },
-        {
-          "label": "C",
-          "text": "They inhibit apoptosis while driving CD4+ T-cell proliferation"
-        },
-        {
-          "label": "D",
-          "text": "They stimulate transcription of viral RNA to expand T cells"
-        },
-        {
-          "label": "E",
-          "text": "They upregulate VEGF to promote angiogenesis"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "High-risk HPV E6 and E7 oncoproteins inactivate p53 and Rb, permitting uncontrolled proliferation.",
-        "whyCorrect": "High-risk HPV serotypes (16, 18, 31, 33) produce E6 and E7 oncoproteins. E6 inactivates p53 and E7 inactivates Rb; without normal p53 and Rb function the cell cycle proceeds through the G1-to-S transition unchecked, permitting uncontrolled proliferation that, with accumulated mutations, progresses to carcinoma.",
-        "whyWrongByChoice": {
-          "B": "Incorporation of viral DNA into hepatocytes describes HBV, not HPV.",
-          "C": "Inhibiting apoptosis while driving CD4+ T-cell proliferation describes the HTLV-1 HBZ protein.",
-          "D": "Stimulating transcription of viral RNA to expand T cells describes the HTLV-1 Tax protein.",
-          "E": "VEGF upregulation and angiogenesis is the HHV-8/Kaposi sarcoma mechanism."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "HPV",
-        "E6 E7",
-        "p53 Rb",
-        "cervical carcinoma"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-005",
-      "stem": "A 32-year-old man receiving antiretroviral therapy for HIV presents with multiple red-violet, raised plaques on his arms that continue to grow. Biopsy shows a proliferation of neoplastic vascular channels. The causative virus promotes this tumor primarily by which of the following mechanisms?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Binding of the CD21 surface marker on resting B lymphocytes"
-        },
-        {
-          "label": "B",
-          "text": "Chronic inflammation of the bladder urothelial epithelium"
-        },
-        {
-          "label": "C",
-          "text": "Continuous activation of VEGF-driven angiogenesis"
-        },
-        {
-          "label": "D",
-          "text": "Inactivation of p53 by the E6 oncoprotein of the virus"
-        },
-        {
-          "label": "E",
-          "text": "Integration of viral DNA into the host hepatocyte genome"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "HHV-8 causes Kaposi sarcoma by deregulating VEGF, driving angiogenesis.",
-        "whyCorrect": "Kaposi sarcoma is caused by HHV-8, which alters regulation of VEGF. VEGF drives angiogenesis, and its continuous activation leads to proliferating mesenchymal/endothelial cells that form a vascular sarcoma, appearing as red-violet skin lesions, especially in immunosuppressed patients with AIDS.",
-        "whyWrongByChoice": {
-          "A": "CD21 binding on B lymphocytes describes EBV, not HHV-8.",
-          "B": "Chronic bladder inflammation describes Schistosoma haematobium, not HHV-8.",
-          "D": "E6 inactivation of p53 is a high-risk HPV mechanism, not HHV-8.",
-          "E": "Integration of viral DNA into hepatocytes describes HBV in hepatocellular carcinoma."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "HHV-8",
-        "Kaposi sarcoma",
-        "VEGF",
-        "HIV"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-006",
-      "stem": "A 24-year-old man presents with painless, enlarging cervical and mediastinal lymphadenopathy. Lymph node biopsy shows large malignant cells with a bilobed nucleus and prominent eosinophilic nucleoli described as \"owl eye\" cells. Which of the following viruses is most commonly associated with this malignancy?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epstein-Barr virus"
-        },
-        {
-          "label": "B",
-          "text": "Hepatitis B virus"
-        },
-        {
-          "label": "C",
-          "text": "Hepatitis C virus"
-        },
-        {
-          "label": "D",
-          "text": "Human papillomavirus"
-        },
-        {
-          "label": "E",
-          "text": "Human T-cell leukemia virus type 1"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Reed-Sternberg 'owl eye' cells indicate classic Hodgkin lymphoma, ~50% of which are EBV-associated.",
-        "whyCorrect": "The bilobed \"owl eye\" Reed-Sternberg cell is the key histologic finding of classic Hodgkin lymphoma, which typically presents with painless supradiaphragmatic lymphadenopathy. Approximately 50% of classic Hodgkin lymphoma cases are related to EBV infection.",
-        "whyWrongByChoice": {
-          "B": "HBV is associated with hepatocellular carcinoma, not Hodgkin lymphoma.",
-          "C": "HCV is associated with hepatocellular carcinoma, not Reed-Sternberg cells.",
-          "D": "HPV causes squamous lesions and carcinomas, not Hodgkin lymphoma.",
-          "E": "HTLV-1 causes adult T-cell leukemia/lymphoma, which shows a flower-shaped nucleus, not owl eye cells."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "EBV",
-        "Hodgkin lymphoma",
-        "Reed-Sternberg"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-007",
-      "stem": "A 47-year-old man from southern Japan develops fatigue, hypercalcemia, and lymphadenopathy. A peripheral smear shows malignant CD4+ T cells, some with a characteristic multi-lobated, flower-shaped nucleus. Which of the following viruses is most likely responsible?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epstein-Barr virus, a herpesvirus"
-        },
-        {
-          "label": "B",
-          "text": "Helicobacter pylori, a gastric organism"
-        },
-        {
-          "label": "C",
-          "text": "Human herpesvirus 8, a gammaherpesvirus"
-        },
-        {
-          "label": "D",
-          "text": "Human papillomavirus, a DNA virus"
-        },
-        {
-          "label": "E",
-          "text": "Human T-cell leukemia virus type 1"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "A flower-shaped nucleus in a malignancy of CD4+ T cells signals HTLV-1-associated adult T-cell leukemia/lymphoma.",
-        "whyCorrect": "HTLV-1 is a retrovirus endemic to regions including Japan that shows tropism for CD4+ T cells. It causes adult T-cell leukemia/lymphoma (ATLL); in the acute phase, a characteristic multi-lobated, flower-shaped nucleus may be seen. Neoplastic transformation is linked to the viral Tax and HBZ proteins.",
-        "whyWrongByChoice": {
-          "A": "EBV is associated with Hodgkin lymphoma, Burkitt lymphoma, and nasopharyngeal carcinoma, not the flower cell.",
-          "B": "H. pylori is a bacterium associated with gastric adenocarcinoma and MALT lymphoma, not ATLL.",
-          "C": "HHV-8 causes Kaposi sarcoma and primary effusion lymphoma, not ATLL.",
-          "D": "HPV causes squamous lesions and carcinomas, not a T-cell leukemia."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "HTLV-1",
-        "ATLL",
-        "flower cell"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-008",
-      "stem": "A 55-year-old man with a history of intravenous drug use has chronic hepatitis progressing to cirrhosis. Imaging reveals a liver mass, and biopsy shows plump, eosinophilic polygonal cells with nuclear atypia that resemble hepatocytes. Which of the following best explains the development of this malignancy?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bacterial-driven intestinal metaplasia"
-        },
-        {
-          "label": "B",
-          "text": "Deregulation of VEGF signaling"
-        },
-        {
-          "label": "C",
-          "text": "E7-mediated inactivation of Rb"
-        },
-        {
-          "label": "D",
-          "text": "Longstanding inflammatory damage"
-        },
-        {
-          "label": "E",
-          "text": "Tropism of the virus for CD4+ T cells"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Chronic HCV (or HBV) infection causes hepatocellular carcinoma through longstanding inflammatory damage and cirrhosis.",
-        "whyCorrect": "HCV is transmitted commonly by IV drug use, and about 60-80% of infections become chronic. Long-term inflammation and cellular injury evolve to cirrhosis and damage cellular DNA, with reactive oxygen species and increased hepatocyte proliferation, resulting in hepatocellular carcinoma composed of plump, eosinophilic malignant hepatocytes.",
-        "whyWrongByChoice": {
-          "A": "Bacterial-driven intestinal metaplasia describes H. pylori in the stomach, not HCV in the liver.",
-          "B": "VEGF deregulation is the HHV-8/Kaposi sarcoma mechanism.",
-          "C": "E7 inactivation of Rb is a high-risk HPV mechanism, not a hepatitis virus mechanism.",
-          "E": "Tropism for CD4+ T cells describes HTLV-1, not a hepatitis virus."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "HCV",
-        "HBV",
-        "hepatocellular carcinoma",
-        "cirrhosis"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-009",
-      "stem": "A 40-year-old man who spent years in North Africa presents with painless hematuria. Cystoscopy shows a bladder mass, and biopsy reveals squamous cell carcinoma with adjacent parasitic eggs bearing a terminal spine. Which of the following organisms is most likely responsible?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epstein-Barr virus"
-        },
-        {
-          "label": "B",
-          "text": "Helicobacter pylori"
-        },
-        {
-          "label": "C",
-          "text": "Hepatitis B virus"
-        },
-        {
-          "label": "D",
-          "text": "Human papillomavirus"
-        },
-        {
-          "label": "E",
-          "text": "Schistosoma haematobium"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "S. haematobium has an affinity for the bladder and causes squamous cell carcinoma via chronic inflammation.",
-        "whyCorrect": "Schistosoma haematobium is a parasitic flatworm that has an affinity for the bladder, where it causes urinary schistosomiasis. Cyclical infection and immune response drive chronic inflammation and reactive oxygen species that damage DNA; over time the bladder epithelium undergoes metaplasia, dysplasia, and finally squamous cell carcinoma. Its eggs are recognized by a terminal spine.",
-        "whyWrongByChoice": {
-          "A": "EBV is associated with lymphomas and nasopharyngeal carcinoma, not bladder cancer.",
-          "B": "H. pylori affects the stomach (adenocarcinoma, MALT lymphoma), not the bladder.",
-          "C": "HBV causes hepatocellular carcinoma, not bladder squamous cell carcinoma.",
-          "D": "While HPV causes squamous carcinomas at other sites, the parasitic eggs with a terminal spine identify Schistosoma."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Schistosoma haematobium",
-        "bladder cancer",
-        "parasite"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-010",
-      "stem": "A 62-year-old woman has epigastric discomfort, and gastric biopsy shows an increased population of small, neoplastic B cells consistent with extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue. Testing is positive for H. pylori. Which of the following statements about her condition is most accurate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A substantial proportion of cases are cured by antibiotic eradication of the infection"
-        },
-        {
-          "label": "B",
-          "text": "The lesion characteristically shows binucleate Reed-Sternberg cells"
-        },
-        {
-          "label": "C",
-          "text": "The malignant cells are CD4+ T cells with multi-lobated nuclei"
-        },
-        {
-          "label": "D",
-          "text": "The tumor arises from neoplastic vascular endothelial channels driven by HHV-8"
-        },
-        {
-          "label": "E",
-          "text": "The tumor is driven by the E6 and E7 oncoproteins of high-risk HPV"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Gastric MALT lymphoma is H. pylori-associated, and many cases regress after antibiotic eradication.",
-        "whyCorrect": "Extranodal marginal zone (MALT) lymphoma of the stomach is associated with H. pylori infection secondary to chronic bacterial-driven immune stimulation. Histology shows an increased population of small neoplastic B cells, and a substantial proportion of H. pylori-associated MALT lymphoma cases are cured following H. pylori eradication with antibiotics.",
-        "whyWrongByChoice": {
-          "B": "Reed-Sternberg cells characterize Hodgkin lymphoma, not MALT lymphoma.",
-          "C": "MALT lymphoma is a B-cell neoplasm; CD4+ T-cell malignancy describes HTLV-1-associated ATLL.",
-          "D": "Neoplastic vascular channels describe Kaposi sarcoma, not MALT lymphoma.",
-          "E": "E6 and E7 oncoproteins drive high-risk HPV carcinomas, not gastric MALT lymphoma."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "H. pylori",
-        "MALT lymphoma",
-        "antibiotic eradication"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-011",
-      "stem": "A pediatric oncologist confirms Burkitt lymphoma in a young patient, noting a highly proliferative B-cell tumor. Which of the following chromosomal translocations is classically associated with this lymphoma?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "t(8;14)"
-        },
-        {
-          "label": "B",
-          "text": "t(9;22)"
-        },
-        {
-          "label": "C",
-          "text": "t(11;22)"
-        },
-        {
-          "label": "D",
-          "text": "t(14;18)"
-        },
-        {
-          "label": "E",
-          "text": "t(15;17)"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Burkitt lymphoma is classically driven by the t(8;14) translocation.",
-        "whyCorrect": "Burkitt lymphoma is a highly mitotically active non-Hodgkin B-cell lymphoma classically associated with the t(8;14) translocation, which places the MYC oncogene under the influence of the immunoglobulin heavy-chain promoter, driving the aggressive proliferation seen on the \"starry sky\" histology.",
-        "whyWrongByChoice": {
-          "B": "t(9;22), the Philadelphia chromosome, is associated with chronic myeloid leukemia, not Burkitt lymphoma.",
-          "C": "t(11;22) is associated with Ewing sarcoma, not Burkitt lymphoma.",
-          "D": "t(14;18) is associated with follicular lymphoma (BCL2), not Burkitt lymphoma.",
-          "E": "t(15;17) is associated with acute promyelocytic leukemia, not Burkitt lymphoma."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "EBV",
-        "Burkitt lymphoma",
-        "translocation"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
-    },
-    {
-      "id": "pa34-012",
-      "stem": "A 26-year-old sexually active man presents with soft, cauliflower-like growths on the genitals. Biopsy shows a benign papillary proliferation of squamous epithelium without invasion. Which of the following HPV serotypes are most likely responsible for these lesions?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "HPV 6 and 11"
-        },
-        {
-          "label": "B",
-          "text": "HPV 16 and 18"
-        },
-        {
-          "label": "C",
-          "text": "HPV 16 and 31"
-        },
-        {
-          "label": "D",
-          "text": "HPV 18 and 33"
-        },
-        {
-          "label": "E",
-          "text": "HPV 31 and 33"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Low-risk HPV serotypes 6 and 11 cause genital warts (condyloma acuminata) that do not commonly progress to cancer.",
-        "whyCorrect": "Low-risk HPV serotypes 6 and 11 cause genital warts (condyloma acuminata) and squamous papillomas of the larynx (laryngeal papillomatosis). These are composed of a benign papillary proliferation of squamous epithelium and do not commonly progress to cancer because they do not produce the E6 and E7 oncoproteins.",
-        "whyWrongByChoice": {
-          "B": "HPV 16 and 18 are high-risk serotypes that produce E6/E7 and cause squamous cell carcinomas, not benign genital warts.",
-          "C": "HPV 16 and 31 are both high-risk carcinogenic serotypes, not the cause of benign genital warts.",
-          "D": "HPV 18 and 33 are both high-risk carcinogenic serotypes, not the cause of benign genital warts.",
-          "E": "HPV 31 and 33 are high-risk serotypes associated with carcinoma, not benign condyloma acuminata."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "HPV",
-        "condyloma acuminata",
-        "low-risk serotypes"
-      ],
-      "topicId": "pathogen-associated-neoplasms",
-      "topicName": "Pathogen-associated Neoplasms",
       "tier": "core"
     }
   ]
