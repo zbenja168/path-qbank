@@ -1,6 +1,47 @@
 {
   "categories": [
     {
+      "id": "w1_hist",
+      "name": "Histology",
+      "topics": [
+        {
+          "id": "introduction-to-histology-and-histology-of-connective-tissue",
+          "name": "Introduction to Histology and Histology of Connective Tissue",
+          "sourceFile": "Path Brick 37",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "histology-of-muscle-and-nervous-tissue",
+          "name": "Histology of Muscle and Nervous Tissue",
+          "sourceFile": "Path Brick 38",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "histology-of-epithelial-tissue-1-of-2",
+          "name": "Histology of Epithelial Tissue (1 of 2)",
+          "sourceFile": "Path Brick 39",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "histology-of-epithelial-tissue-2-of-2",
+          "name": "Histology of Epithelial Tissue (2 of 2)",
+          "sourceFile": "Path Brick 40",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
       "id": "w1s1",
       "name": "Session 1",
       "topics": [
@@ -199,6 +240,14 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        },
+        {
+          "id": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+          "name": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+          "sourceFile": "Path Brick 41",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
         }
       ],
       "week": 2,
@@ -370,5 +419,5 @@
       "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 1224
+  "totalQuestions": 1404
 }

@@ -2834,6 +2834,570 @@
       "topicId": "chronic-infections-2-lyme-hiv-aids",
       "topicName": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
       "tier": "core"
+    },
+    {
+      "id": "pa41-001",
+      "stem": "A 34-year-old man develops a painful, fluctuant swelling on his thigh several days after a scrape. Incision drains thick yellow material, and culture grows gram-positive cocci in clusters consistent with staphylococci. Which cell type would most likely dominate the inflammatory infiltrate in the lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epithelioid macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Multinucleated giant cells"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Plasma cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pyogenic bacteria such as staphylococci elicit suppurative inflammation dominated by neutrophils.",
+        "whyCorrect": "Suppurative (purulent) inflammation follows increased vascular permeability that lets leukocytes infiltrate, and the infiltrate is dominated by neutrophils. Pyogenic, pus-forming bacteria such as staphylococci are the most common cause. The neutrophil is therefore the cell that best distinguishes suppurative from mononuclear inflammation.",
+        "whyWrongByChoice": {
+          "A": "Epithelioid macrophages characterize granulomatous inflammation, not a pyogenic abscess.",
+          "B": "Lymphocytes dominate chronic (mononuclear) inflammation, as in viral infections, syphilis, or Sjogren disease.",
+          "C": "Multinucleated giant cells form from fused macrophages in granulomas, not in suppurative inflammation.",
+          "E": "Plasma cells accompany lymphocytes in lymphoplasmacytic inflammation such as primary and secondary syphilis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "suppurative inflammation",
+        "abscess",
+        "neutrophils"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-002",
+      "stem": "A 58-year-old man has a destructive lesion of the palate. He reports a painless genital ulcer about 18 years ago that was never treated, and treponemal serology is positive. Which histologic pattern would a biopsy of the palatal lesion most likely show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense fibrosis without inflammatory cells"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation (a gumma)"
+        },
+        {
+          "label": "C",
+          "text": "Multinucleation with nuclear molding"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil-rich abscess with pus"
+        },
+        {
+          "label": "E",
+          "text": "Perivascular lymphoplasmacytic infiltrate only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tertiary syphilis, years to decades after untreated infection, shifts to a granulomatous pattern called a gumma.",
+        "whyCorrect": "In primary and secondary syphilis, lymphocytes and plasma cells predominate around blood vessels. Tertiary syphilis occurs at least 5 years and often 15-20 years after an untreated infection, and the inflammation becomes granulomatous; these granulomas are clinically called gummas. An 18-year interval places this lesion in the tertiary stage.",
+        "whyWrongByChoice": {
+          "A": "Scarring occurs with chronic inflammation, but tertiary syphilis is defined by granulomatous inflammation.",
+          "C": "Multinucleation with nuclear molding is a viral cytopathic change, as in HSV infection.",
+          "D": "Neutrophil-rich abscesses reflect pyogenic bacteria such as staphylococci, not Treponema pallidum.",
+          "E": "A purely perivascular lymphoplasmacytic pattern is the picture of primary and secondary syphilis, not the tertiary stage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "syphilis",
+        "gumma",
+        "granulomatous inflammation"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-003",
+      "stem": "A 47-year-old man has an upper-lobe lung nodule. Biopsy shows granulomas with central necrosis and multinucleated giant cells. The pathologist wants to evaluate whether mycobacteria are present within the granulomas. Which special stain is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acid-fast bacilli (AFB) stain"
+        },
+        {
+          "label": "B",
+          "text": "Examination under polarized light"
+        },
+        {
+          "label": "C",
+          "text": "Immunofluorescence for IgA"
+        },
+        {
+          "label": "D",
+          "text": "Prussian blue iron stain"
+        },
+        {
+          "label": "E",
+          "text": "Silver stain for spirochetes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An AFB stain highlights mycobacteria, whose mycolic acid-rich waxy wall retains stain after acid alcohol.",
+        "whyCorrect": "Mycobacterium tuberculosis is an aerobic rod whose waxy cell wall contains mycolic acid, which lets it retain stain after treatment with acid alcohol; hence it is 'acid-fast.' An AFB stain is used to evaluate whether mycobacteria are present in a granuloma, especially one with central (caseous) necrosis.",
+        "whyWrongByChoice": {
+          "B": "Polarized light reveals birefringent foreign material such as talc, not mycobacteria.",
+          "C": "IgA immunofluorescence demonstrates the deposits of Henoch-Schonlein purpura.",
+          "D": "Prussian blue highlights hemosiderin in macrophages after hemorrhage, as in Goodpasture syndrome.",
+          "E": "Silver staining shows the corkscrew spirochetes of Treponema pallidum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tuberculosis",
+        "AFB stain",
+        "caseating granuloma"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-004",
+      "stem": "A 29-year-old man with a history of injecting crushed pills and heroin has progressive dyspnea. Lung biopsy shows epithelioid and multinucleated giant cells clustered near small blood vessels around white, jagged particles that appear bright under polarized light. Which is the most likely cause of these granulomas?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fungal infection of the lung"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "C",
+          "text": "Mycobacterium tuberculosis infection"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoidosis of the lung"
+        },
+        {
+          "label": "E",
+          "text": "Talc foreign body reaction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Injected drugs can carry talc into the lungs, provoking a perivascular foreign body granulomatous reaction with birefringent material.",
+        "whyCorrect": "Inhaled or injected drugs such as heroin or cocaine can introduce foreign material such as talc into the bloodstream and lungs. Classically, the foreign body granulomatous reaction is seen near blood vessels, and the birefringent material (two refractive indices) appears bright under polarized light.",
+        "whyWrongByChoice": {
+          "A": "Fungi can cause granulomas, but they do not account for bright, jagged polarizable material.",
+          "B": "GPA shows necrotizing granulomatous vasculitis with PR3-ANCA, not birefringent particles.",
+          "C": "Tuberculous granulomas show caseous necrosis and acid-fast organisms, not polarizable particles.",
+          "D": "Sarcoidosis forms non-necrotizing granulomas without foreign material and is a diagnosis of exclusion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "foreign body granuloma",
+        "talc",
+        "polarized light"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-005",
+      "stem": "A 25-year-old woman has painful vesicles on the vulva. A smear from the base of a lesion shows epithelial cells with several nuclei that press against and conform to one another, with chromatin condensed into dark peripheral rims. Which agent is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of HSV infection.",
+        "whyCorrect": "Viruses that replicate within cells produce a cytopathic-cytoproliferative reaction. In herpes simplex virus infection, cytopathic changes include multinucleation, nuclear molding (shape-conforming of adjacent nuclei) and nuclear margination (condensation of chromatin into dark peripheral rings). Damaged epithelium can detach with serous effusion, forming blisters.",
+        "whyWrongByChoice": {
+          "A": "Longstanding hepatitis B infection causes chronic inflammation and scarring of the liver (cirrhosis).",
+          "C": "HPV causes cell proliferation, producing verrucous warts rather than molded multinucleated cells.",
+          "D": "Staphylococci are pyogenic and produce neutrophil-rich suppurative inflammation.",
+          "E": "Treponema pallidum causes perivascular lymphoplasmacytic inflammation, not viral cytopathic change."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cytopathic change",
+        "HSV",
+        "viral infection"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-006",
+      "stem": "A 27-year-old woman has a butterfly-shaped rash across her cheeks, joint pain, oral ulcers and proteinuria. Testing shows antinuclear and anti-double-stranded DNA antibodies. Which mechanism is primarily responsible for her widespread tissue inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ANCA-driven neutrophil injury to endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Antibodies binding a fixed basement membrane protein"
+        },
+        {
+          "label": "C",
+          "text": "Helper T-cell activation of macrophages into granulomas"
+        },
+        {
+          "label": "D",
+          "text": "IgE-mediated mast cell degranulation"
+        },
+        {
+          "label": "E",
+          "text": "Immune complex deposition activating complement"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SLE is a type 3 hypersensitivity disease: immune complexes deposit and activate complement, causing widespread inflammation.",
+        "whyCorrect": "Systemic lupus erythematosus is due to a type 3 hypersensitivity reaction (immune complex deposition), which activates complement and leads to widespread inflammation. This accounts for its multiform presentation, including malar rash, arthritis, serositis, renal injury and oral ulcers.",
+        "whyWrongByChoice": {
+          "A": "ANCA (PR3) activation of neutrophils that damage endothelium is the mechanism of GPA.",
+          "B": "Antibodies against a basement membrane component (type IV collagen) cause Goodpasture syndrome.",
+          "C": "Helper T-cell activation of macrophages producing non-necrotizing granulomas describes sarcoidosis.",
+          "D": "IgE-mediated mast cell degranulation is not the mechanism of SLE."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SLE",
+        "type 3 hypersensitivity",
+        "immune complex"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-007",
+      "stem": "A 22-year-old man presents with coughing up blood, and chest imaging shows focal consolidations. Over the next two weeks his creatinine rises rapidly and urinalysis shows hematuria. He has no sinus or nasal symptoms. Circulating autoantibodies in this condition are most likely directed against which target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A component of type IV collagen"
+        },
+        {
+          "label": "B",
+          "text": "Double-stranded DNA in nuclei"
+        },
+        {
+          "label": "C",
+          "text": "Proteinase 3 in neutrophil granules"
+        },
+        {
+          "label": "D",
+          "text": "Smith (Sm) nuclear antigen"
+        },
+        {
+          "label": "E",
+          "text": "SS-A (Ro) and SS-B (La) antigens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Goodpasture syndrome is caused by autoantibodies to a component of type IV collagen, injuring lung and kidney.",
+        "whyCorrect": "Goodpasture (anti-glomerular basement membrane) syndrome is an uncommon autoimmune disease, most often in the teens or 20s and with a male predominance, in which circulating autoantibodies target a component of type IV collagen, the collagen of the basement membrane. Most cases begin with hemoptysis and lung consolidation from alveolar wall destruction, followed by glomerulonephritis that rapidly progresses to renal failure.",
+        "whyWrongByChoice": {
+          "B": "Anti-dsDNA antibodies support SLE, an immune complex disease.",
+          "C": "PR3-ANCA causes GPA, which classically also involves the upper respiratory tract.",
+          "D": "Anti-Sm antibodies are found in SLE, not in pulmonary-renal anti-basement membrane disease.",
+          "E": "SS-A (Ro) and SS-B (La) are the targets in Sjogren disease, which causes dry eyes and mouth."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Goodpasture syndrome",
+        "type IV collagen",
+        "pulmonary-renal"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-008",
+      "stem": "A 52-year-old woman has months of purulent and bloody nasal discharge and a collapsing nasal bridge. Chest imaging shows cavitary lung nodules, and urinalysis shows red cells with edema. Which laboratory finding is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-basement membrane collagen antibody"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA antibody"
+        },
+        {
+          "label": "C",
+          "text": "Anti-SS-A (Ro) antibody"
+        },
+        {
+          "label": "D",
+          "text": "Elevated serum angiotensin-converting enzyme"
+        },
+        {
+          "label": "E",
+          "text": "PR3-ANCA (previously c-ANCA)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "GPA presents with the upper respiratory, lung and kidney triad and is mediated by PR3-ANCA (previously c-ANCA).",
+        "whyCorrect": "Granulomatosis with polyangiitis is an autoimmune small-vessel vasculitis caused by antibodies to proteinase 3 (PR3-ANCA, previously c-ANCA). Its classic triad is upper respiratory tract, lung and kidney involvement: nasal or sinus inflammation causing purulent or bloody discharge and saddle nose deformity, lung nodules or cavities, and nephritic syndrome.",
+        "whyWrongByChoice": {
+          "A": "Anti-basement membrane antibodies cause Goodpasture syndrome, which spares the upper airway.",
+          "B": "Anti-dsDNA supports SLE, which does not cause saddle nose deformity or cavitary nodules.",
+          "C": "Anti-SS-A (Ro) is the antibody of Sjogren disease, which causes dry eyes and mouth.",
+          "D": "Elevated serum ACE supports sarcoidosis, which typically shows bilateral hilar lymphadenopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPA",
+        "PR3-ANCA",
+        "vasculitis"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-009",
+      "stem": "A 6-year-old boy has raised purpuric lesions on his buttocks and the extensor surfaces of his legs, crampy abdominal pain with blood in the stool, knee pain and microscopic hematuria. Skin biopsy shows small-vessel vasculitis with immune deposits. Which deposit composition is most characteristic of his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-dsDNA IgG with complement"
+        },
+        {
+          "label": "B",
+          "text": "IgA with complement C3"
+        },
+        {
+          "label": "C",
+          "text": "IgE bound to dermal mast cells"
+        },
+        {
+          "label": "D",
+          "text": "IgG against type IV collagen"
+        },
+        {
+          "label": "E",
+          "text": "PR3-ANCA with necrotizing granulomas"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Henoch-Schonlein purpura (IgA vasculitis) is an immune complex disease with IgA (with or without IgG) and C3.",
+        "whyCorrect": "Henoch-Schonlein purpura is a childhood syndrome (most common at 3-8 years) of purpuric skin lesions on the extensor arms and legs and buttocks, abdominal pain and intestinal bleeding, arthralgias and renal abnormalities. Like SLE it is due to immune complex deposition, but the complexes usually contain IgA, with or without IgG, and complement (C3).",
+        "whyWrongByChoice": {
+          "A": "Anti-dsDNA immune complexes point to SLE; the IgA-dominant complexes here define HSP.",
+          "C": "IgE bound to mast cells is not the deposit in this immune complex vasculitis.",
+          "D": "IgG against type IV collagen is the autoantibody of Goodpasture syndrome.",
+          "E": "PR3-ANCA with necrotizing granulomatous vasculitis defines GPA, which is not an IgA immune complex disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Henoch-Schonlein purpura",
+        "IgA vasculitis",
+        "immune complex"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-010",
+      "stem": "A 31-year-old African-American woman has cough and dyspnea. Chest x-ray shows bilateral hilar lymphadenopathy, and transbronchial biopsy shows non-necrotizing granulomas, one containing a star-shaped body within a cleared space. Serum ACE is elevated. Which statement best describes how a diagnosis of sarcoidosis is established?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A negative PPD skin test confirms it"
+        },
+        {
+          "label": "B",
+          "text": "An elevated serum ACE level confirms it"
+        },
+        {
+          "label": "C",
+          "text": "Asteroid bodies in histiocytes confirm it"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral hilar lymphadenopathy confirms it"
+        },
+        {
+          "label": "E",
+          "text": "Other causes such as infection must be excluded"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sarcoidosis is a diagnosis of exclusion; other causes of granulomas, such as infection, must be ruled out.",
+        "whyCorrect": "Sarcoidosis is an idiopathic systemic granulomatous disease, and its diagnosis is one of exclusion: every other possibility for the granulomatous inflammation, such as infectious etiologies, must be excluded. Asteroid bodies, bilateral hilar lymphadenopathy and an elevated serum ACE are supportive, but none is specific on its own.",
+        "whyWrongByChoice": {
+          "A": "A negative PPD alone does not exclude every infectious or other cause of granulomas.",
+          "B": "Elevated serum ACE is a helpful laboratory finding, not a confirmatory test.",
+          "C": "Asteroid bodies may be seen in sarcoidosis but are not specific.",
+          "D": "Bilateral hilar lymphadenopathy is the classic imaging finding but does not exclude other granulomatous causes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sarcoidosis",
+        "diagnosis of exclusion",
+        "granuloma"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-011",
+      "stem": "A 45-year-old woman has a solitary lung nodule. Biopsy shows a granuloma with central necrosis surrounded by epithelioid macrophages and giant cells. An AFB stain on the section is negative. Which conclusion is most appropriate at this point?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A foreign body reaction is confirmed by the giant cells"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune disease is excluded because necrosis is present"
+        },
+        {
+          "label": "C",
+          "text": "Fungal or parasitic infection remains in the differential"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoidosis is confirmed because the AFB stain is negative"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculosis is confirmed because necrosis is present"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Necrotic granulomas are not diagnostic of tuberculosis; fungi, parasites and immune-related diseases can also produce them.",
+        "whyCorrect": "Infectious granulomas often show central necrosis, but granulomas also form in response to certain fungi and parasites, so identifying necrotic granulomas is not diagnostic of tuberculosis. Some autoimmune granulomatous diseases also feature necrosis. The pattern narrows the differential rather than making the diagnosis, so other infectious causes must still be considered.",
+        "whyWrongByChoice": {
+          "A": "Giant cells occur in granulomas of many causes; a foreign body reaction needs identifiable foreign material.",
+          "B": "Some autoimmune granulomatous diseases, such as GPA, feature necrosis, so necrosis does not exclude them.",
+          "D": "Sarcoidosis produces non-necrotizing granulomas and requires excluding infection; a necrotic granuloma argues against it.",
+          "E": "Necrotic granulomas also occur with fungi, parasites and some autoimmune diseases, so necrosis alone does not confirm tuberculosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "granuloma",
+        "necrosis",
+        "differential diagnosis"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "pa41-012",
+      "stem": "A 40-year-old man has chronic sinus congestion with nasal crusting, recent hemoptysis and a creatinine that has doubled over three weeks. Urinalysis shows red cell casts. Which biopsy finding would most strongly support the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granulomas with acid-fast organisms"
+        },
+        {
+          "label": "B",
+          "text": "Mesangial IgA deposits on immunofluorescence"
+        },
+        {
+          "label": "C",
+          "text": "Necrotizing granulomatous inflammation of small vessels"
+        },
+        {
+          "label": "D",
+          "text": "Non-necrotizing granulomas with asteroid bodies"
+        },
+        {
+          "label": "E",
+          "text": "Perivascular lymphoplasmacytic cuffs with spirochetes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GPA shows a necrotizing granulomatous vasculitis of small-to-medium vessels with rapidly progressive glomerulonephritis.",
+        "whyCorrect": "Upper respiratory, lung and kidney involvement is the classic triad of granulomatosis with polyangiitis. Histologically GPA shows a necrotizing, granulomatous vasculitis of small-to-medium sized vessels, often with multinucleated giant cells, together with rapidly progressive glomerulonephritis.",
+        "whyWrongByChoice": {
+          "A": "Caseating granulomas with acid-fast organisms indicate tuberculosis, not vasculitis.",
+          "B": "Mesangial IgA deposits indicate Henoch-Schonlein purpura, which lacks upper airway disease and usually affects children.",
+          "D": "Non-necrotizing granulomas with asteroid bodies suggest sarcoidosis, which is not a necrotizing vasculitis.",
+          "E": "Perivascular lymphoplasmacytic cuffs with spirochetes indicate primary or secondary syphilis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "GPA",
+        "necrotizing granulomatous vasculitis",
+        "pulmonary-renal"
+      ],
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "tier": "core"
     }
   ]
 }
