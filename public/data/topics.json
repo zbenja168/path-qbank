@@ -101,14 +101,6 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
-        {
-          "id": "environmental-disease-physical-injury",
-          "name": "Environmental Disease: Physical and Environmental Injury",
-          "sourceFile": "Path Brick 10",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
         }
       ],
       "week": 1,
@@ -172,62 +164,6 @@
           "id": "transplant-rejection",
           "name": "Diseases of the Immune System: Transplant Rejection",
           "sourceFile": "Path Brick 23",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "introduction-to-infection",
-          "name": "Introduction to Infection",
-          "sourceFile": "Path Brick 15",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "introduction-to-infection-b18",
-          "name": "Introduction to Infection",
-          "sourceFile": "Path Brick 18",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
-        {
-          "id": "autoimmune-disease",
-          "name": "Diseases of the Immune System: Autoimmune Disease",
-          "sourceFile": "Path Brick 16",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "immune-mediated-damage-from-infections-and-granulomatous-diseases",
-          "name": "Immune-mediated Damage from Infections and Granulomatous Diseases",
-          "sourceFile": "Path Brick 17",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "infections-immunity-and-evading-host-defense",
-          "name": "Infections, Immunity, and Evading Host Defense",
-          "sourceFile": "Path Brick 19",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "chronic-infections-tuberculosis-and-syphilis",
-          "name": "Chronic Infections (1 of 2): Tuberculosis and Syphilis",
-          "sourceFile": "Path Brick 20",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "chronic-infections-2-lyme-hiv-aids",
-          "name": "Chronic Infections (2 of 2): Lyme Disease and HIV/AIDS",
-          "sourceFile": "Path Brick 21",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -349,14 +285,6 @@
       "name": "Session 3",
       "topics": [
         {
-          "id": "cancer-staging-and-grading-b35",
-          "name": "Cancer Staging and Grading",
-          "sourceFile": "Path Brick 35",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
-        {
           "id": "cancer-staging-and-grading",
           "name": "Cancer Staging and Grading",
           "sourceFile": "Path Brick 2",
@@ -371,61 +299,12 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
-        {
-          "id": "cancer-growth-and-metastasis",
-          "name": "Cancer Growth and Metastasis",
-          "sourceFile": "Path Brick 27",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "cancer-medications-overview",
-          "name": "Cancer Medications Overview",
-          "sourceFile": "Path Brick 36",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "cancer-immune-evasion",
-          "name": "Cancer Immune Evasion",
-          "sourceFile": "Path Brick 30",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
         }
       ],
       "week": 3,
       "weekName": "Week 3",
       "weekSubtitle": ""
-    },
-    {
-      "id": "more",
-      "name": "More topics",
-      "topics": [
-        {
-          "id": "hemodynamics-and-shock-foundations-and-frameworks",
-          "name": "Hemodynamics and Shock: Foundations and Frameworks",
-          "sourceFile": "Path Brick 12",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "thrombosis-and-its-consequences",
-          "name": "Thrombosis and its Consequences",
-          "sourceFile": "Path Brick 13",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ],
-      "week": 4,
-      "weekName": "More",
-      "weekSubtitle": "Topics outside the class schedule"
     }
   ],
-  "totalQuestions": 1440
+  "totalQuestions": 1008
 }
