@@ -20,6 +20,8 @@ export interface Question {
   difficulty: 'medium' | 'hard';
   /** 'core' = one of the brick's original 12; 'extra' = extension pass. */
   tier?: 'core' | 'extra';
+  /** Picked by the high-yield pass as most likely to be examined. */
+  hy?: boolean;
   imageRef: string | null;
   tags: string[];
 }

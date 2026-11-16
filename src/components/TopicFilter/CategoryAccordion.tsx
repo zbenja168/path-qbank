@@ -14,15 +14,18 @@ interface Props {
   /** Per-topic completion. Null until the question files have loaded, in which
    *  case the picker falls back to plain question counts. */
   topicStats?: Map<string, TopicStat> | null;
+  /** High Yield mode: counts and completion follow the HY picks, and the
+   *  extras controls hide (HY spans core and extras alike). */
+  hyMode?: boolean;
 }
 
 export function CategoryAccordion({
   category, selectedTopicIds, extrasTopicIds, onToggleTopic, onToggleCategory,
-  onToggleExtras, onToggleCategoryExtras, topicStats,
+  onToggleExtras, onToggleCategoryExtras, topicStats, hyMode = false,
 }: Props) {
   // Only offer the extras control where extras actually exist: bricks that
   // were never extended, and the whole advanced tier, ship 12 and no more.
-  const topicsWithExtras = category.topics.filter(t => (t.extraCount ?? 0) > 0);
+  const topicsWithExtras = hyMode ? [] : category.topics.filter(t => (t.extraCount ?? 0) > 0);
   const extrasOn = topicsWithExtras.filter(t => extrasTopicIds.has(t.id)).length;
   const allExtrasOn = topicsWithExtras.length > 0 && extrasOn === topicsWithExtras.length;
   const [open, setOpen] = useState(false);
@@ -36,11 +39,13 @@ export function CategoryAccordion({
   const on = (id: string) => extrasTopicIds.has(id);
   const remainingOf = (t: Category['topics'][number]) => {
     const s = stat(t.id);
+    if (hyMode) return s ? s.hyRemaining : (t.hyCoreCount ?? 0);
     if (!s) return on(t.id) ? t.questionCount : (t.coreCount ?? t.questionCount);
     return on(t.id) ? s.remaining : s.coreRemaining;
   };
   const totalOf = (t: Category['topics'][number]) => {
     const s = stat(t.id);
+    if (hyMode) return s ? s.hyTotal : (t.hyCoreCount ?? 0);
     if (!s) return on(t.id) ? t.questionCount : (t.coreCount ?? t.questionCount);
     return on(t.id) ? s.total : s.coreTotal;
   };
@@ -50,6 +55,7 @@ export function CategoryAccordion({
   const catTotal = category.topics.reduce((n, t) => n + totalOf(t), 0);
   const isDone = (t: Category['topics'][number]) => {
     const s = stat(t.id);
+    if (hyMode) return !!s && s.hyComplete;
     return !!s && (on(t.id) ? s.complete : s.coreComplete);
   };
   const catComplete = topicStats !== null && topicStats !== undefined
@@ -135,7 +141,7 @@ export function CategoryAccordion({
                 </span>
                 {/* The extras opt-in. Core questions cover the topic; this
                     folds in the deeper set for the topics you want it on. */}
-                {(topic.extraCount ?? 0) > 0 && (
+                {!hyMode && (topic.extraCount ?? 0) > 0 && (
                   <span
                     onClick={e => { e.stopPropagation(); e.preventDefault(); onToggleExtras(topic.id); }}
                     role="checkbox"
@@ -166,9 +172,11 @@ export function CategoryAccordion({
                   </span>
                 ) : (
                   <span className="text-xs text-slate-500">
-                    {extrasTopicIds.has(topic.id)
-                      ? topic.questionCount
-                      : (topic.coreCount ?? topic.questionCount)}q
+                    {hyMode
+                      ? (topic.hyCoreCount ?? 0)
+                      : extrasTopicIds.has(topic.id)
+                        ? topic.questionCount
+                        : (topic.coreCount ?? topic.questionCount)}q
                   </span>
                 )}
               </label>

@@ -48,7 +48,8 @@
       ],
       "topicId": "cancer-staging-and-grading",
       "topicName": "Cancer Staging and Grading",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa02-002",
@@ -95,7 +96,8 @@
       ],
       "topicId": "cancer-staging-and-grading",
       "topicName": "Cancer Staging and Grading",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa02-003",
@@ -142,7 +144,8 @@
       ],
       "topicId": "cancer-staging-and-grading",
       "topicName": "Cancer Staging and Grading",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa02-004",
@@ -189,7 +192,8 @@
       ],
       "topicId": "cancer-staging-and-grading",
       "topicName": "Cancer Staging and Grading",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa02-005",
@@ -236,7 +240,8 @@
       ],
       "topicId": "cancer-staging-and-grading",
       "topicName": "Cancer Staging and Grading",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa02-006",
@@ -377,7 +382,8 @@
       ],
       "topicId": "cancer-staging-and-grading",
       "topicName": "Cancer Staging and Grading",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa02-009",
@@ -472,7 +478,8 @@
       ],
       "topicId": "cancer-staging-and-grading",
       "topicName": "Cancer Staging and Grading",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa02-011",
@@ -519,7 +526,8 @@
       ],
       "topicId": "cancer-staging-and-grading",
       "topicName": "Cancer Staging and Grading",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa02-012",
@@ -614,7 +622,8 @@
       ],
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa42-002",
@@ -661,7 +670,8 @@
       ],
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa42-003",
@@ -709,7 +719,8 @@
       ],
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa42-004",
@@ -756,7 +767,8 @@
       ],
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa42-005",
@@ -803,7 +815,8 @@
       ],
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa42-006",
@@ -897,7 +910,8 @@
       ],
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa42-008",
@@ -944,7 +958,8 @@
       ],
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa42-009",
@@ -992,7 +1007,8 @@
       ],
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa42-010",
@@ -1087,7 +1103,8 @@
       ],
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa42-012",

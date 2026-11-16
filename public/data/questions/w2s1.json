@@ -47,7 +47,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa06-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa06-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa06-004",
@@ -188,7 +191,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa06-005",
@@ -235,7 +239,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa06-006",
@@ -282,7 +287,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa06-007",
@@ -423,7 +429,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa06-010",
@@ -470,7 +477,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa06-011",
@@ -517,7 +525,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa06-012",
@@ -564,7 +573,8 @@
       ],
       "topicId": "acute-inflammation-part-1",
       "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-001",
@@ -611,7 +621,8 @@
       ],
       "topicId": "chronic-inflammation-part-2",
       "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-002",
@@ -658,7 +669,8 @@
       ],
       "topicId": "chronic-inflammation-part-2",
       "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-003",
@@ -705,7 +717,8 @@
       ],
       "topicId": "chronic-inflammation-part-2",
       "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-004",
@@ -752,7 +765,8 @@
       ],
       "topicId": "chronic-inflammation-part-2",
       "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-005",
@@ -799,7 +813,8 @@
       ],
       "topicId": "chronic-inflammation-part-2",
       "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-006",
@@ -846,7 +861,8 @@
       ],
       "topicId": "chronic-inflammation-part-2",
       "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-007",
@@ -893,7 +909,8 @@
       ],
       "topicId": "chronic-inflammation-part-2",
       "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-008",
@@ -987,7 +1004,8 @@
       ],
       "topicId": "chronic-inflammation-part-2",
       "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-010",
@@ -1034,7 +1052,8 @@
       ],
       "topicId": "chronic-inflammation-part-2",
       "topicName": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa07-011",
@@ -1175,7 +1194,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa08-002",
@@ -1222,7 +1242,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa08-003",
@@ -1269,7 +1290,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa08-004",
@@ -1363,7 +1385,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa08-006",
@@ -1410,7 +1433,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa08-007",
@@ -1457,7 +1481,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa08-008",
@@ -1504,7 +1529,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa08-009",
@@ -1551,7 +1577,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa08-010",
@@ -1598,7 +1625,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa08-011",
@@ -1692,7 +1720,8 @@
       ],
       "topicId": "wound-healing-and-tissue-repair",
       "topicName": "Wound Healing and Tissue Repair",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

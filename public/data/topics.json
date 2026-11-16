@@ -10,7 +10,9 @@
           "sourceFile": "Path Brick 38",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "introduction-to-histology-and-histology-of-connective-tissue",
@@ -18,7 +20,9 @@
           "sourceFile": "Path Brick 37",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "histology-of-epithelial-tissue-1-of-2",
@@ -26,7 +30,9 @@
           "sourceFile": "Path Brick 39",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "histology-of-epithelial-tissue-2-of-2",
@@ -34,7 +40,9 @@
           "sourceFile": "Path Brick 40",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 1,
@@ -51,7 +59,9 @@
           "sourceFile": "Path Brick 3",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "cell-death-apoptosis-and-necrosis",
@@ -59,7 +69,9 @@
           "sourceFile": "Path Brick 4",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "introduction-to-anatomic-pathology-for-patient-care",
@@ -67,7 +79,9 @@
           "sourceFile": "Path Brick 5",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 1,
@@ -84,7 +98,9 @@
           "sourceFile": "Path Brick 11",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 10,
+          "hyCoreCount": 9
         },
         {
           "id": "environmental-disease-chemicals-and-substances",
@@ -92,7 +108,9 @@
           "sourceFile": "Path Brick 9",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "environmental-disease-physical-agents",
@@ -100,7 +118,9 @@
           "sourceFile": "Path Brick 1",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 1,
@@ -117,7 +137,9 @@
           "sourceFile": "Path Brick 6",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "chronic-inflammation-part-2",
@@ -125,7 +147,9 @@
           "sourceFile": "Path Brick 7",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 9
         },
         {
           "id": "wound-healing-and-tissue-repair",
@@ -133,7 +157,9 @@
           "sourceFile": "Path Brick 8",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         }
       ],
       "week": 2,
@@ -150,7 +176,9 @@
           "sourceFile": "Path Brick 41",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "diseases-of-the-immune-system-transplantation",
@@ -158,7 +186,9 @@
           "sourceFile": "Path Brick 22",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "transplant-rejection",
@@ -166,7 +196,9 @@
           "sourceFile": "Path Brick 23",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 2,
@@ -183,7 +215,9 @@
           "sourceFile": "Path Brick 14",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "infectious-inflammatory-causes-of-jaundice",
@@ -191,7 +225,9 @@
           "sourceFile": "Path Brick 25",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "immune-related-and-infectious-causes-of-diarrhea",
@@ -199,7 +235,9 @@
           "sourceFile": "Path Brick 24",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 5
         }
       ],
       "week": 2,
@@ -216,7 +254,9 @@
           "sourceFile": "Path Brick 28",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 7
         },
         {
           "id": "molecular-basis-of-neoplasia-part-2",
@@ -224,7 +264,9 @@
           "sourceFile": "Path Brick 29",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "introduction-to-neoplasia",
@@ -232,7 +274,9 @@
           "sourceFile": "Path Brick 26",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 3,
@@ -249,7 +293,9 @@
           "sourceFile": "Path Brick 34",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "hallmarks-of-neoplasia-genomic-instability",
@@ -257,7 +303,9 @@
           "sourceFile": "Path Brick 31",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "paraneoplastic-syndromes",
@@ -265,7 +313,9 @@
           "sourceFile": "Path Brick 32",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "epidemiology-of-cancer",
@@ -273,7 +323,9 @@
           "sourceFile": "Path Brick 33",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 5
         }
       ],
       "week": 3,
@@ -290,7 +342,9 @@
           "sourceFile": "Path Brick 2",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "cancer-growth-metastasis-and-medications-overview",
@@ -298,7 +352,9 @@
           "sourceFile": "Path Brick 42",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 3,

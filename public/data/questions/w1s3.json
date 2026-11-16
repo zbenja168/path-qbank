@@ -46,7 +46,8 @@
       ],
       "topicId": "autopsy",
       "topicName": "Autopsy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa11-002",
@@ -92,7 +93,8 @@
       ],
       "topicId": "autopsy",
       "topicName": "Autopsy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa11-003",
@@ -138,7 +140,8 @@
       ],
       "topicId": "autopsy",
       "topicName": "Autopsy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa11-004",
@@ -184,7 +187,8 @@
       ],
       "topicId": "autopsy",
       "topicName": "Autopsy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa11-005",
@@ -322,7 +326,8 @@
       ],
       "topicId": "autopsy",
       "topicName": "Autopsy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa11-008",
@@ -368,7 +373,8 @@
       ],
       "topicId": "autopsy",
       "topicName": "Autopsy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa11-009",
@@ -414,7 +420,8 @@
       ],
       "topicId": "autopsy",
       "topicName": "Autopsy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa11-010",
@@ -506,7 +513,8 @@
       ],
       "topicId": "autopsy",
       "topicName": "Autopsy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa11-012",
@@ -552,7 +560,8 @@
       ],
       "topicId": "autopsy",
       "topicName": "Autopsy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa09-001",
@@ -599,7 +608,8 @@
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
       "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa09-002",
@@ -646,7 +656,8 @@
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
       "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa09-003",
@@ -740,7 +751,8 @@
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
       "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa09-005",
@@ -787,7 +799,8 @@
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
       "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa09-006",
@@ -928,7 +941,8 @@
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
       "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa09-009",
@@ -975,7 +989,8 @@
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
       "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa09-010",
@@ -1022,7 +1037,8 @@
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
       "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa09-011",
@@ -1069,7 +1085,8 @@
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
       "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa09-012",
@@ -1116,7 +1133,8 @@
       ],
       "topicId": "environmental-disease-chemicals-and-substances",
       "topicName": "Environmental Disease Part 1 of 2: Chemicals and Substances",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa01-001",
@@ -1164,7 +1182,8 @@
       ],
       "topicId": "environmental-disease-physical-agents",
       "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa01-002",
@@ -1211,7 +1230,8 @@
       ],
       "topicId": "environmental-disease-physical-agents",
       "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa01-003",
@@ -1259,7 +1279,8 @@
       ],
       "topicId": "environmental-disease-physical-agents",
       "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa01-004",
@@ -1306,7 +1327,8 @@
       ],
       "topicId": "environmental-disease-physical-agents",
       "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa01-005",
@@ -1353,7 +1375,8 @@
       ],
       "topicId": "environmental-disease-physical-agents",
       "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa01-006",
@@ -1448,7 +1471,8 @@
       ],
       "topicId": "environmental-disease-physical-agents",
       "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa01-008",
@@ -1496,7 +1520,8 @@
       ],
       "topicId": "environmental-disease-physical-agents",
       "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa01-009",
@@ -1592,7 +1617,8 @@
       ],
       "topicId": "environmental-disease-physical-agents",
       "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa01-011",
@@ -1687,7 +1713,8 @@
       ],
       "topicId": "environmental-disease-physical-agents",
       "topicName": "Environmental Disease Part 2 of 2: Physical Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

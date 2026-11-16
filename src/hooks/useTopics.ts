@@ -18,6 +18,15 @@ export function useTopics(tier: Tier = 'standard') {
   const [loading, setLoading] = useState(true);
   const [entitlement, setEntitlement] = useState<EntitlementStatus | null>(null);
   const [entitlementReason, setEntitlementReason] = useState<string | undefined>();
+  /** High Yield mode condenses every topic to its high-yield picks (standard
+   *  tier only). Remembered per browser; storage can throw, so guard it. */
+  const [hyMode, setHyModeState] = useState<boolean>(() => {
+    try { return localStorage.getItem('path-qbank_hy') === '1'; } catch { return false; }
+  });
+  const setHyMode = useCallback((on: boolean) => {
+    setHyModeState(on);
+    try { localStorage.setItem('path-qbank_hy', on ? '1' : '0'); } catch { /* ignore */ }
+  }, []);
 
   useEffect(() => {
     setLoading(true);
@@ -165,5 +174,7 @@ export function useTopics(tier: Tier = 'standard') {
     toggleExtras,
     toggleCategoryExtras,
     setAllExtras,
+    hyMode,
+    setHyMode,
   };
 }

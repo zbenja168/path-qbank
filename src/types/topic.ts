@@ -7,6 +7,10 @@ export interface Topic {
   coreCount?: number;
   /** The extension-pass questions, offered as an opt-in on top of the core. */
   extraCount?: number;
+  /** High-yield questions across the whole topic, and within the core alone
+   *  (what a visitor who is not signed in can be served). */
+  hyCount?: number;
+  hyCoreCount?: number;
 }
 
 export interface Category {

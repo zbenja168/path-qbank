@@ -47,7 +47,8 @@
       ],
       "topicId": "introduction-to-clinical-pathology",
       "topicName": "Introduction to Clinical Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa14-002",
@@ -93,7 +94,8 @@
       ],
       "topicId": "introduction-to-clinical-pathology",
       "topicName": "Introduction to Clinical Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa14-003",
@@ -139,7 +141,8 @@
       ],
       "topicId": "introduction-to-clinical-pathology",
       "topicName": "Introduction to Clinical Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa14-004",
@@ -186,7 +189,8 @@
       ],
       "topicId": "introduction-to-clinical-pathology",
       "topicName": "Introduction to Clinical Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa14-005",
@@ -280,7 +284,8 @@
       ],
       "topicId": "introduction-to-clinical-pathology",
       "topicName": "Introduction to Clinical Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa14-007",
@@ -374,7 +379,8 @@
       ],
       "topicId": "introduction-to-clinical-pathology",
       "topicName": "Introduction to Clinical Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa14-009",
@@ -421,7 +427,8 @@
       ],
       "topicId": "introduction-to-clinical-pathology",
       "topicName": "Introduction to Clinical Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa14-010",
@@ -562,7 +569,8 @@
       ],
       "topicId": "introduction-to-clinical-pathology",
       "topicName": "Introduction to Clinical Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa25-001",
@@ -609,7 +617,8 @@
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
       "topicName": "Infectious/Inflammatory Causes of Jaundice",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa25-002",
@@ -656,7 +665,8 @@
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
       "topicName": "Infectious/Inflammatory Causes of Jaundice",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa25-003",
@@ -703,7 +713,8 @@
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
       "topicName": "Infectious/Inflammatory Causes of Jaundice",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa25-004",
@@ -750,7 +761,8 @@
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
       "topicName": "Infectious/Inflammatory Causes of Jaundice",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa25-005",
@@ -797,7 +809,8 @@
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
       "topicName": "Infectious/Inflammatory Causes of Jaundice",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa25-006",
@@ -844,7 +857,8 @@
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
       "topicName": "Infectious/Inflammatory Causes of Jaundice",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa25-007",
@@ -891,7 +905,8 @@
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
       "topicName": "Infectious/Inflammatory Causes of Jaundice",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa25-008",
@@ -1032,7 +1047,8 @@
       ],
       "topicId": "infectious-inflammatory-causes-of-jaundice",
       "topicName": "Infectious/Inflammatory Causes of Jaundice",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa25-011",
@@ -1173,7 +1189,8 @@
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa24-002",
@@ -1267,7 +1284,8 @@
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa24-004",
@@ -1314,7 +1332,8 @@
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa24-005",
@@ -1408,7 +1427,8 @@
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa24-007",
@@ -1549,7 +1569,8 @@
       ],
       "topicId": "immune-related-and-infectious-causes-of-diarrhea",
       "topicName": "Immune-related and Infectious Causes of Diarrhea",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa24-010",

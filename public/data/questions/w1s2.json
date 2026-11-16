@@ -48,7 +48,8 @@
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
       "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa03-002",
@@ -95,7 +96,8 @@
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
       "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa03-003",
@@ -142,7 +144,8 @@
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
       "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa03-004",
@@ -239,7 +242,8 @@
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
       "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa03-006",
@@ -335,7 +339,8 @@
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
       "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa03-008",
@@ -383,7 +388,8 @@
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
       "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa03-009",
@@ -431,7 +437,8 @@
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
       "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa03-010",
@@ -478,7 +485,8 @@
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
       "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa03-011",
@@ -526,7 +534,8 @@
       ],
       "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
       "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa03-012",
@@ -621,7 +630,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-002",
@@ -669,7 +679,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-003",
@@ -717,7 +728,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-004",
@@ -765,7 +777,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-005",
@@ -812,7 +825,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-006",
@@ -860,7 +874,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-007",
@@ -908,7 +923,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-008",
@@ -956,7 +972,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-009",
@@ -1004,7 +1021,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-010",
@@ -1101,7 +1119,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa04-012",
@@ -1149,7 +1168,8 @@
       ],
       "topicId": "cell-death-apoptosis-and-necrosis",
       "topicName": "Cell Death: Apoptosis and Necrosis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa05-001",
@@ -1243,7 +1263,8 @@
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
       "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa05-003",
@@ -1290,7 +1311,8 @@
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
       "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa05-004",
@@ -1384,7 +1406,8 @@
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
       "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa05-006",
@@ -1572,7 +1595,8 @@
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
       "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa05-010",
@@ -1619,7 +1643,8 @@
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
       "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa05-011",
@@ -1666,7 +1691,8 @@
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
       "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa05-012",
@@ -1713,7 +1739,8 @@
       ],
       "topicId": "introduction-to-anatomic-pathology-for-patient-care",
       "topicName": "Introduction to Anatomic Pathology for Patient Care",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

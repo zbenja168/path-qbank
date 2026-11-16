@@ -4,6 +4,13 @@ import { ProgressData } from '../types/progress';
 import { loadMultipleCategories, Tier } from '../utils/questionLoader';
 import { shuffle } from '../utils/shuffle';
 
+/** High Yield mode: a quiz serves only the questions the high-yield pass
+ *  picked, from core and (when signed in) extras alike, ignoring the per-topic
+ *  extras opt-in. Standard tier only. Module-level so loadQuestions keeps the
+ *  signature every QBank shares (see _verify_extras_port.py). */
+let highYieldOnly = false;
+export function setHighYieldOnly(on: boolean) { highYieldOnly = on; }
+
 export function useQuestions() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [loading, setLoading] = useState(false);
@@ -27,9 +34,11 @@ export function useQuestions() {
         selectedTopicIds.has(q.topicId) && !progress.answers[q.id]
         // Questions carry no tier on data assembled before the split, and
         // are then treated as core so nothing silently disappears.
-        && (extrasTopicIds === undefined
-          || q.tier !== 'extra'
-          || extrasTopicIds.has(q.topicId))
+        && (highYieldOnly
+          ? q.hy === true
+          : (extrasTopicIds === undefined
+             || q.tier !== 'extra'
+             || extrasTopicIds.has(q.topicId)))
       );
       setQuestions(shuffle(filtered));
     } catch (err) {

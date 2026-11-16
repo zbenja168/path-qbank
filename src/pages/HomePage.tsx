@@ -11,6 +11,7 @@ import type { ReviewMode } from './ReviewPage';
 import { Tier } from '../utils/questionLoader';
 import { EntitlementStatus } from '../utils/entitlement';
 import { SkinName, SkinAccess, applySkin, savedSkin, loadSkinAccess } from '../utils/skin';
+import { extrasStatus } from '../utils/extras';
 
 interface Props {
   tier: Tier;
@@ -36,6 +37,10 @@ interface Props {
   onGoToDashboard: () => void;
   onGoToReview: (mode?: ReviewMode) => void;
   onClearProgress: () => void;
+  /** High Yield mode: each topic condensed to its high-yield picks. Already
+   *  false outside the standard tier (App gates it). */
+  hyMode: boolean;
+  onSetHyMode: (on: boolean) => void;
 }
 
 export function HomePage({
@@ -44,6 +49,7 @@ export function HomePage({
   onToggleTopic, onToggleCategory, onSelectAll, onClearAll,
   onToggleExtras, onToggleCategoryExtras, onSetAllExtras,
   onStartQuiz, onGoToDashboard, onGoToReview, onClearProgress,
+  hyMode, onSetHyMode,
 }: Props) {
   const locked = tier === 'advanced' && entitlement !== null && entitlement !== 'ok';
   // Standard and advanced share topicIds but have distinct question ids (advanced
@@ -62,7 +68,16 @@ export function HomePage({
   // nothing more, so the whole control hides itself there. `topics` is null
   // while the advanced payload is gated, hence the optional chain.
   const extraTopics = (topics?.categories ?? []).flatMap(c => c.topics).filter(t => (t.extraCount ?? 0) > 0);
-  const anyExtras = extraTopics.length > 0;
+  // High Yield mode replaces the core/extras split, so its controls step aside.
+  const anyExtras = !hyMode && extraTopics.length > 0;
+  const allTopics = (topics?.categories ?? []).flatMap(c => c.topics);
+  // High Yield is a standard-tier feature: the switch hides on Advanced.
+  const anyHy = tier === 'standard' && allTopics.some(t => (t.hyCount ?? 0) > 0);
+  const hyOf = (t: Category['topics'][number]) =>
+    topicStats?.get(t.id)?.hyTotal ?? t.hyCoreCount ?? 0;
+  const hyTotal = allTopics.reduce((n, t) => n + hyOf(t), 0);
+  const hyLockedExtra = allTopics.reduce((n, t) => n + (t.hyCount ?? 0), 0) - hyTotal;
+  const signedIn = extrasStatus() === 'ok';
   const allExtrasOn = anyExtras && extraTopics.every(t => extrasTopicIds.has(t.id));
 
   const [skin, setSkin] = useState<SkinName>(savedSkin);
@@ -230,6 +245,49 @@ export function HomePage({
         {/* Filter controls */}
         <MembraneDivider />
 
+        {/* High Yield: condense the bank to the questions most likely to be
+            on the exam, picked brick by brick against the learning objectives. */}
+        {anyHy && (
+          <div className={`mb-6 rounded-xl border px-4 py-3 ${
+            hyMode ? 'border-amber-500/60 bg-amber-500/10' : 'border-slate-700 bg-slate-800/60'}`}>
+            <div className="flex items-center gap-3 flex-wrap">
+              <div className="inline-flex rounded-xl border border-slate-700 bg-slate-800 p-1">
+                <button
+                  onClick={() => onSetHyMode(false)}
+                  aria-pressed={!hyMode}
+                  className={`px-3 py-1.5 text-sm font-semibold rounded-lg transition-colors ${
+                    !hyMode ? 'bg-blue-600 text-white' : 'text-slate-400 hover:text-slate-200'}`}
+                >
+                  All questions
+                </button>
+                <button
+                  onClick={() => onSetHyMode(true)}
+                  aria-pressed={hyMode}
+                  className={`px-3 py-1.5 text-sm font-semibold rounded-lg transition-colors ${
+                    hyMode ? 'bg-amber-500 text-slate-900' : 'text-slate-400 hover:text-amber-300'}`}
+                >
+                  ⚡ High Yield
+                </button>
+              </div>
+              <span className="text-sm text-slate-300">
+                {hyMode
+                  ? <><strong className="text-amber-300">{hyTotal}</strong> high-yield questions across the block</>
+                  : 'Short on time? Condense every topic to what is most likely on the exam.'}
+              </span>
+            </div>
+            {hyMode && (
+              <p className="mt-2 text-sm text-slate-400 max-w-3xl">
+                Each topic is cut down to its highest-yield questions (about a third of each topic),
+                chosen against the brick's learning objectives, its case and conclusion, and the
+                classic boards facts for the topic.
+                {!signedIn && hyLockedExtra > 0 && (
+                  <span className="text-slate-500"> Sign in to Active Transport (free) to add {hyLockedExtra} more from the extended set.</span>
+                )}
+              </p>
+            )}
+          </div>
+        )}
+
         <div className="flex items-center justify-between mb-2 gap-3 flex-wrap">
           <h2 className="text-lg font-semibold text-slate-200">Select Topics</h2>
           <div className="flex items-center gap-3">
@@ -270,7 +328,7 @@ export function HomePage({
             const inWeek = topics.categories.filter(c => c.week === cat.week);
             const topicCount = inWeek.reduce((n, c) => n + c.topics.length, 0);
             const questionCount = inWeek.reduce(
-              (n, c) => n + c.topics.reduce((m, t) => m + t.questionCount, 0), 0);
+              (n, c) => n + c.topics.reduce((m, t) => m + (hyMode ? hyOf(t) : t.questionCount), 0), 0);
             return (
               <div key={cat.id}>
                 {startsWeek && (
@@ -280,7 +338,7 @@ export function HomePage({
                       <span className="text-sm text-slate-300">{cat.weekSubtitle}</span>
                     )}
                     <span className="ml-auto text-xs text-slate-500 whitespace-nowrap">
-                      {topicCount} topics &middot; {questionCount} questions
+                      {topicCount} topics &middot; {questionCount} {hyMode ? 'high-yield ' : ''}questions
                     </span>
                   </div>
                 )}
@@ -290,6 +348,7 @@ export function HomePage({
                     selectedTopicIds={selectedTopicIds}
                     extrasTopicIds={extrasTopicIds}
                     topicStats={topicStats}
+                    hyMode={hyMode}
                     onToggleTopic={onToggleTopic}
                     onToggleCategory={onToggleCategory}
                     onToggleExtras={onToggleExtras}
@@ -309,7 +368,7 @@ export function HomePage({
             className="w-full py-4 rounded-xl bg-blue-600 text-white font-semibold text-lg hover:bg-blue-500 disabled:bg-slate-700 disabled:text-slate-500 disabled:cursor-not-allowed transition-colors shadow-lg"
           >
             {selectedCount > 0
-              ? `Start Quiz (${selectedCount} questions)`
+              ? `Start ${hyMode ? 'High Yield ' : ''}Quiz (${selectedCount} questions)`
               : 'Select topics to begin'}
           </button>
         </div>

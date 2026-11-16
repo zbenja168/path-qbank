@@ -47,7 +47,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-004",
@@ -189,7 +192,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-005",
@@ -237,7 +241,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-006",
@@ -284,7 +289,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-007",
@@ -331,7 +337,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-008",
@@ -379,7 +386,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-009",
@@ -426,7 +434,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-010",
@@ -473,7 +482,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-011",
@@ -520,7 +530,8 @@
       ],
       "topicId": "pathogen-associated-neoplasms",
       "topicName": "Pathogen-associated Neoplasms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa34-012",
@@ -614,7 +625,8 @@
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
       "topicName": "Hallmarks of Neoplasia: Genomic Instability",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa31-002",
@@ -661,7 +673,8 @@
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
       "topicName": "Hallmarks of Neoplasia: Genomic Instability",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa31-003",
@@ -708,7 +721,8 @@
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
       "topicName": "Hallmarks of Neoplasia: Genomic Instability",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa31-004",
@@ -755,7 +769,8 @@
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
       "topicName": "Hallmarks of Neoplasia: Genomic Instability",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa31-005",
@@ -895,7 +910,8 @@
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
       "topicName": "Hallmarks of Neoplasia: Genomic Instability",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa31-008",
@@ -942,7 +958,8 @@
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
       "topicName": "Hallmarks of Neoplasia: Genomic Instability",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa31-009",
@@ -1083,7 +1100,8 @@
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
       "topicName": "Hallmarks of Neoplasia: Genomic Instability",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa31-012",
@@ -1130,7 +1148,8 @@
       ],
       "topicId": "hallmarks-of-neoplasia-genomic-instability",
       "topicName": "Hallmarks of Neoplasia: Genomic Instability",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-001",
@@ -1177,7 +1196,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-002",
@@ -1224,7 +1244,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-003",
@@ -1271,7 +1292,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-004",
@@ -1318,7 +1340,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-005",
@@ -1365,7 +1388,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-006",
@@ -1412,7 +1436,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-007",
@@ -1459,7 +1484,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-008",
@@ -1506,7 +1532,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-009",
@@ -1553,7 +1580,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-010",
@@ -1600,7 +1628,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-011",
@@ -1647,7 +1676,8 @@
       ],
       "topicId": "paraneoplastic-syndromes",
       "topicName": "Paraneoplastic Syndromes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa32-012",
@@ -1741,7 +1771,8 @@
       ],
       "topicId": "epidemiology-of-cancer",
       "topicName": "Epidemiology of Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa33-002",
@@ -1788,7 +1819,8 @@
       ],
       "topicId": "epidemiology-of-cancer",
       "topicName": "Epidemiology of Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa33-003",
@@ -1835,7 +1867,8 @@
       ],
       "topicId": "epidemiology-of-cancer",
       "topicName": "Epidemiology of Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa33-004",
@@ -1882,7 +1915,8 @@
       ],
       "topicId": "epidemiology-of-cancer",
       "topicName": "Epidemiology of Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa33-005",
@@ -2118,7 +2152,8 @@
       ],
       "topicId": "epidemiology-of-cancer",
       "topicName": "Epidemiology of Cancer",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "pa33-010",

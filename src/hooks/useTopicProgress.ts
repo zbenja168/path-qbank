@@ -10,7 +10,7 @@ import * as loader from '../utils/questionLoader';
 type Tier = string;
 const loadMultipleCategories = loader.loadMultipleCategories as unknown as (
   ids: string[], tier?: Tier,
-) => Promise<Array<{ questions: Array<{ id: string; topicId: string; tier?: string }> }>>;
+) => Promise<Array<{ questions: Array<{ id: string; topicId: string; tier?: string; hy?: boolean }> }>>;
 
 export interface TopicStat {
   total: number;
@@ -23,6 +23,10 @@ export interface TopicStat {
   coreTotal: number;
   coreRemaining: number;
   coreComplete: boolean;
+  /** The same again for the high-yield picks, used in High Yield mode. */
+  hyTotal: number;
+  hyRemaining: number;
+  hyComplete: boolean;
 }
 
 /** Per-topic completion, so the picker can say what is left rather than just
@@ -39,7 +43,7 @@ export function useTopicProgress(
   progress: ProgressData,
   tier: Tier = 'standard',
 ) {
-  type TopicIds = { all: string[]; core: string[] };
+  type TopicIds = { all: string[]; core: string[]; hy: string[] };
   const [idsByTopic, setIdsByTopic] = useState<Map<string, TopicIds> | null>(null);
 
   useEffect(() => {
@@ -53,11 +57,12 @@ export function useTopicProgress(
         for (const c of cats) {
           for (const q of c.questions) {
             let entry = map.get(q.topicId);
-            if (!entry) { entry = { all: [], core: [] }; map.set(q.topicId, entry); }
+            if (!entry) { entry = { all: [], core: [], hy: [] }; map.set(q.topicId, entry); }
             entry.all.push(q.id);
             // Data assembled before the core/extra split has no tier; treat
             // those as core so the picker keeps showing the whole topic.
             if (q.tier !== 'extra') entry.core.push(q.id);
+            if (q.hy) entry.hy.push(q.id);
           }
         }
         setIdsByTopic(map);
@@ -75,6 +80,7 @@ export function useTopicProgress(
   for (const [topicId, ids] of idsByTopic) {
     const answered = ids.all.reduce((n, id) => n + (answers[id] ? 1 : 0), 0);
     const coreAnswered = ids.core.reduce((n, id) => n + (answers[id] ? 1 : 0), 0);
+    const hyAnswered = ids.hy.reduce((n, id) => n + (answers[id] ? 1 : 0), 0);
     stats.set(topicId, {
       total: ids.all.length,
       answered,
@@ -83,6 +89,9 @@ export function useTopicProgress(
       coreTotal: ids.core.length,
       coreRemaining: ids.core.length - coreAnswered,
       coreComplete: ids.core.length > 0 && coreAnswered >= ids.core.length,
+      hyTotal: ids.hy.length,
+      hyRemaining: ids.hy.length - hyAnswered,
+      hyComplete: ids.hy.length > 0 && hyAnswered >= ids.hy.length,
     });
   }
   return { stats, answeredIds: new Set(Object.keys(answers)) };
