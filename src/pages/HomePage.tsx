@@ -92,51 +92,37 @@ export function HomePage({
 
   return (
     <div className="min-h-screen bg-slate-900">
-      <header className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
-        <div className="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
-          <div>
-            <h1 className="text-xl font-bold text-slate-100">Pathology QBank</h1>
-            <p className="text-sm text-slate-400">Pathology Question Bank</p>
-          </div>
-          {/* One action group; the cross-link used to float alone. */}
-          <div className="flex items-center gap-2 flex-wrap justify-end">
-            {stats.total > 0 && (
-              <button
-                onClick={onGoToDashboard}
-                className="px-4 py-2 text-sm rounded-lg border border-slate-600 text-slate-300 hover:bg-slate-700 transition-colors"
-              >
-                Dashboard ({stats.percentage}%)
-              </button>
-            )}
-            {missedCount > 0 && (
-              <button
-                onClick={() => onGoToReview('incorrect')}
-                className="px-4 py-2 text-sm rounded-lg border border-amber-600 bg-amber-500/10 text-amber-400 font-medium hover:bg-amber-500/20 transition-colors"
-                title="Redo the questions you got wrong"
-              >
-                🔁 Missed ({missedCount})
-              </button>
-            )}
-            {bookmarkCount > 0 && (
-              <button
-                onClick={() => onGoToReview()}
-                className="px-4 py-2 text-sm rounded-lg border border-amber-700 text-amber-400 hover:bg-amber-900/30 transition-colors"
-              >
-                Bookmarked ({bookmarkCount})
-              </button>
-            )}
-            <a
-              href="https://zbenja168.github.io/Resp_QBank/"
-              className="text-xs px-3 py-2 rounded-lg text-slate-500 hover:text-teal-400 transition-colors"
-            >
-              Resp QBank &rarr;
-            </a>
-          </div>
-        </div>
-      </header>
 
-      <main className="max-w-5xl mx-auto px-4 py-8">
-        <BrandCard />
+      <main className="max-w-5xl mx-auto px-4 py-6 sm:py-8">
+        {/* Progress shortcuts. The shared header above carries the title and
+            the course's sibling tools; empty:hidden drops the row for a new user. */}
+        <div className="mb-6 flex items-center gap-2 flex-wrap empty:hidden">
+          {stats.total > 0 && (
+            <button
+              onClick={onGoToDashboard}
+              className="px-4 py-2 min-h-10 text-sm rounded-lg border border-slate-600 text-slate-300 hover:bg-slate-700 transition-colors"
+            >
+              Dashboard ({stats.percentage}%)
+            </button>
+          )}
+          {missedCount > 0 && (
+            <button
+              onClick={() => onGoToReview('incorrect')}
+              className="px-4 py-2 min-h-10 text-sm rounded-lg border border-amber-600 bg-amber-500/10 text-amber-400 font-medium hover:bg-amber-500/20 transition-colors"
+              title="Redo the questions you got wrong"
+            >
+              Missed ({missedCount})
+            </button>
+          )}
+          {bookmarkCount > 0 && (
+            <button
+              onClick={() => onGoToReview()}
+              className="px-4 py-2 min-h-10 text-sm rounded-lg border border-amber-700 text-amber-400 hover:bg-amber-900/30 transition-colors"
+            >
+              Bookmarked ({bookmarkCount})
+            </button>
+          )}
+        </div>
 
         {/* Standard / Advanced tier toggle */}
         <div className="mb-6">
@@ -160,10 +146,10 @@ export function HomePage({
           </div>
           {/* Exam skins — re-dress the quiz to look like the interfaces you
               actually sit exams in. Signed-in Active Transport accounts only. */}
-          <div className="mt-4">
+          <div className="mt-4 min-w-0 max-w-full">
             <div className="flex items-center gap-2 flex-wrap">
               <span className="text-sm text-slate-400">Skin</span>
-              <div className="inline-flex rounded-xl border border-slate-700 bg-slate-800 p-1">
+              <div className="inline-flex max-w-full overflow-x-auto rounded-xl border border-slate-700 bg-slate-800 p-1">
                 {([
                   ['off', 'Off'],
                   ['examplify', 'Examplify Skin'],
@@ -177,7 +163,7 @@ export function HomePage({
                     title={skinLocked && value !== 'off'
                       ? 'Sign in to Active Transport to use the exam skins'
                       : undefined}
-                    className={`px-3 py-1.5 text-sm font-semibold rounded-lg transition-colors ${
+                    className={`shrink-0 whitespace-nowrap px-3 py-1.5 text-sm font-semibold rounded-lg transition-colors ${
                       skin === value
                         ? 'bg-blue-600 text-white'
                         : skinLocked && value !== 'off'
@@ -333,7 +319,7 @@ export function HomePage({
               <div key={cat.id}>
                 {startsWeek && (
                   <div className={`flex items-baseline gap-3 flex-wrap rounded-lg border border-blue-900/60 bg-blue-950/30 px-4 py-3 ${i === 0 ? 'mb-3' : 'mt-6 mb-3'}`}>
-                    <span className="text-base font-bold text-blue-300">{cat.weekName}</span>
+                    <span className="text-base font-bold text-blue-300 at-wrap">{cat.weekName}</span>
                     {cat.weekSubtitle && (
                       <span className="text-sm text-slate-300">{cat.weekSubtitle}</span>
                     )}
@@ -361,11 +347,11 @@ export function HomePage({
         </div>
 
         {/* Start button */}
-        <div className="sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-6 pb-6 -mx-4 px-4">
+        <div className="at-sticky-bottom sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-6 pb-6 -mx-4 px-4">
           <button
             onClick={onStartQuiz}
             disabled={selectedCount === 0}
-            className="w-full py-4 rounded-xl bg-blue-600 text-white font-semibold text-lg hover:bg-blue-500 disabled:bg-slate-700 disabled:text-slate-500 disabled:cursor-not-allowed transition-colors shadow-lg"
+            className="w-full py-4 rounded-xl at-btn-primary font-semibold text-lg transition-colors shadow-lg"
           >
             {selectedCount > 0
               ? `Start ${hyMode ? 'High Yield ' : ''}Quiz (${selectedCount} questions)`
@@ -373,6 +359,8 @@ export function HomePage({
           </button>
         </div>
         </>)}
+
+        <BrandCard kind="qbank" />
       </main>
     </div>
   );

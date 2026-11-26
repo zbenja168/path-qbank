@@ -6,6 +6,7 @@ import { useTimer } from '../hooks/useTimer';
 import { track } from '../utils/track';
 import { SkinName } from '../utils/skin';
 
+import { SITE } from '../siteConfig';
 interface Props {
   questions: Question[];
   progress: ProgressData;
@@ -125,7 +126,7 @@ export function QuizPage({
     <div data-part="quiz-root" className="min-h-screen bg-slate-900">
       <header data-part="quiz-header" className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
         <div data-part="quiz-headbar" className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
-          <h1 data-part="quiz-title" className="text-lg font-bold text-slate-100">Pathology QBank</h1>
+          <div data-part="quiz-title" className="text-base font-bold text-slate-100 truncate min-w-0">{SITE.title}</div>
           <div className="flex items-center gap-4">
             {examMode && <span data-part="quiz-clock">{clock}</span>}
             {/* One status line for every QBank: their own quiz-meta says

@@ -2,6 +2,7 @@ import { ProgressData } from '../types/progress';
 import { Question } from '../types/question';
 import { getOverallStats, getTopicStats } from '../utils/stats';
 
+import { lectureName } from '../components/SiteHeader';
 interface Props {
   progress: ProgressData;
   questions: Question[];
@@ -81,7 +82,7 @@ export function DashboardPage({ progress, questions, onBack, onClearProgress, to
               {topicStats.sort((a, b) => a.percentage - b.percentage).map(ts => (
                 <div key={ts.topicId}>
                   <div className="flex justify-between text-sm mb-1">
-                    <span className="text-slate-300 truncate mr-2">{ts.name}</span>
+                    <span className="text-slate-300 truncate mr-2">{lectureName(ts.name)}</span>
                     <span className={`font-medium flex-shrink-0 ${
                       ts.percentage >= 70 ? 'text-green-400' : ts.percentage >= 50 ? 'text-amber-400' : 'text-red-400'
                     }`}>

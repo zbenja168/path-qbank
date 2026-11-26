@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Question } from '../../types/question';
 
+import { lectureName } from '../SiteHeader';
 interface Props {
   question: Question;
   index: number;
@@ -80,7 +81,7 @@ export function QuestionCard({
           </span>
         </div>
         <div className="flex items-center gap-2">
-          {answered && <span className="text-xs text-slate-500">{question.topicName}</span>}
+          {answered && <span className="text-xs text-slate-500">{lectureName(question.topicName)}</span>}
           <button
             onClick={onBookmark}
             className={`p-1.5 rounded transition-colors ${isBookmarked ? 'text-amber-400' : 'text-slate-500 hover:text-amber-400'}`}
