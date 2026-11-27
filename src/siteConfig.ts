@@ -43,16 +43,6 @@ export const SITE: SiteConfig = {
       "label": "Picture QBank",
       "url": "https://zbenja168.github.io/path-picqbank/",
       "current": false
-    },
-    {
-      "label": "Picture Match",
-      "url": "https://zbenja168.github.io/path-picdnd/",
-      "current": false
-    },
-    {
-      "label": "Anatomy ID",
-      "url": "https://zbenja168.github.io/path-anatomy/",
-      "current": false
     }
   ]
 };
