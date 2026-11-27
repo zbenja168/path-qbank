@@ -1,0 +1,1861 @@
+{
+  "categoryId": "pictures",
+  "categoryName": "Pictures by week",
+  "questions": [
+    {
+      "id": "papic-178",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "Identify the muscle tissue shown in this H&E-stained section (N, I, and S mark features of the cells).",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac muscle"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral nerve"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Smooth muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cells are striated (S) with centrally placed nuclei (N) and dark transverse lines (I), the intercalated discs. Intercalated discs are unique to cardiac muscle. Skeletal muscle has many peripheral nuclei and no intercalated discs, and smooth muscle is not striated.",
+        "whyCorrect": "The cells are striated (S) with centrally placed nuclei (N) and dark transverse lines (I), the intercalated discs. Intercalated discs are unique to cardiac muscle. Skeletal muscle has many peripheral nuclei and no intercalated discs, and smooth muscle is not striated.",
+        "whyWrongByChoice": {
+          "B": "Peripheral nerve shows wavy fibers with Schwann cell nuclei and no cross-striations or intercalated discs.",
+          "C": "Skeletal muscle is striated but has many peripheral nuclei per fiber and lacks intercalated discs.",
+          "D": "Smooth muscle cells are spindle-shaped with central nuclei but lack striations and intercalated discs."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-178_pa38_f25.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Histology of Muscle and Nervous Tissue",
+      "lectureTopicId": "histology-of-muscle-and-nervous-tissue",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-185",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "What is the deep purple, granular material in the cytoplasm of the large central cell made of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glial fibrillary acidic protein"
+        },
+        {
+          "label": "B",
+          "text": "Golgi apparatus stacks"
+        },
+        {
+          "label": "C",
+          "text": "Rough endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "Smooth endoplasmic reticulum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The neuron cell body has a single nucleus with a prominent nucleolus. Its cytoplasm contains abundant rough ER that stains deep purple and granular, called Nissl substance. The axon hillock is pale because it lacks Nissl substance.",
+        "whyCorrect": "The neuron cell body has a single nucleus with a prominent nucleolus. Its cytoplasm contains abundant rough ER that stains deep purple and granular, called Nissl substance. The axon hillock is pale because it lacks Nissl substance.",
+        "whyWrongByChoice": {
+          "A": "GFAP is an intermediate filament of astrocytes, not neurons, and it does not appear as purple granular material in H&E.",
+          "B": "The Golgi apparatus appears as a pale area near the nucleus, not as coarse basophilic granules throughout the cytoplasm.",
+          "D": "Smooth ER lacks ribosomes and is not basophilic, so it does not stain deep purple and granular."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-185_pa38_f32.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Histology of Muscle and Nervous Tissue",
+      "lectureTopicId": "histology-of-muscle-and-nervous-tissue",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-165",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This section of skin and the tissues beneath it was stained with a special stain: muscle and cytoplasm are red, and the extracellular fibers of the dermis and fascia are blue. Which stain was used, and what do the blue fibers represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congo red; amyloid deposits"
+        },
+        {
+          "label": "B",
+          "text": "Masson trichrome; collagen fibers"
+        },
+        {
+          "label": "C",
+          "text": "Periodic acid-Schiff; glycogen and mucin"
+        },
+        {
+          "label": "D",
+          "text": "Prussian blue; iron deposits"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Masson trichrome gives a multicolor result: muscle and cytoplasm stain red and collagen stains blue. It is the stain used to highlight fibrosis (for example in liver and kidney biopsies).",
+        "whyCorrect": "Masson trichrome stains collagen fibers blue while muscle and cytoplasm stain red, as in this skin and muscle section. Congo red stains amyloid orange-red, PAS stains carbohydrates magenta, and Prussian blue stains iron blue within cells, not as extracellular fibers alongside red muscle.",
+        "whyWrongByChoice": {
+          "A": "Congo red stains amyloid orange-red with apple-green birefringence under polarized light; it does not color collagen blue and muscle red.",
+          "C": "PAS stains glycogen, mucin and basement membranes magenta; it does not give the blue collagen and red muscle pattern of a trichrome.",
+          "D": "Prussian blue stains hemosiderin iron as blue granules, mostly inside macrophages, not a blue extracellular fibrous matrix beside red-staining muscle."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-165_pa37_f12.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Introduction to Histology and Histology of Connective Tissue",
+      "lectureTopicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-167",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A special stain was applied to this aspirate smear. What does the material highlighted within the large cell represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "B",
+          "text": "Collagen fibers"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen stores"
+        },
+        {
+          "label": "D",
+          "text": "Iron deposits"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Prussian blue highlights iron deposits as a bright blue pigment, so it is the stain of choice for finding iron in a tissue or smear.",
+        "whyCorrect": "Prussian blue highlights iron deposits as a bright blue pigment, so it is the stain of choice for finding iron in a tissue or smear.",
+        "whyWrongByChoice": {
+          "A": "Amyloid is detected with Congo red, which stains it salmon-pink and shows apple-green birefringence.",
+          "B": "Collagen fibers stain blue on Masson trichrome, but they are extracellular fibers, not cytoplasmic pigment in a cell on a smear.",
+          "C": "Glycogen is detected with PAS staining, which colors it magenta and is removed by diastase, not bright blue."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-167_pa37_f14.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Introduction to Histology and Histology of Connective Tissue",
+      "lectureTopicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-195",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "In this section of colonic mucosa, what are the pale, rounded cells marked by the red arrows?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adipocytes"
+        },
+        {
+          "label": "B",
+          "text": "Goblet cells"
+        },
+        {
+          "label": "C",
+          "text": "Paneth cells"
+        },
+        {
+          "label": "D",
+          "text": "Serous cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "These are goblet cells, which are unicellular exocrine glands named for their wine-glass shape. They are scattered among the columnar cells lining the intestinal and respiratory tracts and release their product (mucus) by exocytosis. Their mucin-filled cytoplasm looks pale on H&E.",
+        "whyCorrect": "These are goblet cells, which are unicellular exocrine glands named for their wine-glass shape. They are scattered among the columnar cells lining the intestinal and respiratory tracts and release their product (mucus) by exocytosis. Their mucin-filled cytoplasm looks pale on H&E.",
+        "whyWrongByChoice": {
+          "A": "Adipocytes lie in connective tissue, not among columnar epithelial cells in the colonic mucosa, and they are larger with a single fat vacuole.",
+          "C": "Paneth cells sit at the base of small-intestinal crypts and have bright red eosinophilic granules, not pale cytoplasm.",
+          "D": "Serous cells have basophilic, granular cytoplasm from abundant RER and zymogen granules, not pale mucin-filled cytoplasm."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-195_pa40_f42.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Histology of Epithelial Tissue (2 of 2)",
+      "lectureTopicId": "histology-of-epithelial-tissue-2-of-2",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-198",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "Identify the glands labeled S in this skin section (H = hair shaft, D = ducts). By which mode do these glands release their product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apocrine secretion"
+        },
+        {
+          "label": "B",
+          "text": "Endocrine secretion"
+        },
+        {
+          "label": "C",
+          "text": "Holocrine secretion"
+        },
+        {
+          "label": "D",
+          "text": "Merocrine secretion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "S marks sebaceous glands, which sit beside hair follicles and drain into them through short ducts. They are the classic holocrine glands: their cells accumulate lipid-rich sebum until the whole cell breaks apart and becomes the secretion.",
+        "whyCorrect": "Sebaceous glands secrete by the holocrine mode, in which the entire cell disintegrates to form the secretion. Merocrine (eccrine) glands such as eccrine sweat and salivary glands release product by exocytosis, apocrine glands such as the mammary gland pinch off part of the apical cytoplasm, and endocrine glands secrete into blood rather than through ducts.",
+        "whyWrongByChoice": {
+          "A": "Apocrine secretion pinches off part of the apical cytoplasm, as in mammary and apocrine sweat glands, without destroying the whole cell.",
+          "B": "Endocrine secretion releases hormones into the blood without ducts, whereas these glands drain through ducts into hair follicles.",
+          "D": "Merocrine secretion releases product by exocytosis with the cell intact, as in eccrine sweat and salivary glands."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-198_pa40_f45.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Histology of Epithelial Tissue (2 of 2)",
+      "lectureTopicId": "histology-of-epithelial-tissue-2-of-2",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-013",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This H&E field from an aggressive pediatric CNS tumor shows the dark structures indicated by the arrows. What do these structures directly indicate about the tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A high rate of cellular proliferation"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of hemosiderin pigment"
+        },
+        {
+          "label": "C",
+          "text": "Infiltration by inflammatory neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Programmed cell death of tumor cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
+        "whyCorrect": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
+        "whyWrongByChoice": {
+          "B": "Hemosiderin appears as golden-brown granular pigment in macrophages after hemorrhage, not as dark purple condensed chromosome figures.",
+          "C": "Neutrophils have small multilobed nuclei and are scattered inflammatory cells; they do not appear as clumped chromosome figures within tumor cells.",
+          "D": "Apoptotic cells are shrunken, intensely eosinophilic with pyknotic or fragmented nuclei; the arrowed figures are condensed chromosomes of dividing cells."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-013_pa021_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "lectureTopicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-014",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "Panel A shows normal renal tubule cells; panel B shows the same cells after an early, reversible insult. What reversible change accounts for the appearance in panel B?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptotic body formation"
+        },
+        {
+          "label": "B",
+          "text": "Cellular (hydropic) swelling"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis of the epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Fatty change from lipid accumulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
+        "whyCorrect": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
+        "whyWrongByChoice": {
+          "A": "Apoptotic bodies are shrunken, dense eosinophilic fragments of single cells, the opposite of the enlarged swollen cells seen after early injury.",
+          "C": "Coagulative necrosis is irreversible, with loss of nuclei and hypereosinophilic ghost cells; the stem specifies an early, reversible change.",
+          "D": "Fatty change shows discrete clear lipid vacuoles, typically in hepatocytes; the tubular cells here are diffusely swollen with pale cytoplasm from water influx."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-014_pa021_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "lectureTopicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-125",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "The left gross panel shows a lesion in a solid organ and the right panel shows its microscopic appearance. This pattern of necrosis is most typical of which underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pancreatic enzyme release"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial pyogenic infection"
+        },
+        {
+          "label": "D",
+          "text": "Ischemia outside the CNS"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous granulomatous infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
+        "whyCorrect": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
+        "whyWrongByChoice": {
+          "A": "Pancreatic enzyme release causes fat necrosis with chalky saponification, not a wedge-shaped coagulative infarct.",
+          "B": "Autoimmune vasculitis produces fibrinoid necrosis of vessel walls, not a pale wedge-shaped infarct with ghost cell outlines.",
+          "C": "Pyogenic bacterial infection causes liquefactive necrosis with abscess formation, destroying rather than preserving tissue outlines.",
+          "E": "Tuberculosis causes caseous necrosis, which is cheesy and amorphous with loss of tissue architecture."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-125_pa029_f08.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Cell Death: Apoptosis and Necrosis",
+      "lectureTopicId": "cell-death-apoptosis-and-necrosis",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-048",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This special stain was performed on a tissue section. What is this stain used to detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acid-fast bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "C",
+          "text": "Collagen and fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Fungal organisms"
+        },
+        {
+          "label": "E",
+          "text": "Iron (hemosiderin)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyCorrect": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyWrongByChoice": {
+          "A": "Acid-fast bacteria are detected with Ziehl-Neelsen, which stains thin rods red, not hyphae and yeast black.",
+          "B": "Amyloid is detected with Congo red, which shows apple-green birefringence, not silver-blackened hyphae.",
+          "C": "Collagen and fibrosis are highlighted with trichrome (blue or green), not silver deposited on organisms.",
+          "E": "Iron is detected with Prussian blue, which stains hemosiderin blue."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-048_pa030_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Introduction to Anatomic Pathology for Patient Care",
+      "lectureTopicId": "introduction-to-anatomic-pathology-for-patient-care",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-050",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "On this cervical Pap smear, how should the cluster of cells at the upper left be interpreted, compared with the large cell at the lower right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial colonization"
+        },
+        {
+          "label": "B",
+          "text": "Degenerated inflammatory debris"
+        },
+        {
+          "label": "C",
+          "text": "Normal mature squamous cells"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cell contamination"
+        },
+        {
+          "label": "E",
+          "text": "Worrisome, potentially pre-malignant cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyCorrect": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyWrongByChoice": {
+          "A": "Bacteria appear as tiny specks or coccobacilli coating cells (clue cells), not as cells with enlarged nuclei.",
+          "B": "Degenerated debris lacks the intact, enlarged, hyperchromatic nuclei that characterize dysplastic squamous cells.",
+          "C": "Normal mature squamous cells are large with abundant cytoplasm and small nuclei, like the cell at lower right, not the high N:C cells.",
+          "D": "Red blood cells are small anucleate discs; the small cells here have prominent nuclei."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-050_pa030_f10.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Introduction to Anatomic Pathology for Patient Care",
+      "lectureTopicId": "introduction-to-anatomic-pathology-for-patient-care",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-053",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This gross cross-section of liver was obtained at autopsy from a patient with long-standing alcohol use. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic passive hepatic congestion"
+        },
+        {
+          "label": "B",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic amyloidosis"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic steatosis (fatty liver)"
+        },
+        {
+          "label": "E",
+          "text": "Hepatocellular carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The uniform micro/macronodular architecture with intervening fibrous bands in a liver from a chronic alcohol user is characteristic of cirrhosis, the end-stage of diffuse hepatic fibrosis and regenerative nodule formation.",
+        "whyCorrect": "The uniform micro/macronodular architecture with intervening fibrous bands in a liver from a chronic alcohol user is characteristic of cirrhosis, the end-stage of diffuse hepatic fibrosis and regenerative nodule formation.",
+        "whyWrongByChoice": {
+          "A": "Chronic passive congestion gives a nutmeg pattern of dark centrilobular areas, not diffuse nodules with fibrous bands.",
+          "C": "Amyloidosis produces an enlarged, firm, waxy pale liver without regenerative nodules.",
+          "D": "Steatosis makes the liver enlarged, yellow, soft and greasy with a smooth surface, not firm and nodular.",
+          "E": "Hepatocellular carcinoma forms a dominant mass or masses, often arising in cirrhosis, rather than uniform diffuse nodularity."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-053_pa002_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Autopsy",
+      "lectureTopicId": "autopsy",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-026",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This micrograph contrasts two principal cells of inflammation. Approximately when does the cell shown at right become the predominant cell at a site of acute injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2-3 weeks after injury"
+        },
+        {
+          "label": "B",
+          "text": "48-72 hours after injury"
+        },
+        {
+          "label": "C",
+          "text": "6-12 hours after injury"
+        },
+        {
+          "label": "D",
+          "text": "At the moment of injury"
+        },
+        {
+          "label": "E",
+          "text": "Within the first few minutes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The cell at right is a tissue macrophage (large cell with abundant vacuolated cytoplasm); the cell at left is a neutrophil. Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell roughly 48-72 hours after injury.",
+        "whyCorrect": "The cell at right is a tissue macrophage (large cell with abundant vacuolated cytoplasm); the cell at left is a neutrophil. Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell roughly 48-72 hours after injury.",
+        "whyWrongByChoice": {
+          "A": "By 2-3 weeks inflammation has generally shifted to repair with granulation tissue and scar, well after macrophages first predominate.",
+          "C": "At 6-12 hours neutrophils are arriving and rising toward their 24-hour peak; macrophages have not yet taken over.",
+          "D": "At the moment of injury no leukocytes have emigrated yet; macrophages take 2-3 days to predominate.",
+          "E": "In the first minutes, vascular changes such as vasodilation and increased permeability dominate before significant leukocyte emigration."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-026_pa031_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "lectureTopicId": "acute-inflammation-part-1",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-132",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This skin section shows a blister, with the epidermis separated from the underlying dermis. Which morphologic pattern of inflammation is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Suppurative (purulent) inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative inflammation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
+        "whyCorrect": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
+        "whyWrongByChoice": {
+          "A": "Fibrinous inflammation deposits eosinophilic fibrin meshwork on serosal surfaces, not watery fluid in a blister.",
+          "B": "Granulomatous inflammation is a collection of epithelioid macrophages and giant cells, not a fluid-filled space.",
+          "D": "Suppurative inflammation forms pus rich in neutrophils, not clear, cell-poor watery fluid.",
+          "E": "Ulcerative inflammation is loss of the epithelial surface; here the epidermis is intact but lifted off."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-132_pa031_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "lectureTopicId": "acute-inflammation-part-1",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-133",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "Panel A shows the epicardial surface of this heart at autopsy, and panel B shows a section through the pericardial surface. Which type of inflammatory exudate is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseous exudate"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinous exudate"
+        },
+        {
+          "label": "C",
+          "text": "Hemorrhagic exudate"
+        },
+        {
+          "label": "D",
+          "text": "Purulent (suppurative) exudate"
+        },
+        {
+          "label": "E",
+          "text": "Serous exudate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
+        "whyCorrect": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
+        "whyWrongByChoice": {
+          "A": "Caseous material is cheesy necrotic debris of granulomas, as in tuberculosis, not a fibrin layer on the pericardium.",
+          "C": "A hemorrhagic exudate is dominated by red cells and appears blood-red, not as a shaggy pink fibrin meshwork.",
+          "D": "Purulent exudate is creamy pus full of neutrophils rather than a strand-like fibrin coating.",
+          "E": "Serous exudate is thin, clear fluid with little protein, which cannot produce a shaggy bread-and-butter surface."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-133_pa031_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "lectureTopicId": "acute-inflammation-part-1",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-134",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This gross specimen (left) and low-power section (right) are from the duodenum. Which morphologic pattern of inflammation is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomembranous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Suppurative inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative inflammation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
+        "whyCorrect": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
+        "whyWrongByChoice": {
+          "A": "Fibrinous inflammation coats an intact serosal surface with fibrin rather than creating a crater through the mucosa.",
+          "B": "Pseudomembranous inflammation forms adherent plaques of fibrin, mucus and debris on the surface (e.g., C. difficile colitis), not a deep crater.",
+          "C": "Serous inflammation is accumulation of thin watery fluid, as in a blister, without a tissue defect.",
+          "D": "Suppurative inflammation forms collections of pus such as abscesses, not a punched-out mucosal crater."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-134_pa031_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "lectureTopicId": "acute-inflammation-part-1",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-203",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "Gross lung (A) and a microscopic section (B) from a patient with bronchopneumonia. The yellow nodules (arrows) correspond to the lesion shown in B. Which lesion is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abscess"
+        },
+        {
+          "label": "B",
+          "text": "Caseating granuloma"
+        },
+        {
+          "label": "C",
+          "text": "Gumma"
+        },
+        {
+          "label": "D",
+          "text": "Infarct"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An abscess is a localized collection of purulence (liquefactive necrosis of dead and dying neutrophils and debris) with a surrounding wall of connective tissue that attempts to wall off the infection. It is the classic lesion of suppurative inflammation caused by pyogenic bacteria such as staphylococci.",
+        "whyCorrect": "An abscess is a localized collection of purulence (liquefactive necrosis of dead and dying neutrophils and debris) with a surrounding wall of connective tissue that attempts to wall off the infection. It is the classic lesion of suppurative inflammation caused by pyogenic bacteria such as staphylococci.",
+        "whyWrongByChoice": {
+          "B": "A caseating granuloma has central cheesy necrosis rimmed by epithelioid macrophages and giant cells, not degenerating neutrophils.",
+          "C": "A gumma is the granulomatous lesion of tertiary syphilis with rubbery central necrosis, not a neutrophil-rich collection in bronchopneumonia.",
+          "D": "An infarct is ischemic coagulative necrosis, typically wedge-shaped and hemorrhagic in the lung, without a central pool of neutrophils."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-203_pa41_f50.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "lectureTopicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-204",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A silver stain of a tissue biopsy highlights the black organisms shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The spiral (corkscrew) morphology seen black on silver stain is characteristic of the spirochete Treponema pallidum, the cause of syphilis. Primary and secondary syphilis produce perivascular lymphoplasmacytic inflammation; tertiary syphilis becomes granulomatous (gummas).",
+        "whyCorrect": "The spiral (corkscrew) morphology seen black on silver stain is characteristic of the spirochete Treponema pallidum, the cause of syphilis. Primary and secondary syphilis produce perivascular lymphoplasmacytic inflammation; tertiary syphilis becomes granulomatous (gummas).",
+        "whyWrongByChoice": {
+          "A": "Herpes simplex virus is too small to see by light microscopy; it is recognized by multinucleated cells with nuclear molding and margination.",
+          "B": "Mycobacterium tuberculosis is a thin, straight rod seen red on acid-fast stain, not a corkscrew on silver stain.",
+          "C": "Staphylococcus aureus is a gram-positive coccus in grape-like clusters, not a spiral organism."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-204_pa41_f51.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "lectureTopicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-207",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "Lung and hilar lymph node (left) from a patient with the lesions marked by arrows, with microscopic sections (A-C) and a special stain (D). Which property of the organism seen in D allows it to retain this stain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipopolysaccharide outer membrane"
+        },
+        {
+          "label": "B",
+          "text": "Mycolic acid in a waxy cell wall"
+        },
+        {
+          "label": "C",
+          "text": "Polysaccharide capsule"
+        },
+        {
+          "label": "D",
+          "text": "Thick peptidoglycan cell wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "These are caseating granulomas of tuberculosis. M. tuberculosis has a waxy cell wall containing mycolic acid, which lets it retain stain after acid-alcohol treatment - hence 'acid-fast'. An AFB stain (panel D) is used to look for mycobacteria in a granuloma.",
+        "whyCorrect": "These are caseating granulomas of tuberculosis. M. tuberculosis has a waxy cell wall containing mycolic acid, which lets it retain stain after acid-alcohol treatment - hence 'acid-fast'. An AFB stain (panel D) is used to look for mycobacteria in a granuloma.",
+        "whyWrongByChoice": {
+          "A": "Lipopolysaccharide outer membranes are a feature of gram-negative bacteria and do not make an organism acid-fast.",
+          "C": "Capsules are highlighted by India ink or mucicarmine, as in Cryptococcus, and do not explain acid-fastness.",
+          "D": "A thick peptidoglycan wall is what lets gram-positive bacteria retain crystal violet in a Gram stain, not carbol fuchsin after acid-alcohol."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-207_pa41_f54.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "lectureTopicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-210",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "Biopsy of vulvar epithelium. The arrows mark abnormal epithelial cells. Which agent most likely caused these changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "B",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "C",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of herpes simplex virus infection. Cytopathic-cytoproliferative reactions are caused by viruses replicating inside cells; HPV instead causes proliferation (verrucous warts).",
+        "whyCorrect": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of herpes simplex virus infection. Cytopathic-cytoproliferative reactions are caused by viruses replicating inside cells; HPV instead causes proliferation (verrucous warts).",
+        "whyWrongByChoice": {
+          "B": "HPV produces koilocytes, with wrinkled nuclei and perinuclear halos, and causes epithelial proliferation rather than multinucleated cells.",
+          "C": "Mycobacterium tuberculosis causes caseating granulomas with Langhans giant cells, which do not show molded, marginated nuclei.",
+          "D": "Treponema pallidum causes perivascular plasma-cell-rich inflammation, not multinucleated epithelial cells with nuclear molding."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-210_pa41_f57.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "lectureTopicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-211",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A young woman has the facial rash shown. Which laboratory finding best supports the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-collagen type IV antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Anti-SS-A (Ro)/SS-B (La) antibodies"
+        },
+        {
+          "label": "D",
+          "text": "PR3-ANCA (c-ANCA) positivity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A butterfly-shaped malar rash over the cheeks and nasal bridge, sparing the nasolabial folds, indicates systemic lupus erythematosus. ANA plus anti-dsDNA or anti-Smith antibodies are present in SLE. PR3-ANCA = GPA, anti-collagen IV = Goodpasture, SS-A/SS-B = Sjogren.",
+        "whyCorrect": "A butterfly-shaped malar rash over the cheeks and nasal bridge, sparing the nasolabial folds, indicates systemic lupus erythematosus. ANA plus anti-dsDNA or anti-Smith antibodies are present in SLE. PR3-ANCA = GPA, anti-collagen IV = Goodpasture, SS-A/SS-B = Sjogren.",
+        "whyWrongByChoice": {
+          "A": "Anti-type IV collagen antibodies mark Goodpasture syndrome, presenting with hemoptysis and glomerulonephritis, not a malar rash.",
+          "C": "SS-A and SS-B antibodies are typical of Sjogren disease with dry eyes and mouth; anti-Ro can appear in lupus but is not the most specific marker.",
+          "D": "PR3-ANCA marks granulomatosis with polyangiitis, which affects sinuses, lungs and kidneys rather than causing a butterfly rash."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-211_pa41_f58.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "lectureTopicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-216",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A 5-year-old boy has joint pains and the rash shown over the backs of his legs. Which mechanism underlies this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-basement membrane antibody binding"
+        },
+        {
+          "label": "B",
+          "text": "IgA-dominant immune complex deposition"
+        },
+        {
+          "label": "C",
+          "text": "PR3-ANCA activation of neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Th1 cytokine-driven granuloma formation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Henoch-Schonlein purpura (IgA vasculitis) is a childhood syndrome (ages 3-8) of purpuric skin lesions on extensor surfaces and buttocks, abdominal pain/GI bleeding, arthralgias and renal abnormalities. Like SLE, it is due to immune complex deposition, usually IgA +/- IgG and C3.",
+        "whyCorrect": "Henoch-Schonlein purpura (IgA vasculitis) is a childhood syndrome (ages 3-8) of purpuric skin lesions on extensor surfaces and buttocks, abdominal pain/GI bleeding, arthralgias and renal abnormalities. Like SLE, it is due to immune complex deposition, usually IgA +/- IgG and C3.",
+        "whyWrongByChoice": {
+          "A": "Anti-basement membrane antibodies cause Goodpasture disease with lung hemorrhage and glomerulonephritis, not a leg rash with arthralgia.",
+          "C": "PR3-ANCA activation drives granulomatosis with polyangiitis in adults with sinus, lung and kidney disease, not a child with purpura and abdominal pain.",
+          "D": "Th1 cytokine-driven granulomas are the mechanism of sarcoidosis and tuberculosis, not of childhood purpura."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-216_pa41_f63.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "lectureTopicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-220",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "The skin lesions on the anterior lower legs are shown in an acute (left) and a resolving (right) phase. What is the name of this skin finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "B",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "C",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "D",
+          "text": "Palpable purpura"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erythema nodosum refers to red, tender nodules most commonly on the anterior and lateral lower extremities. It is a non-specific finding but is one of the cutaneous manifestations of sarcoidosis.",
+        "whyCorrect": "Erythema nodosum refers to red, tender nodules most commonly on the anterior and lateral lower extremities. It is a non-specific finding but is one of the cutaneous manifestations of sarcoidosis.",
+        "whyWrongByChoice": {
+          "A": "Cellulitis is a spreading, warm, poorly demarcated erythema, usually on one leg with fever, not multiple bilateral tender nodules on the shins.",
+          "B": "Erythema multiforme produces target lesions with dusky centers, often on the extremities, palms and soles after HSV infection or drugs, not tender subcutaneous nodules on the shins.",
+          "D": "Palpable purpura is raised, nonblanching red-purple spots from small-vessel vasculitis, not tender subcutaneous nodules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-220_pa41_f67.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "lectureTopicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-089",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "Two livers are compared: a donor liver (A) and a normal liver (B). The gross change in liver A is caused by accumulation of what substance within hepatocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid protein"
+        },
+        {
+          "label": "B",
+          "text": "Bile pigment"
+        },
+        {
+          "label": "C",
+          "text": "Iron (hemosiderin)"
+        },
+        {
+          "label": "D",
+          "text": "Triglyceride (fat)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pale, yellowed, enlarged appearance is characteristic of hepatic steatosis, in which triglyceride accumulates in hepatocytes. Significant macrovesicular steatosis is a relative or absolute contraindication to using the liver for transplant.",
+        "whyCorrect": "The pale, yellowed, enlarged appearance is characteristic of hepatic steatosis, in which triglyceride accumulates in hepatocytes. Significant macrovesicular steatosis is a relative or absolute contraindication to using the liver for transplant.",
+        "whyWrongByChoice": {
+          "A": "Amyloid makes the liver firm, waxy and pale gray rather than yellow and greasy.",
+          "B": "Bile pigment accumulation in cholestasis gives a green-yellow discoloration, not a pale, greasy enlarged liver.",
+          "C": "Hemosiderin accumulation turns the liver rusty or dark brown, as in hemochromatosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-089_pa013_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Diseases of the Immune System: Transplantation",
+      "lectureTopicId": "diseases-of-the-immune-system-transplantation",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-095",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This small vessel from a donor kidney biopsy shows the wall change marked by arrows. What is this change called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic plaque"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinoid necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Hyaline arteriolosclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Medial calcification"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Deposition of homogeneous eosinophilic protein material in the arteriolar wall is arteriolar hyalinization (hyaline arteriolosclerosis), commonly associated with hypertension and diabetes in donor kidneys.",
+        "whyCorrect": "Deposition of homogeneous eosinophilic protein material in the arteriolar wall is arteriolar hyalinization (hyaline arteriolosclerosis), commonly associated with hypertension and diabetes in donor kidneys.",
+        "whyWrongByChoice": {
+          "A": "Atherosclerotic plaque is an intimal lesion of large and medium arteries with lipid core and foam cells, not a change of small arterioles.",
+          "B": "Fibrinoid necrosis is bright pink smudgy fibrin with inflammation and nuclear debris in malignant hypertension or vasculitis, not quiet glassy hyaline.",
+          "D": "Medial calcification (Monckeberg) shows purple-blue calcium deposits in the media of muscular arteries, not homogeneous pink material."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-095_pa013_f09.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Diseases of the Immune System: Transplantation",
+      "lectureTopicId": "diseases-of-the-immune-system-transplantation",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-039",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "MRCP (A) and ERCP (B) studies of the same patient are shown. Which diagnosis is most consistent with these biliary imaging findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Choledocholithiasis"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Primary sclerosing cholangitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
+        "whyCorrect": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune hepatitis is a hepatocellular disease with a normal biliary tree on cholangiography.",
+          "B": "Cholangiocarcinoma typically produces a single dominant stricture or mass, although it can complicate primary sclerosing cholangitis.",
+          "C": "Choledocholithiasis shows filling defects from stones in the common bile duct with upstream dilation, not multifocal beading.",
+          "D": "Primary biliary cholangitis destroys small intrahepatic ducts that are not visible on cholangiography, so imaging is usually normal."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-039_pa016_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Infectious/Inflammatory Causes of Jaundice",
+      "lectureTopicId": "infectious-inflammatory-causes-of-jaundice",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-099",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This portal tract from a liver biopsy shows the bile duct lesion pictured. Which condition is indicated by this classic lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascending cholangitis"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic hepatitis C"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Primary sclerosing cholangitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Concentric 'onion-skin' periductal fibrosis progressing to obliteration of the bile duct is the characteristic histology of primary sclerosing cholangitis.",
+        "whyCorrect": "Concentric 'onion-skin' periductal fibrosis progressing to obliteration of the bile duct is the characteristic histology of primary sclerosing cholangitis.",
+        "whyWrongByChoice": {
+          "A": "Ascending cholangitis shows neutrophils within duct lumens and walls from bacterial infection, not concentric fibrosis.",
+          "B": "Autoimmune hepatitis is plasma-cell-rich interface hepatitis that targets hepatocytes, not bile ducts.",
+          "C": "Chronic hepatitis C shows portal lymphoid aggregates and interface activity without concentric periductal fibrosis.",
+          "D": "Primary biliary cholangitis destroys small ducts with lymphocytes and granulomas (florid duct lesion), not onion-skin fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-099_pa016_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Infectious/Inflammatory Causes of Jaundice",
+      "lectureTopicId": "infectious-inflammatory-causes-of-jaundice",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-107",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "The left panel shows a skin lesion on the back of an older adult and the right panel shows its histology. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basal cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Dermatofibroma"
+        },
+        {
+          "label": "C",
+          "text": "Melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic keratosis"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cutaneous melanoma arises from transformed melanocytes, which produce brown melanin pigment visible histologically; activating BRAF (V600E) mutations are a common oncogenic driver and therapeutic target.",
+        "whyCorrect": "Cutaneous melanoma arises from transformed melanocytes, which produce brown melanin pigment visible histologically; activating BRAF (V600E) mutations are a common oncogenic driver and therapeutic target.",
+        "whyWrongByChoice": {
+          "A": "Basal cell carcinoma has basaloid nests with peripheral palisading; it is driven by hedgehog pathway (PTCH) mutations rather than BRAF.",
+          "B": "Dermatofibroma is a benign dermal fibrohistiocytic nodule that dimples when pinched; it is not BRAF-driven.",
+          "D": "Seborrheic keratosis is a benign stuck-on proliferation of basaloid keratinocytes with horn cysts, not a malignant melanocytic neoplasm.",
+          "E": "Squamous cell carcinoma comes from keratinocytes, with keratin pearls and intercellular bridges; it is not pigment-producing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-107_pa019_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "lectureTopicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-012",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A tumor removed from a young child shows the two rosette patterns pictured. Which tumor classically shows both of these rosette types?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colonic adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous neurofibroma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Osteosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Retinoblastoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Homer Wright rosettes (radial cells around a fibrillar center) and Flexner-Wintersteiner rosettes (cells around a true lumen) are both characteristic histologic features of retinoblastoma.",
+        "whyCorrect": "Homer Wright rosettes (radial cells around a fibrillar center) and Flexner-Wintersteiner rosettes (cells around a true lumen) are both characteristic histologic features of retinoblastoma.",
+        "whyWrongByChoice": {
+          "A": "Colonic adenocarcinoma forms glands of columnar cells with dirty necrosis, an adult tumor without rosettes.",
+          "B": "Neurofibromas are benign spindle-cell nerve sheath tumors of wavy cells, without rosettes.",
+          "C": "Hepatocellular carcinoma forms trabeculae and pseudoglands of polygonal hepatocyte-like cells, not neural or retinal rosettes.",
+          "D": "Osteosarcoma is identified by malignant cells producing osteoid, not rosette formation."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-012_pa020_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "lectureTopicId": "molecular-basis-of-neoplasia-part-2",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-016",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This high-power H&E field is from an enlarged cervical lymph node in a young adult. The bracketed cell is diagnostic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Chronic lymphocytic leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Classic Hodgkin lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Nasopharyngeal carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bracketed cell is a Reed-Sternberg cell: a large cell with a bilobed (owl-eye) nucleus and prominent eosinophilic nucleoli. It is the diagnostic cell of classic Hodgkin lymphoma, roughly half of which are EBV-associated.",
+        "whyCorrect": "A large bilobed cell with owl-eye eosinophilic nucleoli in a mixed inflammatory background is the Reed-Sternberg cell, the hallmark of classic Hodgkin lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Burkitt lymphoma shows monotonous medium-sized cells with a starry-sky pattern, not scattered Reed-Sternberg cells.",
+          "B": "Chronic lymphocytic leukemia shows sheets of small mature lymphocytes and smudge cells, not large binucleate cells with huge nucleoli.",
+          "D": "Follicular lymphoma shows crowded neoplastic follicles of centrocytes and centroblasts without owl-eye cells.",
+          "E": "Nasopharyngeal carcinoma is EBV-associated but shows nests of undifferentiated epithelial cells, not bilobed lymphoid owl-eye cells."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-016_pa026_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathogen-associated Neoplasms",
+      "lectureTopicId": "pathogen-associated-neoplasms",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-017",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This lymph node biopsy is from a highly proliferative B-cell neoplasm. What is the classic low-power pattern shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Onion-skin lamellation"
+        },
+        {
+          "label": "B",
+          "text": "Owl-eye pattern"
+        },
+        {
+          "label": "C",
+          "text": "Signet-ring pattern"
+        },
+        {
+          "label": "D",
+          "text": "Starry sky appearance"
+        },
+        {
+          "label": "E",
+          "text": "Storiform pattern"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sheets of dark, monotonous neoplastic B cells punctuated by pale tingible-body macrophages (which engulf apoptotic tumor cells) produce the starry-sky appearance characteristic of Burkitt lymphoma.",
+        "whyCorrect": "The pale macrophages (stars) scattered among the dark, rapidly dividing tumor cells (sky) create the starry-sky pattern of Burkitt lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Onion-skin lamellation describes concentric layers, as in hyperplastic arteriolosclerosis or Ewing sarcoma periosteal reaction.",
+          "B": "The owl-eye pattern describes the paired nuclei of Reed-Sternberg cells in Hodgkin lymphoma, or CMV inclusions, not a low-power field.",
+          "C": "Signet-ring cells have intracellular mucin pushing the nucleus aside, as in diffuse gastric carcinoma.",
+          "E": "A storiform pattern is a cartwheel arrangement of spindle cells, as in dermatofibrosarcoma or IgG4-related fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-017_pa026_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathogen-associated Neoplasms",
+      "lectureTopicId": "pathogen-associated-neoplasms",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-019",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This electron micrograph shows a malignant lymphocyte from a patient with hypercalcemia and lymphadenopathy. The nuclear morphology shown is characteristic of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adult T-cell leukemia/lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Hairy cell leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The multilobulated, cloverleaf (flower cell) nucleus is characteristic of adult T-cell leukemia/lymphoma, caused by HTLV-1 infection.",
+        "whyCorrect": "Flower cells with multilobed nuclei are the classic cytologic finding of HTLV-1-associated adult T-cell leukemia/lymphoma.",
+        "whyWrongByChoice": {
+          "B": "Burkitt lymphoma cells are medium-sized with round nuclei and vacuolated basophilic cytoplasm.",
+          "C": "Chronic myeloid leukemia shows maturing granulocytes with basophilia; it lacks lymphocytes with flower-shaped nuclei.",
+          "D": "Hairy cell leukemia cells have fine hair-like cytoplasmic projections and oval nuclei, not multilobed nuclei.",
+          "E": "Hodgkin lymphoma is identified by Reed-Sternberg cells with owl-eye nucleoli, not flower cells."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-019_pa026_f13.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pathogen-associated Neoplasms",
+      "lectureTopicId": "pathogen-associated-neoplasms",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-040",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "Immunohistochemistry for four mismatch-repair proteins was performed on this adenocarcinoma, as shown. What does the staining pattern indicate about the tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It harbors a BRCA1 mutation"
+        },
+        {
+          "label": "B",
+          "text": "It has fully intact mismatch repair"
+        },
+        {
+          "label": "C",
+          "text": "It is mismatch-repair deficient"
+        },
+        {
+          "label": "D",
+          "text": "It is normal non-neoplastic tissue"
+        },
+        {
+          "label": "E",
+          "text": "It overexpresses HER2/neu"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tumor nuclei have lost MLH1 and PMS2 staining (stromal cells stay positive as an internal control), while MSH2 and MSH6 are retained. Loss of an MMR protein pair means the tumor is mismatch-repair deficient (MSI-high); this can reflect Lynch syndrome or sporadic MLH1 promoter hypermethylation.",
+        "whyCorrect": "Absent nuclear staining of MLH1/PMS2 in tumor cells with intact internal controls indicates mismatch-repair deficiency.",
+        "whyWrongByChoice": {
+          "A": "BRCA1 mutations impair homologous recombination and are not detected by loss of MLH1 and PMS2 staining.",
+          "B": "Intact mismatch repair would show preserved nuclear staining for all four markers, not loss of the upper two.",
+          "D": "Normal tissue retains nuclear staining for all four mismatch-repair proteins and acts as the internal positive control.",
+          "E": "HER2 overexpression shows strong brown membrane staining on a HER2 stain, not loss of nuclear mismatch-repair proteins."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-040_pa023_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Hallmarks of Neoplasia: Genomic Instability",
+      "lectureTopicId": "hallmarks-of-neoplasia-genomic-instability",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-116",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "The findings shown on this young child's face are confined to sun-exposed skin and began in early childhood. An inherited defect in which DNA repair pathway underlies this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Base excision repair"
+        },
+        {
+          "label": "B",
+          "text": "Homologous recombination"
+        },
+        {
+          "label": "C",
+          "text": "Mismatch repair"
+        },
+        {
+          "label": "D",
+          "text": "Nonhomologous end joining"
+        },
+        {
+          "label": "E",
+          "text": "Nucleotide excision repair"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Xeroderma pigmentosum results from loss-of-function mutations in nucleotide excision repair, leaving patients unable to remove UV-induced pyrimidine dimers, producing severe photosensitivity, freckling in sun-exposed areas, and greatly increased skin cancer risk.",
+        "whyCorrect": "Xeroderma pigmentosum results from loss-of-function mutations in nucleotide excision repair, leaving patients unable to remove UV-induced pyrimidine dimers, producing severe photosensitivity, freckling in sun-exposed areas, and greatly increased skin cancer risk.",
+        "whyWrongByChoice": {
+          "A": "Base excision repair fixes damaged single bases, such as oxidized or deaminated ones, and does not remove UV pyrimidine dimers.",
+          "B": "Homologous recombination defects (BRCA1/2) predispose to breast and ovarian cancer, not extreme sun sensitivity.",
+          "C": "Mismatch repair defects cause Lynch syndrome with colon and endometrial cancer, not photosensitivity and freckling.",
+          "D": "Nonhomologous end joining repairs double-strand breaks; its defect causes ataxia telangiectasia-type features rather than UV photosensitivity."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-116_pa023_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Hallmarks of Neoplasia: Genomic Instability",
+      "lectureTopicId": "hallmarks-of-neoplasia-genomic-instability",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-015",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A heavy smoker has a central lung mass. A biopsy is shown. From which cell type does this tumor most characteristically arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Keratinizing squamous epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Mesothelial lining cells"
+        },
+        {
+          "label": "C",
+          "text": "Mucin-producing glandular epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Neuroendocrine (Kulchitsky) cells"
+        },
+        {
+          "label": "E",
+          "text": "Type II pneumocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The morphology (small blue cells, scant cytoplasm, nuclear molding, dispersed chromatin) is that of small cell lung carcinoma, a poorly differentiated neuroendocrine tumor derived from Kulchitsky cells. This origin explains its capacity for ectopic hormone production (ACTH, ADH) and neurologic paraneoplastic syndromes.",
+        "whyCorrect": "The morphology (small blue cells, scant cytoplasm, nuclear molding, dispersed chromatin) is that of small cell lung carcinoma, a poorly differentiated neuroendocrine tumor derived from Kulchitsky cells. This origin explains its capacity for ectopic hormone production (ACTH, ADH) and neurologic paraneoplastic syndromes.",
+        "whyWrongByChoice": {
+          "A": "Keratinizing squamous epithelium gives rise to squamous cell carcinoma, with keratin pearls and intercellular bridges.",
+          "B": "Mesothelial cells give rise to mesothelioma, which is pleural-based with epithelioid or sarcomatoid cells, not small blue cells with molding.",
+          "C": "Mucin-producing glandular epithelium gives rise to adenocarcinoma, which forms glands and lacks salt-and-pepper chromatin.",
+          "E": "Type II pneumocytes are linked to lepidic adenocarcinoma, which grows along alveolar walls with glandular cells and abundant cytoplasm."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-015_pa024_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Paraneoplastic Syndromes",
+      "lectureTopicId": "paraneoplastic-syndromes",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-042",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A screening mammogram (left) prompted a biopsy (right). Which lesion is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ductal carcinoma in situ"
+        },
+        {
+          "label": "B",
+          "text": "Fibroadenoma"
+        },
+        {
+          "label": "C",
+          "text": "Invasive lobular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Paget disease of the breast"
+        },
+        {
+          "label": "E",
+          "text": "Phyllodes tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mammogram shows clustered microcalcifications, a classic early sign of ductal carcinoma in situ (DCIS). Biopsy reveals neoplastic cells expanding a duct without invasion past the basement membrane, along with the characteristic chunky intraductal calcifications. Detecting DCIS by mammography allows treatment before progression to invasive disease.",
+        "whyCorrect": "The mammogram shows clustered microcalcifications, a classic early sign of ductal carcinoma in situ (DCIS). Biopsy reveals neoplastic cells expanding a duct without invasion past the basement membrane, along with the characteristic chunky intraductal calcifications. Detecting DCIS by mammography allows treatment before progression to invasive disease.",
+        "whyWrongByChoice": {
+          "B": "Fibroadenoma is a benign, well-circumscribed mass and may develop coarse popcorn calcifications, not fine clustered microcalcifications.",
+          "C": "Invasive lobular carcinoma rarely calcifies and grows in single-file lines of discohesive cells; it is invasive, not an early in situ lesion.",
+          "D": "Paget disease of the breast presents with a crusted, eczematous nipple from intraepidermal tumor cells, not as clustered calcifications.",
+          "E": "Phyllodes tumor is a large fibroepithelial mass with leaf-like stromal fronds, not clustered microcalcifications."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-042_pa025_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Epidemiology of Cancer",
+      "lectureTopicId": "epidemiology-of-cancer",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-223",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "Two breast masses are shown in cut section. Which gross feature of the right-hand mass most reliably indicates that it is malignant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irregular border infiltrating adjacent tissue"
+        },
+        {
+          "label": "B",
+          "text": "Larger overall size than the left mass"
+        },
+        {
+          "label": "C",
+          "text": "Thin fibrous capsule around the tumor"
+        },
+        {
+          "label": "D",
+          "text": "Yellow-tan color of the cut surface"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Next to metastasis, invasiveness is the most reliable discriminator between benign and malignant tumors. The left lesion (fibroadenoma) is encapsulated and sharply demarcated; the right (invasive ductal carcinoma) has an irregular border showing infiltration into surrounding tissue.",
+        "whyCorrect": "Next to metastasis, invasiveness is the most reliable discriminator between benign and malignant tumors. The left lesion (fibroadenoma) is encapsulated and sharply demarcated; the right (invasive ductal carcinoma) has an irregular border showing infiltration into surrounding tissue.",
+        "whyWrongByChoice": {
+          "B": "Size alone does not separate benign from malignant; benign tumors can grow large and carcinomas can be small.",
+          "C": "A thin fibrous capsule suggests a benign, expansile growth, like the fibroadenoma on the left.",
+          "D": "Cut-surface color reflects tissue composition such as fat or necrosis and is not a reliable indicator of malignancy."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-223_pa42_f70.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Cancer Growth, Metastasis, and Medications Overview",
+      "lectureTopicId": "cancer-growth-metastasis-and-medications-overview",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-227",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A breast biopsy is shown on H&E (left) with an immunostain (right); residual normal ducts stain brown while the circled tumor cells do not. Loss of which protein explains this tumor's growth pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "E-cadherin"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen receptor"
+        },
+        {
+          "label": "C",
+          "text": "HER2"
+        },
+        {
+          "label": "D",
+          "text": "Laminin receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Invasive lobular carcinoma downregulates E-cadherin, so cells separate easily and infiltrate in single file. The immunostain shows lack of E-cadherin (no brown staining) in the tumor cells, while residual normal ducts retain staining.",
+        "whyCorrect": "Invasive lobular carcinoma downregulates E-cadherin, so cells separate easily and infiltrate in single file. The immunostain shows lack of E-cadherin (no brown staining) in the tumor cells, while residual normal ducts retain staining.",
+        "whyWrongByChoice": {
+          "B": "Estrogen receptor is a nuclear hormone receptor, and invasive lobular carcinoma is usually ER-positive; ER loss does not cause single-file discohesion.",
+          "C": "HER2 is a membrane growth-factor receptor that is overexpressed, not lost, in some breast cancers, and it does not govern cell-cell adhesion.",
+          "D": "Laminin receptors are increased, not lost, in invasive tumor cells, helping them attach to basement membrane during invasion."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-227_pa42_f74.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Cancer Growth, Metastasis, and Medications Overview",
+      "lectureTopicId": "cancer-growth-metastasis-and-medications-overview",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-228",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This section shows tumor cells at the arrows. Which primary tumor most typically spreads by the route demonstrated here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breast carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Choriocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Renal cell carcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carcinomas are associated with lymphatic spread, and breast cancer is the lecture's example (upper outer quadrant tumors drain first to axillary nodes). Renal cell, choriocarcinoma, hepatocellular, and follicular thyroid carcinomas are the four carcinomas known for hematogenous spread.",
+        "whyCorrect": "Carcinomas are associated with lymphatic spread, and breast cancer is the lecture's example (upper outer quadrant tumors drain first to axillary nodes). Renal cell, choriocarcinoma, hepatocellular, and follicular thyroid carcinomas are the four carcinomas known for hematogenous spread.",
+        "whyWrongByChoice": {
+          "B": "Choriocarcinoma invades blood vessels early and spreads hematogenously to the lungs.",
+          "C": "Hepatocellular carcinoma tends to invade the portal and hepatic veins and spreads hematogenously.",
+          "D": "Renal cell carcinoma classically spreads hematogenously, often invading the renal vein, rather than via lymphatics."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-228_pa42_f75.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Cancer Growth, Metastasis, and Medications Overview",
+      "lectureTopicId": "cancer-growth-metastasis-and-medications-overview",
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-230",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This resected specimen is from a patient with a pelvic primary malignancy. Which route of tumor spread produced the pattern shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematogenous arterial spread"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous venous spread"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic spread to nodes"
+        },
+        {
+          "label": "D",
+          "text": "Seeding of a body cavity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Seeding requires an open space such as the peritoneal cavity, pleural cavity, subarachnoid space, or joint cavities. Ovarian carcinoma is the classic example, seeding the peritoneal cavity and omentum.",
+        "whyCorrect": "Seeding requires an open space such as the peritoneal cavity, pleural cavity, subarachnoid space, or joint cavities. Ovarian carcinoma is the classic example, seeding the peritoneal cavity and omentum.",
+        "whyWrongByChoice": {
+          "A": "Arterial hematogenous spread is uncommon and deposits tumor within distant organs, not across the peritoneal surfaces.",
+          "B": "Hematogenous venous spread seeds organs at the first capillary bed, such as liver and lung, producing parenchymal nodules rather than serosal studding.",
+          "C": "Lymphatic spread produces tumor deposits within regional lymph nodes, not innumerable nodules studding the omental surface."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-230_pa42_f77.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Cancer Growth, Metastasis, and Medications Overview",
+      "lectureTopicId": "cancer-growth-metastasis-and-medications-overview",
+      "source": "path-picqbank"
+    }
+  ]
+}

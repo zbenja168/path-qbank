@@ -100,15 +100,23 @@ export function QuestionCard({
         />
       </div>
 
-      {/* Image */}
+      {/* Image. Tap/click opens it full size in a new tab (pinch-zoom on a phone). */}
       {question.imageRef && (
-        <div className="mb-6 flex justify-center">
-          <img
-            src={`${import.meta.env.BASE_URL}data/images/${question.imageRef}`}
-            alt="Clinical image"
-            className="max-h-72 rounded-lg border border-slate-600"
-            loading="lazy"
-          />
+        <div data-part="figure" className="mb-6 flex justify-center">
+          <a
+            href={`${import.meta.env.BASE_URL}data/images/${question.imageRef}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Open the image full size"
+            className="block max-w-full"
+          >
+            <img
+              src={`${import.meta.env.BASE_URL}data/images/${question.imageRef}`}
+              alt="Clinical image for this question"
+              className="block max-w-full h-auto max-h-96 rounded-lg border border-slate-600 cursor-zoom-in"
+              loading="lazy"
+            />
+          </a>
         </div>
       )}
 
