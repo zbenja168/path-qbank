@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, decks]   # decks = generated Anki files, replaced each release
 
 permissions:
   contents: read
@@ -21,12 +21,23 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
       - run: npm ci
       - run: npm run build
+      # Anki decks live on the orphan `decks` branch (force-replaced each release,
+      # so binaries never pile up in main's history); copy them into the site.
+      - name: Add Anki decks
+        run: |
+          if git ls-remote --exit-code --heads origin decks >/dev/null; then
+            git fetch --depth 1 origin decks
+            mkdir -p dist/anki
+            git archive FETCH_HEAD | tar -x -C dist/anki
+          fi
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
         with:
