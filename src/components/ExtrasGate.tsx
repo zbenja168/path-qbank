@@ -33,21 +33,9 @@ export function ExtrasGate() {
           {offline ? "Couldn't reach Active Transport" : 'Unlock the extra questions'}
         </h2>
         {offline ? (
-          <p className="text-sm text-slate-300 mb-5">
-            The extra questions load from activetransport.app, which didn&apos;t answer just now.
-            Check your connection and try again.
-          </p>
+          <p className="text-sm text-slate-300 mb-5">Check your connection and try again.</p>
         ) : (
-          <>
-            <p className="text-sm text-slate-300 mb-3">
-              Every topic&apos;s core questions are open to everyone. The extra questions that take
-              each topic deeper are free with an Active Transport account.
-            </p>
-            <p className="text-sm text-slate-400 mb-5">
-              Sign in (or create a free account), then open this QBank from your Active Transport
-              home page. Already signed in? Reopen it from your home page and the extras unlock.
-            </p>
-          </>
+          <p className="text-sm text-slate-300 mb-5">Free: sign in, then reopen this QBank from your Active Transport home.</p>
         )}
         <div className="flex items-center justify-end gap-3">
           <button
