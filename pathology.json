@@ -1,0 +1,274 @@
+{
+ "course": "Pathology",
+ "whole": {
+  "file": "pathology.apkg",
+  "cards": 836,
+  "mb": 23.2
+ },
+ "weeks": [
+  {
+   "file": "pathology/week-1.apkg",
+   "cards": 321,
+   "mb": 11.8,
+   "week": 1,
+   "sessions": [
+    {
+     "file": "pathology/week-1-session-1.apkg",
+     "cards": 137,
+     "mb": 6.2,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "pathology/lecture-37.apkg",
+       "cards": 29,
+       "mb": 1.6,
+       "title": "Introduction to Histology and Histology of Connective Tissue"
+      },
+      {
+       "file": "pathology/lecture-38.apkg",
+       "cards": 38,
+       "mb": 1.6,
+       "title": "Histology of Muscle and Nervous Tissue"
+      },
+      {
+       "file": "pathology/lecture-39.apkg",
+       "cards": 35,
+       "mb": 1.0,
+       "title": "Histology of Epithelial Tissue (1 of 2)"
+      },
+      {
+       "file": "pathology/lecture-40.apkg",
+       "cards": 35,
+       "mb": 2.3,
+       "title": "Histology of Epithelial Tissue (2 of 2)"
+      }
+     ]
+    },
+    {
+     "file": "pathology/week-1-session-2.apkg",
+     "cards": 89,
+     "mb": 3.4,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "pathology/lecture-03.apkg",
+       "cards": 33,
+       "mb": 1.6,
+       "title": "Introduction to Pathology, Cell Injury, and Adaptation"
+      },
+      {
+       "file": "pathology/lecture-04.apkg",
+       "cards": 30,
+       "mb": 1.1,
+       "title": "Cell Death: Apoptosis and Necrosis"
+      },
+      {
+       "file": "pathology/lecture-05.apkg",
+       "cards": 26,
+       "mb": 0.8,
+       "title": "Introduction to Anatomic Pathology for Patient Care"
+      }
+     ]
+    },
+    {
+     "file": "pathology/week-1-session-3.apkg",
+     "cards": 95,
+     "mb": 2.3,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "pathology/lecture-01.apkg",
+       "cards": 35,
+       "mb": 1.2,
+       "title": "Environmental Disease Part 2 of 2: Physical Agents"
+      },
+      {
+       "file": "pathology/lecture-09.apkg",
+       "cards": 30,
+       "mb": 1.0,
+       "title": "Environmental Disease Part 1 of 2: Chemicals and Substances"
+      },
+      {
+       "file": "pathology/lecture-11.apkg",
+       "cards": 30,
+       "mb": 0.3,
+       "title": "Autopsy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "pathology/week-2.apkg",
+   "cards": 252,
+   "mb": 4.9,
+   "week": 2,
+   "sessions": [
+    {
+     "file": "pathology/week-2-session-1.apkg",
+     "cards": 91,
+     "mb": 1.7,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "pathology/lecture-06.apkg",
+       "cards": 30,
+       "mb": 0.6,
+       "title": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)"
+      },
+      {
+       "file": "pathology/lecture-07.apkg",
+       "cards": 29,
+       "mb": 0.5,
+       "title": "The Inflammatory Response: Chronic Inflammation (Part 2 of 2)"
+      },
+      {
+       "file": "pathology/lecture-08.apkg",
+       "cards": 32,
+       "mb": 0.7,
+       "title": "Wound Healing and Tissue Repair"
+      }
+     ]
+    },
+    {
+     "file": "pathology/week-2-session-2.apkg",
+     "cards": 81,
+     "mb": 2.6,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "pathology/lecture-22.apkg",
+       "cards": 27,
+       "mb": 0.5,
+       "title": "Diseases of the Immune System: Transplantation"
+      },
+      {
+       "file": "pathology/lecture-23.apkg",
+       "cards": 25,
+       "mb": 0.4,
+       "title": "Diseases of the Immune System: Transplant Rejection"
+      },
+      {
+       "file": "pathology/lecture-41.apkg",
+       "cards": 29,
+       "mb": 1.8,
+       "title": "Pathologic Manifestations of Infectious and Immune-related Diseases"
+      }
+     ]
+    },
+    {
+     "file": "pathology/week-2-session-3.apkg",
+     "cards": 80,
+     "mb": 0.7,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "pathology/lecture-14.apkg",
+       "cards": 25,
+       "mb": 0.2,
+       "title": "Introduction to Clinical Pathology for Patient Care"
+      },
+      {
+       "file": "pathology/lecture-24.apkg",
+       "cards": 27,
+       "mb": 0.1,
+       "title": "Immune-related and Infectious Causes of Diarrhea"
+      },
+      {
+       "file": "pathology/lecture-25.apkg",
+       "cards": 28,
+       "mb": 0.5,
+       "title": "Infectious/Inflammatory Causes of Jaundice"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "pathology/week-3.apkg",
+   "cards": 263,
+   "mb": 6.7,
+   "week": 3,
+   "sessions": [
+    {
+     "file": "pathology/week-3-session-1.apkg",
+     "cards": 94,
+     "mb": 2.8,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "pathology/lecture-26.apkg",
+       "cards": 34,
+       "mb": 1.7,
+       "title": "Introduction to Neoplasia"
+      },
+      {
+       "file": "pathology/lecture-28.apkg",
+       "cards": 30,
+       "mb": 0.7,
+       "title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)"
+      },
+      {
+       "file": "pathology/lecture-29.apkg",
+       "cards": 30,
+       "mb": 0.5,
+       "title": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)"
+      }
+     ]
+    },
+    {
+     "file": "pathology/week-3-session-2.apkg",
+     "cards": 110,
+     "mb": 2.5,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "pathology/lecture-31.apkg",
+       "cards": 27,
+       "mb": 0.4,
+       "title": "Hallmarks of Neoplasia: Genomic Instability"
+      },
+      {
+       "file": "pathology/lecture-32.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Paraneoplastic Syndromes"
+      },
+      {
+       "file": "pathology/lecture-33.apkg",
+       "cards": 26,
+       "mb": 0.3,
+       "title": "Epidemiology of Cancer"
+      },
+      {
+       "file": "pathology/lecture-34.apkg",
+       "cards": 29,
+       "mb": 1.5,
+       "title": "Pathogen-associated Neoplasms"
+      }
+     ]
+    },
+    {
+     "file": "pathology/week-3-session-3.apkg",
+     "cards": 59,
+     "mb": 1.5,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "pathology/lecture-02.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Cancer Staging and Grading"
+      },
+      {
+       "file": "pathology/lecture-42.apkg",
+       "cards": 31,
+       "mb": 1.4,
+       "title": "Cancer Growth, Metastasis, and Medications Overview"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
