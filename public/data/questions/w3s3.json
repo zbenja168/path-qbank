@@ -1152,6 +1152,174 @@
       "topicId": "cancer-growth-metastasis-and-medications-overview",
       "topicName": "Cancer Growth, Metastasis, and Medications Overview",
       "tier": "core"
+    },
+    {
+      "id": "papic-223",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "Two breast masses are shown in cut section. Which gross feature of the right-hand mass most reliably indicates that it is malignant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irregular border infiltrating adjacent tissue"
+        },
+        {
+          "label": "B",
+          "text": "Larger overall size than the left mass"
+        },
+        {
+          "label": "C",
+          "text": "Thin fibrous capsule around the tumor"
+        },
+        {
+          "label": "D",
+          "text": "Yellow-tan color of the cut surface"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Next to metastasis, invasiveness is the most reliable discriminator between benign and malignant tumors. The left lesion (fibroadenoma) is encapsulated and sharply demarcated; the right (invasive ductal carcinoma) has an irregular border showing infiltration into surrounding tissue.",
+        "whyCorrect": "Next to metastasis, invasiveness is the most reliable discriminator between benign and malignant tumors. The left lesion (fibroadenoma) is encapsulated and sharply demarcated; the right (invasive ductal carcinoma) has an irregular border showing infiltration into surrounding tissue.",
+        "whyWrongByChoice": {
+          "B": "Size alone does not separate benign from malignant; benign tumors can grow large and carcinomas can be small.",
+          "C": "A thin fibrous capsule suggests a benign, expansile growth, like the fibroadenoma on the left.",
+          "D": "Cut-surface color reflects tissue composition such as fat or necrosis and is not a reliable indicator of malignancy."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-223_pa42_f70.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-227",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "A breast biopsy is shown on H&E (left) with an immunostain (right); residual normal ducts stain brown while the circled tumor cells do not. Loss of which protein explains this tumor's growth pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "E-cadherin"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen receptor"
+        },
+        {
+          "label": "C",
+          "text": "HER2"
+        },
+        {
+          "label": "D",
+          "text": "Laminin receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Invasive lobular carcinoma downregulates E-cadherin, so cells separate easily and infiltrate in single file. The immunostain shows lack of E-cadherin (no brown staining) in the tumor cells, while residual normal ducts retain staining.",
+        "whyCorrect": "Invasive lobular carcinoma downregulates E-cadherin, so cells separate easily and infiltrate in single file. The immunostain shows lack of E-cadherin (no brown staining) in the tumor cells, while residual normal ducts retain staining.",
+        "whyWrongByChoice": {
+          "B": "Estrogen receptor is a nuclear hormone receptor, and invasive lobular carcinoma is usually ER-positive; ER loss does not cause single-file discohesion.",
+          "C": "HER2 is a membrane growth-factor receptor that is overexpressed, not lost, in some breast cancers, and it does not govern cell-cell adhesion.",
+          "D": "Laminin receptors are increased, not lost, in invasive tumor cells, helping them attach to basement membrane during invasion."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-227_pa42_f74.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-228",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "This section shows tumor cells at the arrows. Which primary tumor most typically spreads by the route demonstrated here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breast carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Choriocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Renal cell carcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carcinomas are associated with lymphatic spread, and breast cancer is the lecture's example (upper outer quadrant tumors drain first to axillary nodes). Renal cell, choriocarcinoma, hepatocellular, and follicular thyroid carcinomas are the four carcinomas known for hematogenous spread.",
+        "whyCorrect": "Carcinomas are associated with lymphatic spread, and breast cancer is the lecture's example (upper outer quadrant tumors drain first to axillary nodes). Renal cell, choriocarcinoma, hepatocellular, and follicular thyroid carcinomas are the four carcinomas known for hematogenous spread.",
+        "whyWrongByChoice": {
+          "B": "Choriocarcinoma invades blood vessels early and spreads hematogenously to the lungs.",
+          "C": "Hepatocellular carcinoma tends to invade the portal and hepatic veins and spreads hematogenously.",
+          "D": "Renal cell carcinoma classically spreads hematogenously, often invading the renal vein, rather than via lymphatics."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-228_pa42_f75.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-230",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "This resected specimen is from a patient with a pelvic primary malignancy. Which route of tumor spread produced the pattern shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematogenous arterial spread"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous venous spread"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic spread to nodes"
+        },
+        {
+          "label": "D",
+          "text": "Seeding of a body cavity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Seeding requires an open space such as the peritoneal cavity, pleural cavity, subarachnoid space, or joint cavities. Ovarian carcinoma is the classic example, seeding the peritoneal cavity and omentum.",
+        "whyCorrect": "Seeding requires an open space such as the peritoneal cavity, pleural cavity, subarachnoid space, or joint cavities. Ovarian carcinoma is the classic example, seeding the peritoneal cavity and omentum.",
+        "whyWrongByChoice": {
+          "A": "Arterial hematogenous spread is uncommon and deposits tumor within distant organs, not across the peritoneal surfaces.",
+          "B": "Hematogenous venous spread seeds organs at the first capillary bed, such as liver and lung, producing parenchymal nodules rather than serosal studding.",
+          "C": "Lymphatic spread produces tumor deposits within regional lymph nodes, not innumerable nodules studding the omental surface."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-230_pa42_f77.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
     }
   ]
 }

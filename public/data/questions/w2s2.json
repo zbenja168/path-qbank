@@ -578,6 +578,300 @@
       "hy": true
     },
     {
+      "id": "papic-203",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Gross lung (A) and a microscopic section (B) from a patient with bronchopneumonia. The yellow nodules (arrows) correspond to the lesion shown in B. Which lesion is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abscess"
+        },
+        {
+          "label": "B",
+          "text": "Caseating granuloma"
+        },
+        {
+          "label": "C",
+          "text": "Gumma"
+        },
+        {
+          "label": "D",
+          "text": "Infarct"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An abscess is a localized collection of purulence (liquefactive necrosis of dead and dying neutrophils and debris) with a surrounding wall of connective tissue that attempts to wall off the infection. It is the classic lesion of suppurative inflammation caused by pyogenic bacteria such as staphylococci.",
+        "whyCorrect": "An abscess is a localized collection of purulence (liquefactive necrosis of dead and dying neutrophils and debris) with a surrounding wall of connective tissue that attempts to wall off the infection. It is the classic lesion of suppurative inflammation caused by pyogenic bacteria such as staphylococci.",
+        "whyWrongByChoice": {
+          "B": "A caseating granuloma has central cheesy necrosis rimmed by epithelioid macrophages and giant cells, not degenerating neutrophils.",
+          "C": "A gumma is the granulomatous lesion of tertiary syphilis with rubbery central necrosis, not a neutrophil-rich collection in bronchopneumonia.",
+          "D": "An infarct is ischemic coagulative necrosis, typically wedge-shaped and hemorrhagic in the lung, without a central pool of neutrophils."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-203_pa41_f50.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-204",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A silver stain of a tissue biopsy highlights the black organisms shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The spiral (corkscrew) morphology seen black on silver stain is characteristic of the spirochete Treponema pallidum, the cause of syphilis. Primary and secondary syphilis produce perivascular lymphoplasmacytic inflammation; tertiary syphilis becomes granulomatous (gummas).",
+        "whyCorrect": "The spiral (corkscrew) morphology seen black on silver stain is characteristic of the spirochete Treponema pallidum, the cause of syphilis. Primary and secondary syphilis produce perivascular lymphoplasmacytic inflammation; tertiary syphilis becomes granulomatous (gummas).",
+        "whyWrongByChoice": {
+          "A": "Herpes simplex virus is too small to see by light microscopy; it is recognized by multinucleated cells with nuclear molding and margination.",
+          "B": "Mycobacterium tuberculosis is a thin, straight rod seen red on acid-fast stain, not a corkscrew on silver stain.",
+          "C": "Staphylococcus aureus is a gram-positive coccus in grape-like clusters, not a spiral organism."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-204_pa41_f51.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-207",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Lung and hilar lymph node (left) from a patient with the lesions marked by arrows, with microscopic sections (A-C) and a special stain (D). Which property of the organism seen in D allows it to retain this stain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipopolysaccharide outer membrane"
+        },
+        {
+          "label": "B",
+          "text": "Mycolic acid in a waxy cell wall"
+        },
+        {
+          "label": "C",
+          "text": "Polysaccharide capsule"
+        },
+        {
+          "label": "D",
+          "text": "Thick peptidoglycan cell wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "These are caseating granulomas of tuberculosis. M. tuberculosis has a waxy cell wall containing mycolic acid, which lets it retain stain after acid-alcohol treatment - hence 'acid-fast'. An AFB stain (panel D) is used to look for mycobacteria in a granuloma.",
+        "whyCorrect": "These are caseating granulomas of tuberculosis. M. tuberculosis has a waxy cell wall containing mycolic acid, which lets it retain stain after acid-alcohol treatment - hence 'acid-fast'. An AFB stain (panel D) is used to look for mycobacteria in a granuloma.",
+        "whyWrongByChoice": {
+          "A": "Lipopolysaccharide outer membranes are a feature of gram-negative bacteria and do not make an organism acid-fast.",
+          "C": "Capsules are highlighted by India ink or mucicarmine, as in Cryptococcus, and do not explain acid-fastness.",
+          "D": "A thick peptidoglycan wall is what lets gram-positive bacteria retain crystal violet in a Gram stain, not carbol fuchsin after acid-alcohol."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-207_pa41_f54.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-210",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Biopsy of vulvar epithelium. The arrows mark abnormal epithelial cells. Which agent most likely caused these changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "B",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "C",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of herpes simplex virus infection. Cytopathic-cytoproliferative reactions are caused by viruses replicating inside cells; HPV instead causes proliferation (verrucous warts).",
+        "whyCorrect": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of herpes simplex virus infection. Cytopathic-cytoproliferative reactions are caused by viruses replicating inside cells; HPV instead causes proliferation (verrucous warts).",
+        "whyWrongByChoice": {
+          "B": "HPV produces koilocytes, with wrinkled nuclei and perinuclear halos, and causes epithelial proliferation rather than multinucleated cells.",
+          "C": "Mycobacterium tuberculosis causes caseating granulomas with Langhans giant cells, which do not show molded, marginated nuclei.",
+          "D": "Treponema pallidum causes perivascular plasma-cell-rich inflammation, not multinucleated epithelial cells with nuclear molding."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-210_pa41_f57.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-211",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A young woman has the facial rash shown. Which laboratory finding best supports the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-collagen type IV antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Anti-SS-A (Ro)/SS-B (La) antibodies"
+        },
+        {
+          "label": "D",
+          "text": "PR3-ANCA (c-ANCA) positivity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A butterfly-shaped malar rash over the cheeks and nasal bridge, sparing the nasolabial folds, indicates systemic lupus erythematosus. ANA plus anti-dsDNA or anti-Smith antibodies are present in SLE. PR3-ANCA = GPA, anti-collagen IV = Goodpasture, SS-A/SS-B = Sjogren.",
+        "whyCorrect": "A butterfly-shaped malar rash over the cheeks and nasal bridge, sparing the nasolabial folds, indicates systemic lupus erythematosus. ANA plus anti-dsDNA or anti-Smith antibodies are present in SLE. PR3-ANCA = GPA, anti-collagen IV = Goodpasture, SS-A/SS-B = Sjogren.",
+        "whyWrongByChoice": {
+          "A": "Anti-type IV collagen antibodies mark Goodpasture syndrome, presenting with hemoptysis and glomerulonephritis, not a malar rash.",
+          "C": "SS-A and SS-B antibodies are typical of Sjogren disease with dry eyes and mouth; anti-Ro can appear in lupus but is not the most specific marker.",
+          "D": "PR3-ANCA marks granulomatosis with polyangiitis, which affects sinuses, lungs and kidneys rather than causing a butterfly rash."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-211_pa41_f58.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-216",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A 5-year-old boy has joint pains and the rash shown over the backs of his legs. Which mechanism underlies this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-basement membrane antibody binding"
+        },
+        {
+          "label": "B",
+          "text": "IgA-dominant immune complex deposition"
+        },
+        {
+          "label": "C",
+          "text": "PR3-ANCA activation of neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Th1 cytokine-driven granuloma formation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Henoch-Schonlein purpura (IgA vasculitis) is a childhood syndrome (ages 3-8) of purpuric skin lesions on extensor surfaces and buttocks, abdominal pain/GI bleeding, arthralgias and renal abnormalities. Like SLE, it is due to immune complex deposition, usually IgA +/- IgG and C3.",
+        "whyCorrect": "Henoch-Schonlein purpura (IgA vasculitis) is a childhood syndrome (ages 3-8) of purpuric skin lesions on extensor surfaces and buttocks, abdominal pain/GI bleeding, arthralgias and renal abnormalities. Like SLE, it is due to immune complex deposition, usually IgA +/- IgG and C3.",
+        "whyWrongByChoice": {
+          "A": "Anti-basement membrane antibodies cause Goodpasture disease with lung hemorrhage and glomerulonephritis, not a leg rash with arthralgia.",
+          "C": "PR3-ANCA activation drives granulomatosis with polyangiitis in adults with sinus, lung and kidney disease, not a child with purpura and abdominal pain.",
+          "D": "Th1 cytokine-driven granulomas are the mechanism of sarcoidosis and tuberculosis, not of childhood purpura."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-216_pa41_f63.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-220",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "The skin lesions on the anterior lower legs are shown in an acute (left) and a resolving (right) phase. What is the name of this skin finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "B",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "C",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "D",
+          "text": "Palpable purpura"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erythema nodosum refers to red, tender nodules most commonly on the anterior and lateral lower extremities. It is a non-specific finding but is one of the cutaneous manifestations of sarcoidosis.",
+        "whyCorrect": "Erythema nodosum refers to red, tender nodules most commonly on the anterior and lateral lower extremities. It is a non-specific finding but is one of the cutaneous manifestations of sarcoidosis.",
+        "whyWrongByChoice": {
+          "A": "Cellulitis is a spreading, warm, poorly demarcated erythema, usually on one leg with fever, not multiple bilateral tender nodules on the shins.",
+          "B": "Erythema multiforme produces target lesions with dusky centers, often on the extremities, palms and soles after HSV infection or drugs, not tender subcutaneous nodules on the shins.",
+          "D": "Palpable purpura is raised, nonblanching red-purple spots from small-vessel vasculitis, not tender subcutaneous nodules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-220_pa41_f67.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
       "id": "pa22-001",
       "stem": "A 24-year-old man with end-stage renal disease receives a kidney donated by his identical twin brother. Which of the following terms best describes this type of graft?",
       "choices": [
@@ -1150,6 +1444,90 @@
       "topicName": "Diseases of the Immune System: Transplantation",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "papic-089",
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "stem": "Two livers are compared: a donor liver (A) and a normal liver (B). The gross change in liver A is caused by accumulation of what substance within hepatocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid protein"
+        },
+        {
+          "label": "B",
+          "text": "Bile pigment"
+        },
+        {
+          "label": "C",
+          "text": "Iron (hemosiderin)"
+        },
+        {
+          "label": "D",
+          "text": "Triglyceride (fat)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pale, yellowed, enlarged appearance is characteristic of hepatic steatosis, in which triglyceride accumulates in hepatocytes. Significant macrovesicular steatosis is a relative or absolute contraindication to using the liver for transplant.",
+        "whyCorrect": "The pale, yellowed, enlarged appearance is characteristic of hepatic steatosis, in which triglyceride accumulates in hepatocytes. Significant macrovesicular steatosis is a relative or absolute contraindication to using the liver for transplant.",
+        "whyWrongByChoice": {
+          "A": "Amyloid makes the liver firm, waxy and pale gray rather than yellow and greasy.",
+          "B": "Bile pigment accumulation in cholestasis gives a green-yellow discoloration, not a pale, greasy enlarged liver.",
+          "C": "Hemosiderin accumulation turns the liver rusty or dark brown, as in hemochromatosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-089_pa013_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-095",
+      "topicId": "diseases-of-the-immune-system-transplantation",
+      "topicName": "Diseases of the Immune System: Transplantation",
+      "stem": "This small vessel from a donor kidney biopsy shows the wall change marked by arrows. What is this change called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic plaque"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinoid necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Hyaline arteriolosclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Medial calcification"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Deposition of homogeneous eosinophilic protein material in the arteriolar wall is arteriolar hyalinization (hyaline arteriolosclerosis), commonly associated with hypertension and diabetes in donor kidneys.",
+        "whyCorrect": "Deposition of homogeneous eosinophilic protein material in the arteriolar wall is arteriolar hyalinization (hyaline arteriolosclerosis), commonly associated with hypertension and diabetes in donor kidneys.",
+        "whyWrongByChoice": {
+          "A": "Atherosclerotic plaque is an intimal lesion of large and medium arteries with lipid core and foam cells, not a change of small arterioles.",
+          "B": "Fibrinoid necrosis is bright pink smudgy fibrin with inflammation and nuclear debris in malignant hypertension or vasculitis, not quiet glassy hyaline.",
+          "D": "Medial calcification (Monckeberg) shows purple-blue calcium deposits in the media of muscular arteries, not homogeneous pink material."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-095_pa013_f09.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
     },
     {
       "id": "pa23-001",

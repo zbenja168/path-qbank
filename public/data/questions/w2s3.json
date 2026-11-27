@@ -1145,6 +1145,100 @@
       "tier": "core"
     },
     {
+      "id": "papic-039",
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "stem": "MRCP (A) and ERCP (B) studies of the same patient are shown. Which diagnosis is most consistent with these biliary imaging findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Choledocholithiasis"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Primary sclerosing cholangitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
+        "whyCorrect": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune hepatitis is a hepatocellular disease with a normal biliary tree on cholangiography.",
+          "B": "Cholangiocarcinoma typically produces a single dominant stricture or mass, although it can complicate primary sclerosing cholangitis.",
+          "C": "Choledocholithiasis shows filling defects from stones in the common bile duct with upstream dilation, not multifocal beading.",
+          "D": "Primary biliary cholangitis destroys small intrahepatic ducts that are not visible on cholangiography, so imaging is usually normal."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-039_pa016_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-099",
+      "topicId": "infectious-inflammatory-causes-of-jaundice",
+      "topicName": "Infectious/Inflammatory Causes of Jaundice",
+      "stem": "This portal tract from a liver biopsy shows the bile duct lesion pictured. Which condition is indicated by this classic lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascending cholangitis"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic hepatitis C"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Primary sclerosing cholangitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Concentric 'onion-skin' periductal fibrosis progressing to obliteration of the bile duct is the characteristic histology of primary sclerosing cholangitis.",
+        "whyCorrect": "Concentric 'onion-skin' periductal fibrosis progressing to obliteration of the bile duct is the characteristic histology of primary sclerosing cholangitis.",
+        "whyWrongByChoice": {
+          "A": "Ascending cholangitis shows neutrophils within duct lumens and walls from bacterial infection, not concentric fibrosis.",
+          "B": "Autoimmune hepatitis is plasma-cell-rich interface hepatitis that targets hepatocytes, not bile ducts.",
+          "C": "Chronic hepatitis C shows portal lymphoid aggregates and interface activity without concentric periductal fibrosis.",
+          "D": "Primary biliary cholangitis destroys small ducts with lymphocytes and granulomas (florid duct lesion), not onion-skin fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-099_pa016_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
       "id": "pa24-001",
       "stem": "A 29-year-old man has a 2-year history of crampy abdominal pain, diarrhea, and a 7-kg weight loss. Endoscopy with biopsies is performed. The duodenal mucosa shows a villous height-to-crypt ratio of 3:1. A sigmoid colon biopsy shows neutrophils packed within colonic crypts and a nodular aggregate of histiocytes. Which of the following is the most likely diagnosis?",
       "choices": [

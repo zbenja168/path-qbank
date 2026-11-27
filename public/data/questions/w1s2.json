@@ -586,6 +586,90 @@
       "tier": "core"
     },
     {
+      "id": "papic-013",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This H&E field from an aggressive pediatric CNS tumor shows the dark structures indicated by the arrows. What do these structures directly indicate about the tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A high rate of cellular proliferation"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of hemosiderin pigment"
+        },
+        {
+          "label": "C",
+          "text": "Infiltration by inflammatory neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Programmed cell death of tumor cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
+        "whyCorrect": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
+        "whyWrongByChoice": {
+          "B": "Hemosiderin appears as golden-brown granular pigment in macrophages after hemorrhage, not as dark purple condensed chromosome figures.",
+          "C": "Neutrophils have small multilobed nuclei and are scattered inflammatory cells; they do not appear as clumped chromosome figures within tumor cells.",
+          "D": "Apoptotic cells are shrunken, intensely eosinophilic with pyknotic or fragmented nuclei; the arrowed figures are condensed chromosomes of dividing cells."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-013_pa021_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-014",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "Panel A shows normal renal tubule cells; panel B shows the same cells after an early, reversible insult. What reversible change accounts for the appearance in panel B?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptotic body formation"
+        },
+        {
+          "label": "B",
+          "text": "Cellular (hydropic) swelling"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis of the epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Fatty change from lipid accumulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
+        "whyCorrect": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
+        "whyWrongByChoice": {
+          "A": "Apoptotic bodies are shrunken, dense eosinophilic fragments of single cells, the opposite of the enlarged swollen cells seen after early injury.",
+          "C": "Coagulative necrosis is irreversible, with loss of nuclei and hypereosinophilic ghost cells; the stem specifies an early, reversible change.",
+          "D": "Fatty change shows discrete clear lipid vacuoles, typically in hepatocytes; the tubular cells here are diffusely swollen with pale cytoplasm from water influx."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-014_pa021_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
       "id": "pa04-001",
       "stem": "A 58-year-old man collapses with crushing substernal chest pain and dies before reaching the hospital. At autopsy, a firm, pale, wedge-shaped area is seen in the left ventricular wall. On microscopy the myocytes in this region retain their cellular outlines but have lost their nuclei, and the underlying tissue architecture is preserved. Which pattern of necrosis is most consistent with these findings?",
       "choices": [
@@ -1172,6 +1256,53 @@
       "hy": true
     },
     {
+      "id": "papic-125",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "The left gross panel shows a lesion in a solid organ and the right panel shows its microscopic appearance. This pattern of necrosis is most typical of which underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pancreatic enzyme release"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial pyogenic infection"
+        },
+        {
+          "label": "D",
+          "text": "Ischemia outside the CNS"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous granulomatous infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
+        "whyCorrect": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
+        "whyWrongByChoice": {
+          "A": "Pancreatic enzyme release causes fat necrosis with chalky saponification, not a wedge-shaped coagulative infarct.",
+          "B": "Autoimmune vasculitis produces fibrinoid necrosis of vessel walls, not a pale wedge-shaped infarct with ghost cell outlines.",
+          "C": "Pyogenic bacterial infection causes liquefactive necrosis with abscess formation, destroying rather than preserving tissue outlines.",
+          "E": "Tuberculosis causes caseous necrosis, which is cheesy and amorphous with loss of tissue architecture."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-125_pa029_f08.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
       "id": "pa05-001",
       "stem": "A pathologist examines tissue and organs that were removed from patients during operative procedures, evaluating them under the microscope to diagnose disease and guide treatment selection. This work is the primary domain of which subspecialty of anatomic pathology?",
       "choices": [
@@ -1741,6 +1872,100 @@
       "topicName": "Introduction to Anatomic Pathology for Patient Care",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "papic-048",
+      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "stem": "This special stain was performed on a tissue section. What is this stain used to detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acid-fast bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "C",
+          "text": "Collagen and fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Fungal organisms"
+        },
+        {
+          "label": "E",
+          "text": "Iron (hemosiderin)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyCorrect": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyWrongByChoice": {
+          "A": "Acid-fast bacteria are detected with Ziehl-Neelsen, which stains thin rods red, not hyphae and yeast black.",
+          "B": "Amyloid is detected with Congo red, which shows apple-green birefringence, not silver-blackened hyphae.",
+          "C": "Collagen and fibrosis are highlighted with trichrome (blue or green), not silver deposited on organisms.",
+          "E": "Iron is detected with Prussian blue, which stains hemosiderin blue."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-048_pa030_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-050",
+      "topicId": "introduction-to-anatomic-pathology-for-patient-care",
+      "topicName": "Introduction to Anatomic Pathology for Patient Care",
+      "stem": "On this cervical Pap smear, how should the cluster of cells at the upper left be interpreted, compared with the large cell at the lower right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial colonization"
+        },
+        {
+          "label": "B",
+          "text": "Degenerated inflammatory debris"
+        },
+        {
+          "label": "C",
+          "text": "Normal mature squamous cells"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cell contamination"
+        },
+        {
+          "label": "E",
+          "text": "Worrisome, potentially pre-malignant cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyCorrect": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyWrongByChoice": {
+          "A": "Bacteria appear as tiny specks or coccobacilli coating cells (clue cells), not as cells with enlarged nuclei.",
+          "B": "Degenerated debris lacks the intact, enlarged, hyperchromatic nuclei that characterize dysplastic squamous cells.",
+          "C": "Normal mature squamous cells are large with abundant cytoplasm and small nuclei, like the cell at lower right, not the high N:C cells.",
+          "D": "Red blood cells are small anucleate discs; the small cells here have prominent nuclei."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-050_pa030_f10.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
     }
   ]
 }

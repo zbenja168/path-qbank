@@ -8,21 +8,21 @@
           "id": "histology-of-muscle-and-nervous-tissue",
           "name": "Histology of Muscle and Nervous Tissue",
           "sourceFile": "Path Brick 38",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 11
         },
         {
           "id": "introduction-to-histology-and-histology-of-connective-tissue",
           "name": "Introduction to Histology and Histology of Connective Tissue",
           "sourceFile": "Path Brick 37",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 12
         },
         {
           "id": "histology-of-epithelial-tissue-1-of-2",
@@ -38,11 +38,11 @@
           "id": "histology-of-epithelial-tissue-2-of-2",
           "name": "Histology of Epithelial Tissue (2 of 2)",
           "sourceFile": "Path Brick 40",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 10
         }
       ],
       "week": 1,
@@ -57,31 +57,31 @@
           "id": "introduction-to-pathology-cell-injury-and-adaptation",
           "name": "Introduction to Pathology, Cell Injury, and Adaptation",
           "sourceFile": "Path Brick 3",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 11
         },
         {
           "id": "cell-death-apoptosis-and-necrosis",
           "name": "Cell Death: Apoptosis and Necrosis",
           "sourceFile": "Path Brick 4",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 12
         },
         {
           "id": "introduction-to-anatomic-pathology-for-patient-care",
           "name": "Introduction to Anatomic Pathology for Patient Care",
           "sourceFile": "Path Brick 5",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 7
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 9
         }
       ],
       "week": 1,
@@ -96,11 +96,11 @@
           "id": "autopsy",
           "name": "Autopsy",
           "sourceFile": "Path Brick 11",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 10,
-          "hyCoreCount": 9
+          "questionCount": 37,
+          "hyCount": 11,
+          "hyCoreCount": 10
         },
         {
           "id": "environmental-disease-chemicals-and-substances",
@@ -135,11 +135,11 @@
           "id": "acute-inflammation-part-1",
           "name": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
           "sourceFile": "Path Brick 6",
-          "coreCount": 12,
+          "coreCount": 16,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 40,
+          "hyCount": 16,
+          "hyCoreCount": 14
         },
         {
           "id": "chronic-inflammation-part-2",
@@ -174,21 +174,21 @@
           "id": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
           "name": "Pathologic Manifestations of Infectious and Immune-related Diseases",
           "sourceFile": "Path Brick 41",
-          "coreCount": 12,
+          "coreCount": 19,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 43,
+          "hyCount": 19,
+          "hyCoreCount": 18
         },
         {
           "id": "diseases-of-the-immune-system-transplantation",
           "name": "Diseases of the Immune System: Transplantation",
           "sourceFile": "Path Brick 22",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 12
         },
         {
           "id": "transplant-rejection",
@@ -223,11 +223,11 @@
           "id": "infectious-inflammatory-causes-of-jaundice",
           "name": "Infectious/Inflammatory Causes of Jaundice",
           "sourceFile": "Path Brick 25",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 10
         },
         {
           "id": "immune-related-and-infectious-causes-of-diarrhea",
@@ -252,21 +252,21 @@
           "id": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
           "name": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
           "sourceFile": "Path Brick 28",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 11,
-          "hyCoreCount": 7
+          "questionCount": 37,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "molecular-basis-of-neoplasia-part-2",
           "name": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
           "sourceFile": "Path Brick 29",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         },
         {
           "id": "introduction-to-neoplasia",
@@ -291,41 +291,41 @@
           "id": "pathogen-associated-neoplasms",
           "name": "Pathogen-associated Neoplasms",
           "sourceFile": "Path Brick 34",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 14
         },
         {
           "id": "hallmarks-of-neoplasia-genomic-instability",
           "name": "Hallmarks of Neoplasia: Genomic Instability",
           "sourceFile": "Path Brick 31",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 10
         },
         {
           "id": "paraneoplastic-syndromes",
           "name": "Paraneoplastic Syndromes",
           "sourceFile": "Path Brick 32",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 12
         },
         {
           "id": "epidemiology-of-cancer",
           "name": "Epidemiology of Cancer",
           "sourceFile": "Path Brick 33",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 5
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 6
         }
       ],
       "week": 3,
@@ -350,54 +350,15 @@
           "id": "cancer-growth-metastasis-and-medications-overview",
           "name": "Cancer Growth, Metastasis, and Medications Overview",
           "sourceFile": "Path Brick 42",
-          "coreCount": 12,
+          "coreCount": 16,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 40,
+          "hyCount": 16,
+          "hyCoreCount": 13
         }
       ],
       "week": 3,
       "weekName": "Week 3",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "pictures",
-      "name": "Pictures by week",
-      "topics": [
-        {
-          "id": "pictures-w1",
-          "name": "Week 1 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12,
-          "hyCount": 12,
-          "hyCoreCount": 12
-        },
-        {
-          "id": "pictures-w2",
-          "name": "Week 2 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 15,
-          "extraCount": 0,
-          "questionCount": 15,
-          "hyCount": 15,
-          "hyCoreCount": 15
-        },
-        {
-          "id": "pictures-w3",
-          "name": "Week 3 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 13,
-          "extraCount": 0,
-          "questionCount": 13,
-          "hyCount": 13,
-          "hyCoreCount": 13
-        }
-      ],
-      "week": 4,
-      "weekName": "Picture questions",
       "weekSubtitle": ""
     }
   ],

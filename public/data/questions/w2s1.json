@@ -577,6 +577,194 @@
       "hy": true
     },
     {
+      "id": "papic-026",
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "stem": "This micrograph contrasts two principal cells of inflammation. Approximately when does the cell shown at right become the predominant cell at a site of acute injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2-3 weeks after injury"
+        },
+        {
+          "label": "B",
+          "text": "48-72 hours after injury"
+        },
+        {
+          "label": "C",
+          "text": "6-12 hours after injury"
+        },
+        {
+          "label": "D",
+          "text": "At the moment of injury"
+        },
+        {
+          "label": "E",
+          "text": "Within the first few minutes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The cell at right is a tissue macrophage (large cell with abundant vacuolated cytoplasm); the cell at left is a neutrophil. Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell roughly 48-72 hours after injury.",
+        "whyCorrect": "The cell at right is a tissue macrophage (large cell with abundant vacuolated cytoplasm); the cell at left is a neutrophil. Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell roughly 48-72 hours after injury.",
+        "whyWrongByChoice": {
+          "A": "By 2-3 weeks inflammation has generally shifted to repair with granulation tissue and scar, well after macrophages first predominate.",
+          "C": "At 6-12 hours neutrophils are arriving and rising toward their 24-hour peak; macrophages have not yet taken over.",
+          "D": "At the moment of injury no leukocytes have emigrated yet; macrophages take 2-3 days to predominate.",
+          "E": "In the first minutes, vascular changes such as vasodilation and increased permeability dominate before significant leukocyte emigration."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-026_pa031_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-132",
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "stem": "This skin section shows a blister, with the epidermis separated from the underlying dermis. Which morphologic pattern of inflammation is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Suppurative (purulent) inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative inflammation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
+        "whyCorrect": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
+        "whyWrongByChoice": {
+          "A": "Fibrinous inflammation deposits eosinophilic fibrin meshwork on serosal surfaces, not watery fluid in a blister.",
+          "B": "Granulomatous inflammation is a collection of epithelioid macrophages and giant cells, not a fluid-filled space.",
+          "D": "Suppurative inflammation forms pus rich in neutrophils, not clear, cell-poor watery fluid.",
+          "E": "Ulcerative inflammation is loss of the epithelial surface; here the epidermis is intact but lifted off."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-132_pa031_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-133",
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "stem": "Panel A shows the epicardial surface of this heart at autopsy, and panel B shows a section through the pericardial surface. Which type of inflammatory exudate is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseous exudate"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinous exudate"
+        },
+        {
+          "label": "C",
+          "text": "Hemorrhagic exudate"
+        },
+        {
+          "label": "D",
+          "text": "Purulent (suppurative) exudate"
+        },
+        {
+          "label": "E",
+          "text": "Serous exudate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
+        "whyCorrect": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
+        "whyWrongByChoice": {
+          "A": "Caseous material is cheesy necrotic debris of granulomas, as in tuberculosis, not a fibrin layer on the pericardium.",
+          "C": "A hemorrhagic exudate is dominated by red cells and appears blood-red, not as a shaggy pink fibrin meshwork.",
+          "D": "Purulent exudate is creamy pus full of neutrophils rather than a strand-like fibrin coating.",
+          "E": "Serous exudate is thin, clear fluid with little protein, which cannot produce a shaggy bread-and-butter surface."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-133_pa031_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-134",
+      "topicId": "acute-inflammation-part-1",
+      "topicName": "The Inflammatory Response: Acute Inflammation (Part 1 of 2)",
+      "stem": "This gross specimen (left) and low-power section (right) are from the duodenum. Which morphologic pattern of inflammation is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomembranous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Suppurative inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative inflammation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
+        "whyCorrect": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
+        "whyWrongByChoice": {
+          "A": "Fibrinous inflammation coats an intact serosal surface with fibrin rather than creating a crater through the mucosa.",
+          "B": "Pseudomembranous inflammation forms adherent plaques of fibrin, mucus and debris on the surface (e.g., C. difficile colitis), not a deep crater.",
+          "C": "Serous inflammation is accumulation of thin watery fluid, as in a blister, without a tissue defect.",
+          "D": "Suppurative inflammation forms collections of pus such as abscesses, not a punched-out mucosal crater."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-134_pa031_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
       "id": "pa07-001",
       "stem": "A 58-year-old man with a 20-year history of poorly controlled rheumatoid arthritis undergoes synovial biopsy of a chronically swollen knee. The pathologist notes that the process has been ongoing for years rather than days. Which of the following morphologic features is most characteristic of chronic, rather than acute, inflammation?",
       "choices": [

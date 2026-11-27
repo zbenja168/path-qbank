@@ -585,6 +585,53 @@
       "tier": "core"
     },
     {
+      "id": "papic-107",
+      "topicId": "molecular-basis-of-neoplasia-oncogenes-tumor-suppressors",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 1 of 2)",
+      "stem": "The left panel shows a skin lesion on the back of an older adult and the right panel shows its histology. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basal cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Dermatofibroma"
+        },
+        {
+          "label": "C",
+          "text": "Melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic keratosis"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cutaneous melanoma arises from transformed melanocytes, which produce brown melanin pigment visible histologically; activating BRAF (V600E) mutations are a common oncogenic driver and therapeutic target.",
+        "whyCorrect": "Cutaneous melanoma arises from transformed melanocytes, which produce brown melanin pigment visible histologically; activating BRAF (V600E) mutations are a common oncogenic driver and therapeutic target.",
+        "whyWrongByChoice": {
+          "A": "Basal cell carcinoma has basaloid nests with peripheral palisading; it is driven by hedgehog pathway (PTCH) mutations rather than BRAF.",
+          "B": "Dermatofibroma is a benign dermal fibrohistiocytic nodule that dimples when pinched; it is not BRAF-driven.",
+          "D": "Seborrheic keratosis is a benign stuck-on proliferation of basaloid keratinocytes with horn cysts, not a malignant melanocytic neoplasm.",
+          "E": "Squamous cell carcinoma comes from keratinocytes, with keratin pearls and intercellular bridges; it is not pigment-producing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-107_pa019_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
       "id": "pa29-001",
       "stem": "A healthy newborn is found to carry a germline mutation that inactivates one copy of a tumor suppressor gene. His cells currently divide and function normally, and he has no tumors. Which of the following best explains why his cells remain phenotypically normal at this time?",
       "choices": [
@@ -1157,6 +1204,53 @@
       "topicId": "molecular-basis-of-neoplasia-part-2",
       "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
       "tier": "core"
+    },
+    {
+      "id": "papic-012",
+      "topicId": "molecular-basis-of-neoplasia-part-2",
+      "topicName": "Molecular Basis of Neoplasia: Oncogenes, Tumor Suppressor Genes, and Neoplastic Progression (Part 2 of 2)",
+      "stem": "A tumor removed from a young child shows the two rosette patterns pictured. Which tumor classically shows both of these rosette types?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colonic adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous neurofibroma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Osteosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Retinoblastoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Homer Wright rosettes (radial cells around a fibrillar center) and Flexner-Wintersteiner rosettes (cells around a true lumen) are both characteristic histologic features of retinoblastoma.",
+        "whyCorrect": "Homer Wright rosettes (radial cells around a fibrillar center) and Flexner-Wintersteiner rosettes (cells around a true lumen) are both characteristic histologic features of retinoblastoma.",
+        "whyWrongByChoice": {
+          "A": "Colonic adenocarcinoma forms glands of columnar cells with dirty necrosis, an adult tumor without rosettes.",
+          "B": "Neurofibromas are benign spindle-cell nerve sheath tumors of wavy cells, without rosettes.",
+          "C": "Hepatocellular carcinoma forms trabeculae and pseudoglands of polygonal hepatocyte-like cells, not neural or retinal rosettes.",
+          "D": "Osteosarcoma is identified by malignant cells producing osteoid, not rosette formation."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-012_pa020_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
     },
     {
       "id": "pa26-001",

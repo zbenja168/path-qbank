@@ -564,6 +564,53 @@
       "hy": true
     },
     {
+      "id": "papic-053",
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "stem": "This gross cross-section of liver was obtained at autopsy from a patient with long-standing alcohol use. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic passive hepatic congestion"
+        },
+        {
+          "label": "B",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic amyloidosis"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic steatosis (fatty liver)"
+        },
+        {
+          "label": "E",
+          "text": "Hepatocellular carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The uniform micro/macronodular architecture with intervening fibrous bands in a liver from a chronic alcohol user is characteristic of cirrhosis, the end-stage of diffuse hepatic fibrosis and regenerative nodule formation.",
+        "whyCorrect": "The uniform micro/macronodular architecture with intervening fibrous bands in a liver from a chronic alcohol user is characteristic of cirrhosis, the end-stage of diffuse hepatic fibrosis and regenerative nodule formation.",
+        "whyWrongByChoice": {
+          "A": "Chronic passive congestion gives a nutmeg pattern of dark centrilobular areas, not diffuse nodules with fibrous bands.",
+          "C": "Amyloidosis produces an enlarged, firm, waxy pale liver without regenerative nodules.",
+          "D": "Steatosis makes the liver enlarged, yellow, soft and greasy with a smooth surface, not firm and nodular.",
+          "E": "Hepatocellular carcinoma forms a dominant mass or masses, often arising in cirrhosis, rather than uniform diffuse nodularity."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-053_pa002_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
       "id": "pa09-001",
       "stem": "A 44-year-old man who works in a wood-preservation and pesticide facility presents with several weeks of abdominal cramping, diarrhea, and tingling and numbness in his hands and feet. On examination his breath has a garlic-like odor, and transverse white bands are noted across several fingernails. Which of the following toxins is most likely responsible for his presentation?",
       "choices": [

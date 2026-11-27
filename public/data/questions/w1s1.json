@@ -573,6 +573,90 @@
       "tier": "core"
     },
     {
+      "id": "papic-178",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "Identify the muscle tissue shown in this H&E-stained section (N, I, and S mark features of the cells).",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac muscle"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral nerve"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Smooth muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cells are striated (S) with centrally placed nuclei (N) and dark transverse lines (I), the intercalated discs. Intercalated discs are unique to cardiac muscle. Skeletal muscle has many peripheral nuclei and no intercalated discs, and smooth muscle is not striated.",
+        "whyCorrect": "The cells are striated (S) with centrally placed nuclei (N) and dark transverse lines (I), the intercalated discs. Intercalated discs are unique to cardiac muscle. Skeletal muscle has many peripheral nuclei and no intercalated discs, and smooth muscle is not striated.",
+        "whyWrongByChoice": {
+          "B": "Peripheral nerve shows wavy fibers with Schwann cell nuclei and no cross-striations or intercalated discs.",
+          "C": "Skeletal muscle is striated but has many peripheral nuclei per fiber and lacks intercalated discs.",
+          "D": "Smooth muscle cells are spindle-shaped with central nuclei but lack striations and intercalated discs."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-178_pa38_f25.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-185",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "What is the deep purple, granular material in the cytoplasm of the large central cell made of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glial fibrillary acidic protein"
+        },
+        {
+          "label": "B",
+          "text": "Golgi apparatus stacks"
+        },
+        {
+          "label": "C",
+          "text": "Rough endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "Smooth endoplasmic reticulum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The neuron cell body has a single nucleus with a prominent nucleolus. Its cytoplasm contains abundant rough ER that stains deep purple and granular, called Nissl substance. The axon hillock is pale because it lacks Nissl substance.",
+        "whyCorrect": "The neuron cell body has a single nucleus with a prominent nucleolus. Its cytoplasm contains abundant rough ER that stains deep purple and granular, called Nissl substance. The axon hillock is pale because it lacks Nissl substance.",
+        "whyWrongByChoice": {
+          "A": "GFAP is an intermediate filament of astrocytes, not neurons, and it does not appear as purple granular material in H&E.",
+          "B": "The Golgi apparatus appears as a pale area near the nucleus, not as coarse basophilic granules throughout the cytoplasm.",
+          "D": "Smooth ER lacks ribosomes and is not basophilic, so it does not stain deep purple and granular."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-185_pa38_f32.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
       "id": "pa37-001",
       "stem": "A pathology resident reviews an H&E-stained section and notices a cell whose cytoplasm is packed with ribosomes; the cytoplasm stains deep blue-purple rather than pink. Which of the following best explains this staining pattern?",
       "choices": [
@@ -1145,6 +1229,90 @@
       "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
       "topicName": "Introduction to Histology and Histology of Connective Tissue",
       "tier": "core"
+    },
+    {
+      "id": "papic-165",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This section of skin and the tissues beneath it was stained with a special stain: muscle and cytoplasm are red, and the extracellular fibers of the dermis and fascia are blue. Which stain was used, and what do the blue fibers represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congo red; amyloid deposits"
+        },
+        {
+          "label": "B",
+          "text": "Masson trichrome; collagen fibers"
+        },
+        {
+          "label": "C",
+          "text": "Periodic acid-Schiff; glycogen and mucin"
+        },
+        {
+          "label": "D",
+          "text": "Prussian blue; iron deposits"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Masson trichrome gives a multicolor result: muscle and cytoplasm stain red and collagen stains blue. It is the stain used to highlight fibrosis (for example in liver and kidney biopsies).",
+        "whyCorrect": "Masson trichrome stains collagen fibers blue while muscle and cytoplasm stain red, as in this skin and muscle section. Congo red stains amyloid orange-red, PAS stains carbohydrates magenta, and Prussian blue stains iron blue within cells, not as extracellular fibers alongside red muscle.",
+        "whyWrongByChoice": {
+          "A": "Congo red stains amyloid orange-red with apple-green birefringence under polarized light; it does not color collagen blue and muscle red.",
+          "C": "PAS stains glycogen, mucin and basement membranes magenta; it does not give the blue collagen and red muscle pattern of a trichrome.",
+          "D": "Prussian blue stains hemosiderin iron as blue granules, mostly inside macrophages, not a blue extracellular fibrous matrix beside red-staining muscle."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-165_pa37_f12.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-167",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "A special stain was applied to this aspirate smear. What does the material highlighted within the large cell represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "B",
+          "text": "Collagen fibers"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen stores"
+        },
+        {
+          "label": "D",
+          "text": "Iron deposits"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Prussian blue highlights iron deposits as a bright blue pigment, so it is the stain of choice for finding iron in a tissue or smear.",
+        "whyCorrect": "Prussian blue highlights iron deposits as a bright blue pigment, so it is the stain of choice for finding iron in a tissue or smear.",
+        "whyWrongByChoice": {
+          "A": "Amyloid is detected with Congo red, which stains it salmon-pink and shows apple-green birefringence.",
+          "B": "Collagen fibers stain blue on Masson trichrome, but they are extracellular fibers, not cytoplasmic pigment in a cell on a smear.",
+          "C": "Glycogen is detected with PAS staining, which colors it magenta and is removed by diastase, not bright blue."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-167_pa37_f14.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
     },
     {
       "id": "pa39-001",
@@ -2294,6 +2462,90 @@
       "topicName": "Histology of Epithelial Tissue (2 of 2)",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "papic-195",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "In this section of colonic mucosa, what are the pale, rounded cells marked by the red arrows?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adipocytes"
+        },
+        {
+          "label": "B",
+          "text": "Goblet cells"
+        },
+        {
+          "label": "C",
+          "text": "Paneth cells"
+        },
+        {
+          "label": "D",
+          "text": "Serous cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "These are goblet cells, which are unicellular exocrine glands named for their wine-glass shape. They are scattered among the columnar cells lining the intestinal and respiratory tracts and release their product (mucus) by exocytosis. Their mucin-filled cytoplasm looks pale on H&E.",
+        "whyCorrect": "These are goblet cells, which are unicellular exocrine glands named for their wine-glass shape. They are scattered among the columnar cells lining the intestinal and respiratory tracts and release their product (mucus) by exocytosis. Their mucin-filled cytoplasm looks pale on H&E.",
+        "whyWrongByChoice": {
+          "A": "Adipocytes lie in connective tissue, not among columnar epithelial cells in the colonic mucosa, and they are larger with a single fat vacuole.",
+          "C": "Paneth cells sit at the base of small-intestinal crypts and have bright red eosinophilic granules, not pale cytoplasm.",
+          "D": "Serous cells have basophilic, granular cytoplasm from abundant RER and zymogen granules, not pale mucin-filled cytoplasm."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-195_pa40_f42.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
+    },
+    {
+      "id": "papic-198",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "Identify the glands labeled S in this skin section (H = hair shaft, D = ducts). By which mode do these glands release their product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apocrine secretion"
+        },
+        {
+          "label": "B",
+          "text": "Endocrine secretion"
+        },
+        {
+          "label": "C",
+          "text": "Holocrine secretion"
+        },
+        {
+          "label": "D",
+          "text": "Merocrine secretion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "S marks sebaceous glands, which sit beside hair follicles and drain into them through short ducts. They are the classic holocrine glands: their cells accumulate lipid-rich sebum until the whole cell breaks apart and becomes the secretion.",
+        "whyCorrect": "Sebaceous glands secrete by the holocrine mode, in which the entire cell disintegrates to form the secretion. Merocrine (eccrine) glands such as eccrine sweat and salivary glands release product by exocytosis, apocrine glands such as the mammary gland pinch off part of the apical cytoplasm, and endocrine glands secrete into blood rather than through ducts.",
+        "whyWrongByChoice": {
+          "A": "Apocrine secretion pinches off part of the apical cytoplasm, as in mammary and apocrine sweat glands, without destroying the whole cell.",
+          "B": "Endocrine secretion releases hormones into the blood without ducts, whereas these glands drain through ducts into hair follicles.",
+          "D": "Merocrine secretion releases product by exocytosis with the cell intact, as in eccrine sweat and salivary glands."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "papic-198_pa40_f45.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "path-picqbank"
     }
   ]
 }
